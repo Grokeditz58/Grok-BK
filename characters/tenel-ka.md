@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 262 (191 with quotations; 152 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 281 (210 with quotations; 171 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2324,6 +2324,169 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: a seaweed pince
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.159).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:40`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka's new turquoise lightsaber uses a rainbow gem of Gallinore taken from her royal tiara.
+> Lightsabers flared into the night, reflecting off the ancient stone walls of the Great Temple. Tenel Ka gripped the carved rancor-tooth handle of her new weapon as its brilliant turquoise beam pulsed through the activating crystal, a precious rainbow gem of Gallinore she had taken from her own royal tiara.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.9).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:11`
+
+What it shows (our notes): One-armed after the accident, Tenel Ka fights with strength and confidence and refuses a prosthetic, relying on her own abilities.
+> During an earlier training accident, Tenel Ka's poorly constructed lightsaber had exploded, and her friend Jacen's lightsaber blade had severed her left arm. Now Tenel Ka lived and fought with only one hand. But she wielded her glowing energy blade with strength and confidence.
+>
+> Although skilled biotechnicians had offered her the best prosthetic arm replacement in the Hapes Cluster, Tenel Ka had turned them down. She prided herself in being herself—relying on her own abilities, her own strength and prowess. She did not want the artificial assistance of a biomechanical limb. Instead, she chose to alter her means of achieving her goal. She was determined to be as strong and as capable as ever before.
+>
+> And when Tenel Ka determined to do something, she usually accomplished it.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.10–11).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:12`
+
+What it shows (our notes): Tionne: Tenel Ka is learning precision over brute strength, anticipating moves through the Force; she senses Tionne's ten years of skill.
+> Tionne countered the warrior girl's stroke. "Very good, Tenel Ka," the teacher said. "You are learning to focus on precision rather than brute strength, to anticipate my moves and your own reactions using the Force."
+>
+> Tenel Ka nodded, and her heavy red-gold braids danced around her head. The beads she had woven into the braids jingled and clacked together. She fought harder, sensing the control and skill of this older Jedi, who had been training for more than ten years now.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.11).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:13`
+
+What it shows (our notes): Tenel Ka senses Lowie's troubled thoughts and his pain.
+> Lowbacca had been very troubled recently, and Tenel Ka could sense many deep thoughts working through his brain. She had decided to honor her Wookiee friend by letting him fight his own battles . . . unless he asked for help. But when she saw the expressions on Chewbacca's and Lowie's faces, Tenel Ka grasped a strange and interesting fact.
+>
+> Tenel Ka looked at her friend, sensing his pain. "Ah. This is why you feel responsible."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1, 2 (p.13–24).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:16`
+
+What it shows (our notes): Tenel Ka learns Anakin's one-handed braiding technique from his hologram, and later plaits her braids herself.
+> The boy's image held the multicolored twine in one hand and threaded the fingers of the other hand through it, neatly separating the colors into individual clumps. Tenel Ka unconsciously lifted her hand to her head and threaded her fingers through some unbraided strands of her red-gold hair.
+>
+> "Ah." Tenel Ka nodded her approval of the logic. "Aha." Experimentally, her fingers began to twine a few strands of hair, following the single-handed technique Anakin had concocted.
+>
+> Tenel Ka accompanied him, looking confident in her freshly polished reptilian armor. She had reworked all of her braids meticulously, brushing her hair out and plaiting it using the new one-handed technique Anakin Solo had developed for her. "We are prepared to depart," she said. "And we are ready to fight as true Jedi Knights."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2, 22 (p.20–214).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:22`
+
+What it shows (our notes): Tenel Ka admits her own fear of facing loss, glancing at her stump.
+> Tenel Ka glanced down at the stump of her severed left arm, then gave Lowie an understanding look. "You fear to face your loss. The loss of Raaba."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.26).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:25`
+
+What it shows (our notes): Tenel Ka's limber one-legged stretch and aerial somersaults during exercises.
+> He flicked his golden eyes around the platform and watched as Jacen did push-ups and Jaina practiced gymnastic tumbles. Tenel Ka, limber as ever, stood on one leg, the other pulled up high behind her, pointing toward the sky.
+>
+> Tenel Ka whirled through Lowie's field of vision, performing aerial somersaults. He felt himself begin to lose his balance, but quickly regained it and began doing vertical pushups.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.62–64).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:52`
+
+What it shows (our notes): Tenel Ka shows no discomfort in the cryogenic cold.
+> Jaina drew a long frigid breath, blinking her eyes. Even with their thick Wookiee fur, Lowie and Sirra shivered, though Tenel Ka in her scanty reptilian armor displayed no sign of discomfort. "Fascinating," she said.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.81).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:11`
+
+What it shows (our notes): Tenel Ka rescues Jacen's Y-wing in the battle game.
+> Little green lances of laser fire shot toward him, but he managed to roll his Y-wing and avoided getting himself blasted. Another Imperial ship clung to his tail, scoring hits and causing increasing damage as it came inexorably closer. Suddenly the pesky TIE fighter erupted in a tiny puff of an explosion with spangles of computer-imaged debris as Tenel Ka brought her Y-wing fighter to the rescue.
+>
+> "It appeared that you needed some help, Jacen," she said.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 11 (p.116).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:39`
+
+What it shows (our notes): Tenel Ka masters the Wookiee-sized quad-laser controls one-handed within seconds and destroys two TIE fighters.
+> A glance to Jacen's left told him that Tenel Ka was in position. Gripping the firing stick with her right hand, she seemed already familiarized with the weapon's control systems. In seconds her eyes began to track the enemy fighters overhead.
+>
+> Tenel Ka fired repeatedly until another pair of TIE fighters exploded in the air. "Two more," she said.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.138–140).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:10`
+
+What it shows (our notes): Tenel Ka to Vonnda Ra: on Dathomir they rescued her friends and defeated her utterly.
+> Tenel Ka glared at the Nightsister and spoke in a low, threatening voice, "I have your name, Vonnda Ra. I saw you try to lure others from the Singing Mountain Clan on Dathomir. In your encampment at the Great Canyon you chose me as a trainee for the Shadow Academy, but instead we rescued my friends—and defeated you utterly. Well defeat you again."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.147).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:19`
+
+What it shows (our notes): Tenel Ka hurls a pipe like a spear and knocks Vonnda Ra sideways.
+> "You, girl, are a traitor to Dathomir!" Vonnda Ra spat, just as Tenel Ka hurled the long pipe in her direction. The rod struck the Nightsister, knocking her sideways. Stormtroopers clattered toward them as Lowie and Sirra turned to charge back down the corridor.
+>
+> The stormtroopers thundered in pursuit. Vonnda Ra cast the pipe aside. Patches of it were bent and red-hot where fire from within her fingers had super-heated the metal.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.148–149).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:22`
+
+What it shows (our notes): Tenel Ka finds a safe route through the underlevels; she revels in the exertion and watches out for Jacen; the hunt is her element.
+> Tenel Ka grabbed on to a branch with her hand and swung down to Sirra's level. "This way!" she said. "It is safe."
+>
+> As she raced through the morass of branches, ducking her head to keep her red-gold braids from snagging on thorns or low-hanging limbs, Tenel Ka reveled in the calisthenics that pushed her body to its limits. But she would have preferred to do it without the threat of sudden death from the blaster of a stormtrooper.
+>
+> Her reptilian armor covered only her torso, leaving her limbs unprotected from scratches and insect bites—but she did not allow such minor inconveniences to bother her.
+>
+> Her reflexes were sharpened by her inability to see through the forest shadows. Her lightsaber could have lit the way, but she didn't dare ignite it for fear of drawing attention to their position. At the moment her focus had to be on simply running.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.170–173).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:42`
+
+What it shows (our notes): Tenel Ka senses looming danger, then lights her blade and cuts herself free of the vine creature.
+> All around, she detected looming dangers that grew worse, more foreboding, as they leapt from one level to the next, descending into thicker and thicker primeval wilderness. Tenel Ka sensed that the two Wookiees felt the increasing threat; Lowie and Sirra moved more cautiously, supporting each other as they used their night vision to choose a path.
+>
+> During the brief rest, Tenel Ka remained standing. She turned in a slow circle, granite-gray eyes narrowed, sharply attentive for movement, for predators lurking in the surrounding trees. Her Jedi senses detected no dangerous animals, only a tingling underlying threat that grew more and more powerful.
+>
+> Just then, a leathery plant tentacle wrapped quickly around Tenel Ka's waist and drew itself snug. Thin thorns dug into her flesh through her reptilian armor. She cried out—and suddenly the air around them came alive with whipping, writhing vines from above.
+>
+> Both Wookiees howled and thrashed. Jacen yelped. The thorny vines yanked him into the air, legs kicking, hands flailing. In an instant Tenel Ka snatched out her lightsaber and—ignoring the threat of revealing their position to the stormtroopers—ignited the glowing turquoise blade. Her arm swept sideways, severing the vines that grasped her waist.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.173–174).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:44`
+
+What it shows (our notes): Tenel Ka slams Jacen out of a blaster bolt's path and dives with him one-armed.
+> The next thing Jacen knew, Tenel Ka slammed him aside. A blaster bolt sizzled past him as she wrapped a vine around her arm, grasped his waist, and dove to a lower branch. The two Wookiees were already ahead of them in their headlong flight.
+>
+> Making quick use of the diversion, the young Jedi Knights continued down, down—dropping all the way to the bottom levels of the forest.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.178–179).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:53`
+
+What it shows (our notes): Tenel Ka ignites beneath the troopers' branch and severs it with one stroke; four stormtroopers fall.
+> In the strobing light he could discern only brilliant colors dancing before his aching eyes. Then he glimpsed the flickering movement of a slender figure suddenly sprouting a bright turquoise blade—Tenel Ka with her lightsaber . . . and she was just beneath the four stormtroopers!
+>
+> The Imperial troopers saw her, too. They shouted excitedly and took aim—but too late.
+>
+> With a single stroke, Tenel Ka slashed through the bough that supported the stormtroopers. Her rancor-tooth lightsaber flared, and sparks spat off in all directions as her blade severed the centuries-old tree branch.
+>
+> Tenel Ka dove out of the way. Wood cracked, vines snapped, and leaves were torn asunder under the enormous weight of the surprised Imperial soldiers. They fired randomly, shouting in panicked bursts through their comlink helmets as the branch fell away, spilling them into the forest floor below. The four stormtroopers toppled to their deaths, blaster rifles still firing.
+>
+> Looking fiercely satisfied, Tenel Ka deactivated her lightsaber and clipped it to her belt. Jacen, standing within her view, gave the warrior girl a round of silent applause.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.188–189).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:12`
+
+What it shows (our notes): Luke (preview): Tenel Ka should teach ground combat against assassins and commandos; Jacen recalls her against Bartokk assassins on Hapes.
+> Luke turned to the warrior girl from Dathomir. "Tenel Ka, gather as many students as you can and give them a crash course in ground combat against terrorist attacks. I'm not sure what strategies the Shadow Academy will use, but I can't think of anyone better to teach them about assassins and commando tactics than you."
+>
+> "Yeah, she was great against those Bartokk assassins on Hapes," Jacen said.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 99 (p.222–223).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:58`
+
+### Limitations and anti-feats (Darkest Knight)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tionne's unsensed counterattack surprises Tenel Ka; she barely reacts in time.
+> Tionne swung her weapon with a calm, smooth gesture so unexpected that Tenel Ka barely reacted in time. She had sensed no intention of a counterattack from the silver-haired scholar, and so Tionne had surprised her. Their blades locked and sizzled—and then Tionne pulled her lightsaber back.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.12).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:15`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's knife cannot penetrate the syren plant.
+> While Jacen grasped a vine and began to climb down, Tenel Ka dropped beside Lowie, one of her throwing knives in her hand. She stabbed at the leathery wall of the plant, but her knife could not penetrate the tough skin.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.192).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:18`
+
 
 
 

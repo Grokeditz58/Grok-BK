@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 215 (159 with quotations; 115 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 227 (171 with quotations; 127 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2446,6 +2446,147 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: Vilas's tapping
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.181).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:100`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Brakiss presents Zekk the cape: 'our Darkest Knight'.
+> Brakiss's porcelain-perfect face smiled with pride. He held out a gift, a flowing black cape lined with deep, vibrant crimson, like fresh dark blood.
+>
+> "Young Zekk, I present this to you as a symbol of your importance to the Shadow Academy," Brakiss said. "You have proven to be an avid pupil, a true asset to the Second Imperium. Our efforts would be greatly disadvantaged had you not joined us in our struggle. In your duel to the death with Vilas, our other powerful candidate, you proved yourself to be our champion, our new hope—our Darkest Knight."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.43).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:38`
+
+What it shows (our notes): Tamith Kai: Zekk hasn't given himself fully to the dark side and still has feelings for the twins; Vonnda Ra defends his abilities.
+> "We'll see if Brakiss was wrong to place confidence in his young pet," Tamith Kai murmured in her low, rich voice. "I still don't trust him. What is it Norys calls the boy—trash collector? I sense that Zekk hasn't yet given himself entirely over to the dark side."
+>
+> Vonnda Ra frowned, her squarish face puzzled "But after all the work he's done—look at his training. How can you question Zekk's abilities?"
+>
+> "It is his motives I question, not his abilities. I had no such doubts about the loyalty of my Vilas."
+>
+> Tamith Kai clenched her fists in rage. "I think Zekk still has feelings for those obnoxious Jedi twins. His friendship is not so easily given up." She calmed herself. Her lips, dark as overripe fruit, twisted into a smile. "That's why I made sure this mission would be more than just a simple raid. Let us watch how Zekk takes care of his other assignment."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.48–49).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:42`
+
+What it shows (our notes): Zekk hesitates over the lure message.
+> Zekk swallowed, his mind whirling. He had known this moment would come, and he had to face it.
+>
+> "No," he answered, "J us t working out the proper wording for the message. They must be intrigued and concerned . . . and convinced."
+>
+> Zekk hovered over the communications console, pondering his words, then punched them into the translator that would convert them to the appropriate Wookiee dialect and send a text message with the highest priority to where Jacen and Jaina were staying with their friends.
+>
+> If he worded it correctly, he knew the twins would come.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 11 (p.113).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:38`
+
+What it shows (our notes): Zekk orders an ambush and asserts command; scarlet lightsaber.
+> Zekk thought of Jacen and Jaina and their friends. "No, I didn't forget," he said. But he didn't want to confront the twins here, not in front of the evil Tamith Kai. This should have been his own private battle, the consequences of the choices he had made. "We'll meet them on the way. Ambush them. Lock down their location."
+>
+> Reinforcing his position of command, Zekk turned sharply and issued brisk orders. "Tamith Kai, you will remain here and continue organizing the mission. Our primary goal is to get those computer systems for the Second Imperium. You—" he nodded toward the stormtrooper "—will stay here as guard.
+>
+> Vonnda Ra and I will take care of the young Jedi Knights."
+>
+> Tamith Kai scowled at being ordered about, but Zekk rounded on her, his cape swirling. "Is that assignment beyond your capabilities, Tamith Kai?"
+>
+> "Hey, it's Zekk!" Jacen shouted, skidding to a stop.
+>
+> There in the corridor, as if waiting for them, stood the dark-haired scamp who for years had been a friend to Jacen and Jaina . . . who had taken them on excursions through Coruscant's abandoned building levels and dim alleys. Now the once-scruffy boy wore expensive leather armor and a crimson-lined black cape—and bore a scarlet-bladed lightsaber. He looked ominous.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.144–146).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:17`
+
+What it shows (our notes): Zekk shoulders Vonnda Ra aside: 'They are mine to deal with!'
+> The muscular Nightsister held up her clawlike hands. "Not this time, Jedi brats!" she said. "I shall enjoy destroying you."
+>
+> Jacen felt her dark power crackle through the air, and he held his lightsaber high in defense. Fire-blue lightning bolts danced at Vonnda Ra's fingertips, burning through her body and sizzling behind her eyes.
+>
+> She flicked her wrists to hurl her dark lightning at them—but Zekk shouldered the Nightsister to one side. The bolts of evil force flared past them like shadowy flames and scorched the wall plates.
+>
+> Vonnda Ra glared at Zekk, but he snapped, "They are mine to deal with! I am in command here."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.147).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:20`
+
+What it shows (our notes): Zekk: 'you are my sworn enemies… That was my choice.'
+> "I'm sorry it has come to this," Zekk said, "but I owe my allegiance to the Second Imperium now, and you are my sworn enemies. I can no longer deny it. That was my choice." Despite his words, the expression on Zekk's high-cheekboned face and the disturbed look in his green eyes showed Jacen how troubled he truly was.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.176).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:51`
+
+What it shows (our notes): Zekk exhausted after the slug fight; he identifies Jaina through the Force and cannot choose.
+> EXHAUSTED, ZEKK STOOD with the lightsaber still gripped in his sweaty hand. He found it hard to breathe the thick, cloying air of the underworld.
+>
+> Zekk heard a crash and a crackle of snapping twigs far behind them. Suddenly, with a tingle through his own Force senses, he knew that two others followed, attempting to catch them—and he identified one of the pursuers. In astonishment, he blinked his green eyes into the forest shadows, reaching out with the focused power of his senses.
+>
+> "It's Jaina Solo," he said to Vonnda Ra. "Behind us. She's coming this way." He planted his black boots firmly on the branch. He had to choose, but he could not. With all of Brakiss's promises, he had never thought it would be so difficult.
+>
+> Ahead Jacen, Lowbacca, Sirra, and Tenel Ka had succeeded in eluding Imperial pursuit so far—but Jaina, completely unaware, was heading straight toward them. He would have to confront her himself.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.184–186).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:10`
+
+What it shows (our notes): Zekk turns Jaina's Force rustle into a small tornado and ignites his lightsaber.
+> Zekk looked up, his green eyes bright even in the shadows. It took him only a moment to realize what she was doing. His pale lips curled in a smile, then he gestured with one hand. The wind picked up, the branches clacked together, and a storm of dislodged leaves and twigs whipped through the air with the force of a small tornado.
+>
+> Jaina opened her eyes to see Zekk holding the weapon of a Jedi, his face lit by its pulsating scarlet glow. "Don't go for your lightsaber, Jaina," he warned.
+>
+> She shook her head. "I won't raise a weapon against you, Zekk. And I don't believe you'd kill me either."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.199–200).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:30`
+
+What it shows (our notes): Zekk's warning: stay away from the academy; Jaina always underestimated him; Brakiss shows him what he's capable of.
+> Zekk's face distorted with warring emotions. "Then stay away from the Jedi academy. If you ever get out of here, don't go back. The Second Imperium will soon target Yavin 4—and I will fight as a loyal warrior for my Emperor."
+>
+> "Emperor? Zekk, you don't know what you're saying," Jaina pleaded.
+>
+> "Stop treating me like I'm an ignorant street kid!" he snarled back. "You've always underestimated my abilities, denied me opportunities. But Lord Brakiss doesn't. He has shown me what I'm capable of." He tilted his head to look up into the dark nest of branches overhead, as if he could see the daylight far above.
+>
+> "I've already sent a signal for a fast ship to pick me up. I believe our raid has been quite successful. Time for me to return to the Shadow Academy."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.200).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:32`
+
+What it shows (our notes): Zekk spares Jaina and leaves in a storm of leaves.
+> Zekk twitched his lightsaber from side to side as if shaking a finger in warning. "For the friendship we once had, I'll spare you this time, Jaina. But don't ever test my loyalties again."
+>
+> With a harsh laugh, Zekk swept his lightsaber upward, releasing a storm of leaves and twigs that showered down on Chewie and Jaina, knocking the phosflea light from her hand. Jaina ducked and covered her head. She couldn't see.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.200–201).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:34`
+
+What it shows (our notes): Zekk reports the raid's losses and swears the young Jedi Knights are no longer a problem.
+> Zekk closed his dark-ringed emerald eyes and drew a deep breath to focus his thoughts, center his concentration. He let her anger wash over his mind and drain away. His greatest concern was Master Brakiss and how he would face him. His teacher had such high hopes for him, and he might be even more displeased than Tamith Kai. Contemplating the probable disappointment of his mentor hurt Zekk more than any display of rage by the continually bothersome Nightsister from Dathomir.
+>
+> Zekk swallowed hard and gave his straightforward account. "Unfortunately, Master Brakiss, our mission did not come off as smoothly as we had planned. During our battles at the fortified Wookiee facilities, we lost fourteen TIE fighters and bombers, as well as eleven ground assault troops.
+>
+> "It is also my duty to report that we lost two of our Nightsister companions: Vonnda Ra in the lower levels of the forest, and Garowyn, who was apparently murdered when she tried to reclaim our Shadow Chaser"
+>
+> Tamith Kai's eyes widened with anger, and her normally pale face flushed a blotchy red. "Master Brakiss!" she hissed. "Zekk also claims to have removed those Jedi brats. But although Vonnda Ra accompanied him to this confrontation, Zekk returned alone . . . claiming victory."
+>
+> Zekk stood rigid. "The young Jedi Knights are no longer a problem," he said. "This I swear."
+>
+> Tamith Kai obviously didn't believe him.
+>
+> But Brakiss did, and that was all that counted.
+>
+> Zekk didn't know how long he could keep up the charade. He had fallen to the dark side—and he had also protected his friends. The two seemed incompatible. Sooner or later, Brakiss would learn what he had done—and then Zekk would face an impossible choice. But, as always, no one else would make Zekk's choices for him . . . and no one else would face the consequences.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.206–209).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:43`
+
+What it shows (our notes): Brakiss: Zekk is 'an instrumental fighter in our grand cause'; Zekk identifies Norys instinctively.
+> "The Second Imperium applauds your efforts, Zekk. The history of the galaxy will remember you as an instrumental fighter in our grand cause."
+>
+> Zekk knew he should have felt better, prouder . . . but he could summon no emotion other than dread. And disappointment in himself. He was no longer sure of where his past decisions would lead him.
+>
+> One of the stormtroopers standing in ranks within the hangar bay shifted uneasily. Zekk focused his attention on the burly trooper—instinctively identifying Norys. Qorl stood beside the bully, frowning in disapproval at his white-armored trainee. The leader of the Lost Ones still bore a chip on his shoulder, resulting in a perpetually surly attitude.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.209).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:47`
+
 
 
 

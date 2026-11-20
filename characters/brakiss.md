@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 110 (97 with quotations; 50 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 116 (103 with quotations; 56 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -725,6 +725,79 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: kidnapping the
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.60).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:15`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Brakiss orders the Kashyyyk raid: guidance and tactical systems, mimic IDs, holographic disguises.
+> "If your raid is successful in obtaining guidance and tactical systems, we will have an enormous advantage in our overall conflict. We will then be able to throw the Rebel fleet into confusion and use their own computers against them to transmit conflicting signals. We can also use these systems to mimic their secret ship ID patterns, so that Second Imperium fighters can travel freely in enemy territory by identifying themselves as Rebel ships.
+>
+> "Because of the importance of this mission, you will be assigned a powerful team. I am giving you use of the new holographic disguises we have developed for just such an infiltration effort. Everything depends on you, Zekk. Do you feel up to the task?"
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.45).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:39`
+
+What it shows (our notes): Brakiss calms himself with Jedi skills.
+> Suddenly, a startling signal destroyed his concentration like a thunderbolt. The potent alarm pulsed again, and he used his much-needed Jedi skills to calm himself. "This is Brakiss," he responded.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8 (p.87).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:16`
+
+What it shows (our notes): Brakiss threatens the red guards with arrest for mutiny; the Emperor rebukes him.
+> Brakiss placed his hands on his hips. "And when did the Emperor delegate the authority to speak for him"—he spoke the words scornfully—"to his mere guards? By what right did you become his mouthpiece? I do not recognize your authority, guard. How do I know you're not holding him hostage? How do I know that he isn't ill or drugged?"
+>
+> He crossed his arms over his robed chest. "I accept orders only from the Emperor. Now let me speak to him immediately, or I shall call forth all of my troops on this station and arrest you for mutiny against the Second Imperium."
+>
+> The two red guards stood motionless. "It is unwise to threaten us," they said in unison.
+>
+> Brakiss didn't back down. "It is unwise to ignore me," he replied.
+>
+> "Very well," one guard said, and turned to a comm station on the wall. He pushed a button and, though Brakiss heard no words from beneath the armored helmet, the Emperor's voice instantly slid through the speakers, like sounds made of snakes.
+>
+> "Brakiss, this is your Emperor. Your insolence annoys me."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 14 (p.156–157).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:28`
+
+### Limitations and anti-feats (Darkest Knight)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss drops the cloaking field and feels no difference through the Force.
+> Brakiss leaned closer to the wall speaker. "Very well, drop the Shadow Academy's cloaking field and transmit our greetings to Emperor Palpatine. We are honored by his visit."
+>
+> Brakiss could feel no difference, not even through the Force, as the invisibility shield dissolved around the station. He stood with an honor guard of stormtroopers inside the cleared docking bay. The transparent atmosphere containment field flickered.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8 (p.90).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:19`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss feels belittled and insignificant before the Emperor's entourage.
+> He felt belittled, insignificant, stepped on, as if all of his accomplishments and work meant nothing to the Emperor. It baffled him. What could be the purpose of it? He frowned as thoughts whirled inside his head.
+>
+> The Emperor had originally died in the destruction of the second Death Star, but six years after his defeat, Palpatine had been resurrected in a series of clones, which had also—presumably—been destroyed.
+>
+> Brakiss was a powerful man—or so he had thought, until the Emperor's entourage arrived. The red guards seemed to consider him the lowliest of servants. This was an unfair dismissal of all he had accomplished, he told himself. Perhaps the Emperor truly was ill; perhaps the Second Imperium was in greater danger than Brakiss had feared. He decided it would be best to speak directly to Palpatine, to see for himself.
+>
+> He had been patient. He had been helpful. He had accommodated every whim passed along by the faceless Imperial guards—but now Brakiss needed answers.
+>
+> Brakiss took a deep breath to center himself, to focus his thoughts to a razor edge of calm resolve. Propelled by his growing confidence, he turned about and made his way toward the isolated chambers of the Emperor and his followers.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8, 14 (p.97–155).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:21`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The Emperor calls Brakiss an expendable servant and claims ten times his power; Brakiss leaves confused and insignificant.
+> "I merely wish to speak with you, my lord," he said, forcing his voice to remain steady. "You have not addressed the Shadow Academy or me since your arrival here. I am concerned for your personal well-being."
+>
+> "Brakiss, you forget your place. You can do nothing to protect me that I cannot do myself—with ten times the power."
+>
+> Palpatine seemed to pause before snapping a reply through the speaker. "Do not forget, Brakiss, that when this station was constructed I saw to it that explosives were planted throughout the superstructure to ensure your obedience. I can destroy this Academy on a whim. Don't tempt me."
+>
+> The Emperor snapped, "You will learn of my plans when I wish you to learn of them! I require no advice from you or from any other. Perhaps you need to be reminded that you are merely an expendable servant. Do not demand to see me again. I will emerge from my quarters when it suits me."
+>
+> With a click like the sound of a breaking bone, the comm unit switched off. Brakiss felt worse than ever. More insignificant, more confused.
+>
+> The red Imperial guards stood firmly in their positions, holding their force pikes upright. "You will depart now," one of them said. Without replying, Brakiss spun on his heel and marched in silence down the hollow, echoing corridors of his Shadow Academy.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 14 (p.157–159).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:30`
+
 
 
 

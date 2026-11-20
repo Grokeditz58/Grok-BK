@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 657 (319 with quotations; 23 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 662 (324 with quotations; 28 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -4499,6 +4499,59 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Chewbacca's manual repairs
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:118`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Chewbacca pulled the Shadow Chaser's primary initiator module.
+> His head inside the still-open engine access hatch, Chewbacca grunted and nudged a piece of equipment on the floor with his foot. Jaina recognized the primary initiator module that the Wookiee had pulled for repairs.
+>
+> The Shadow Chaser would never start—much less fly—without it.
+>
+> The annoying whine came from the engines again, and Chewbacca yelped. There was a sharp thunk, and the noise stopped as a shower of sparks sprayed from the engine hatch. The Wookiee ducked back out.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.126).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:43`
+
+What it shows (our notes): Chewbacca smashes a crate into the lubricant pail, leaps onto the hull, and hurls heavy objects without the Force.
+> Though Chewbacca had no Jedi defenses, he also had no intention of remaining a stationary target. Jaina saw him slip away from the skyhopper's fuselage and lift a crate with his strong, hairy arms. With a powerful heave, he sent the crate smashing into an incoming pail of lubricant tossed by the Nightsister. As iridescent liquid sprayed into the air and splashed to the floor plates all around Jaina and Garowyn, Chewie scooped up his discarded toolkit and, with a mighty bound, leaped onto the hull of the Shadow Chaser.
+>
+> From out of nowhere an impedance tester sailed toward Garowyn, followed by a hydrospanner and a barrage of rivets and heavy clamp-bolts. Chewbacca did not need the Force to hurl heavy objects.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.129–130).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:47`
+
+What it shows (our notes): Chewbacca leaps into thin air and catches Garowyn's speeder bike.
+> Moving with amazing speed, Chewbacca launched himself forward. To Jaina's horror, the Wookiee gave a ferocious howl and leaped straight out the door toward Garowyn's buzzing vehicle, with nothing beneath him but thin air—
+>
+> —and grasped a pipe on the speeder bike with one strong, furry hand.
+>
+> Still slipping, Jaina held the wall rail and watched Wookiee, Nightsister, and speeder bike spiral down toward the leafy sea. Jaina clung to the rail and reached out with one hand, but she was too far away to help Chewbacca.
+>
+> As the speeder bike crashed on the treetops, Chewie quickly regained his balance.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.132).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:53`
+
+What it shows (our notes): Chewbacca flies the overloaded speeder bike, compensating for Jaina's balance.
+> Chewbacca brought the speeder bike to an unsteady hover in front of the repair bay and motioned for her to get on. Jaina squelched her reservations and climbed on behind him. She found little room to sit, and her legs were still slick from spilled lubricant, so she threw her arms around Chewie's broad chest as far as they would go, threading her fingers through his thick fur to keep herself from sliding off.
+>
+> With Jaina's added weight, the speeder bike sank. Chewbacca revved its engine, and they took off. Though their forward progress was faster than Jaina had expected, the vehicle continued to lose altitude until it barely skimmed over the bushy treetops. The engine sputtered. Jaina could feel the toes of her boots brushing against taller branches and sprigs of leaves. The wind in her hair blew the strands wildly in every direction.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.161).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:37`
+
+What it shows (our notes): Chewbacca tracks by Wookiee vision and scent: five of them, metal and ozone.
+> With his sharp Wookiee vision, Chewie led the way without hesitation. He barked an occasional warning about a patch of slippery moss or a weak branch. Neither made any great attempt to keep quiet: their one concern was to catch up with their friends before it was too late.
+>
+> Gradually Jaina's eyesight adjusted enough that she could make out the shadowy forms of tree trunks, black against deep gray. It wasn't much to go by, but it helped. Chewbacca made a snuffling sound and gave a low woof of triumph.
+>
+> He yipped an affirmative. Their smells were here. He detected four... no, five of them, as well as a faint smell of metal. Jaina decided he must be picking up on Em Teedee. Chewie growled low in his throat, muttering about other smells too: plasteel, burned branches, the thunderstorm-smell of ozone from blaster discharges.
+>
+> Jaina's heart skipped a beat. "Definitely sounds like the Nightsisters brought stormtroopers down here with them."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.180–181).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:58`
+
 
 
 

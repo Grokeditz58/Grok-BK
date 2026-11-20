@@ -177,7 +177,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [boss-nass.md](boss-nass.md) | Boss Nass | Prequel | untiered | 34 | 34 | 0 | 0 | Boss Nass, Nass | 34 | 10 | 0 | 24 |
 | [bossk.md](bossk.md) | Bossk | GCW | untiered | 224 | 219 | 5 | 41 | Bossk | 226 | 118 | 0 | 33 |
 | [boushh.md](boushh.md) | Boushh | Galactic Civil War | untiered | 31 | 31 | 0 | 0 | Boushh | 31 | 10 | 0 | 11 |
-| [brakiss.md](brakiss.md) | Brakiss | NR | untiered | 60 | 60 | 0 | 3 | Brakiss | 110 | 97 | 50 | 27 |
+| [brakiss.md](brakiss.md) | Brakiss | NR | untiered | 60 | 60 | 0 | 3 | Brakiss | 116 | 103 | 56 | 27 |
 | [bralor.md](bralor.md) | Bralor (NEW 2026-11-03) | KOTOR II | untiered | 1 | 1 | 0 | 0 | Bralor | 1 | 0 | 0 | 0 |
 | [brasck.md](brasck.md) | Brasck | New Republic | untiered | 6 | 6 | 0 | 0 | Brasck | 6 | 3 | 0 | 2 |
 | [braylen-stramm.md](braylen-stramm.md) | Braylen Stramm (NEW 2026-10-30) | GCW | untiered | 7 | 7 | 0 | 0 | Braylen Stramm, Stramm | 7 | 0 | 0 | 0 |
@@ -246,7 +246,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [charal.md](charal.md) | Charal | Rebellion | untiered | 60 | 60 | 0 | 21 | Charal | 60 | 7 | 0 | 3 |
 | [charza-kwinn.md](charza-kwinn.md) | Charza Kwinn | Old Republic | untiered | 1 | 1 | 0 | 0 | Charza Kwinn | 1 | 0 | 0 | 0 |
 | [chernan-ordo.md](chernan-ordo.md) | Chernan Ordo (NEW 2026-11-02) | Legacy (137 ABY) | untiered | 2 | 2 | 0 | 0 | Chernan Ordo, Mandalore Chernan Ordo | 2 | 2 | 0 | 2 |
-| [chewbacca.md](chewbacca.md) | Chewbacca | GCW–NJO | untiered | 621 | 609 | 12 | 3 | Chewbacca, Chewie | 657 | 319 | 23 | 227 |
+| [chewbacca.md](chewbacca.md) | Chewbacca | GCW–NJO | untiered | 621 | 609 | 12 | 3 | Chewbacca, Chewie | 662 | 324 | 28 | 227 |
 | [chirpa.md](chirpa.md) | Chief Chirpa (NEW 2026-10-30) | GCW | untiered | 3 | 3 | 0 | 0 | Chief Chirpa, Chirpa | 3 | 2 | 0 | 4 |
 | [chief-bast.md](chief-bast.md) | Chief Moradmin Bast (NEW 2026-10-30) | GCW | untiered | 38 | 38 | 0 | 0 | Chief Moradmin Bast, Moradmin Bast, Bast | 38 | 22 | 0 | 23 |
 | [chine-gabbard.md](chine-gabbard.md) | Chine Gabbard (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Chine Gabbard | 2 | 0 | 0 | 0 |
@@ -329,7 +329,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-bandon.md](darth-bandon.md) | Darth Bandon | KOTOR | untiered | 55 | 55 | 0 | 11 | Darth Bandon, Bandon | 55 | 31 | 5 | 36 |
 | [darth-bane.md](darth-bane.md) | Darth Bane | Ruusan | DEEP | 871 | 865 | 6 | 190 | Darth Bane | 219 | 234 | n/a | n/a |
 | [darth-baras.md](darth-baras.md) | Darth Baras | TOR | DEEP | 187 | 187 | 0 | 22 | Darth Baras, Baras | 187 | 120 | 18 | 27 |
-| [darth-caedus.md](darth-caedus.md) | Darth Caedus / Jacen Solo | NJO–LotF | DEEP | 2370 | 2369 | 1 | 463 | Darth Caedus / Jacen Solo, Caedus, Jacen Solo, Jacen, TUF Jacen | 273 | 353 | n/a | n/a |
+| [darth-caedus.md](darth-caedus.md) | Darth Caedus / Jacen Solo | NJO–LotF | DEEP | 2370 | 2369 | 1 | 463 | Darth Caedus / Jacen Solo, Caedus, Jacen Solo, Jacen, TUF Jacen | 283 | 363 | n/a | n/a |
 | [darth-cognus.md](darth-cognus.md) | Darth Cognus | post-Ruusan | untiered | 8 | 8 | 0 | 1 | Darth Cognus, Cognus | 8 | 5 | 1 | 1 |
 | [darth-decimus.md](darth-decimus.md) | Darth Decimus | TOR | untiered | 5 | 5 | 0 | 0 | Darth Decimus, Decimus | 5 | 4 | 0 | 6 |
 | [darth-desolous.md](darth-desolous.md) | Darth Desolous | Old Republic | untiered | 36 | 36 | 0 | 0 | Darth Desolous, Desolous | 36 | 15 | 0 | 7 |
@@ -526,7 +526,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [face-loran.md](face-loran.md) | Garik "Face" Loran | NR | untiered | 146 | 145 | 1 | 8 | Garik "Face" Loran, Garik Loran, Face Loran, Face | 145 | 112 | 11 | 20 |
 | [garm-bel-iblis.md](garm-bel-iblis.md) | Garm Bel Iblis (NEW 2026-10-29) |  | untiered | 25 | 25 | 0 | 0 | Garm Bel Iblis | 28 | 14 | 0 | 11 |
 | [garoche-tarkin.md](garoche-tarkin.md) | Garoche Tarkin (NEW 2026-11-03) | Dark Times (19 BBY) | untiered | 12 | 12 | 0 | 0 | Garoche Tarkin, Admiral Garoche Tarkin, Admiral Tarkin (son) | 12 | 9 | 0 | 9 |
-| [garowyn.md](garowyn.md) | Garowyn (NEW 2026-11-20) | NR | untiered | — | — | — | — | Garowyn | 13 | 13 | n/a | n/a |
+| [garowyn.md](garowyn.md) | Garowyn (NEW 2026-11-20) | NR | untiered | — | — | — | — | Garowyn | 18 | 18 | n/a | n/a |
 | [garrbo-vdroz.md](garrbo-vdroz.md) | Garrbo V'Droz (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 3 | 3 | 0 | 0 | Garrbo V'Droz, V'Droz | 3 | 3 | 0 | 5 |
 | [garthus-hal.md](garthus-hal.md) | Garthus Hal (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Garthus Hal | 1 | 0 | 0 | 0 |
 | [garv-debble.md](garv-debble.md) | Garv Debble (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 3 | 3 | 0 | 0 | Garv Debble | 3 | 3 | 0 | 2 |
@@ -676,7 +676,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [jagged-fel.md](jagged-fel.md) | Jagged Fel | New Republic | untiered | 152 | 151 | 1 | 2 | Jagged Fel, Jag Fel, Jag | 166 | 98 | 67 | 33 |
 | [jahan-cross.md](jahan-cross.md) | Jahan Cross | Prequel | untiered | 60 | 60 | 0 | 0 | Jahan Cross | 60 | 0 | 0 | 0 |
 | [jai-maruk.md](jai-maruk.md) | Jai Maruk (NEW 2026-11-03) | Clone Wars | untiered | 10 | 10 | 0 | 0 | Jai Maruk, Maruk | 10 | 10 | 6 | 4 |
-| [jaina-solo.md](jaina-solo.md) | Jaina Solo | NJO–LotF | DEEP | 877 | 875 | 2 | 62 | Jaina Solo, Jaina | 227 | 229 | n/a | n/a |
+| [jaina-solo.md](jaina-solo.md) | Jaina Solo | NJO–LotF | DEEP | 877 | 875 | 2 | 62 | Jaina Solo, Jaina | 240 | 242 | n/a | n/a |
 | [jaing.md](jaing.md) | Jaing (NEW 2026-10-29) |  | untiered | 14 | 14 | 0 | 1 | Jaing | 13 | 2 | 0 | 0 |
 | [jaius-yorub.md](jaius-yorub.md) | Jaius Yorub (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Jaius Yorub | 4 | 2 | 0 | 0 |
 | [jaizen-suel.md](jaizen-suel.md) | Jaizen Suel | Prequel | untiered | 1 | 1 | 0 | 0 | Jaizen Suel, Jaizen | 1 | 1 | 0 | 1 |
@@ -884,11 +884,11 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [loruna-scathe.md](loruna-scathe.md) | Loruna Scathe (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Loruna Scathe | 1 | 0 | 0 | 0 |
 | [lott-dod.md](lott-dod.md) | Lott Dod (NEW 2026-10-30) | Prequel | untiered | 2 | 2 | 0 | 0 | Lott Dod, Senator Lott Dod | 2 | 2 | 0 | 4 |
 | [lowal-pulse.md](lowal-pulse.md) | Lowal Pulse (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Lowal Pulse | 2 | 0 | 0 | 0 |
-| [lowbacca.md](lowbacca.md) | Lowbacca | NR–LotF | untiered | 45 | 45 | 0 | 0 | Lowbacca, Lowie | 125 | 113 | 80 | 37 |
+| [lowbacca.md](lowbacca.md) | Lowbacca | NR–LotF | untiered | 45 | 45 | 0 | 0 | Lowbacca, Lowie | 133 | 121 | 88 | 37 |
 | [lucien-draay.md](lucien-draay.md) | Lucien Draay | KotOR comics | untiered | 19 | 19 | 0 | 0 | Lucien Draay, Lucien | 19 | 10 | 0 | 0 |
 | [lucius-rothingham.md](lucius-rothingham.md) | Lucius Rothingham (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Lucius Rothingham | 3 | 0 | 0 | 0 |
 | [ludo-kressh.md](ludo-kressh.md) | Ludo Kressh | Golden Age of the Sith | untiered | 94 | 94 | 0 | 2 | Ludo Kressh, Ludo | 94 | 35 | 0 | 17 |
-| [luke-skywalker.md](luke-skywalker.md) | Luke Skywalker | GCW–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 4857 | 4816 | 41 | 548 | Luke Skywalker, Luke, DE Luke | 211 | 222 | n/a | n/a |
+| [luke-skywalker.md](luke-skywalker.md) | Luke Skywalker | GCW–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 4857 | 4816 | 41 | 548 | Luke Skywalker, Luke, DE Luke | 212 | 223 | n/a | n/a |
 | [luminara-unduli.md](luminara-unduli.md) | Luminara Unduli | Clone Wars | DEEP | 80 | 77 | 3 | 2 | Luminara Unduli, Luminara, Unduli | 80 | 37 | 0 | 33 |
 | [lumiya.md](lumiya.md) | Lumiya | GCW–LotF | DEEP | 467 | 464 | 3 | 42 | Lumiya, Shira Brie | 457 | 268 | n/a | n/a |
 | [lumpawarrump.md](lumpawarrump.md) | Lumpawarrump (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Lumpawarrump | 3 | 1 | 0 | 0 |
@@ -1026,7 +1026,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [nomi-sunrider.md](nomi-sunrider.md) | Nomi Sunrider | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 210 | 210 | 0 | 20 | Nomi Sunrider, Nomi | 46 | 46 | 18 | 81 |
 | [nonul-weran.md](nonul-weran.md) | Nonul Weran (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Nonul Weran | 1 | 0 | 0 | 0 |
 | [noor-shan.md](noor-shan.md) | Noor Shan | NJO | untiered | 1 | 1 | 0 | 0 | Noor Shan | 1 | 0 | 0 | 0 |
-| [norys.md](norys.md) | Norys (NEW 2026-11-20) | NR | untiered | — | — | — | — | Norys | 13 | 13 | n/a | n/a |
+| [norys.md](norys.md) | Norys (NEW 2026-11-20) | NR | untiered | — | — | — | — | Norys | 16 | 16 | n/a | n/a |
 | [notrudenn.md](notrudenn.md) | Notru'denn (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Notru'denn | 2 | 0 | 0 | 0 |
 | [novar.md](novar.md) | Novar (NEW 2026-10-27) | Great Sith War | untiered | 9 | 9 | 0 | 0 | Novar | 9 | 4 | 0 | 2 |
 | [nu-toreena.md](nu-toreena.md) | Nu Toreena (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Nu Toreena | 2 | 1 | 0 | 3 |
@@ -1110,7 +1110,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [proxy.md](proxy.md) | PROXY (droid) (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | PROXY (droid) | 3 | 3 | 0 | 0 |
 | [prozzen-fosky.md](prozzen-fosky.md) | Prozzen Fosky (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Prozzen Fosky | 1 | 0 | 0 | 0 |
 | [pulsipher.md](pulsipher.md) | Pulsipher (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Pulsipher | 1 | 0 | 0 | 0 |
-| [qorl.md](qorl.md) | Qorl (NEW 2026-11-19) | NR | untiered | — | — | — | — | Qorl, CE3K-1977 | 47 | 47 | n/a | n/a |
+| [qorl.md](qorl.md) | Qorl (NEW 2026-11-19) | NR | untiered | — | — | — | — | Qorl, CE3K-1977 | 49 | 49 | n/a | n/a |
 | [qrrrl-toq.md](qrrrl-toq.md) | Qrrrl Toq | Great Sith War | untiered | 19 | 19 | 0 | 4 | Qrrrl Toq, Qrrrl, Qrel Toq, Qrrl Toq, Qrrl | 19 | 7 | 1 | 2 |
 | [rahn.md](rahn.md) | Qu Rahn | Rebellion | untiered | 55 | 55 | 0 | 2 | Qu Rahn, Rahn, Master Rahn | 55 | 29 | 1 | 25 |
 | [quatra.md](quatra.md) | Quatra (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Quatra | 4 | 2 | 0 | 2 |
@@ -1291,6 +1291,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [sirak.md](sirak.md) | Sirak | Old Republic | untiered | 32 | 32 | 0 | 5 | Sirak | 33 | 24 | 1 | 7 |
 | [siri-tachi.md](siri-tachi.md) | Siri Tachi (NEW 2026-10-29) |  | untiered | 8 | 7 | 1 | 0 | Siri Tachi | 9 | 5 | 0 | 10 |
 | [sirona-okeefe.md](sirona-okeefe.md) | Sirona Okeefe (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Sirona Okeefe | 4 | 0 | 0 | 0 |
+| [sirra.md](sirra.md) | Sirra (NEW 2026-11-20) | NR | untiered | — | — | — | — | Sirra, Sirrakuk | 6 | 6 | n/a | n/a |
 | [sirrik-olyeg.md](sirrik-olyeg.md) | Sirrik Olyeg | Old Republic | untiered | 1 | 1 | 0 | 0 | Sirrik Olyeg, Olyeg | 1 | 0 | 0 | 0 |
 | [sise-fromm.md](sise-fromm.md) | Sise Fromm (NEW 2026-10-30) | GCW | untiered | 1 | 1 | 0 | 0 | Sise Fromm | 1 | 0 | 0 | 0 |
 | [sisla.md](sisla.md) | Sisla (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Sisla | 3 | 1 | 0 | 0 |
@@ -1343,7 +1344,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [talon-karrde.md](talon-karrde.md) | Talon Karrde | Galactic Civil War | untiered | 171 | 171 | 0 | 0 | Talon Karrde, Karrde | 235 | 163 | 5 | 150 |
 | [talrin-youp.md](talrin-youp.md) | Talrin Youp (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Talrin Youp | 1 | 0 | 0 | 0 |
 | [tama-burr.md](tama-burr.md) | Tama Burr (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Tama Burr | 1 | 0 | 0 | 0 |
-| [tamith-kai.md](tamith-kai.md) | Tamith Kai (NEW 2026-10-30) | NR | untiered | 1 | 1 | 0 | 0 | Tamith Kai | 29 | 28 | 26 | 2 |
+| [tamith-kai.md](tamith-kai.md) | Tamith Kai (NEW 2026-10-30) | NR | untiered | 1 | 1 | 0 | 0 | Tamith Kai | 31 | 30 | 28 | 2 |
 | [tanquar.md](tanquar.md) | Tanquar (NEW 2026-11-02) | Legacy (137 ABY) | untiered | 9 | 9 | 0 | 0 | Tanquar | 9 | 6 | 0 | 6 |
 | [tarfang.md](tarfang.md) | Tarfang (NEW 2026-11-03) | Dark Nest | untiered | 23 | 23 | 0 | 0 | Tarfang | 23 | 21 | 16 | 11 |
 | [tarfful.md](tarfful.md) | Tarfful | Prequel | untiered | 25 | 24 | 1 | 0 | Tarfful | 25 | 7 | 0 | 6 |
@@ -1366,7 +1367,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [telloti-cillmamn.md](telloti-cillmamn.md) | Telloti Cillmam'n (NEW 2026-10-30) | Clone Wars | untiered | 1 | 1 | 0 | 0 | Telloti Cillmam'n, Telloti Cillmam’n, Telloti, Malleus | 1 | 1 | 0 | 0 |
 | [ten-dorne.md](ten-dorne.md) | Ten Dorne (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Ten Dorne | 2 | 0 | 0 | 0 |
 | [tenebrous-master.md](tenebrous-master.md) | Tenebrous's Master (Twi'lek Banite) | Pre-Prequel | DEEP | 9 | 9 | 0 | 3 | Tenebrous's Master (Twi'lek Banite), Tenebrous' Master, Tenebrous's Master, Tenebrous’ Master, Tenebrous’s Master | 9 | 5 | 2 | 11 |
-| [tenel-ka.md](tenel-ka.md) | Tenel Ka | NR–NJO | untiered | 110 | 110 | 0 | 8 | Tenel Ka, Tenel Ka Djo | 255 | 191 | 152 | 49 |
+| [tenel-ka.md](tenel-ka.md) | Tenel Ka | NR–NJO | untiered | 110 | 110 | 0 | 8 | Tenel Ka, Tenel Ka Djo | 274 | 210 | 171 | 49 |
 | [teneniel-djo.md](teneniel-djo.md) | Teneniel Djo | NR–NJO | untiered | 9 | 9 | 0 | 0 | Teneniel Djo, Teneniel | 14 | 10 | 4 | 1 |
 | [terkuss.md](terkuss.md) | Terkuss (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 1 | 1 | 0 | 0 | Terkuss | 1 | 0 | 0 | 0 |
 | [tero-reskan.md](tero-reskan.md) | Tero Reskan (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Tero Reskan | 3 | 1 | 0 | 0 |
@@ -1397,7 +1398,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [tikkas.md](tikkas.md) | Tikkas (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Tikkas | 1 | 0 | 0 | 0 |
 | [tili-qua.md](tili-qua.md) | Tili Qua (NEW 2026-10-29) |  | untiered | 10 | 10 | 0 | 0 | Tili Qua | 10 | 6 | 0 | 16 |
 | [tion-medon.md](tion-medon.md) | Tion Medon (NEW 2026-10-29) |  | untiered | 30 | 30 | 0 | 1 | Tion Medon | 30 | 16 | 1 | 7 |
-| [tionne.md](tionne.md) | Tionne | NR–NJO | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 43 | 43 | 0 | 10 | Tionne | 62 | 49 | 17 | 14 |
+| [tionne.md](tionne.md) | Tionne | NR–NJO | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 43 | 43 | 0 | 10 | Tionne | 63 | 50 | 18 | 14 |
 | [tiree.md](tiree.md) | Tiree (NEW 2026-10-29) | GCW | untiered | 5 | 5 | 0 | 0 | Tiree | 5 | 1 | 0 | 1 |
 | [tobbi-dala.md](tobbi-dala.md) | Tobbi Dala (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Tobbi Dala | 4 | 0 | 0 | 0 |
 | [tobias-sun.md](tobias-sun.md) | Tobias Sun (NEW 2026-11-02) | Legacy (137 ABY) | untiered | 3 | 3 | 0 | 0 | Tobias Sun, Master Sun | 3 | 1 | 0 | 1 |
@@ -1496,7 +1497,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [vogga.md](vogga.md) | Vogga the Hutt (NEW 2026-11-03) | KOTOR II | untiered | 3 | 3 | 0 | 0 | Vogga the Hutt, Vogga | 3 | 3 | 0 | 3 |
 | [volfe-karkko.md](volfe-karkko.md) | Volfe Karkko | Old Republic | untiered | 103 | 103 | 0 | 15 | Volfe Karkko, Karkko | 103 | 50 | 0 | 55 |
 | [volven-roxe.md](volven-roxe.md) | Volven Roxe (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Volven Roxe | 3 | 0 | 0 | 0 |
-| [vonnda-ra.md](vonnda-ra.md) | Vonnda Ra (NEW 2026-11-20) | NR | untiered | — | — | — | — | Vonnda Ra | 10 | 10 | n/a | n/a |
+| [vonnda-ra.md](vonnda-ra.md) | Vonnda Ra (NEW 2026-11-20) | NR | untiered | — | — | — | — | Vonnda Ra | 15 | 15 | n/a | n/a |
 | [vook.md](vook.md) | Vook | NJO | untiered | 8 | 8 | 0 | 0 | Vook | 32 | 24 | 0 | 23 |
 | [voort-sabinring.md](voort-sabinring.md) | Voort "Piggy" saBinring | NR | untiered | 19 | 19 | 0 | 0 | Voort "Piggy" saBinring, Voort saBinring, Piggy | 19 | 7 | 0 | 7 |
 | [voren-naal.md](voren-naal.md) | Voren Na'al (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 26 | 26 | 0 | 0 | Voren Na'al, Na'al | 26 | 21 | 0 | 26 |
@@ -1575,7 +1576,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [zarrak.md](zarrak.md) | Zarrak | Clone Wars | untiered | 34 | 34 | 0 | 0 | Zarrak | 34 | 2 | 0 | 2 |
 | [zasm-katth.md](zasm-katth.md) | Zasm Katth (NEW 2026-11-03) | NR (Dark Empire) | untiered | 12 | 12 | 0 | 0 | Zasm Katth, Zasm | 12 | 6 | 0 | 8 |
 | [zayne-carrick.md](zayne-carrick.md) | Zayne Carrick | KotOR comics | untiered | 41 | 40 | 1 | 0 | Zayne Carrick, Zayne | 41 | 22 | 0 | 7 |
-| [zekk.md](zekk.md) | Zekk | NJO | untiered | 139 | 139 | 0 | 8 | Zekk | 215 | 159 | 115 | 60 |
+| [zekk.md](zekk.md) | Zekk | NJO | untiered | 139 | 139 | 0 | 8 | Zekk | 227 | 171 | 127 | 60 |
 | [zenoc-quah.md](zenoc-quah.md) | Zenoc Quah (NEW 2026-11-03) | Legacy (137 ABY) | untiered | 21 | 21 | 0 | 0 | Zenoc Quah, Quah | 21 | 12 | 0 | 8 |
 | [zerik.md](zerik.md) | Zerik (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Zerik | 1 | 0 | 0 | 0 |
 | [zero-cog-hive.md](zero-cog-hive.md) | Zero (Cog Hive Seven) (NEW 2026-10-30) | Prequel | untiered | 5 | 5 | 0 | 0 | Zero (Cog Hive Seven), Zero | 5 | 0 | 0 | 0 |
@@ -1609,10 +1610,10 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 
 - [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
-- [Luke Skywalker](luke-skywalker.md): 211
+- [Luke Skywalker](luke-skywalker.md): 212
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 221
 - [Revan](revan.md): 141
-- [Darth Caedus / Jacen Solo](darth-caedus.md): 273
+- [Darth Caedus / Jacen Solo](darth-caedus.md): 283
 - [Yoda](yoda.md): 90
 - [Count Dooku / Darth Tyranus](count-dooku.md): 141
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2249
@@ -1628,7 +1629,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Lord Scourge](lord-scourge/README.md): 1622
 - [Darth Malgus](darth-malgus/README.md): 1374
 - [Meetra Surik / the Jedi Exile](meetra-surik.md): 61
-- [Jaina Solo](jaina-solo.md): 227
+- [Jaina Solo](jaina-solo.md): 240
 - [Darth Wyyrlok III](darth-wyyrlok.md): 1110
 - [Han Solo](han-solo/README.md): 1081
 - [Boba Fett](boba-fett.md): 1029
@@ -1641,11 +1642,11 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 
 - [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
-- [Luke Skywalker](luke-skywalker.md): 211
+- [Luke Skywalker](luke-skywalker.md): 212
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 221
 - [Revan](revan.md): 141
 - [Yoda](yoda.md): 90
-- [Darth Caedus / Jacen Solo](darth-caedus.md): 273
+- [Darth Caedus / Jacen Solo](darth-caedus.md): 283
 - [Count Dooku / Darth Tyranus](count-dooku.md): 141
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
 - [General Grievous](general-grievous/README.md): 2198
@@ -1665,7 +1666,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Hero of Tython / Outlander (Jedi Knight)](hero-of-tython.md): 944
 - [Kreia / Darth Traya](darth-traya.md): 903
 - [Darth Malak](darth-malak.md): 877
-- [Jaina Solo](jaina-solo.md): 227
+- [Jaina Solo](jaina-solo.md): 240
 - [Darth Bane](darth-bane.md): 219
 - [Plo Koon](plo-koon.md): 848
 - [Grand Admiral Thrawn](thrawn.md): 725

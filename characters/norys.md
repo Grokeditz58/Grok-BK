@@ -6,18 +6,19 @@ Evidence file for Norys, the bullying leader of the Lost Ones gang in Coruscant'
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only). Notes: `notes/materials/175-yjk-03-the-lost-ones/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`).
+- Sources read for this file: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only). Notes: `notes/materials/175-yjk-03-the-lost-ones/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`). Young Jedi Knights 5: Darkest Knight (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/176-yjk-04-lightsabers/`.
-- This file has 13 entries and 13 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
+- This file has 16 entries and 16 quotes.
 
 ## Contents
 
 - [Background and Gang](#background-and-gang) (5)
-- [Statements and Beliefs](#statements-and-beliefs) (4)
-- [Limitations](#limitations) (4)
+- [Statements and Beliefs](#statements-and-beliefs) (6)
+- [Limitations](#limitations) (5)
 
 ## Background and Gang
 
@@ -121,9 +122,27 @@ This wasn't fair! It was supposed to be target practice. He should have been abl
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
+### 10. Norys: he should have gone on the raid and would burn Wookiee trees.
+
+```
+"I still say I should have been sent on the raid with Tamith Kai," Norys grumbled, waving his weapon as if it made him feel more secure. "I could have taken out a few enemies, evened the score a little bit for our side. Set a few of those big Wookiee trees on fire."
+
+Norys took aim at a blue target and missed. He liked target practice better when the targets were slow simulations like mynocks. It was fun to kill them. "Then they should have sent me alone, old man. I'm a better leader now than that trash collector will ever be."
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
+```
+
+### 11. Norys: 'We all make a few sacrifices.'
+
+```
+Norys shrugged. "We all make a few sacrifices to meet our goals." He glanced back at the targets. "Seems like a fair trade-off to me." He tossed the spent blaster rifle at Qorl, who caught it with his good arm.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
+```
+
 ## Limitations
 
-### 10. The mother hawkbat drives Norys back with a surprised yelp.
+### 12. The mother hawkbat drives Norys back with a surprised yelp.
 
 ```
 Just then a screeching sound came from above, a blood-curdling animal shriek. A predator’s heavy shadow swept like a dark blanket over the cracked windows of the walkway. With another loud scream, the mother hawkbat struck the side windows, smashing against the wire mesh that barely held the frames in place. She spat and hissed, her sharp beak ripping at the wires, her forked tongue thrashing as she dug her claws in, trying to get at Norys. The gang leader staggered backward with a surprised yelp.
@@ -131,7 +150,7 @@ Just then a screeching sound came from above, a blood-curdling animal shriek. A 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 11. Norys and the Lost Ones seem hypnotized by the Nightsisters.
+### 13. Norys and the Lost Ones seem hypnotized by the Nightsisters.
 
 ```
 The burly Norys and the other Lost Ones seemed to have been hypnotized, and Jacen wondered if Tamith Kai or the others were using some sort of Force trick to make them more susceptible to insidious suggestions.
@@ -139,7 +158,7 @@ The burly Norys and the other Lost Ones seemed to have been hypnotized, and Jace
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
-### 12. Qorl's spear smashes Norys into the wall.
+### 14. Qorl's spear smashes Norys into the wall.
 
 ```
 Norys stood astonished as the deadly spearpoint hurtled toward his chest plate. He just had time to cry "Hey!" in a panicked voice amplified by his helmet speakers before the barbed tip impacted squarely with enough force to smash him backward.
@@ -149,7 +168,7 @@ Norys slammed into the wall, his helmet ringing against the hard metal bulkhead.
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 13. Norys misses again and again until he realizes he is overcompensating.
+### 15. Norys misses again and again until he realizes he is overcompensating.
 
 ```
 He pointed the blaster and squeezed off an energy bolt, but the beam went wide, striking a stalactite and startling up four more of the angry flying creatures. The new batch of mynocks also attacked, annoyed at him for disturbing their dark slumber.
@@ -161,4 +180,16 @@ The blaster missed again and again as mynocks swirled around him, flapping their
 He suddenly realized that he had been aiming wrong. It was his own fault. Reacting wildly to his sudden fear, he had overcompensated.
 
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
+### 16. Norys misses repeatedly, then floods the range and hits friend and foe.
+
+```
+"Because," Norys said, taking aim at an orange target, but only nicking the edge of it, "my followers are so afraid of me they'd never dare disobey my orders." He missed once more. "Is the aim-point on this blaster offset again?"
+
+Norys bristled and missed another shot. He rounded on the former TIE pilot with a menacing growl. "Like what, old man?"
+
+"Really, old man?" Norys's lips pulled back in something between a snarl and a grin. He turned back toward the targets and, moving his blaster rifle in a slow semicircle, flooded the area with blaster bolts, never removing his finger from the firing stud. When he was finished, every target had registered a hit. A complete slaughter. Norys turned back toward Qorl with a satisfied smirk. "How much more target practice v do I need, old man?"
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```

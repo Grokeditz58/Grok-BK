@@ -16,7 +16,8 @@ Evidence file for Luke Skywalker, **Star Wars Legends** continuity, from the Gal
 - Backfill 2026-11-20 (Young Jedi Knights): added 22 entries from Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), read in full; e-book glitches were corrected against the 1995 print scan. Notes: `notes/materials/174-yjk-02-shadow-academy/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 7 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 16 entries from Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/176-yjk-04-lightsabers/`.
-- This file has 211 entries and 222 quotes (32 marked †).
+- Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
+- This file has 212 entries and 223 quotes (32 marked †).
 
 ## Contents
 
@@ -33,7 +34,7 @@ Evidence file for Luke Skywalker, **Star Wars Legends** continuity, from the Gal
 - [Acrobatics and Agility](#acrobatics-and-agility) (4)
 - [Hunting, Tracking and Stealth](#hunting-tracking-and-stealth) (1)
 - [Skills, Training and Cunning](#skills-training-and-cunning) (7)
-- [Statements from Other Characters](#statements-from-other-characters) (12)
+- [Statements from Other Characters](#statements-from-other-characters) (13)
 - [Author and Guide Statements](#author-and-guide-statements) (17)
 - [Limitations](#limitations) (37)
 - [Comic Panels Without a Matching Entry](#comic-panels-without-a-matching-entry) (0)
@@ -1558,9 +1559,17 @@ Tenel Ka acknowledged inwardly that there had been no weakness in Master Skywalk
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 10
 ```
 
+### 158. Luke: his Jedi Knights could defend themselves; the Shadow Academy would be foolish to underestimate them.
+
+```
+"I still think my Jedi Knights would do a good enough job defending themselves if it came to that," Luke said, smiling at the trainees standing around the temple. "The Shadow Academy would be foolish to underestimate us."
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 2
+```
+
 ## Author and Guide Statements
 
-### 158. Luke tells Vader, "Your thoughts betray you, Father. I feel the good in you," and recalls that twice before Vader could have killed him but did not.
+### 159. Luke tells Vader, "Your thoughts betray you, Father. I feel the good in you," and recalls that twice before Vader could have killed him but did not.
 
 ```
 Luke heard something else, though. “Your thoughts betray you, Father. I feel the good in you … the conflict. You could not bring yourself to kill me before—and you won’t destroy me now.” Twice before, in fact—to Luke’s recollection—Vader could have killed him, but didn’t. In the dogfight over the first Death Star, and later in the lightsaber duel on Bespin. He thought of Leia, briefly now, too—of how Vader had had her in his clutches once, had even tortured her … but didn’t kill her. He winced to think of her agony, but quickly pushed that from his mind. The point was clear to him, now, though so often so murky: there was still good in his father.
@@ -1568,7 +1577,7 @@ Luke heard something else, though. “Your thoughts betray you, Father. I feel t
 — Return of the Jedi (James Kahn, 1983), ch. 8
 ```
 
-### 159. Luke himself admits that his training was rushed and that with the deaths of Obi-Wan and Yoda he had to find his own way to mastery; he may have become more a Master of the Living Force than of the Unifying Force.
+### 160. Luke himself admits that his training was rushed and that with the deaths of Obi-Wan and Yoda he had to find his own way to mastery; he may have become more a Master of the Living Force than of the Unifying Force.
 
 ```
 Luke could accept that. His training had been rushed; and with the deaths of Obi-Wan and Yoda he had been obliged largely to pursue his own counsel, and find his own way to mastery. He would have been the first to admit that his understanding of the Force might be limited or incomplete; that he had perhaps become more a Master of the Living Force than what the late Vergere had called the Unifying Force. But even that deficiency should not have prevented him from being able to see Harrar.
@@ -1576,7 +1585,7 @@ Luke could accept that. His training had been rushed; and with the deaths of Obi
 — The Unifying Force (James Luceno, 2003), ch. 15
 ```
 
-### 160. Caedus thinks Luke is the one swordsman in the galaxy he dares not fight one-armed; Luke leaps forward weaving a basket of slashes and Caedus must flip away to gain distance.
+### 161. Caedus thinks Luke is the one swordsman in the galaxy he dares not fight one-armed; Luke leaps forward weaving a basket of slashes and Caedus must flip away to gain distance.
 
 ```
 All that mattered was that Luke was here, somehow, and that he was the one swordsman in the galaxy whom Caedus did not dare fight one-armed. Even as Luke leapt forward weaving a basket of lightsaber slashes, Caedus sprang back out of the projection booth, launching himself into a high Force flip designed to put as much distance between himself and his attacker as possible.
@@ -1584,7 +1593,7 @@ All that mattered was that Luke was here, somehow, and that he was the one sword
 — Invincible (Troy Denning, 2008), ch. 9
 ```
 
-### 161. A Dark Empire companion essay says Luke, using only a lightsaber, was able to deflect the cannonfire of an AT-AT walker back on itself, disabling the walker.
+### 162. A Dark Empire companion essay says Luke, using only a lightsaber, was able to deflect the cannonfire of an AT-AT walker back on itself, disabling the walker.
 
 ```
 warfare. Using only a lightsaber, Luke Skywalker was able to deflect the cannonfire of an AT-AT Imperial walker back on itself, disabling the walker.
@@ -1599,7 +1608,7 @@ warfare. Using only a lightsaber, Luke Skywalker was able to deflect the cannonf
 ![Dark Empire #6 p26: storm turns on maker](../notes/materials/041-dark-empire/panels/de6-p26-storm-turns-on-maker.jpg)
 ![Dark Empire #6 p27: two more powerful than one](../notes/materials/041-dark-empire/panels/de6-p27-two-more-powerful-than-one.jpg)
 
-### 162. A Dark Empire companion essay says that, personally trained by Obi-Wan and Yoda and linked to their strength through the Force, Luke rose quickly through the initial stages of Jedi knowledge.
+### 163. A Dark Empire companion essay says that, personally trained by Obi-Wan and Yoda and linked to their strength through the Force, Luke rose quickly through the initial stages of Jedi knowledge.
 
 ```
 Personally trained by these two great Jedi and linked to their strength and wisdom through the power of the Force, Luke rose quickly through the initial stages of Jedi knowledge. Thus he became instrumental in the overthrow of his father, the fall of the Emperor, and the
@@ -1610,7 +1619,7 @@ Personally trained by these two great Jedi and linked to their strength and wisd
 ![Dark Empire #1 p26: two masters](../notes/materials/041-dark-empire/panels/de1-p26-two-masters.jpg)
 ![Dark Empire #1 p27: force storm luke](../notes/materials/041-dark-empire/panels/de1-p27-force-storm-luke.jpg)
 
-### 163. Dark Empire II's introduction says it quickly became clear to Luke that the Emperor was masterfully adept in the ways of the dark side, "the dark side's most powerful expression," as Vader had warned.
+### 164. Dark Empire II's introduction says it quickly became clear to Luke that the Emperor was masterfully adept in the ways of the dark side, "the dark side's most powerful expression," as Vader had warned.
 
 ```
 It quickly became clear to Luke that this decrepit and seemingly defenseless old man was masterfully adept in the ways of the dark side of the Force. Indeed, as Vader had warned, the Emperor had become the dark side's most powerful expression.
@@ -1621,7 +1630,7 @@ It quickly became clear to Luke that this decrepit and seemingly defenseless old
 ![Dark Empire #2 p20: so have i](../notes/materials/041-dark-empire/panels/de2-p20-so-have-i.jpg)
 ![Dark Empire #2 p21: primarily energy](../notes/materials/041-dark-empire/panels/de2-p21-primarily-energy.jpg)
 
-### 164. A Dark Empire essay calls Luke "the last fully realized Jedi Master" and "the most important key to the rebirth and restoration of the Jedi Knights".
+### 165. A Dark Empire essay calls Luke "the last fully realized Jedi Master" and "the most important key to the rebirth and restoration of the Jedi Knights".
 
 ```
 As the last fully realized Jedi Master, Luke Skywalker is the most important key to the rebirth and restoration of the Jedi Knights.
@@ -1629,7 +1638,7 @@ As the last fully realized Jedi Master, Luke Skywalker is the most important key
 — Dark Empire #3, companion text (Dark Horse Comics, 1991) †
 ```
 
-### 165. Saga Edition stat block (Jedi Academy Training Manual): Grand Master Luke Skywalker is CL 20, with Use the Force +29 and Force powers, talents and skills listed in full.
+### 166. Saga Edition stat block (Jedi Academy Training Manual): Grand Master Luke Skywalker is CL 20, with Use the Force +29 and Force powers, talents and skills listed in full.
 
 ```
 Grand Master Luke Skywalker CL 20 Medium Human scout 1/Jedi 7/ace pilot 2/Jedi Knight 5/Jedi Master 5
@@ -1661,7 +1670,7 @@ Pilot +29, Ride +18, Stealth +29, Survival +18, Use the Force +29 Possessions li
 — Star Wars Roleplaying Game Saga Edition: Jedi Academy Training Manual (Wizards of the Coast, 2009), p. 100 †
 ```
 
-### 166. West End Games stat block (Jedi Academy Sourcebook): Luke has Force skills of control 13D+1, sense 11D+1 and alter 10D+2, and lightsaber and melee parry skills listed in full.
+### 167. West End Games stat block (Jedi Academy Sourcebook): Luke has Force skills of control 13D+1, sense 11D+1 and alter 10D+2, and lightsaber and melee parry skills listed in full.
 
 ```
 Blaster 6D+2, brawling parry 6D+2, dodge 9D, melee combat 5D+2, melee parry 10D+2, lightsaber 11D
@@ -1687,7 +1696,7 @@ Force Points: 7 Dark Side Points: 3 Character Points: 24
 — The Jedi Academy Sourcebook (West End Games, 1996), p. 34 †
 ```
 
-### 167. Star Wars Gamer #8 stats Luke as Fringer 2/Jedi Guardian 13/Jedi Master 3. (Summarized in our notes.)
+### 168. Star Wars Gamer #8 stats Luke as Fringer 2/Jedi Guardian 13/Jedi Master 3. (Summarized in our notes.)
 
 ```
 Male Hurnan Fringer 2/Jedi Guardian 13/Jedi Master 3; init +2 (Dex); Defense 25 (+13 class, +2 Dex) or 32 (when using Deflect: Defense and Lightsaber Defense); Speed 10; VP/WP 116/12; Atk +21/+06/ 411/46" melee (5d8+2/19-20, lightsaber) or +09/4+14/+9/+4 ranged (36, blaster pistol); $Q Barter, Block, Bonus class skill (Repair), Deflect (Attack —3, Defense +3, extend defense and
@@ -1695,7 +1704,7 @@ Male Hurnan Fringer 2/Jedi Guardian 13/Jedi Master 3; init +2 (Dex); Defense 25 
 — Star Wars Gamer #8 (Wizards of the Coast, 2001), p. 85 †
 ```
 
-### 168. The Complete Star Wars Encyclopedia: Luke uses two lightsabers to sever Shimrra's head from his body.
+### 169. The Complete Star Wars Encyclopedia: Luke uses two lightsabers to sever Shimrra's head from his body.
 
 ```
 In battle with Shimrra, Luke used two lightsabers to sever the Supreme Overlord's huge head from his body.
@@ -1703,7 +1712,7 @@ In battle with Shimrra, Luke used two lightsabers to sever the Supreme Overlord'
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 165 †
 ```
 
-### 169. The Complete Star Wars Encyclopedia: Luke bests Alema Rar, crippling her with a slash from shoulder to sternum.
+### 170. The Complete Star Wars Encyclopedia: Luke bests Alema Rar, crippling her with a slash from shoulder to sternum.
 
 ```
 Luke bested Alema, crippling her with a lightsaber strike that slashed her from shoulder to sternum.
@@ -1711,7 +1720,7 @@ Luke bested Alema, crippling her with a lightsaber strike that slashed her from 
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 80 †
 ```
 
-### 170. The Complete Star Wars Encyclopedia: Luke kills Welk, believed at first to resolve the Qoribu crisis.
+### 171. The Complete Star Wars Encyclopedia: Luke kills Welk, believed at first to resolve the Qoribu crisis.
 
 ```
 The Qoribu crisis was believed to have been resolved when Welk was killed by Jedi Master Luke Skywalker, an event that supposedly marked the end of the Dark Nest.
@@ -1719,7 +1728,7 @@ The Qoribu crisis was believed to have been resolved when Welk was killed by Jed
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 57 †
 ```
 
-### 171. The Complete Star Wars Encyclopedia: Luke kills the rancor after Jabba forces him into the pit.
+### 172. The Complete Star Wars Encyclopedia: Luke kills the rancor after Jabba forces him into the pit.
 
 ```
 The towering monster was killed by Luke Skywalker when the Jedi was forced into the pit by Jabba's treachery.
@@ -1727,7 +1736,7 @@ The towering monster was killed by Luke Skywalker when the Jedi was forced into 
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 78 †
 ```
 
-### 172. The New Essential Chronology describes Callista as someone whose Force strength "was as great as his own".
+### 173. The New Essential Chronology describes Callista as someone whose Force strength "was as great as his own".
 
 ```
 Callista—someone whose strength in the Force was as great as his own—was a woman with whom he could spend the rest of his life.
@@ -1735,7 +1744,7 @@ Callista—someone whose strength in the Force was as great as his own—was a w
 — The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 169 †
 ```
 
-### 173. The New Essential Chronology: the Ssi-ruuk hope that "this powerful Jedi" can entech victims from great distances.
+### 174. The New Essential Chronology: the Ssi-ruuk hope that "this powerful Jedi" can entech victims from great distances.
 
 ```
 The Ssi-ruuk hoped this powerful Jedi would be capable of enteching victims from great distances, sucking their life-energies from afar.
@@ -1743,7 +1752,7 @@ The Ssi-ruuk hoped this powerful Jedi would be capable of enteching victims from
 — The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 128 †
 ```
 
-### 174. Narration describes Luke as carrying calm power, a thunderstorm bottled up in a diamond-hard gentleness.
+### 175. Narration describes Luke as carrying calm power, a thunderstorm bottled up in a diamond-hard gentleness.
 
 ```
 Luke still had the boyish looks that Jaina recalled from the history tapes, but now he carried calm power in his lean form, a thunderstorm bottled up in a diamond-hard gentleness.
@@ -1755,7 +1764,7 @@ Luke still had the boyish looks that Jaina recalled from the history tapes, but 
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 175. OVERWHELMED BY THE EMPEROR'S LIGHTNING: Hit by the Emperor's Force lightning, Luke raises his arms and at first rebounds the bolts into the walls, but the shocks come with such speed and power that they course through him and he can only shrink before them, convulsing.
+### 176. OVERWHELMED BY THE EMPEROR'S LIGHTNING: Hit by the Emperor's Force lightning, Luke raises his arms and at first rebounds the bolts into the walls, but the shocks come with such speed and power that they course through him and he can only shrink before them, convulsing.
 
 ```
 But if it was Force-generated, it could be Force-repelled. Luke raised his arms to deflect the bolts. Initially, he was successful—the lightning rebounded from his touch, harmlessly into the walls. Soon, though, the shocks came with such speed and power, they coursed over and into him, and he could only shrink before them, convulsed with pain, his knees buckling, his powers at ebb.
@@ -1763,7 +1772,7 @@ But if it was Force-generated, it could be Force-repelled. Luke raised his arms 
 — Return of the Jedi (James Kahn, 1983), ch. 8
 ```
 
-### 176. HATRED MAKES HIM RECKLESS: In the Cloud City duel, Luke's great hatred of Vader makes him lunge savagely, and the Dark Lord effortlessly deflects the blow with a defensive turn of his own weapon.
+### 177. HATRED MAKES HIM RECKLESS: In the Cloud City duel, Luke's great hatred of Vader makes him lunge savagely, and the Dark Lord effortlessly deflects the blow with a defensive turn of his own weapon.
 
 ```
 His great hatred for Vader impelled Luke to lunge at him savagely, bringing his sizzling blade down upon Vader’s. But effortlessly, the Dark Lord deflected the blow with a defensive turn of his own weapon.
@@ -1771,7 +1780,7 @@ His great hatred for Vader impelled Luke to lunge at him savagely, bringing his 
 — The Empire Strikes Back (Donald F. Glut, 1980), ch. 12
 ```
 
-### 177. DISARMED AND MAIMED BY VADER: During the Cloud City duel, Luke involuntarily glances at a floating instrument panel; Vader's blade slashes across Luke's hand and sends his lightsaber flying.
+### 178. DISARMED AND MAIMED BY VADER: During the Cloud City duel, Luke involuntarily glances at a floating instrument panel; Vader's blade slashes across Luke's hand and sends his lightsaber flying.
 
 ```
 An instant of distraction was all Vader needed. As the instrument panel floated away, Luke involuntarily glanced at it. At that second, the Dark Lord’s laser blade came slashing down across Luke’s hand, cutting it, and sending the youth’s lightsaber flying.
@@ -1779,7 +1788,7 @@ An instant of distraction was all Vader needed. As the instrument panel floated 
 — The Empire Strikes Back (Donald F. Glut, 1980), ch. 13
 ```
 
-### 178. KNOCKED DOWN BY C'BAOTH: In the throne room fight, C'baoth's lightning bursts knock Luke off balance onto his knees, a falling rock slams into his head, and the lightsaber is plucked from his fingers and flies across the throne room.
+### 179. KNOCKED DOWN BY C'BAOTH: In the throne room fight, C'baoth's lightning bursts knock Luke off balance onto his knees, a falling rock slams into his head, and the lightsaber is plucked from his fingers and flies across the throne room.
 
 ```
 Luke dropped his lightsaber back into defense position, senses again tingling with danger. But once again, the knowledge did him little good. C’baoth’s lightning burst flashed against the lightsaber blade, the impact knocking Luke off balance and dropping him painfully onto his knees in the pile of stones around him. Even as he struggled to get up, one of the falling rocks slammed hard into the side of his head. He staggered, toppling sideways onto one hand. Again the lightning flashed, throwing coronal fire all through the stone pile and sending wave after wave of agony through him. The lightsaber was plucked from his fingers; dimly he saw it fly over the railing toward the far end of the throne room.
@@ -1787,7 +1796,7 @@ Luke dropped his lightsaber back into defense position, senses again tingling wi
 — The Last Command (Timothy Zahn, 1993), ch. 28
 ```
 
-### 179. SURPRISED BY GANTORIS: Standing over a beaten Gantoris, Luke is surprised when Gantoris extends his violet blade like a spear to nearly double its length.
+### 180. SURPRISED BY GANTORIS: Standing over a beaten Gantoris, Luke is surprised when Gantoris extends his violet blade like a spear to nearly double its length.
 
 ```
 Luke stood over him, intending to call an end to the duel, but Gantoris’s eyes blazed brighter. As if springing a trap, he fingered a button on his lightsaber handle—and the violet-edged blade suddenly extended like a spear, flashing outward to nearly double its length.
@@ -1795,7 +1804,7 @@ Luke stood over him, intending to call an end to the duel, but Gantoris’s eyes
 — Dark Apprentice (Kevin J. Anderson, 1994), ch. 7
 ```
 
-### 180. DEFEATED BY KYP AND EXAR KUN: Facing the black-hooded apparition, Luke's lightsaber turns cold, frost forms on the handle, a shadow rots the green beam from its core, and the blade dies with a fizzle of sparks.
+### 181. DEFEATED BY KYP AND EXAR KUN: Facing the black-hooded apparition, Luke's lightsaber turns cold, frost forms on the handle, a shadow rots the green beam from its core, and the blade dies with a fizzle of sparks.
 
 ```
 Luke stumbled backward. The lightsaber turned cold in his hand. Frost crystals grew in feathery patterns around the handle. At the core of the brilliant green blade a shadow appeared, a black disease rotting away the purity of the beam. The humming blade sputtered, sounding like a sickly cough. The black taint rapidly grew stronger, swallowing up the green beam.
@@ -1805,7 +1814,7 @@ With a fizzle of sparks Luke’s lightsaber died.
 — Dark Apprentice (Kevin J. Anderson, 1994), ch. 32
 ```
 
-### 181. BLADE TURNED BY FIREWORM ARMOR: Slashing at a fireworm in the Great Temple on Yavin 4, Luke's blade smashes against the mirrored armor plates and the green edge refracts into a thousand components that ricochet around the chamber.
+### 182. BLADE TURNED BY FIREWORM ARMOR: Slashing at a fireworm in the Great Temple on Yavin 4, Luke's blade smashes against the mirrored armor plates and the green edge refracts into a thousand components that ricochet around the chamber.
 
 ```
 As the fireworm struck, Luke slashed with his humming green blade. But when the lightsaber smashed against the mirrored armor plates, the glowing green edge refracted into a thousand components, splitting and ricocheting around the chamber. Sparks showered all around him. The energy blade that could supposedly slice through anything broke only one small silicon armor plate.
@@ -1813,7 +1822,7 @@ As the fireworm struck, Luke slashed with his humming green blade. But when the 
 — Jedi Search (Kevin J. Anderson, 1994), ch. 8
 ```
 
-### 182. PINNED BY SHIMRRA: Shimrra's three-meter amphistaff wraps around Luke's torso, pinning his right arm and lightsaber hilt to his side with the blade pointed at the floor.
+### 183. PINNED BY SHIMRRA: Shimrra's three-meter amphistaff wraps around Luke's torso, pinning his right arm and lightsaber hilt to his side with the blade pointed at the floor.
 
 ```
 Lunging, the thick, three-meter-long amphistaff wound itself around Luke’s torso, pinning his right arm and light-saber hilt to his side, the green blade aimed at the floor. Just in time, Luke managed to get his left hand gripped on the snake’s uppermost coils and avert the head as it loosed volumes of venom at him. But Luke was rapidly being squeezed to death by the amphistaff. Feeling his uncle’s suffocation in his own crushed chest, Jacen summoned his strength and crawled frantically for his lightsaber. Calling it to his right hand, he sent it hurtling through the air at Shimrra’s head.
@@ -1821,7 +1830,7 @@ Lunging, the thick, three-meter-long amphistaff wound itself around Luke’s tor
 — The Unifying Force (James Luceno, 2003), ch. 40
 ```
 
-### 183. TRAPPED IN LOMI PLO'S NET: When Lomi Plo's net closes, Luke pushes out with the Force to stop it constricting and slicing his vac suit, but is not strong enough to break the attack outright, because she can still draw on her nest to enhance her Force potential.
+### 184. TRAPPED IN LOMI PLO'S NET: When Lomi Plo's net closes, Luke pushes out with the Force to stop it constricting and slicing his vac suit, but is not strong enough to break the attack outright, because she can still draw on her nest to enhance her Force potential.
 
 ```
 Luke knew what was coming next: the Myrkr strike team had described how Lomi Plo had used a similar net to dice a Yuuzhan Vong captor into bits. Luke began to push out with the Force, stopping the net from constricting any further and slicing through this vac suit. But he was not strong enough to break the attack outright. Cilghal’s Dazer had cut Lomi Plo off from the collective mind of the Gorog, but not from the Force. She could still draw on her nest to enhance her Force potential, and as strong as Luke was, he was not strong enough to overpower an entire nest of Killiks. He would simply have to hold on—and hope she ran out of air before he ran out of strength.
@@ -1829,7 +1838,7 @@ Luke knew what was coming next: the Myrkr strike team had described how Lomi Plo
 — The Swarm War (Troy Denning, 2006), ch. 18
 ```
 
-### 184. WEAKER ONE-HANDED: The narration notes that Luke favors two-handed styles and can fight single-handed with his weak hand as well as anyone in the academy, but cannot fight wounded and weak-handed against twin blades while a second party fires shatter gun pellets at him.
+### 185. WEAKER ONE-HANDED: The narration notes that Luke favors two-handed styles and can fight single-handed with his weak hand as well as anyone in the academy, but cannot fight wounded and weak-handed against twin blades while a second party fires shatter gun pellets at him.
 
 ```
 In lightsaber combat, Luke favored two-handed styles, but he could still fight single-handed—even with his weak hand—just as well as anyone in the academy. What he could not do, however, was fight wounded and weak-handed against twin blades while a second party fired a steady stream of hard-to-deflect shatter gun pellets at him.
@@ -1837,7 +1846,7 @@ In lightsaber combat, Luke favored two-handed styles, but he could still fight s
 — The Swarm War (Troy Denning, 2006), ch. 25
 ```
 
-### 185. OUTPACED BY C'BAOTH: Luke senses the danger half a second before Svan dives for a slugthrower and ignites his lightsaber in one motion, but C'baoth is faster and fires a volley of blue Force lightning.
+### 186. OUTPACED BY C'BAOTH: Luke senses the danger half a second before Svan dives for a slugthrower and ignites his lightsaber in one motion, but C'baoth is faster and fires a volley of blue Force lightning.
 
 ```
 Luke caught the flicker of sense a half second before Svan dived for the slugthrower. With a single smooth motion he had his lightsaber free of his belt and ignited. But C’baoth was faster. Even as Luke’s green-white blade snapped into existence, C’baoth raised his hand; and from his fingertips flashed a sizzling volley of all-too-well-remembered blue lightning bolts.
@@ -1845,7 +1854,7 @@ Luke caught the flicker of sense a half second before Svan dived for the slugthr
 — Dark Force Rising (Timothy Zahn, 1992), ch. 14
 ```
 
-### 186. NEARLY CUT BY BRAKISS: In the Brakiss duel, Luke does not move quickly enough against a great circular slash and his shirt is seared, narrowly missing his skin, before he begins to match each movement.
+### 187. NEARLY CUT BY BRAKISS: In the Brakiss duel, Luke does not move quickly enough against a great circular slash and his shirt is seared, narrowly missing his skin, before he begins to match each movement.
 
 ```
 Brakiss tried a series of small thrusts, little movements designed to be parried, and then he arched the lightsaber in one great circular movement. Luke didn’t move quickly enough. Brakiss’s lightsaber seared Luke’s shirt, narrowly missing his skin. Luke then matched each movement of Brakiss’s.
@@ -1853,7 +1862,7 @@ Brakiss tried a series of small thrusts, little movements designed to be parried
 — The New Rebellion (Kristine Kathryn Rusch, 1996), ch. 20
 ```
 
-### 187. BROKEN ANKLE AGAINST KUELLER: Fighting Kueller with a broken ankle, Luke parries five rapid thrusts but cannot keep his balance, his ankle buckles, and Kueller knocks the lightsaber from his hand.
+### 188. BROKEN ANKLE AGAINST KUELLER: Fighting Kueller with a broken ankle, Luke parries five rapid thrusts but cannot keep his balance, his ankle buckles, and Kueller knocks the lightsaber from his hand.
 
 ```
 In a series of five rapid thrusts, Kueller moved Luke backward again. Luke parried, parried, parried, but couldn’t keep his balance. His ankle was clearly broken and unable to support him. Kueller jabbed at Luke’s left side. Luke swiveled to dodge, and Kueller jabbed again. Luke’s ankle buckled, but he didn’t fall. Kueller pushed closer, and knocked Luke’s lightsaber from his hand.
@@ -1861,7 +1870,7 @@ In a series of five rapid thrusts, Kueller moved Luke backward again. Luke parri
 — The New Rebellion (Kristine Kathryn Rusch, 1996), ch. 32
 ```
 
-### 188. NEARLY KILLED BY A TUSKEN: On Tatooine, a Tusken Raider's gaderffii would have cleaved Luke's skull in two but for his instinctive throw up of his rifle, which deflects the blow but is shattered by it.
+### 189. NEARLY KILLED BY A TUSKEN: On Tatooine, a Tusken Raider's gaderffii would have cleaved Luke's skull in two but for his instinctive throw up of his rifle, which deflects the blow but is shattered by it.
 
 ```
 As the moment of confrontation passed, the Tusken let out a terrifying grunt of fury and pleasure and brought down his heavy gaderffii. The double-edged ax would have cleaved Luke’s skull neatly in two, except that he threw the rifle up in a gesture more instinctive than calculated. His weapon deflected the blow, but would never do so again. Made from cannibalized freighter plating the huge ax shattered the barrel and made metallic confetti of the gun’s delicate insides.
@@ -1869,7 +1878,7 @@ As the moment of confrontation passed, the Tusken let out a terrifying grunt of 
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 4
 ```
 
-### 189. OVERPOWERED BY VADER'S CUT: In a lightsaber exchange with Vader in Shadows of the Empire, Vader's powerful cut at Luke's left side hits so hard it vibrates him and nearly tears the lightsaber from his grip.
+### 190. OVERPOWERED BY VADER'S CUT: In a lightsaber exchange with Vader in Shadows of the Empire, Vader's powerful cut at Luke's left side hits so hard it vibrates him and nearly tears the lightsaber from his grip.
 
 ```
 Luke pulled his lightsaber, lit it, brought it up. The gleaming blue white of his blade met Vader’s reddish beam as they crossed in on-guard salute. The power hum and energy crackle grew louder.
@@ -1881,7 +1890,7 @@ Luke jerked his blade up and over, dropped the point, blocked the slash; it hit 
 — Shadows of the Empire (Steve Perry, 1996), ch. 1
 ```
 
-### 190. STUBBORN: A Dark Empire essay says Luke's teachers nearly despaired over his willingness to disregard the advice of those older and wiser, and his failure to come to terms with his hotheaded recklessness.
+### 191. STUBBORN: A Dark Empire essay says Luke's teachers nearly despaired over his willingness to disregard the advice of those older and wiser, and his failure to come to terms with his hotheaded recklessness.
 
 ```
 And yet... Luke's teachers nearly despaired over his willingness to disregard the advice of those older and wiser than himself -- and his failure to come to terms with his hotheaded recklessness. At times it seemed he was even on the verge of following the selfish and willful
@@ -1889,7 +1898,7 @@ And yet... Luke's teachers nearly despaired over his willingness to disregard th
 — Dark Empire #1, companion text (Dark Horse Comics, 1991) †
 ```
 
-### 191. IMPETUOUS: Another Dark Empire essay says that Yoda tried to move Luke to the higher levels of Jedi training, but Luke, impetuous, willful, full of youthful hunger for action, seemed never to hear him.
+### 192. IMPETUOUS: Another Dark Empire essay says that Yoda tried to move Luke to the higher levels of Jedi training, but Luke, impetuous, willful, full of youthful hunger for action, seemed never to hear him.
 
 ```
 Gently, persistently, Master Yoda tried to move Luke through the rigors of physical combat to the higher levels of Jedi training. But Luke, impetuous, willful, full of youthful hunger for action, seemed to never hear what Yoda tried to tell him.
@@ -1897,7 +1906,7 @@ Gently, persistently, Master Yoda tried to move Luke through the rigors of physi
 — Dark Empire #6, companion text (Dark Horse Comics, 1991) †
 ```
 
-### 192. NEAR THE DARK SIDE: In the second Death Star duel Luke fought his father with a frenzy that took him to the edge of victory and madness; with his lightsaber at Vader's throat, he realized another inch of hatred would make him belong to the dark side forever.
+### 193. NEAR THE DARK SIDE: In the second Death Star duel Luke fought his father with a frenzy that took him to the edge of victory and madness; with his lightsaber at Vader's throat, he realized another inch of hatred would make him belong to the dark side forever.
 
 ```
 faced off again...and again their lightsabers clashed. Filled with rage against his father's betrayal, Luke fought with a frenzy that took him to the very edge of victory and madness. With his lightsaber pressed against his father's throat, a movement away from committing patricide -- Luke suddenly understood that if he gave another inch to his hatred, he would belong to the dark side -- forever.
@@ -1905,7 +1914,7 @@ faced off again...and again their lightsabers clashed. Filled with rage against 
 — Dark Empire #1, companion text (Dark Horse Comics, 1991) †
 ```
 
-### 193. CAN'T OUTLAST HER EASILY: Lumiya's lightwhip misses Luke by centimeters and he is driven back on each lunge; "She'd slow sooner or later. But so would he."
+### 194. CAN'T OUTLAST HER EASILY: Lumiya's lightwhip misses Luke by centimeters and he is driven back on each lunge; "She'd slow sooner or later. But so would he."
 
 ```
 She drew back her arm and brought the lightwhip crackling through the air, missing Luke by centimeters. He lunged at her again and again, driven back each time. She’d slow sooner or later.
@@ -1915,7 +1924,7 @@ But so would he.
 — Sacrifice (Karen Traviss, 2007), ch. 22
 ```
 
-### 194. BLINDSIDED AND POISONED BY JACEN: Expecting lightning, Luke is instead slammed into a durasteel wall by a hurled thorn bed whose thorns pump venom into him.
+### 195. BLINDSIDED AND POISONED BY JACEN: Expecting lightning, Luke is instead slammed into a durasteel wall by a hurled thorn bed whose thorns pump venom into him.
 
 ```
 The lightning never came. Instead, Luke was blindsided by something heavy and spiky, and his body exploded into pain as he slammed into a durasteel wall. He found himself pinned in place, trapped by a bed of thorns Jacen had hurled across the cabin. He felt the hot sting of the thorns pumping their venom into him. His hearing faded and his head began to spin, and he saw Jacen, one hand still raised to keep Luke pinned, sneering and taking his time rising.
@@ -1923,7 +1932,7 @@ The lightning never came. Instead, Luke was blindsided by something heavy and sp
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 195. CRIPPLED KNEE AND RIBS: Jacen's Force-enhanced punch leaves Luke croaking for breath, a kick pops his knee, and the knee keeps buckling as he tries to finish the fight.
+### 196. CRIPPLED KNEE AND RIBS: Jacen's Force-enhanced punch leaves Luke croaking for breath, a kick pops his knee, and the knee keeps buckling as he tries to finish the fight.
 
 ```
 —which Jacen ducked. He came up under Luke’s guard, holding his weapon with one hand and driving a Force-enhanced punch into Luke’s ribs with the other, striking for the same place he had kicked earlier. Luke’s chest exploded into pain, and he found himself croaking instead of breathing.
@@ -1935,7 +1944,7 @@ Luke started forward, his injured knee buckling each time he put weight on it. T
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 196. GARROTED BY JACEN: Beating Jacen's guard down "too quickly," Luke walks into a trap; a toxic tendril loop tightens around his throat, and Jacen keeps Luke's body between himself and the blade.
+### 197. GARROTED BY JACEN: Beating Jacen's guard down "too quickly," Luke walks into a trap; a toxic tendril loop tightens around his throat, and Jacen keeps Luke's body between himself and the blade.
 
 ```
 Luke Force-leapt after him, knowing that this Jacen—the Jacen he had caught torturing his son—would not hesitate to take Ben hostage … or to kill him. Luke landed half a meter in front of Jacen’s lightsaber and quickly beat down his nephew’s guard—too quickly. When he did not glimpse a face in the light of his own blade, Luke knew something was wrong and stopped.
@@ -1949,7 +1958,7 @@ Luke had barely started to turn before a loop of thin tendril slipped over his h
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 197. SHOT DURING THE LOMI PLO DUEL: Cocking a death slash, Luke is hit by a shatter gun pellet that sends him tumbling and paralyzes his prosthetic arm, leaving him driven into a corner.
+### 198. SHOT DURING THE LOMI PLO DUEL: Cocking a death slash, Luke is hit by a shatter gun pellet that sends him tumbling and paralyzes his prosthetic arm, leaving him driven into a corner.
 
 ```
 Luke whipped his blade around, cocking it for a death slash across her middle—then had a prickle of danger sense between his shoulder blades and tried to spin away. He almost made it.
@@ -1963,7 +1972,7 @@ The weapon arrived just ahead of Lomi Plo, and suddenly Luke found himself on th
 — The Swarm War (Troy Denning, 2006), ch. 25
 ```
 
-### 198. OUTMATCHED IN FORCE STRENGTH BY ABELOTH: Pinned by Abeloth, Luke can only reinforce his larynx with the Force to keep her from crushing it; "Abeloth had a dozen times the Force strength Luke had." He breaks free by igniting his lightsaber through her stomach.
+### 199. OUTMATCHED IN FORCE STRENGTH BY ABELOTH: Pinned by Abeloth, Luke can only reinforce his larynx with the Force to keep her from crushing it; "Abeloth had a dozen times the Force strength Luke had." He breaks free by igniting his lightsaber through her stomach.
 
 ```
 Luke tucked his chin and managed to flip to his back before he hit the stone floor. Abeloth was on top of him, her flesh blistered and smoking, her remaining leg entwining both of his, her remaining arm wrapped around the back of his neck. She drove the still-sizzling stump of her amputated arm into his throat, catching him square in the voice box and pressing hard. The cartilage began to give. He pushed back with the Force, reinforcing his larynx and trying to throw her off.
@@ -1973,7 +1982,7 @@ It was no good. Abeloth had a dozen times the Force strength Luke had, and he co
 — Vortex (Troy Denning, 2010), ch. 32
 ```
 
-### 199. YSALAMIRI: With his Jedi senses blinded by the ysalamiri, Luke gets no warning of the alien marksman until Artoo squawks.
+### 200. YSALAMIRI: With his Jedi senses blinded by the ysalamiri, Luke gets no warning of the alien marksman until Artoo squawks.
 
 ```
 With his Jedi senses blinded by the ysalamiri effect, Artoo’s sudden squawk was his only warning. He looked up, dropping the frame and leaping backward, his hand instinctively stretching back toward the lightsaber on the floor. One of the blue-skinned aliens was crouching in a marksman’s stance in the open doorway, another of the nutrient frames strapped to his back, his weapon up and tracking. Luke took another step backward, the Force suddenly flooding in around him again as he moved out of the ysalamir’s range. He felt the power tingling through his hand as he again called the lightsaber to him, wondering why it wasn’t already in his hand—
@@ -1981,7 +1990,7 @@ With his Jedi senses blinded by the ysalamiri effect, Artoo’s sudden squawk wa
 — Vision of the Future (Timothy Zahn, 1998), ch. 28
 ```
 
-### 200. INFECTED LEG: Aboard the Eye of Palpatine, the infection in Luke's leg worsens, and he relies on a dwindling supply of perigen.
+### 201. INFECTED LEG: Aboard the Eye of Palpatine, the infection in Luke's leg worsens, and he relies on a dwindling supply of perigen.
 
 ```
 The silence returned, lengthened. The pain in Luke’s leg increased, the deep internal burning of infection unmistakable now. Keeping his senses stretched, his mind forced to attention on the corridor, he opened the patch in the leg of his coverall and affixed a new dose of perigen, though his supply was running perilously low. Anything to keep the pain at bay, to free his concentration for the use of the Force. Exhaustion and perigen-suppressed fever made him dizzy. He realized it had been some time since he’d eaten or slept, and his hand, when he straightened up to lean on his staff again, trembled.
@@ -1989,7 +1998,7 @@ The silence returned, lengthened. The pain in Luke’s leg increased, the deep i
 — Children of the Jedi (Barbara Hambly, 1995), ch. 11
 ```
 
-### 201. KNOCKED DOWN BY A KRIZLAW: Luke cuts through a lunging Krizlaw's forelimbs, but the creature still slams into his chest.
+### 202. KNOCKED DOWN BY A KRIZLAW: Luke cuts through a lunging Krizlaw's forelimbs, but the creature still slams into his chest.
 
 ```
 Another Krizlaw lunged, extendable mouth open to engulf him. He swung his lightsaber again, this time with more force—using the thought of Mara and Ben to strengthen his resolve to stay alive. The blade cut through the creature’s forelimbs, but it wasn’t enough to halt its movement through the air. It connected solidly with Luke’s chest, knocking him to the ground. Its huge, slavering jaws were suddenly centimeters from his face. Before he’d had the chance to bring his lightsaber up to defend himself, five blasts sounded from nearby, each one striking the alien’s head. Mucus and blood splashed Luke’s face, and the Krizlaw fell heavily to one side. He would have liked to offer his thanks to the stormtrooper who’d fired the shot, but he had already turned his attention to the other creatures attacking them. There wasn’t time to be grateful.
@@ -1997,7 +2006,7 @@ Another Krizlaw lunged, extendable mouth open to engulf him. He swung his lights
 — Force Heretic II: Refugee (Sean Williams and Shane Dix, 2003), ch. 1
 ```
 
-### 202. WOUNDED BY THE SITH: Luke is cut through his suit "clear down to the flesh" by a slash he never sees, and his suit begins venting blood and air.
+### 203. WOUNDED BY THE SITH: Luke is cut through his suit "clear down to the flesh" by a slash he never sees, and his suit begins venting blood and air.
 
 ```
 But the slash that actually wounded Luke, that cut through his suit clear down to the flesh, he did not see—did not even feel. He simply sensed the older Sith dancing in, opposite the girl, taking advantage of his divided attention to bring her scarlet blade sweeping toward his throat. He dropped to a knee, driving his own blade up at her midsection, then cursed as she twisted away with nothing but a smoking furrow across the belly of her vac suit.
@@ -2007,7 +2016,7 @@ And that was when Luke noticed the blood boiling up in front of his faceplate. H
 — Abyss (Troy Denning, 2009), ch. 28
 ```
 
-### 203. NEARLY DESTROYED BY HIS CLONE: The Complete Star Wars Encyclopedia says that the clone, using Luke's lost lightsaber, "nearly destroyed" him.
+### 204. NEARLY DESTROYED BY HIS CLONE: The Complete Star Wars Encyclopedia says that the clone, using Luke's lost lightsaber, "nearly destroyed" him.
 
 ```
 Using the lightsaber that Luke had lost along with his hand, the clone nearly destroyed Skywalker.
@@ -2015,7 +2024,7 @@ Using the lightsaber that Luke had lost along with his hand, the clone nearly de
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 165 †
 ```
 
-### 204. KILLS THE WRONG PERSON: After killing Lumiya to avenge Mara, Luke realizes from Ben's account that he has killed the wrong person.
+### 205. KILLS THE WRONG PERSON: After killing Lumiya to avenge Mara, Luke realizes from Ben's account that he has killed the wrong person.
 
 ```
 However, upon meeting up with Ben, Luke realized that he had killed the wrong person.
@@ -2029,7 +2038,7 @@ Luke, however, at first believed Lumiya was the murderer and killed her.
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 166 †
 ```
 
-### 205. Luke's test of Brakiss fails: Brakiss loses his inner battle and flees with what he learned.
+### 206. Luke's test of Brakiss fails: Brakiss loses his inner battle and flees with what he learned.
 
 ```
 “I had hoped the test would heal him, but instead Brakiss lost that battle. Perhaps he was simply not prepared to confront what he saw inside himself. It broke him somehow.
@@ -2039,7 +2048,7 @@ He fled from this jungle moon, and I believe he went straight back to the Empire
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 2
 ```
 
-### 206. After the monster leaves, Luke slumps with exhaustion and can barely keep his balance.
+### 207. After the monster leaves, Luke slumps with exhaustion and can barely keep his balance.
 
 ```
 Like a snapped string, Luke’s shoulders slumped with exhaustion.
@@ -2047,7 +2056,7 @@ Like a snapped string, Luke’s shoulders slumped with exhaustion.
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 207. Luke's calming technique is less effective; he feels anger at the kidnapping.
+### 208. Luke's calming technique is less effective; he feels anger at the kidnapping.
 
 ```
 Luke drew in a deep breath. Tenel Ka guessed he was using a Jedi calming technique, but with less success than usual. His body appeared relaxed, but his clear blue eyes carried a laser-sharp look. One hand was clenched into a fist at his side. “Who did this?” he asked, his voice terse.
@@ -2055,7 +2064,7 @@ Luke drew in a deep breath. Tenel Ka guessed he was using a Jedi calming techniq
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 5
 ```
 
-### 208. Facing Brakiss, Luke does not want to fight him.
+### 209. Facing Brakiss, Luke does not want to fight him.
 
 ```
 Luke felt cold inside. He didn’t want to fight Brakiss, especially not now.
@@ -2063,7 +2072,7 @@ Luke felt cold inside. He didn’t want to fight Brakiss, especially not now.
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 209. Luke calls Gantoris his first true failure as a teacher.
+### 210. Luke calls Gantoris his first true failure as a teacher.
 
 ```
 "My first true failure as a teacher was another student named Gantoris. He built his lightsaber in only a few intense days, following instructions given to him by the evil spirit of Exar Kun. Gantoris thought he was ready, and my mistake was not seeing what he was up to.
@@ -2071,7 +2080,7 @@ Luke felt cold inside. He didn’t want to fight Brakiss, especially not now.
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 2
 ```
 
-### 210. Luke lost his first lightsaber and his hand to Vader.
+### 211. Luke lost his first lightsaber and his hand to Vader.
 
 ```
 "This is not my first lightsaber." Luke drew it back and forth through the empty air so that its hum changed frequency. "Note the color of its blade. I lost my first lightsaber years ago . . . my father's lightsaber." He swallowed and seemed to struggle against a dark memory from his past. Jaina knew the story of how Luke had lost his other lightsaber during a duel with Darth Vader on Cloud City. In that terrible fight Luke Skywalker had lost not only his lightsaber, but his hand as well.
@@ -2079,7 +2088,7 @@ Luke felt cold inside. He didn’t want to fight Brakiss, especially not now.
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 2
 ```
 
-### 211. Luke presses Ta'a Chume on whether her granddaughter's wishes matter.
+### 212. Luke presses Ta'a Chume on whether her granddaughter's wishes matter.
 
 ```
 "Does it matter to you what your granddaughter wants for herself?" Luke asked bluntly. "I know it matters to her parents. When I let her leave my protection on Yavin 4 to return to Hapes, I thought her parents would be here for her. But maybe I shouldn't have sent her away so quickly. Where are Teneniel Djo and your son Isolder?"

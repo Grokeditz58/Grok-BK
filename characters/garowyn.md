@@ -6,19 +6,20 @@ Evidence file for Garowyn, a Nightsister of the new order on Dathomir and pilot 
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST. Notes: `notes/materials/174-yjk-02-shadow-academy/`. Young Jedi Knights 3: The Lost Ones (same authors, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only; notes: `notes/materials/175-yjk-03-the-lost-ones/`).
+- Sources read for this file: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST. Notes: `notes/materials/174-yjk-02-shadow-academy/`. Young Jedi Knights 3: The Lost Ones (same authors, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only; notes: `notes/materials/175-yjk-03-the-lost-ones/`). Young Jedi Knights 5: Darkest Knight (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), read in full; e-book glitches were corrected against the 1995 print scan. Notes: `notes/materials/174-yjk-02-shadow-academy/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
-- This file has 13 entries and 13 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
+- This file has 18 entries and 18 quotes.
 
 ## Contents
 
 - [Background and Ship](#background-and-ship) (5)
-- [Force Powers](#force-powers) (1)
-- [Statements and Beliefs](#statements-and-beliefs) (5)
-- [Limitations](#limitations) (2)
+- [Force Powers](#force-powers) (3)
+- [Statements and Beliefs](#statements-and-beliefs) (7)
+- [Limitations](#limitations) (3)
 
 ## Background and Ship
 
@@ -92,9 +93,41 @@ She was floating a meter above the cabin floor. Tenel Ka stifled a gasp of outra
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 19
 ```
 
+### 7. Garowyn's telekinetic barrage of crates and tools knocks Chewbacca down; Force lightning at her fingers; blue fire at Chewie.
+
+```
+One of several large wooden crates of engine components sailed through the air and knocked Chewbacca to his knees. He went down with a woof of pain and surprise.
+
+Garowyn stood by the Shadow Chaser's ramp, her hands on her scale-armored hips. With dark fire flickering behind her eyes, she used the Force to snatch other heavy objects from where they rested.
+
+"In that case, you're worthless to me," Garowyn sneered. "I'll take care of you immediately." Even as the Nightsister stretched out her hands, her fingers crackling with blue fire, Jaina cast about for a way to distract her.
+
+Now it was the Nightsister's turn to dodge and deflect. Garowyn directed her attention to the Wookiee, and with a muttered oath sent a bolt of blue fire sizzling up at him. Chewbacca yowled and ducked, tumbling back over the opposite side of the sleek ship.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
+### 8. Garowyn Force-shoves herself onward, swings out onto the verandah and escapes on a speeder bike.
+
+```
+"You haven't seen the last of me yet," the Nightsister yelled.
+
+Then, to Jaina's amazement, instead of trying to stop the momentum of her slide toward the gaping outer door, Garowyn gave herself an invisible shove in the same direction. Chewbacca scrambled after the woman, but the floor was too slippery for him to overtake her.
+
+As she reached the entrance, Garowyn flung out one arm to grasp a vertical railing that ran along the edge of the doorway. Without slowing, she used her momentum to swing herself out and around in a tight half circle to land on the verandah that ran along the side of the hangar.
+
+Jaina scrambled across the slippery floor plates, trying to reach the doorway through which Garowyn had escaped. Before she could reach the outside, Jaina heard a puttering, buzzing sound.
+
+"Quick, Chewie," she cried, "she's got a speeder bike."
+
+Her heart sank when she saw the fleeing Nightsister on a speeder bike zip across the hanger bay opening, heading toward the computer fabrication facility, which Jaina knew was under attack from Imperial forces.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
 ## Statements and Beliefs
 
-### 7. Vilas tells Garowyn the candidates have remarkable potential.
+### 9. Vilas tells Garowyn the candidates have remarkable potential.
 
 ```
 “You’ll find that they have remarkable potential, Captain Garowyn.”
@@ -106,7 +139,7 @@ Tenel Ka heard tension and hope - and longing - in his voice.
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 19
 ```
 
-### 8. Garowyn dismisses Luke and focuses on Tenel Ka.
+### 10. Garowyn dismisses Luke and focuses on Tenel Ka.
 
 ```
 Luke was vague in his answers, but Garowyn - perhaps because she was from Dathomir and considered men to be of little importance - concentrated her efforts on finding out more about Tenel Ka.
@@ -116,7 +149,7 @@ Luke was vague in his answers, but Garowyn - perhaps because she was from Dathom
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 19
 ```
 
-### 9. Garowyn shows the escape pods and talks of the candidates' true potential.
+### 11. Garowyn shows the escape pods and talks of the candidates' true potential.
 
 ```
 “And these” - Garowyn pointed toward several hatches at the back of the cabin - “are the escape pods. Each is large enough to carry only one passenger, and is equipped with a homing beacon that broadcasts its location on a signature frequency that can only be decoded at the Shadow Academy , where you will learn your true potential.”
@@ -124,7 +157,7 @@ Luke was vague in his answers, but Garowyn - perhaps because she was from Dathom
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 19
 ```
 
-### 10. Garowyn reads Zekk's scan as a good find.
+### 12. Garowyn reads Zekk's scan as a good find.
 
 ```
 Tamith Kai withdrew, and Garowyn and Vilas leaned over Zekk’s bony shoulders to observe the readings. Still struggling, Zekk caught a glimpse of the glowing image, a colorful aura projected in a micro-hologram.
@@ -136,7 +169,7 @@ Tamith Kai withdrew, and Garowyn and Vilas leaned over Zekk’s bony shoulders t
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 8
 ```
 
-### 11. Garowyn orders Jacen and Tenel Ka stopped: too much is at stake.
+### 13. Garowyn orders Jacen and Tenel Ka stopped: too much is at stake.
 
 ```
 He clicked on the comlink, hoping to signal Anakin and Threepio, but before he and Tenel Ka could sprint to the door, Vilas pulled out a blaster.
@@ -148,9 +181,35 @@ Jacen and Tenel Ka managed to take a few running steps before stun bolts slammed
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
+### 14. Garowyn: 'The Shadow Chaser is mine'; 'You never had a chance.'
+
+```
+Then Jaina heard the low hum of an extending entry ramp. But before they could rush aboard to apprehend the would-be thief, the Nightsister herself sprang out onto the hangar bay floor and faced them. Jaina thought there was something familiar about the set of the woman's face, the icy beauty and cold anger.
+
+Chewbacca bellowed a challenge, but the petite warrior rounded on the Wookiee, eyes blazing. "I came to reclaim my rightful property. You would be a fool to stand in my way. The Shadow Chaser is mine."
+
+"Then you're that Nightsister—Garowyn," Jaina said. "Tenel Ka and Uncle Luke told me about you."
+
+Garowyn shifted her glance to Jaina, her anger turning sour. "Why aren't you at the factory with the rest of your friends, Jedi brat?"
+
+"No matter—it is too late to save them," Garowyn snarled, raising her arms overhead as if to hurl something, though her hands were empty. "It will all end here now—with me." She laughed. "You never had a chance."
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
+### 15. Garowyn: 'So you wish to die?'
+
+```
+A harsh laugh escaped Garowyn's lips, and a triumphant look lit her face. Jaina could hear her voice even at this distance. "So you wish to die?" The Nightsister stretched out a hand that crackled with discharges of blue electricity. "You deserve it for what you've done to my ship."
+
+Chewbacca, though defenseless in the face of her discharge of dark power, snarled at her.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
 ## Limitations
 
-### 12. Garowyn's hold wavers when Tenel Ka goes limp, and Tenel Ka breaks free.
+### 16. Garowyn's hold wavers when Tenel Ka goes limp, and Tenel Ka breaks free.
 
 ```
 Realizing that this was exactly what she had been doing, Tenel Ka went limp.
@@ -162,7 +221,7 @@ Garowyn was still amusing herself with Tenel Ka’s “struggles” when, with a
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 19
 ```
 
-### 13. Luke lifts Garowyn and she cannot break free, then he seals her in an escape pod.
+### 17. Luke lifts Garowyn and she cannot break free, then he seals her in an escape pod.
 
 ```
 “No,” Luke cut in. “I believe I could lift a person.”
@@ -178,4 +237,16 @@ Within moments they had the gyrating, disoriented Nightsister deposited and seal
 With a whoosh and a thump, the escape pod containing Garowyn shot out into deep space.
 
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 19
+```
+
+### 18. Garowyn is tricked by Jaina's Force stampede and falls into the depths.
+
+```
+In desperation Jaina tried the only trick that sprang to mind. Letting her eyes fall half closed, Jaina sent a rippling furrow through the leaves behind Garowyn. This time the invisible plow made a loud, rustling sound, like a stampede.
+
+The Nightsister whirled to defend against the supposed attack on her from behind. Flinging up an arm to ward off her unseen enemy, Garowyn lost her footing on the narrow branch. She fell backward.
+
+Jaina gasped as she heard Garowyn's head strike a lower tree branch with a solid thud.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```

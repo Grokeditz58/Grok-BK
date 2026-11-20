@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 29 (28 with quotations; 26 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 31 (30 with quotations; 28 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -298,6 +298,25 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tamith Kai congratulates Z
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.182).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:103`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tamith Kai's second assignment: remove the twins.
+> As if pronouncing his doom, she said, "There is one other part of the plan. Through an intercepted transmission, we have learned that those.troublesome young Jedi brats are even now on their way to Kashyyyk. They sent a message to say goodbye to their mother—luckily Qorl has been monitoring all comm traffic from the vicinity of Yavin 4 back to the capital world." She stared at her clawlike fingernails, as if she found something interesting there.
+>
+> "We had originally planned to wait a few more weeks before conducting this raid, but now . . . the timing couldn't be more perfect." Her violet eyes flashed with pleasure. "Your second assignment is to make sure that Jacen and Jaina and their difficult friends are . . . removed, so that we can proceed with our galactic conquest without worrying about their meddling."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.45–46).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:40`
+
+What it shows (our notes): Tamith Kai orders the lure: 'Do I sense hesitation?'
+> "You're in command of this mission, Zekk," Tamith Kai said, plugging a hand-held translator into the communications console. "Don't you think it's time you transmitted your signal to lure those Jedi brats here, where we can take care of them?" The Nightsister looked insufferably pleased with herself.
+>
+> "Do I sense hesitation?" Tamith Kai snapped.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 11 (p.113).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:37`
+
 
 
 

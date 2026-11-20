@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 62 (49 with quotations; 17 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 63 (50 with quotations; 18 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -583,6 +583,15 @@ What it shows (our notes): Tionne tells the tale of Nomi Sunrider to help Jaina 
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 9 (p.85–87).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:74`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tionne surprises Tenel Ka with an unsensed counterattack.
+> Tionne swung her weapon with a calm, smooth gesture so unexpected that Tenel Ka barely reacted in time. She had sensed no intention of a counterattack from the silver-haired scholar, and so Tionne had surprised her. Their blades locked and sizzled—and then Tionne pulled her lightsaber back.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.12).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:15`
+
 
 
 

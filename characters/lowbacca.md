@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 127 (113 with quotations; 80 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 135 (121 with quotations; 88 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1736,6 +1736,79 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Lowbacca is re
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.47).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:119`
+
+## Young Jedi Knights 5: *Darkest Knight* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowie obtained his syren-plant fiber belt alone.
+> He ran his long, strong fingers over the pearly strands of his fiber belt, woven from threads harvested from the deadly jaws of the carnivorous syren plant. It had been quite an ordeal for him to obtain those strands, but he had succeeded. Alone.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.4).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:10`
+
+What it shows (our notes): Lowie calls his solo syren-plant feat foolhardy and fears grief will make him less able to support Sirra.
+> "Master Lowbacca decided to prove himself with such an act of bravery, since he knew that it would be difficult for many Wookiees to accept his decision to train at the Jedi academy rather than follow a more traditional calling. He was so proud of his intellectual skills that he chose to rely only on his wits; he descended to the deep forest levels on Kashyyyk without telling a single friend. Alone, he harvested these fibers from the dangerous syren plant. Though Master Lowbacca emerged unharmed with the trophy he had sought, he now admits that his solo expedition was foolhardy and ill-advised. And he fears that Sirrakuk is considerably more impulsive, more impetuous than he."
+>
+> After Lowie's response, Em Teedee said, "Master Lowbacca is also concerned that his grief over the loss of Raabakyysh will render him less capable of supporting his sister at this critical time. He realizes that it may not be feasible, but he was hoping to impose on one of you to accompany him to his home-world."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.23–26).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:23`
+
+What it shows (our notes): Lowie's Force aptitude, introspection and obedience set against Sirra's nature; Wookiees can excel at anything with work; practice is never wasted.
+> Lowie had a strong aptitude for the Force, whereas Sirra showed neither potential nor interest in the Jedi Knights. Lowie's quiet introspective nature had always been a sharp contrast to her confident outspokenness—until recently, that is, when she'd become so quiet. And, while Lowie could sit engrossed for hours in the intricacies of a computer system, Sirra became restless quickly and longed for excitement and adventure. In addition, Lowie had always prided himself in being obedient, finding it simpler to do what was expected of him than to expend effort on meaningless acts of rebellion against authority.
+>
+> Lowie shook his head sternly. Wookiees could excel in engineering, in science, in piloting—anything they wanted to. But such success did not come easily. He nodded toward his friends to indicate how hard they were training at the moment. Lowie and Sirra walked together for a while in silence.
+>
+> Lowie fixed his sister with a challenging look, trying to explain difficult concepts. His friends were merely "exercising" their abilities. Learning and practice were never wasted. He insisted that his friends were much stronger than they appeared.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.66–70).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:55`
+
+What it shows (our notes): Lowie and Sirra trace the single-point failure in the control tower.
+> "One at a time, please!" the little droid said. "All right, I believe I understand the basics of what you're saying. Master Lowbacca and Mistress Sirrakuk have determined that a single-point defensive failure occurred in the traffic control tower for this facility. Somehow, all of the central command systems have been compromised. It appears that the attack is being guided from there."
+>
+> Lowie roared a suggestion. "Oh dear," Em Teedee said. "Master Lowbacca suggests we would be well advised to go to the heart of the problem and leave these well-trained Wookiee gunners to continue the fight here. While I agree that it might be safer to move inside—I am skeptical about the wisdom of rushing into greater danger."
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.140).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:15`
+
+What it shows (our notes): Lowie carries Jacen across the boughs.
+> Lowie leaped after her, one arm around Jacen's waist, then sprinted across the moss-covered boughs. Farther from the warm sunlight, each forest level had a different ecosystem made up of matted platforms of interlaced vines, branches that grew together, accumulations of mulch in which other plants—fungi, lichens, squirming flowers—flourished. Thousands of insects, reptiles, birds, and rodents fled at the sound of the intruders.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.170).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:42`
+
+### Limitations and anti-feats (Darkest Knight)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie doesn't know how to help Sirra, loses concentration and topples during exercises.
+> Lowie absently grunted his agreement, still looking at Sirra's hunched shoulders. It occurred to him that although he had come home to support her in this difficult time, he had no idea how to do it. Clearly, his presence alone was not enough. He wanted to try talking with her, but what if she had problems he couldn't solve? What if he was part of the problem, having set a dangerous example that his sister felt obligated to follow, though it might mean her death?
+>
+> Still balanced on his hands but deep in thought about Sirra, Lowie lost his concentration and his balance again, this time with embarrassing results. He teetered precariously for a moment, trying to regain his equilibrium. Em Teedee let out a squeal of surprise, then Lowie toppled over, landing on his rear end with a loud thump.
+>
+> Lowie wished his friends had ignored the entire incident. To Jaina's credit, as soon as she had determined he was unhurt, she made a hasty retreat and became absorbed in her exercises again, studiously pretending not to notice while Lowie picked himself up off the platform's floorboards and dusted off his fur.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.65–66).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:53`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Vonnda Ra's lightning stuns Lowie and the cape slips through his fingers.
+> Suddenly, Vonnda Ra leaped out of nowhere and slammed into Lowie, her hands crackling with evil lightning force. Jolts of searing electricity coursed through Lowie, and his fur began to smoke even as he staggered backward with a bellowing roar, stunned and disoriented.
+>
+> Lowie shook himself and leaped into motion, rushing toward his sister. He reached out and caught the falling Nightsister's black cape, but the tough, slick fabric slipped through his fingers.
+>
+> Sirra and Vonnda Ra fell.
+>
+> Lowie howled in despair as the two combatants careened directly toward the waiting jaws of the syren plant.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.189–190).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:14`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie can't use his lightsaber on the syren plant without killing Sirra; he strains at the petals.
+> Lowie reached the syren plant, then grasped the leathery petals with his clawed hands, pulling, straining. The roots of the plant squirmed, digging deeper into the forest loam.
+>
+> Lowie didn't dare take out his lightsaber and slash the flower to pieces, because he knew that would kill his sister as surely as the plant would. He tugged, groaning, and the sealed petals peeled slightly apart. The syren plant made a gurgling, gasping sound. Sirra's hand still protruded from the opening, flexing and struggling, as if she were in great pain.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.191).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:17`
+
 
 
 

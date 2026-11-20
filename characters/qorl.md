@@ -6,14 +6,15 @@ Evidence file for Qorl, the TIE fighter pilot stranded on Yavin 4 after the Batt
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-19 CST. Young Jedi Knights 2: Shadow Academy (same authors, 1995), read in full on 2026-11-20 CST (notes: `notes/materials/174-yjk-02-shadow-academy/`). Young Jedi Knights 3: The Lost Ones (same authors, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only; notes: `notes/materials/175-yjk-03-the-lost-ones/`). OCR slips in the e-book text were corrected against the 1995 print scan. Notes: `notes/materials/173-yjk-01-heirs-of-the-force/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`).
+- Sources read for this file: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-19 CST. Young Jedi Knights 2: Shadow Academy (same authors, 1995), read in full on 2026-11-20 CST (notes: `notes/materials/174-yjk-02-shadow-academy/`). Young Jedi Knights 3: The Lost Ones (same authors, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only; notes: `notes/materials/175-yjk-03-the-lost-ones/`). OCR slips in the e-book text were corrected against the 1995 print scan. Notes: `notes/materials/173-yjk-01-heirs-of-the-force/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`). Young Jedi Knights 5: Darkest Knight (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`).
 - Later Young Jedi Knights books (Lightsabers onward) are not read yet; his later appearances will be added when they are.
 - Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 7 entries from Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), read in full; e-book glitches were corrected against the 1995 print scan. Notes: `notes/materials/174-yjk-02-shadow-academy/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 4 entries from Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/176-yjk-04-lightsabers/`.
-- This file has 47 entries and 47 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 2 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
+- This file has 49 entries and 49 quotes.
 
 ## Contents
 
@@ -21,8 +22,8 @@ Evidence file for Qorl, the TIE fighter pilot stranded on Yavin 4 after the Batt
 - [Survival and Endurance](#survival-and-endurance) (4)
 - [Force Defense and Resistance](#force-defense-and-resistance) (3)
 - [Piloting](#piloting) (9)
-- [Combat and Tactics](#combat-and-tactics) (9)
-- [Statements and Beliefs](#statements-and-beliefs) (13)
+- [Combat and Tactics](#combat-and-tactics) (10)
+- [Statements and Beliefs](#statements-and-beliefs) (14)
 - [Limitations](#limitations) (2)
 
 ## Background and Battle of Yavin
@@ -375,9 +376,17 @@ Qorl answered in a gruff but calm voice. "To teach you respect for your stormtro
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
+### 33. Qorl's droid arm could crack armor like an eggshell.
+
+```
+Moving quietly and unobtrusively, Qorl rested his powerful droid replacement hand on the stormtrooper's shoulder armor in a gesture that was firm and clearly meant to quiet the bully. Zekk knew Qorl's droid arm was powerful enough to crack the white armor like an eggshell. Norys fell silent, though he obviously remained upset.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 4
+```
+
 ## Statements and Beliefs
 
-### 33. Qorl's creed: surrender is betrayal.
+### 34. Qorl's creed: surrender is betrayal.
 
 ```
 “Surrender is betrayal,” he said again. He stared down at his fighter, trying to see what damage the Rebel spies had caused.
@@ -385,7 +394,7 @@ Qorl answered in a gruff but calm voice. "To teach you respect for your stormtro
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 9
 ```
 
-### 34. Qorl insists the Empire will always rule.
+### 35. Qorl insists the Empire will always rule.
 
 ```
 “Be quiet,” Qorl said. “The Empire will always rule. The Emperor is invincible.”
@@ -397,7 +406,7 @@ Qorl answered in a gruff but calm voice. "To teach you respect for your stormtro
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 14
 ```
 
-### 35. Qorl threatens to shoot Jacen if the repairs go too slowly: he was trained by the Empire and will do what is necessary.
+### 36. Qorl threatens to shoot Jacen if the repairs go too slowly: he was trained by the Empire and will do what is necessary.
 
 ```
 If you cannot complete repairs faster, I will shoot your brother.
@@ -411,7 +420,7 @@ Both Jacen and Jaina looked at the TIE pilot in shock. “Qorl, you wouldn’t d
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 36. Qorl leaves the twins alive in the jungle, telling them hope is their best weapon.
+### 37. Qorl leaves the twins alive in the jungle, telling them hope is their best weapon.
 
 ```
 “You can survive if you are resourceful,” Qorl said. “I know, because I did. Perhaps someone will find you eventually. Hope is your best weapon.
@@ -421,7 +430,7 @@ It may not take twenty years for you to get home.”
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 37. Qorl's military conditioning won out, and he reported the young Jedi.
+### 38. Qorl's military conditioning won out, and he reported the young Jedi.
 
 ```
 But in the end, Qorl’s military conditioning had been too strong.
@@ -431,7 +440,7 @@ But in the end, Qorl’s military conditioning had been too strong.
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 38. Qorl is uneasy at the duel between the disguised twins and calls them among the best trainees.
+### 39. Qorl is uneasy at the duel between the disguised twins and calls them among the best trainees.
 
 ```
 Qorl remained silent for a long moment, fidgeting with restrained anxiety. Finally he said, “Isn’t this dangerous, Brakiss? With one slip, those children could kill each other. You would lose two of your best trainees at the Shadow Academy .”
@@ -445,7 +454,7 @@ Qorl turned away and walked toward the exit, so Brakiss would not see the depth 
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 39. Qorl disagrees with Brakiss's tactics but serves the Empire, and reports the escape.
+### 40. Qorl disagrees with Brakiss's tactics but serves the Empire, and reports the escape.
 
 ```
 The other Dark Jedi students were pleased to have an opportunity to increase their powers and appreciated their training; but Qorl had been certain these three would cause trouble - especially since Brakiss and Tamith Kai seemed determined to injure or kill them. Qorl had been gravely disturbed at the supposed duel to the death between the holographically disguised brother and sister. He also knew the dangerous testing routine with flying stones and knives had already been responsible for the deaths of half a dozen promising trainees. He didn’t agree with Brakiss’s tactics, but Qorl was just a pilot; no one listened to his point of view, no matter how certain he was. Yet Qorl served his Empire, and he had to do what he knew was right.
@@ -457,7 +466,7 @@ The other Dark Jedi students were pleased to have an opportunity to increase the
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 40. Qorl secretly opens the space doors for the Shadow Chaser and never tells Brakiss or Tamith Kai.
+### 41. Qorl secretly opens the space doors for the Shadow Chaser and never tells Brakiss or Tamith Kai.
 
 ```
 Qorl touched the space door controls, smiled faintly to himself, and then closed the doors. He would, of course, never tell Brakiss or Tamith Kai.
@@ -465,7 +474,7 @@ Qorl touched the space door controls, smiled faintly to himself, and then closed
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 41. Qorl orders the stunned Rebel crew put in an escape pod; he cannot let brave enemies die.
+### 42. Qorl orders the stunned Rebel crew put in an escape pod; he cannot let brave enemies die.
 
 ```
 He hesitated. “Stuff these Rebels into an escape pod, and launch it.”
@@ -477,7 +486,7 @@ He hesitated. “Stuff these Rebels into an escape pod, and launch it.”
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
 ```
 
-### 42. Qorl reports the haul to Brakiss: enough to double the Second Imperium's military strength.
+### 43. Qorl reports the haul to Brakiss: enough to double the Second Imperium's military strength.
 
 ```
 Qorl was still in his black armored suit and cradled his skull-like helmet in his powerful droid arm. “The captured Rebel cruiser Adamant is now enclosed within our shields, Lord Brakiss,” he said.
@@ -491,7 +500,7 @@ Qorl nodded. “Affirmative, sir. The hyperdrive cores and turbolaser batteries 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11, 14
 ```
 
-### 43. Jaina had hoped Qorl would turn, but his Imperial conditioning won out.
+### 44. Jaina had hoped Qorl would turn, but his Imperial conditioning won out.
 
 ```
 From Ackbar’s description, Jaina knew that the Imperial in command of the attack had been none other than Qorl, the TIE pilot she and Jacen had tried to befriend near his crashed ship on Yavin.
@@ -501,7 +510,7 @@ Jaina had hoped Qorl would see the error of his ways—and though the TIE pilot 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 44. Qorl: the armor is not invincible; a blaster will cut through it.
+### 45. Qorl: the armor is not invincible; a blaster will cut through it.
 
 ```
 "But don't think your armor is invincible." Qorl reached inside his uniform, pulled out a deadly blaster pistol, and pointed it directly at Norys. "For instance, this blaster could slice through that armor as if you were wearing nothing at all."
@@ -511,7 +520,7 @@ Qorl turned the blaster pistol around and extended it toward Norys, butt end fir
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 45. Qorl thinks the duel to the death is a waste, but will not argue; surrender is betrayal.
+### 46. Qorl thinks the duel to the death is a waste, but will not argue; surrender is betrayal.
 
 ```
 Inside the arena's observation blister, Qorl remained standing while Brakiss and Tamith Kai both sat in padded chairs, watching their respective champions and hoping for a personal victory. Qorl tried to hide his uneasiness, but could not divert his attention from the two talented young opponents fighting viciously out in the zero-gravity chamber.
@@ -525,9 +534,21 @@ But he still thought it a wasteful exercise.
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 18
 ```
 
+### 47. Qorl to Norys: concentrate, or he'd be a casualty in seconds.
+
+```
+"You aren't concentrating on your target," Qorl said, then addressed the candidate's comment in a neutral tone. "Your example is indeed one method of leadership. But you have much to learn."
+
+Qorl didn't flinch or back down. He had faced tougher adversaries than this young bully—though perhaps none with such pure mean-spiritedness. "You could learn to concentrate on your weapon and shut out distractions. You could also learn how to aim and hit your intended target each time, rather than just talking about it," Qorl pointed out. "The way you are shooting today, you would have become a casualty in only a few seconds in a real firefight."
+
+"Enough practice so you don't destroy our own troops during a raid," Qorl replied.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
+```
+
 ## Limitations
 
-### 46. Qorl does not recognize the Millennium Falcon.
+### 48. Qorl does not recognize the Millennium Falcon.
 
 ```
 Qorl didn’t immediately recognize the make or model of the lone ship below. It was some kind of light freighter, not a Rebel X-wing or any of the familiar battleships he had learned about during his rigorous combat training.
@@ -535,7 +556,7 @@ Qorl didn’t immediately recognize the make or model of the lone ship below. It
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 47. Qorl's laser cannons fail on his attack run because Jaina sabotaged them, and his diagnostics still read normal.
+### 49. Qorl's laser cannons fail on his attack run because Jaina sabotaged them, and his diagnostics still read normal.
 
 ```
 He squeezed the button again and again—and nothing happened! The weapons systems did not respond.
