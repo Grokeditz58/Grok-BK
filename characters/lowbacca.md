@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 184 (170 with quotations; 137 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
+- **Entries:** 190 (176 with quotations; 143 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2252,6 +2252,61 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: IG-88 bats Low
 — Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 23, 24.
 (Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
 Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:58`
+
+## Young Jedi Knights 12: *Return to Ord Mantell* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): With his free hand Lowie smacks a leaping chameleon creature aside.
+> Lowie turned as one of the chameleon creatures leapt.
+>
+> With his free hand the Wookiee smacked its soft smooth skin and belted the thing aside.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 27.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:37`
+
+What it shows (our notes): While Em Teedee distracts a huge knaar, Lowie severs its body at the waist with his lightsaber.
+> One of the largest knaars lumbered forward, attracted by Lowie’s molten-bronze lightsaber blade. The Wookiee stopped his headlong run and whirled to face the monster.
+>
+> Em Teedee flitted in front of the monster’s jaws, distracting the creature so that it snapped at the silvery sphere and diverted its fiery gaze from Lowbacca. Lowie used the moment of distraction to strike sideways, severing the knaar’s body at the waist; its head still twisted and snapped even though it had no body to move.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 52.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:34`
+
+What it shows (our notes): Lowie suggests Jacen use his Jedi senses to find the burrowing detonators; he and Jacen sense a mine-free spot for the Falcon to land.
+> Lowie roared something at Jacen about the Force and gestured to the ground. Em Teedee quickly translated. “Master Lowbacca suggests that by using your Jedi senses, you could perhaps determine the locations of the burrowing detonators and thus avoid them. That would give us the best chance of survival.”
+>
+> Jacen and Lowie reached out with their Jedi senses, found an area clear of the burrowing detonators, and gestured for Han to land.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 52–53.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:33`
+
+What it shows (our notes): Lowie, a survivor of Kashyyyk's underlevel forests, spots a near-invisible monofilament wire that slices a tossed branch to pieces.
+> The young Wookiee had survived the dangerous underlevel forests of Kashyyyk, and had won his precious fiber belt by snatching the threads from a carnivorous syren plant.
+>
+> Suddenly, Lowie howled and raised his hairy arms, gesturing for them all to stop. The people, already on edge, halted in their tracks, glancing around with wide eyes. Em Teedee said, “Ah, yes, Master Lowbacca. I see it too. How horrible!”
+>
+> As the sunlight glittered through, Jacen could see a fine tracery stretched between the silver tree trunks, a gossamer line like the whisper of a cobweb.
+>
+> Lowie picked up a branch from the ground and tossed it in front of him.
+>
+> The branch passed through the faint lines and dropped to the ground on the other side, sliced cleanly into small pieces.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 57–58.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:43`
+
+What it shows (our notes): Lowie scrambles up a tall tree to the canopy in no time and bounds back down branch to bough, landing on both feet.
+> With his lanky arms and legs, the Wookiee scrambled from one branch to another, in no time disappearing into the mass of silvery-blue leaves.
+>
+> With a crashing of small branches, Lowie bounded down, leaping from branch to bough, enjoying the freedom. He landed on both feet in the middle of the clearing, and gave his quick report with barks and growls.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 59–61.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:43`
+
+What it shows (our notes): Lowie rips a trap's hologram controls off a stout tree with his bare hands.
+> Lowie went over to a stout tree and with his bare hands ripped the controls away, shorting them out.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 75.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:54`
+
 
 
 

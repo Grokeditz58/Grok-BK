@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 43 (28 with quotations; 0 quotations extended to the full sentence/passage from the source text on file; 23 marked as fragments). Rebuilt 2026-11-17 from 48 old entries; old file: `characters/_bak/gallandro.md.bak-20261117`.
+- **Entries:** 44 (29 with quotations; 1 quotations extended to the full sentence/passage from the source text on file; 23 marked as fragments). Rebuilt 2026-11-17 from 48 old entries; old file: `characters/_bak/gallandro.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -73,6 +73,27 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan
 - Note (summary from our notes, not a quotation): Page contents: Sidebar "Bill Smith's 10 Favorite Expanded Star Wars Universe Creations" (West End Games): DarkStryder technology, TIE Defender, TIE Scout, Veitch's Jedi Holocron, Imperial Troop Transport, Shadows of the Empire cards, the Shira Brie storyline (Marvel 55-63) and Tarkin story (51-52), Gallandro, Thrawn (T lines for the last two). (hand-read)
   — Source: Star Wars Insider #31 (1996).
 Our notes: `notes/materials/038-star-wars-insider/031-ins031.md:110`
+
+## Young Jedi Knights 12: *Return to Ord Mantell* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Han: Gallandro was 'reputed to be the fastest draw in the galaxy'; a quick draw and sharpshooter who outdrew Han and hit him in the shoulder, while Han's shot went wide.
+> “He was reputed to be the fastest draw in the galaxy. Challenged the clan leader to a duel on the planet Ammuud, but when I was picked as his opponent, Gallandro declined to fight me.”
+>
+> “We were looking for an ancient treasure, a lost legacy of Xim the Despot,” Han began. He paused, then sat up straighter. He spread his hands as if backing up to provide more explanation. “Gallandro was a smuggler, you see. A quick draw, a sharpshooter and, uh”-a corner of Han’s mouth quirked in a lopsided smile-“a fellow scoundrel. We found where Xim hid his treasure, but Gallandro betrayed the rest of our team.
+>
+> Decided he wanted it all for himself. Challenged me to a blaster fight.”
+>
+> Jacen was instantly alert. His father had always been one of the best shots in the New Republic. “And?”
+>
+> His father lifted one shoulder for a second, then gazed down into the flames. “And I lost.”
+>
+> “His aim was good, but not fatal. He drew first, hit me in the shoulder.
+>
+> My shot went wide, and I dropped my blaster as I fell.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 29–35.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:41`
+
 
 # Debate and forum claims (unverified)
 

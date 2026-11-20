@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 367 (296 with quotations; 257 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
+- **Entries:** 372 (301 with quotations; 262 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3280,6 +3280,55 @@ What it shows (our notes): Tenel Ka, Jaina and Jacen fly 'with deft hands guided
 — Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 27.
 (Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
 Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:83`
+
+## Young Jedi Knights 12: *Return to Ord Mantell* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka senses intruders in the middle of a meal and, reaching out with her senses, waits and listens until her lit blade reveals the camouflaged creatures on the walls.
+> In the middle of a swirling gelatinous dessert that insisted on crawling around the plates by itself, Tenel Ka sat up straight and alert, her eyebrows raised as if something was wrong. Lowie also growled.
+>
+> “I sense something,” Tenel Ka said. “I would like to investigate.”
+>
+> She stepped out of the Rock Dragon, moving with feline grace, reaching out with her senses. Jaina watched the warrior girl, admiring the smoothness of her actions. Although she had lost her left arm in a lightsaber battle with Jacen, Tenel Ka had not allowed the handicap to slow her down.
+>
+> Tenel Ka stood stock still in the middle of the large room, her shoulders rigid, her arm partially bent at her side. She scanned the wall and studied the shadows, the old lubricant stains and smoke smears from hundreds of landings and takeoffs. She took three steps closer to the small workbench where the recovered space mine fragments had been spread out.
+>
+> Tenel Ka waited, narrowed her eyes, listened, and finally pulled out her rancor-tooth lightsaber. Jaina couldn’t figure out what the warrior girl was doing. The walls remained gray and featureless.
+>
+> Tension hung thick in the air. Finally, when the warrior girl held up and switched on the glowing turquoise blade… the shadows on the wall began to move!
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 27.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:33`
+
+What it shows (our notes): Tenel Ka to Anja: 'Fighting with finesse is a greater challenge than indulging a simple battle frenzy'; to Anja's taunt of 'pampered kids': 'We are not children. We are Jedi Knights.'
+> Tenel Ka narrowed her eyes. “Fighting with finesse is a greater challenge than indulging a simple battle frenzy.”
+>
+> Tenel Ka sat stiffly beside Jacen, as if ready to protect him. “This is not a fact. We are not children,” she said. “We are Jedi Knights.
+>
+> We have all faced hardship.”
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 28–39.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:39`
+
+What it shows (our notes): Tenel Ka runs to the detonator victim 'like a hunting cat', with the spice-fueled Anja pacing her step for step.
+> Tenel Ka ran like a hunting cat, with Anja pacing her step for step, as if it were some kind of a competition rather than a race to rescue an injured man who had stepped on a burrowing detonator.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 46.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:25`
+
+What it shows (our notes): Clearing the forest, Tenel Ka and Lowie sweep their lightsabers to sever the near-invisible monofilament wires.
+> Lowie could barely see the laser-sharp lines, but he knew they were there. He and Tenel Ka drew their lightsabers and swept through the air, as if fighting invisible spiderwebs. The searing blades severed the monofilament wire, making the passage safe again.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 76.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:54`
+
+### Limitations and anti-feats (Return to Ord Mantell)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — A chameleon creature drops onto Tenel Ka and drives her to the ground; Jacen tackles it off and she recovers quickly to fight at his side.
+> One of the chameleon-skinned creatures dropped from above to land on Tenel Ka’s shoulder, driving her to the ground, its hands around her neck. Jacen tackled the thing and knocked it off his friend. Tenel Ka recovered quickly. Soon she and Jacen stood side by side with their lightsabers, driving the creature back.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 27.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:34`
+
 
 
 

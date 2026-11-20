@@ -8,7 +8,7 @@ Evidence file for Jaina Solo (Jaina Solo Fel), **Star Wars Legends** continuity,
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number; novellas, short stories and journals have no chapters and are cited by title only.
 - **†** after a source means the quote comes from a published source we could not check against the original. Treat those as secondhand.
 - Entries about the same fight are split: what she does well is under the feat sections, what goes wrong is under Limitations.
-- Sources read for this rebuild: the New Jedi Order novels (Vector Prime through The Unifying Force, with the Ylesia novella and its author interview); the Dark Nest trilogy; Legacy of the Force (Betrayal, Bloodlines, Tempest, Inferno, Revelation, Invincible); Dark Apprentice. Two quotes from Star Wars Gamer #8 and the short story Or Die Trying are kept from the old notes and marked † because we have no copy to check.
+- Sources read for this rebuild: the New Jedi Order novels (Vector Prime through The Unifying Force, with the Ylesia novella and its author interview); the Dark Nest trilogy; Legacy of the Force (Betrayal, Bloodlines, Tempest, Inferno, Revelation, Invincible); Dark Apprentice. Two quotes from Star Wars Gamer #8 and the short story Or Die Trying are kept from the old notes and marked † because we have no copy to check. Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), read in full on 2026-11-20 CST (notes: `notes/materials/184-yjk-12-return-to-ord-mantell/`).
 - Narration and author interviews are under Author and Guide Statements; what characters say or think is under Statements from Other Characters.
 - Backfill 2026-11-19: added Fate of the Jedi (Abyss, Vortex), Betrayal and The Swarm War scenes; the d20 Core Rulebook stat block; encyclopedia and chronology statements; limitations for the Myrkr dark side episode, Onimi, a cannon hit and the Chiss. Only Abyss and Vortex of the Fate of the Jedi books are on file.
 - Canon material is not covered.
@@ -24,20 +24,21 @@ Evidence file for Jaina Solo (Jaina Solo Fel), **Star Wars Legends** continuity,
 - Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 11 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 6 entries from The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (a pdftohtml conversion with no page breaks, so chapter citations only); misreadings corrected. Notes: `notes/materials/183-yjk-11-the-emperors-plague/`.
-- This file has 287 entries and 289 quotes (11 marked †).
+- Backfill 2026-11-20 (Young Jedi Knights): added 6 entries from Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (no chapter headings or page numbers in that source, so citations give the epub's section break, sec. N of 83); misreadings corrected. Notes: `notes/materials/184-yjk-12-return-to-ord-mantell/`.
+- This file has 293 entries and 295 quotes (11 marked †).
 
 ## Contents
 
 - [Overall Force Power](#overall-force-power) (5)
 - [Force Knowledge and Training](#force-knowledge-and-training) (2)
-- [Force Sense and Precognition](#force-sense-and-precognition) (30)
+- [Force Sense and Precognition](#force-sense-and-precognition) (34)
 - [Telekinesis](#telekinesis) (23)
 - [Force Lightning](#force-lightning) (2)
 - [Telepathy and Mind Control](#telepathy-and-mind-control) (9)
 - [Illusions, Concealment and Stealth](#illusions-concealment-and-stealth) (1)
 - [Force Defense and Resistance](#force-defense-and-resistance) (5)
-- [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (24)
-- [Fights and Combat Feats](#fights-and-combat-feats) (35)
+- [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (25)
+- [Fights and Combat Feats](#fights-and-combat-feats) (36)
 - [Acrobatics and Agility](#acrobatics-and-agility) (8)
 - [Hunting, Tracking and Stealth](#hunting-tracking-and-stealth) (1)
 - [Skills, Training and Cunning](#skills-training-and-cunning) (65)
@@ -439,9 +440,63 @@ Jaina bit her lower lip as she felt the same tingle of warning.
 — The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 13
 ```
 
+### 38. Remembering Luke's advice to use her Jedi senses with any skill, Jaina lets the Falcon become an extension of her mind, senses the distance to the walls and slips it through narrow docking doors without a wobble.
+
+```
+“May the Force be with you,” she heard Jacen whisper. Then she remembered that her uncle Luke always told them to use their Jedi senses in addition to their training in any skill.
+
+She was a good pilot. And she was a Jedi. She drew a deep breath, let her body relax into the seat.
+
+The Millennium Falcon became part of Jaina, an extension of her mind, and she could sense the distance to the outer walls. She slipped the light freighter between the opening doors without so much as a wobble or a jitter.
+
+Han looked at her in proud amazement. “That’s very smooth, Jaina.”
+
+— Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), sec. 14
+```
+
+### 39. Flying as her father's copilot, Jaina can sense what he intends to do.
+
+```
+Together, she and her father worked the Falcon’s systems, moving like an experienced team. Jaina could sense what her father intended to do, and she realized she might indeed have the makings of a great copilot.
+
+— Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), sec. 17
+```
+
+### 40. Han tells the children to keep their Jedi senses alert; Jacen has a bad feeling, Jaina feels uneasy and Anakin says something's wrong just before the hidden space mines; Han credits their warning.
+
+```
+“And close to beating my record, too. Let’s keep on with it, but keep your Jedi senses alert for anything unexpected.”
+
+“I’ve got a bad feeling about this,” Jacen said. Jaina thought her brother was making a joke with their father’s oft-used phrase, but as they approached the broken comet, she felt uneasiness herself.
+
+“Yes, something’s wrong,” Anakin said.
+
+“It’s not the comet, Dad,” Jaina said. “It’s…” Then she looked up at the enhanced infrared filter and saw an array of small artificial objects, a matrix of tiny spheres, hovering just outside of the broken cometary hulk.
+
+Han gasped, “If we hadn’t been traveling so fast, and you kids hadn’t warned me in time, we would’ve been right in the middle of that cluster when it exploded. But you dodged it, Jaina. Good piloting.
+
+— Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), sec. 19–20
+```
+
+### 41. Jaina sees the field's burrowing detonators in her mind as a dotted pattern of ripples and, with Anakin, targets them with the Falcon's laser cannon though they shift about.
+
+```
+“I need something that not even the Falcon can do for me.
+
+Use your Jedi senses to help your old man find those detonators and get rid of them.”
+
+Anakin nodded, squinting his eyes in concentration. Jaina recalled how she had avoided the buried explosives during their desperate flight from the knaars. In her mind she saw a dotted pattern of ripples below, like a scrambled checkerboard of targets on the ground.
+
+Jaina fired from the copilot’s controls, and was rewarded with a large explosion, much greater than the laser should have made. “Got one!” she cried.
+
+“But they move around a bit. We’ll have to target each one precisely.”
+
+— Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), sec. 76–77
+```
+
 ## Telekinesis
 
-### 38. In Bloodlines, Jaina explodes in the mess and Force-pushes a captain into the wall, upending his chair; Luke, caught off guard by his own shame at Ben's appearance, fails to block the push and has to shove in front of her as she lunges.
+### 42. In Bloodlines, Jaina explodes in the mess and Force-pushes a captain into the wall, upending his chair; Luke, caught off guard by his own shame at Ben's appearance, fails to block the push and has to shove in front of her as she lunges.
 
 ```
 This time it was Jaina who exploded. Her fists were balled. Luke, caught off-guard by his own shame at Ben’s appearance, failed to block Jaina’s Force push as the captain hit the wall of the mess, upending his chair. Jaina lunged forward. Luke managed to shove in front of her. Two other pilot officers stepped in, sending chairs tumbling to stop their comrade from doing anything else stupid.
@@ -449,7 +504,7 @@ This time it was Jaina who exploded. Her fists were balled. Luke, caught off-gua
 — Bloodlines (Karen Traviss, 2006), ch. 11
 ```
 
-### 39. Confident that Caedus will be too busy with Luke and her parents to sense her, Jaina uses the Force to grab three dust caps, all she can control at once, and slip them over their heads.
+### 43. Confident that Caedus will be too busy with Luke and her parents to sense her, Jaina uses the Force to grab three dust caps, all she can control at once, and slip them over their heads.
 
 ```
 Confident that Caedus would be too busy worrying about Luke and her parents to sense what she was doing, Jaina used the Force to grab three dust caps—all she could control at once—and slip them over their emitter nozzles.
@@ -457,7 +512,7 @@ Confident that Caedus would be too busy worrying about Luke and her parents to s
 — Invincible (Troy Denning, 2008), ch. 7
 ```
 
-### 40. Caught in a Squib crossfire in The Swarm War, Jaina sorts out the source of the attacks, redirects the bolts toward each other so the Squibs must worry about their own cover, and Force-jerks one attacker out of his tree.
+### 44. Caught in a Squib crossfire in The Swarm War, Jaina sorts out the source of the attacks, redirects the bolts toward each other so the Squibs must worry about their own cover, and Force-jerks one attacker out of his tree.
 
 ```
 After a couple of moments of frantic parrying, Jaina finally sorted out the source of the attacks and realized the Squibs had her in a crossfire. She began to redirect their bolts toward each other, forcing them to worry about their own cover as well as attacking her, and it was not long before she found the chance to extend a hand and Force-jerk one of her attackers out of his tree.
@@ -471,7 +526,7 @@ As the Squib approached—it was Longnose—he tossed his repeating blaster asid
 — The Swarm War (Troy Denning, 2006), ch. 16
 ```
 
-### 41. At Jaina's Force reach, Leia feels herself rise to standing and her legs move by Jaina's will instead of her own in a reasonable imitation of walking, as Luke and the others take protective positions.
+### 45. At Jaina's Force reach, Leia feels herself rise to standing and her legs move by Jaina's will instead of her own in a reasonable imitation of walking, as Luke and the others take protective positions.
 
 ```
 Leia felt her daughter reach out in the Force, then felt herself rise into a standing position. Her legs started to move, by Jaina’s will instead of her own, but in a reasonable imitation of walking. The room erupted into a fresh round of murmurs as the vidcasters commented on what they were broadcasting. Luke and the others took protective positions around Leia, and they started forward.
@@ -479,7 +534,7 @@ Leia felt her daughter reach out in the Force, then felt herself rise into a sta
 — Recovery (Troy Denning, 2001), ch. 8
 ```
 
-### 42. Ordered to bring the roof down with only mines, Jaina reaches out with the Force to seek cracks and flaws in the stone overhead; Tesar and Lowbacca join their power to hers and a half-ton boulder crashes down, followed by debris.
+### 46. Ordered to bring the roof down with only mines, Jaina reaches out with the Force to seek cracks and flaws in the stone overhead; Tesar and Lowbacca join their power to hers and a half-ton boulder crashes down, followed by debris.
 
 ```
 “Bring the roof down,” Jaina said. “Right here.”
@@ -493,7 +548,7 @@ Jaina reached out with the Force and sought out cracks and flaws in the structur
 — Destiny's Way (Walter Jon Williams, 2002), ch. 26
 ```
 
-### 43. In a loading vault, Jaina rushes into the darkness extending her Force awareness along the wall and ceiling, senses a sniper and spotter hiding on a high balcony, and, without reaching for a blaster or leaping, grabs and pulls them with the Force.
+### 47. In a loading vault, Jaina rushes into the darkness extending her Force awareness along the wall and ceiling, senses a sniper and spotter hiding on a high balcony, and, without reaching for a blaster or leaping, grabs and pulls them with the Force.
 
 ```
 Jaina smiled, more in satisfaction than bloodlust, and rushed into the darkness. Extending her Force awareness high along the wall and ceiling of the loading vault, she sensed a human presence. Two presences—sniper and spotter, hiding on an observation balcony high above the battle. She did not reach for a blaster or a glow rod or try to leap up to their hiding place. She just grabbed and pulled, using the Force to jerk them both forward.
@@ -501,7 +556,7 @@ Jaina smiled, more in satisfaction than bloodlust, and rushed into the darkness.
 — Invincible (Troy Denning, 2008), ch. 1
 ```
 
-### 44. In Destiny's Way, Jaina, Tesar and Lowbacca unite their Force talents to claw at a mineshaft roof, bringing down rubble and then boulders, while Jaina parries a ricocheting bolt with her violet blade; at least half a dozen Yuuzhan Vong warriors are buried.
+### 48. In Destiny's Way, Jaina, Tesar and Lowbacca unite their Force talents to claw at a mineshaft roof, bringing down rubble and then boulders, while Jaina parries a ricocheting bolt with her violet blade; at least half a dozen Yuuzhan Vong warriors are buried.
 
 ```
 She and Tesar and Lowbacca united their Force talents once more and clawed at the roof, bringing down rubble and stones at first, then boulders. Blaster bolts ricocheted among the rocks, reflecting in all directions—Jaina parried one with her violet blade. And then the roof was down with the sound of thunder, a billowing cloud wall of dust rolling down the mineshaft toward Jaina. She had seen at least half a dozen Yuuzhan Vong warriors buried.
@@ -509,7 +564,7 @@ She and Tesar and Lowbacca united their Force talents once more and clawed at th
 — Destiny's Way (Walter Jon Williams, 2002), ch. 26
 ```
 
-### 45. At Jaina's warning on a Chiss dune, she points at a drop ship's laser cannon and uses the Force to scoop up sand and hurl it up the barrel; the weapon explodes, vaporizing a wing and ripping a gash in the fuselage.
+### 49. At Jaina's warning on a Chiss dune, she points at a drop ship's laser cannon and uses the Force to scoop up sand and hurl it up the barrel; the weapon explodes, vaporizing a wing and ripping a gash in the fuselage.
 
 ```
 Jaina snaked a finger over the edge of the crater and pointed at one of the drop ship’s laser cannons, then used the Force to scoop up a pile of sand and hurl it up the barrel. The weapon exploded, vaporizing one wing and ripping a jagged gash in the fuselage.
@@ -517,7 +572,7 @@ Jaina snaked a finger over the edge of the crater and pointed at one of the drop
 — The Swarm War (Troy Denning, 2006), prologue
 ```
 
-### 46. On a failing Bespin gas platform, Jaina holds Zekk with one hand and with the other Force-plucks their sliding cloud car back from the edge, while Zekk's own Force grab misses.
+### 50. On a failing Bespin gas platform, Jaina holds Zekk with one hand and with the other Force-plucks their sliding cloud car back from the edge, while Zekk's own Force grab misses.
 
 ```
 Jaina spun back toward their cloud car and found it sliding across the deck, rocking up on its struts and about to tumble over. She thrust an arm out, holding Zekk with her other hand, and used the Force to pluck the vehicle up and bring it over. She caught hold of the cockpit and started to pull herself inside, then realized Zekk was still a deadweight in her other hand.
@@ -525,7 +580,7 @@ Jaina spun back toward their cloud car and found it sliding across the deck, roc
 — The Unseen Queen (Troy Denning, 2005), prologue
 ```
 
-### 47. With rage "boiling inside her like magma," Jaina shoves Anakin's body out of a Yuuzhan Vong warrior's grip with the Force, sending the warrior stumbling and floating her brother to Alema.
+### 51. With rage "boiling inside her like magma," Jaina shoves Anakin's body out of a Yuuzhan Vong warrior's grip with the Force, sending the warrior stumbling and floating her brother to Alema.
 
 ```
 Rage boiling inside her like magma, Jaina reached out with the Force and shoved Anakin’s body hard. The Yuuzhan Vong yelled in surprise and stumbled back into the collapsing arch, his coufee sliding away from the eye. Jaina jerked her brother free of the warrior’s grasp and sent him floating in Alema’s direction.
@@ -533,7 +588,7 @@ Rage boiling inside her like magma, Jaina reached out with the Force and shoved 
 — Star by Star (Troy Denning, 2001), ch. 49
 ```
 
-### 48. Jaina uses the Force to pull a cleaning droid back to her hands, overpowering its repulsorlift engines while its owner fiddles with his controls.
+### 52. Jaina uses the Force to pull a cleaning droid back to her hands, overpowering its repulsorlift engines while its owner fiddles with his controls.
 
 ```
 As Jaina rose, she thrust a hand at the cleaning droid and used the Force to summon it back toward her. Tyrr cried out in astonishment and scurried down the lane, angrily thumbing his recording rod, as though that might give the droid’s repulsorlift engines enough power to break free of Jaina’s Force grasp.
@@ -543,7 +598,7 @@ By the time the droid floated into her hands, Tyrr was only a couple of paces aw
 — Abyss (Troy Denning, 2009), ch. 6
 ```
 
-### 49. Jaina drops a cargo drone weighing tons onto two YVH droids with the Force.
+### 53. Jaina drops a cargo drone weighing tons onto two YVH droids with the Force.
 
 ```
 Their blasters swung around—but Jaina had had her second of composure. She reached up and tugged at a large cargo drone, causing it to gain a few meters’ altitude, then to plummet—right onto two of the droids. It smashed down on them with the weight of tons of cargo. Jaina had a brief glimpse of plastic and metal crates leaping up from the drone’s cargo bed, spilling out in all directions. Not all the drone’s momentum was down—it continued bouncing forward, and then, its computer programs demonstrating considerable skill, became airborne again. It roared away from the scene at full speed, three-quarters of its cargo still skidding and rolling along the avenue.
@@ -551,7 +606,7 @@ Their blasters swung around—but Jaina had had her second of composure. She rea
 — Betrayal (Aaron Allston, 2006), ch. 10
 ```
 
-### 50. Jaina yanks a duracrete tanker out of the air with the Force and brings it down on the last YVH droid.
+### 54. Jaina yanks a duracrete tanker out of the air with the Force and brings it down on the last YVH droid.
 
 ```
 It was rising, its back to Jaina, so much permacrete adhering to it that it appeared to have a new layer of badly installed armor. Jaina glanced over her shoulder, saw another high-mass drone speeder approaching—this one, she noted with satisfaction, a small tanker carrying a load of uncured duracrete. She yanked at it through the Force and brought it down atop the last droid, driving and grinding it forward along the avenue. She saw pieces of the droid severed by the high-mass attack—here an arm, there a leg. Once it was well past her, there was a muffled boom from beneath the nose of the airspeeder as something in the droid’s chest exploded.
@@ -559,7 +614,7 @@ It was rising, its back to Jaina, so much permacrete adhering to it that it appe
 — Betrayal (Aaron Allston, 2006), ch. 10
 ```
 
-### 51. Jaina hurls three missiles back toward their launchers with a sweep of her hand.
+### 55. Jaina hurls three missiles back toward their launchers with a sweep of her hand.
 
 ```
 Jaina made a sweeping motion with her hand, using the Force to hurl three missiles back toward their launchers. The other two dropped into the defoliated jungle behind her and detonated in a blinding pulse, hurling trunks in every direction and flashing killer radiation through the naked trees for a hundred meters.
@@ -567,7 +622,7 @@ Jaina made a sweeping motion with her hand, using the Force to hurl three missil
 — The Swarm War (Troy Denning, 2006), ch. 14
 ```
 
-### 52. Jaina and Jacen together levitate the sleeping Raynar, imagining him as light as a feather.
+### 56. Jaina and Jacen together levitate the sleeping Raynar, imagining him as light as a feather.
 
 ```
 Closing their eyes, the twins concentrated.
@@ -579,7 +634,7 @@ Jacen held his breath, and the still-snoring Jedi student began to rise from the
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 1
 ```
 
-### 53. In Heirs of the Force, Jaina tidies her room by Force-lifting a large mass of tangled wires and cables onto a stack of components.
+### 57. In Heirs of the Force, Jaina tidies her room by Force-lifting a large mass of tangled wires and cables onto a stack of components.
 
 ```
 “THERE,” SAID JAINA, mentally relaxing her hold on a large mass of tangled wires and cables. It came to rest in a more or less contained jumble atop one of the newly tidied stacks of electronic components in her room.
@@ -587,7 +642,7 @@ Jacen held his breath, and the still-snoring Jedi student began to rise from the
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 54. Jaina, Jacen, Tenel Ka and Lowbacca lift a TIE fighter's solar panel down from a Massassi tree.
+### 58. Jaina, Jacen, Tenel Ka and Lowbacca lift a TIE fighter's solar panel down from a Massassi tree.
 
 ```
 With that, four minds pushed upward, nudging. In a gentle, concerted motion they lifted the panel free of the branch where it had rested for decades. The large, flat rectangle wobbled in midair for a moment and then began to slowly descend. Tenel Ka kept her fibercord taut, easing the Force-lightened object down.
@@ -595,7 +650,7 @@ With that, four minds pushed upward, nudging. In a gentle, concerted motion they
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 10
 ```
 
-### 55. Jaina nudges Qorl's blaster with the Force at the last instant, so his shot misses Lowbacca's T-23.
+### 59. Jaina nudges Qorl's blaster with the Force at the last instant, so his shot misses Lowbacca's T-23.
 
 ```
 “No!” Jaina cried, and nudged with her mind at the last instant. Using the Force, she shoved the TIE pilot’s arm and knocked his aim off by just a fraction of a degree. The bright blaster bolt screeched out and danced along the metal hull of the repulsorlift pods.
@@ -603,7 +658,7 @@ With that, four minds pushed upward, nudging. In a gentle, concerted motion they
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11
 ```
 
-### 56. Injured and blindfolded, the twins deflect the thrown knives into the walls with the Force.
+### 60. Injured and blindfolded, the twins deflect the thrown knives into the walls with the Force.
 
 ```
 The twins used their Force abilities to deflect the incoming blades into the walls, where they left long white scars on the metal.
@@ -611,7 +666,7 @@ The twins used their Force abilities to deflect the incoming blades into the wal
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 57. Jaina deflects Garowyn's Force-thrown crate with the Force, remembering her Shadow Academy training.
+### 61. Jaina deflects Garowyn's Force-thrown crate with the Force, remembering her Shadow Academy training.
 
 ```
 Jaina cried out as a similar crate flew directly at her head. She instinctively deflected it with a shove from the Force. Eerily, it reminded Jaina of the training sessions she had undergone while a prisoner at the Shadow Academy. Fear gripped her as the Nightsister tossed barrels, heavy bolts, mallets, metal sheeting, hydrospanners, and anything else she could fling, quickly and without moving a muscle, at her two captives.
@@ -619,7 +674,7 @@ Jaina cried out as a similar crate flew directly at her head. She instinctively 
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 58. Jaina Force-shoves Garowyn across the spilled lubricant toward the door.
+### 62. Jaina Force-shoves Garowyn across the spilled lubricant toward the door.
 
 ```
 The distraction was brief, but it was long enough for Jaina. Reaching out with the Force, closing her eyes in concentration, Jaina gave the Nightsister's body a powerful shove.
@@ -631,7 +686,7 @@ Caught completely off guard, Garowyn slipped in the lubricant that coated the fl
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 59. Jaina uses the Force to help move smashed equipment; she still can't follow Wookiee speech.
+### 63. Jaina uses the Force to help move smashed equipment; she still can't follow Wookiee speech.
 
 ```
 Never one to stand around wringing her hands in an emergency, Jaina helped to bind up minor wounds and put out small fires. Occasionally, she used the Force to help muscular Wookiees heave aside smashed equipment. Every time she asked about her brother and her friends, however, she received only confused answers.
@@ -641,7 +696,7 @@ Moment by moment, the cacophony around Jaina increased with a confusing mix of W
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 15
 ```
 
-### 60. Jaina, Jacen and Tenel Ka fly 'with deft hands guided by the Force', then join minds and push off the asteroid like a springboard, sending the Rock Dragon halfway to the fleet.
+### 64. Jaina, Jacen and Tenel Ka fly 'with deft hands guided by the Force', then join minds and push off the asteroid like a springboard, sending the Rock Dragon halfway to the fleet.
 
 ```
 Like a team long accustomed to working together, they flicked switches, sealed airlocks, and programmed courses with deft hands guided by the Force.
@@ -653,7 +708,7 @@ Tenel Ka reached out with her mind for Jaina’s, felt Jacen’s mind join the t
 
 ## Force Lightning
 
-### 61. Jaina suggests Force lightning to Tahiri and Zekk, telling Zekk they could do it because he graduated from the Shadow Academy.
+### 65. Jaina suggests Force lightning to Tahiri and Zekk, telling Zekk they could do it because he graduated from the Shadow Academy.
 
 ```
 “Go find Lowbacca,” Jaina suggested. “He’s still working on the tracking system. You know the Yuuzhan Vong language better than any of us. Maybe the ship will be more talkative if it’s got a good listener.”
@@ -669,7 +724,7 @@ Tenel Ka reached out with her mind for Jaina’s, felt Jacen’s mind join the t
 — Dark Journey (Elaine Cunningham, 2002), ch. 12
 ```
 
-### 62. In Dark Journey, Jaina rises in a fluid blur and throws dark lightning that wraps an older Jedi in a shining nimbus and hurls him into the wall, but he dispels it with the words "If I can summon it, I can dispel it. You're not the only one who took that path."
+### 66. In Dark Journey, Jaina rises in a fluid blur and throws dark lightning that wraps an older Jedi in a shining nimbus and hurls him into the wall, but he dispels it with the words "If I can summon it, I can dispel it. You're not the only one who took that path."
 
 ```
 She rose suddenly, in a fluid blur, one hand thrown toward the older Jedi. Dark lightning crackled from her fingers and surrounded him in a shining nimbus. He flew back and struck the wall hard. His eyes narrowed, and the deadly aura disappeared. Jaina’s eyes widened in surprise.
@@ -681,7 +736,7 @@ She rose suddenly, in a fluid blur, one hand thrown toward the older Jedi. Dark 
 
 ## Telepathy and Mind Control
 
-### 63. Jaina and Jacen cannot communicate telepathically word for word, but know in a clear general way what the other is thinking.
+### 67. Jaina and Jacen cannot communicate telepathically word for word, but know in a clear general way what the other is thinking.
 
 ```
 While they couldn’t communicate telepathically with each other word for word, they did know in a clear but general way what the other was thinking. When Jacen broke away from Chewbacca to run through the glacier eyries of the Snow Falcons, he headed to the left. At the same time, Jaina sprinted in the opposite direction, brushing past a startled Threepio. The twins used their fledgling talent with the Force to guide them into one of the other openings that led to an exit corridor.
@@ -689,7 +744,7 @@ While they couldn’t communicate telepathically with each other word for word, 
 — Dark Apprentice (Kevin J. Anderson, 1994), ch. 21
 ```
 
-### 64. Jaina touches Longnose through the Force to make him uneasy, deactivates her lightsaber, and uses the Force to press him into the muddy bank while demanding to know why he tried to kill her.
+### 68. Jaina touches Longnose through the Force to make him uneasy, deactivates her lightsaber, and uses the Force to press him into the muddy bank while demanding to know why he tried to kill her.
 
 ```
 She studied Longnose for a minute, touching him through the Force to make him uneasy, then deactivated her lightsaber and leaned in close.
@@ -715,7 +770,7 @@ Jaina turned her attention to Scarcheek, whom the Mollom were bringing down into
 — The Swarm War (Troy Denning, 2006), ch. 16
 ```
 
-### 65. Facing down a refugee-camp official, Jaina makes a subtle gesture and uses a light Jedi compulsion to tell him to find Han and Leia Solo and inform them their daughter has arrived.
+### 69. Facing down a refugee-camp official, Jaina makes a subtle gesture and uses a light Jedi compulsion to tell him to find Han and Leia Solo and inform them their daughter has arrived.
 
 ```
 Jaina’s eyes narrowed. She came to stand at Tahiri’s side, faced down the official and moved her hand in a slight subtle gesture. “You will find Han and Leia Solo in the refugee camp and inform them that their daughter has arrived.”
@@ -725,7 +780,7 @@ The official’s eyes widened, only partly due to the subtle Jedi compulsion. �
 — Dark Journey (Elaine Cunningham, 2002), ch. 14
 ```
 
-### 66. Jaina smiles coolly, reaches out with the Force and sends a powerful compulsion to a presence lurking behind the door; Trisdin enters almost immediately, revealing he had been listening.
+### 70. Jaina smiles coolly, reaches out with the Force and sends a powerful compulsion to a presence lurking behind the door; Trisdin enters almost immediately, revealing he had been listening.
 
 ```
 Jaina gave the queen a slow, cool smile. Then she picked up her glass and glanced at the door. She reached out with the Force, sending a powerful compulsion to the presence she sensed lurking there.
@@ -735,7 +790,7 @@ Trisdin entered almost immediately, making it apparent that he’d been listenin
 — Dark Journey (Elaine Cunningham, 2002), ch. 19
 ```
 
-### 67. In Or Die Trying, a tower guard spots Jaina, but before he can sound the alarm she dips into his surface thoughts and changes the notion of intruder to just another mynock.
+### 71. In Or Die Trying, a tower guard spots Jaina, but before he can sound the alarm she dips into his surface thoughts and changes the notion of intruder to just another mynock.
 
 ```
 A guard from the nearest tower spotted her immediately. Before his finger could push the button to sound the alarm, Jaina dipped into his surface thoughts and changed the notion of intruder to a more reassuring just another mynock. Onadax had a rampant, mutant population of the silicon-based pests inherited from the small world’s early days as an agglomeration of asteroids, so it wasn’t difficult to impress the thought upon the Jenet’s mind. The guard moved his finger away from the alarm button as quickly as he had reached for it, and he turned away with a snort. A second guard, one tower along, also noticed her; Jaina performed the same mind trick on him. By the time she’d reached the inner buildings, six of the eight guards had caught direct sight of her. But after the initial guard had gotten on his comlink to the others to complain about the infestation, the remaining guards were already expecting to see what she wanted them to, making it even easier for her to slip by.
@@ -743,7 +798,7 @@ A guard from the nearest tower spotted her immediately. Before his finger could 
 — Or Die Trying (Sean Williams, short story) †
 ```
 
-### 68. Jaina closes her eyes and concentrates on forming the mind-meld younger Jedi Knights use to share strength in battle, hoping to reinforce Tahiri in her fight.
+### 72. Jaina closes her eyes and concentrates on forming the mind-meld younger Jedi Knights use to share strength in battle, hoping to reinforce Tahiri in her fight.
 
 ```
 Two hours, Jaina thought. That could be easily long enough to make a difference.
@@ -753,7 +808,7 @@ She closed her eyes, concentrating on forming the mind-meld that the younger Jed
 — Force Heretic III: Reunion (Sean Williams and Shane Dix, 2003), ch. 1
 ```
 
-### 69. Reaching out through the Force subtly, Jaina substitutes her own coordinates for the ones Prann thinks he is entering; she does not have much skill controlling minds and, like Jacen, does not think much of the practice, but this time there is no choice.
+### 73. Reaching out through the Force subtly, Jaina substitutes her own coordinates for the ones Prann thinks he is entering; she does not have much skill controlling minds and, like Jacen, does not think much of the practice, but this time there is no choice.
 
 ```
 This is it, Jaina thought. She reached out through the Force, subtly, not taking control, but instead substituting her own coordinates for the ones Prann thought he was entering. She didn’t have much skill controlling minds through the Force, and like Jacen she didn’t think much of the practice.
@@ -765,7 +820,7 @@ One-one-two, not aught-aught-two, she thought at Prann. Aught-nine-one, not one-
 — The Final Prophecy (Greg Keyes, 2003), ch. 32
 ```
 
-### 70. In Brakiss's lecture hall, Jaina sends a telepathic probe and a soothing message to Lowie.
+### 74. In Brakiss's lecture hall, Jaina sends a telepathic probe and a soothing message to Lowie.
 
 ```
 She sat up straight, cleared her mind, and sent a gentle thought probing in Lowie’s direction. She did not feel any pain from him. He was unharmed-of that she was certain-but she did sense tension, confusion, and simmering frustration. She tried to send him soothing thoughts. She wasn’t sure how much got through, but when Lowie briefly reached a furry hand around to touch her shoulder, she knew he understood.
@@ -773,7 +828,7 @@ She sat up straight, cleared her mind, and sent a gentle thought probing in Lowi
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 10
 ```
 
-### 71. Jaina senses Jacen outside her door and has been expecting him.
+### 75. Jaina senses Jacen outside her door and has been expecting him.
 
 ```
 At the seventh door he found her. Jacen sensed his sister, awake and excited, knowing he was out there. He worked the controls until her door slid open. Jaina burst out, hugging him. “I’ve been expecting you,” she said.
@@ -783,7 +838,7 @@ At the seventh door he found her. Jacen sensed his sister, awake and excited, kn
 
 ## Illusions, Concealment and Stealth
 
-### 72. In Invincible, Jaina concentrates on keeping her presence hidden with the technique Caedus himself taught her, and does not dare expand her Force awareness.
+### 76. In Invincible, Jaina concentrates on keeping her presence hidden with the technique Caedus himself taught her, and does not dare expand her Force awareness.
 
 ```
 Jaina lifted her brow at this news, but did not dare expand her Force awareness to see if she was right. She was concentrating on keeping her presence hidden, and the technique—the same one Caedus had taught Ben, and which Ben had then taught to her and his father—was too new to her to risk splitting her concentration.
@@ -793,7 +848,7 @@ Jaina lifted her brow at this news, but did not dare expand her Force awareness 
 
 ## Force Defense and Resistance
 
-### 73. With the Moffs dead, Jaina puts every scrap of strength she has into breaking Jacen's invisible Force hold so Tahiri can escape.
+### 77. With the Moffs dead, Jaina puts every scrap of strength she has into breaking Jacen's invisible Force hold so Tahiri can escape.
 
 ```
 The Moffs lay dead. Jaina felt Jacen then; he was throttling Mirta to let Tahiri escape into the docking tube above the hatch. Jaina put every scrap of strength she had into breaking Jacen’s invisible Force choke hold on Mirta. She saw it like a black chain and visualized the links flying apart just as Carid shot past her and scrambled up the ladder followed by Vevut. Fett skidded to a halt and grabbed Mirta by her shoulder, as if he thought the blood on the deck might be hers.
@@ -801,7 +856,7 @@ The Moffs lay dead. Jaina felt Jacen then; he was throttling Mirta to let Tahiri
 — Revelation (Karen Traviss, 2008), ch. 17
 ```
 
-### 74. Caedus sprays Force lightning at Jaina, who catches it on her lightsaber, whirls past, and brings her blade down in a long gouge in the door where Caedus had been an instant before.
+### 78. Caedus sprays Force lightning at Jaina, who catches it on her lightsaber, whirls past, and brings her blade down in a long gouge in the door where Caedus had been an instant before.
 
 ```
 Caedus whirled with fury in his eyes, but Jaina was already bounding over the conveyor belt, her hair still trailing smoke. He splayed his fingers and sprayed Force lightning at her. Jaina caught it on her lightsaber and whirled past, bringing her blade down where Caedus had been an instant before and leaving a long gouge in the door.
@@ -809,7 +864,7 @@ Caedus whirled with fury in his eyes, but Jaina was already bounding over the co
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 75. Guarding the unconscious Zekk, Jaina deflects near-continuous blaster fire from four YVH combat droids, though her return shots do them no significant damage.
+### 79. Guarding the unconscious Zekk, Jaina deflects near-continuous blaster fire from four YVH combat droids, though her return shots do them no significant damage.
 
 ```
 Jaina stood over the injured and unconscious body of Zekk, her lightsaber lit and in a ready position. Four YVH combat droids, situated behind crashed CorSec airspeeders, poured near-continuous blasterfire at her. She’d been able to deflect it all, mostly into the permacrete or back toward the firers, but none of her return shots had done them any significant damage, and the high intensity of their blasters and rapid rate of fire were tiring her. She needed just a second of rest to compose herself, to sweep the droids away—but they weren’t giving her a second.
@@ -817,7 +872,7 @@ Jaina stood over the injured and unconscious body of Zekk, her lightsaber lit an
 — Betrayal (Aaron Allston, 2006), ch. 10
 ```
 
-### 76. Tamith Kai tells Jaina to fuel her anger; Jaina remembers Luke's teaching and does not lash out.
+### 80. Tamith Kai tells Jaina to fuel her anger; Jaina remembers Luke's teaching and does not lash out.
 
 ```
 “Your anger is good,” she said. “Fuel it. Let it grow. We will use it when your training begins.
@@ -827,7 +882,7 @@ Master Skywalker had said that giving in to anger was a path to the dark side of
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 77. Jaina throws off Brakiss's mental pressure.
+### 81. Jaina throws off Brakiss's mental pressure.
 
 ```
 Brakiss was silent for a long moment, his mind pressing down on hers with suffocating weight.
@@ -839,7 +894,7 @@ With a mental heave Jaina flung aside the influence of his mind on hers and chal
 
 ## Lightsaber Skill and Combat Mastery
 
-### 78. Jaina's violet blade strikes again and again but a Yuuzhan Vong in a vonduun crab helmet parries every blow, concentrating solely on defense to keep her off the driver while his beast tramples landspeeders.
+### 82. Jaina's violet blade strikes again and again but a Yuuzhan Vong in a vonduun crab helmet parries every blow, concentrating solely on defense to keep her off the driver while his beast tramples landspeeders.
 
 ```
 Jaina’s violet blade struck again and again, but the Yuuzhan Vong parried them all, an intent look visible under the brim of the vonduun crab helmet. He was concentrating solely on defense, on keeping her off the driver until he could trample the maximum number of landspeeders under the beast’s claws. Frustration built in her as she redoubled her attack, the violet blade building into a pattern that would result in the amphistaff being drawn out of line and opening the Yuuzhan Vong for a finishing thrust.
@@ -849,7 +904,7 @@ Unexpectedly Jaina threw herself flat on the quednak’s back. A bright red-oran
 — Ylesia (Walter Jon Williams, 2002)
 ```
 
-### 79. Pinned down in a fingerleaf grove, Jaina and Luke fend off streams of attack bugs from lookout aeries with swings of their lightsabers while Jaina still finds time to speak.
+### 83. Pinned down in a fingerleaf grove, Jaina and Luke fend off streams of attack bugs from lookout aeries with swings of their lightsabers while Jaina still finds time to speak.
 
 ```
 “After he did so well with the mon duul,” Jaina found time to say between swings of her lightsaber.
@@ -863,7 +918,7 @@ Pinned down in a grove of fingerleaf trees one hundred meters from the westernmo
 — The Unifying Force (James Luceno, 2003), ch. 38
 ```
 
-### 80. In Invincible, when a mysterious substance rains down in a Verpine tunnel, Jaina has no Force technique better than what Fett and the Verpine are doing, so she activates her lightsaber, squats and lays the blade flat, using it like a broom to burn the stuff away from her.
+### 84. In Invincible, when a mysterious substance rains down in a Verpine tunnel, Jaina has no Force technique better than what Fett and the Verpine are doing, so she activates her lightsaber, squats and lays the blade flat, using it like a broom to burn the stuff away from her.
 
 ```
 Jaina had no idea what the stuff was—and it was coming too fast to waste time wondering. When she could not think of a Force technique that would be more effective than what Fett and the Verpine were doing, she simply activated her lightsaber and squatted, laying the blade as flat as she could and using it like a broom to keep the stuff burned away from her.
@@ -871,7 +926,7 @@ Jaina had no idea what the stuff was—and it was coming too fast to waste time 
 — Invincible (Troy Denning, 2008), ch. 1
 ```
 
-### 81. Against a Yuuzhan Vong warrior, Jaina slaps amphistaff poison out of the air with a Force-generated wind and springs forward, but his circular parry nearly tears the lightsaber from her fingers, so she disengages and attacks less impulsively.
+### 85. Against a Yuuzhan Vong warrior, Jaina slaps amphistaff poison out of the air with a Force-generated wind and springs forward, but his circular parry nearly tears the lightsaber from her fingers, so she disengages and attacks less impulsively.
 
 ```
 Jaina’s opponent thrust out his amphistaff, its head spitting poison. Jaina slapped the poison out of the air with a Force-generated wind and sprang forward to engage, thrusting right for the Yuuzhan Vong’s tattooed face. His circular parry almost tore the lightsaber from her fingers, but she managed to disengage in time, and now she made a less impulsive attack.
@@ -879,7 +934,7 @@ Jaina’s opponent thrust out his amphistaff, its head spitting poison. Jaina sl
 — Ylesia (Walter Jon Williams, 2002)
 ```
 
-### 82. In Dark Journey, Jaina instinctively ducks and slashes high at a glider creature, severing a gossamer wing and sending the creature slamming into the mountain wall and crashing down the incline.
+### 86. In Dark Journey, Jaina instinctively ducks and slashes high at a glider creature, severing a gossamer wing and sending the creature slamming into the mountain wall and crashing down the incline.
 
 ```
 Instinctively Jaina ducked and slashed out high. An enormous gossamer wing enfolded her like a veil, and the creature that had just lost it slammed into the mountain wall. It bounced off, rolled across the narrow path, and then crashed down the incline. Showers of colored light erupted from it like sparks from a severed wire.
@@ -887,7 +942,7 @@ Instinctively Jaina ducked and slashed out high. An enormous gossamer wing enfol
 — Dark Journey (Elaine Cunningham, 2002), ch. 21
 ```
 
-### 83. Sparring with Kyp, Jaina vaults over his flamboyant lightsaber attack and flips over his head, and Kyp has to roll aside to avoid a possible slashing counter.
+### 87. Sparring with Kyp, Jaina vaults over his flamboyant lightsaber attack and flips over his head, and Kyp has to roll aside to avoid a possible slashing counter.
 
 ```
 His lightsaber leapt from his belt, flipped in midair, and slapped down into his hand. The glowing blade hissed toward her. Jaina vaulted above the flamboyant attack and flipped over Kyp’s head. He rolled aside to avoid a possible slashing counter and came up in a crouch.
@@ -895,7 +950,7 @@ His lightsaber leapt from his belt, flipped in midair, and slapped down into his
 — Dark Journey (Elaine Cunningham, 2002), ch. 24
 ```
 
-### 84. Jaina twists with a blow to her chin, uses the Force to accelerate into a spin, leaps at Caedus bringing her blade around in a clearing arc that pops off a droid's head, then slashes at Caedus and kicks up under his chin when he becomes predictable.
+### 88. Jaina twists with a blow to her chin, uses the Force to accelerate into a spin, leaps at Caedus bringing her blade around in a clearing arc that pops off a droid's head, then slashes at Caedus and kicks up under his chin when he becomes predictable.
 
 ```
 Jaina felt her chin twisting around and went with it, using the Force to accelerate her whole body into a spin, still leaping toward Caedus, bringing her lightsaber around in a clearing arc. She felt the blade meet metal, and the droid’s ebony head popped into the air. Then she was on Caedus, slashing at his head with her lightsaber, bringing her boot toe up under his chin when he grew predictable and ducked.
@@ -903,7 +958,7 @@ Jaina felt her chin twisting around and went with it, using the Force to acceler
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 85. Knowing she is a "dead woman" if she does not win, Jaina whips her lightsaber into a high block and deflects Caedus's reverse slash aimed at her neck.
+### 89. Knowing she is a "dead woman" if she does not win, Jaina whips her lightsaber into a high block and deflects Caedus's reverse slash aimed at her neck.
 
 ```
 It didn’t matter. Jaina was a dead woman if she didn’t win this—maybe even if she did win. She whipped her lightsaber around in a high block and deflected the reverse slash Caedus was bringing down toward her neck.
@@ -911,7 +966,7 @@ It didn’t matter. Jaina was a dead woman if she didn’t win this—maybe even
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 86. Under charric cannon fire, Jaina, Zekk and the others knock the beams back at the drop ship with their lightsabers; unlike blaster bolts the beams hit with enormous impact, and several times Jaina and Zekk have to recall lightsabers torn from their grasps.
+### 90. Under charric cannon fire, Jaina, Zekk and the others knock the beams back at the drop ship with their lightsabers; unlike blaster bolts the beams hit with enormous impact, and several times Jaina and Zekk have to recall lightsabers torn from their grasps.
 
 ```
 Then the drop ship’s belly turret spun toward the Jedi and began to stitch the slope with fire from its twin charric guns. Jaina, Zekk, and the others raised their lightsabers and started to knock the beams back toward the vessel. Unlike blaster bolts—which carried very little kinetic charge—the charric beams struck with an enormous impact. Several times Jaina, Zekk, and even Lowbacca felt their lightsabers fly from their grasps and had to use the Force to recall the weapons.
@@ -919,7 +974,7 @@ Then the drop ship’s belly turret spun toward the Jedi and began to stitch the
 — The Swarm War (Troy Denning, 2006), prologue
 ```
 
-### 87. Wading upstream out of Chiss fire, Jaina yanks the lightsaber from her belt, rises from the water and bats half a dozen bolts aside, several times narrowly escaping when her blade has to be in two places at once.
+### 91. Wading upstream out of Chiss fire, Jaina yanks the lightsaber from her belt, rises from the water and bats half a dozen bolts aside, several times narrowly escaping when her blade has to be in two places at once.
 
 ```
 When Jaina judged she had traveled far enough upstream to be out of the Chiss line of fire, she yanked the lightsaber off her utility belt and rose out of the water. The air around her immediately erupted into a storm of flashing and zinging, but she had already activated her lightsaber and brought it up to block. She batted half a dozen bolts aside, several times narrowly escaping injury when her blade had to be in two places at the same time.
@@ -927,7 +982,7 @@ When Jaina judged she had traveled far enough upstream to be out of the Chiss li
 — The Swarm War (Troy Denning, 2006), ch. 16
 ```
 
-### 88. In a staff sparring melee, Jaina drives her shoulder into Lowbacca's flank, slaps the "blade" of her own staff across his back, then hears Jag rushing in behind her and sends him flying with a back kick to the belly.
+### 92. In a staff sparring melee, Jaina drives her shoulder into Lowbacca's flank, slaps the "blade" of her own staff across his back, then hears Jag rushing in behind her and sends him flying with a back kick to the belly.
 
 ```
 Lowbacca roared in surprise and tried to transfer his balance to his other leg, but Jaina was already coming up on his flank, driving her shoulder into him and sending him tumbling. The electrostaff came down across Zekk’s shoulder, emitting a sharp crackle as it discharged its immobilizing shock. Jaina slapped the flexible “blade” of her own staff across Lowbacca’s back, then heard Jag rushing in behind her and sent him flying with a back kick to the belly.
@@ -935,7 +990,7 @@ Lowbacca roared in surprise and tried to transfer his balance to his other leg, 
 — Invincible (Troy Denning, 2008), ch. 14
 ```
 
-### 89. Against a Ssi-ruuk beamer that her lightsaber cannot deflect as cleanly as a laser bolt, Jaina still manages to bend the beam harmlessly into a wall, then pulls the beamer from the warrior's grasp with the Force and throws it to Vyram.
+### 93. Against a Ssi-ruuk beamer that her lightsaber cannot deflect as cleanly as a laser bolt, Jaina still manages to bend the beam harmlessly into a wall, then pulls the beamer from the warrior's grasp with the Force and throws it to Vyram.
 
 ```
 Another warrior howled and tried to skewer her with a shot from its beamer. Her lightsaber was unable to deflect the beam as effectively as it would a laser shot, but she did manage to bend it harmlessly into a wall. A P’w’eck leapt onto the warrior’s back and brought it down. Jaina pulled the beamer from its grasp and threw it over to Vyram, who deftly snatched it from the air and aimed it at Cundertol’s face.
@@ -943,7 +998,7 @@ Another warrior howled and tried to skewer her with a shot from its beamer. Her 
 — Force Heretic II: Refugee (Sean Williams and Shane Dix, 2003), ch. 4
 ```
 
-### 90. In The Unifying Force, Jaina comes through the membrane after Luke and Jacen "moving swiftly but vigilantly" to Luke's left side, her blade raised over her right shoulder, having just dispatched the last of the attackers.
+### 94. In The Unifying Force, Jaina comes through the membrane after Luke and Jacen "moving swiftly but vigilantly" to Luke's left side, her blade raised over her right shoulder, having just dispatched the last of the attackers.
 
 ```
 While Jaina was dispatching the last of them, Luke whirled and leapt through the opening. Landing in a crouch five meters from the membrane, he held the lightsaber in a one-handed grip extended to his right and slightly behind him. Jacen was the next through, assuming a bent-legged forward stance, with his blade held straight out in front of him. Then Jaina came through, moving swiftly but vigilantly to Luke’s left side, with her blade raised over her right shoulder.
@@ -951,7 +1006,7 @@ While Jaina was dispatching the last of them, Luke whirled and leapt through the
 — The Unifying Force (James Luceno, 2003), ch. 40
 ```
 
-### 91. Freed from blorash jelly, Jaina drives a Yuuzhan Vong warrior back "with a wild web of lightsaber slashes" and opens his chestplate as Anakin cuts his knees.
+### 95. Freed from blorash jelly, Jaina drives a Yuuzhan Vong warrior back "with a wild web of lightsaber slashes" and opens his chestplate as Anakin cuts his knees.
 
 ```
 Now free of her blorash jelly, Jaina was driving her foe back with a wild web of lightsaber slashes. Calling on the Force for strength, Anakin stepped over and slashed his blade across the Yuuzhan Vong’s knees. Jaina opened the warrior’s chestplate before he hit the ground, then turned and grabbed Anakin by the elbow.
@@ -959,7 +1014,7 @@ Now free of her blorash jelly, Jaina was driving her foe back with a wild web of
 — Star by Star (Troy Denning, 2001), ch. 36
 ```
 
-### 92. Jaina cuts a YVH droid in two through its combat armor, then destroys the still-firing half.
+### 96. Jaina cuts a YVH droid in two through its combat armor, then destroys the still-firing half.
 
 ```
 The YVH droid came leaping up through it, facing her. Jaina flashed her lightsaber across its midsection as it rose. She felt the considerable drag that the droid’s combat armor caused even to a lightsaber blade, but the blade emerged from the other side and the droid crashed to the pavement in two pieces.
@@ -969,7 +1024,7 @@ One of those pieces was still dangerous. It rolled over and began to bring its b
 — Betrayal (Aaron Allston, 2006), ch. 10
 ```
 
-### 93. Jaina duels a 'Darth Vader' who is really Jacen in disguise, and neither can defeat the other.
+### 97. Jaina duels a 'Darth Vader' who is really Jacen in disguise, and neither can defeat the other.
 
 ```
 Jaina swung, trying to land a blow on Darth Vader’s chest armor, but the Dark Lord brought his own beam up to crash against hers. She backed away as he attacked with greater strength, slashing, striking with his lightsaber.
@@ -985,7 +1040,7 @@ They stood with lightsabers crossed and electric arcs flying around them, pressi
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 94. Jaina parries a flurry of five bolts from her remote.
+### 98. Jaina parries a flurry of five bolts from her remote.
 
 ```
 He heard two more laser blasts and then a spang as Jaina successfully deflected one of the bolts.
@@ -995,7 +1050,7 @@ Jaina parried a flurry of bolts as her remote attacked mercilessly, firing five 
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 4
 ```
 
-### 95. Luke judges Jaina and Lowie equally matched in skill; she holds a blade lock against Lowie's strength.
+### 99. Luke judges Jaina and Lowie equally matched in skill; she holds a blade lock against Lowie's strength.
 
 ```
 He stepped back and motioned to Jacen and Tenel Ka, who waited on the edge of the clearing, sitting next to each other on the burned tree trunk. "You two will be next. Jaina, don't worry about Lowie being so much bigger and stronger than you are. Dueling with a lightsaber is primarily skill, and I think you're equally matched in that. Your one true disadvantage is that his reach is much longer than yours. Unfortunately," Luke said with a sigh, "circumstances don't always pit us against equal opponents. As for you, Lowie, be careful not to underestimate Jaina."
@@ -1005,7 +1060,7 @@ The Wookiee shifted his lightsaber, bringing its molten-bronze blade into positi
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 4
 ```
 
-### 96. Jaina's lightsaber is in her hand by instinct; she parries Zekk's lunges.
+### 100. Jaina's lightsaber is in her hand by instinct; she parries Zekk's lunges.
 
 ```
 Then, in a move so instinctive that a moment later she couldn't even remember it, Jaina found her own lightsaber in her hand, its electric-violet beam humming and pulsating.
@@ -1017,7 +1072,7 @@ Jaina spun away and kept a wary eye on Zekk while she circled, waiting for his n
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 22
 ```
 
-### 97. Jaina cuts an octagon of pure core metal from the asteroid with her lightsaber, leaving gem-like faces.
+### 101. Jaina cuts an octagon of pure core metal from the asteroid with her lightsaber, leaving gem-like faces.
 
 ```
 Jaina found a polished lake of pure solidified metal and knelt down, pulling her lightsaber free from its clip at her belt. “Looks like a good spot,” she said.
@@ -1029,7 +1084,7 @@ Jaina returned to her work and a few moments later lifted out a beautiful solid 
 — Shards of Alderaan (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 13
 ```
 
-### 98. Jaina chops off an arachnid leg, but it has too many limbs.
+### 102. Jaina chops off an arachnid leg, but it has too many limbs.
 
 ```
 Jaina chopped away another flailing leg, but the combat arachnid had too many limbs—and now it was angered and in pain. The beast pressed them back, trapping them between a pile of fallen rock and the wall.
@@ -1037,7 +1092,7 @@ Jaina chopped away another flailing leg, but the combat arachnid had too many li
 — Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 11
 ```
 
-### 99. Jaina hacks a shelter into the crevice, chopping out huge glassy lumps of stone, until she gives up exhausted.
+### 103. Jaina hacks a shelter into the crevice, chopping out huge glassy lumps of stone, until she gives up exhausted.
 
 ```
 Spying a crevice, Jaina ignited her lightsaber and hacked away at it, chopping out huge glassy lumps of stone. Raynar pulled the rocks aside to deepen the small alcove, to deepen the shadows.
@@ -1047,7 +1102,7 @@ The lightsaber sizzled as Jaina worked, shedding its eerie violet light into the
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 19
 ```
 
-### 100. In one blurred movement Jaina severs the guard's blaster.
+### 104. In one blurred movement Jaina severs the guard's blaster.
 
 ```
 In a single blurred movement she switched on her lightsaber and slashed.
@@ -1059,7 +1114,7 @@ Then Raynar threw his rock with Force-enhanced power, hitting the guard hard in 
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 21
 ```
 
-### 101. Trapped and unable to trust her dazzled eyes, Jaina deflects the volleys with all her Jedi skills and knocks a bolt back into a guard's chest: 'You'll need more help than this to defeat a Jedi Knight'.
+### 105. Trapped and unable to trust her dazzled eyes, Jaina deflects the volleys with all her Jedi skills and knocks a bolt back into a guard's chest: 'You'll need more help than this to defeat a Jedi Knight'.
 
 ```
 Trapped like a womp rat in a box canyon, Jaina swung her lightsaber to deflect the blaster bolts. Raynar crouched at the back of the crevice to keep out of the way, hurling an occasional rock at their unseen enemies. Jaina clenched her jaw and fought with all of her Jedi skills, not daring to trust her dazzled eyes on the heat-washed ledge.
@@ -1073,9 +1128,19 @@ Mortally wounded, the guard gasped and gargled, then slumped off the fiery cliff
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 21
 ```
 
+### 106. Outnumbered by camouflaged creatures, 'But they were Jedi, so the odds were fairly even'; struck from behind, Jaina whirls and her blade connects with an unseen attacker.
+
+```
+But they were Jedi, so the odds were fairly even.
+
+One of the unseen creatures struck Jaina from behind. She whirled about, still holding her lightsaber. With a sizzle, the violet blade connected with something solid, and one of the creatures let out a hollow wail.
+
+— Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), sec. 27
+```
+
 ## Fights and Combat Feats
 
-### 102. In Tempest, Jaina crosses a roof in two Force bounds, lands between two troopers before they can turn, and presses her longblaster against the sharpshooter's helmet.
+### 107. In Tempest, Jaina crosses a roof in two Force bounds, lands between two troopers before they can turn, and presses her longblaster against the sharpshooter's helmet.
 
 ```
 Jaina crossed the roof in two Force bounds and came down between the two troopers. Before they could turn, she had pressed the muzzle of her longblaster against the sharpshooter’s helmet and planted one boot in the middle of his spotter’s back.
@@ -1083,7 +1148,7 @@ Jaina crossed the roof in two Force bounds and came down between the two trooper
 — Inferno (Troy Denning, 2007), ch. 14
 ```
 
-### 103. In Revelation, Jaina's first strike on Boba Fett slides along a beskar neck guard and burns only a dark furrow into his armor; she gasps and stifles an apology, since regret is a weakness.
+### 108. In Revelation, Jaina's first strike on Boba Fett slides along a beskar neck guard and burns only a dark furrow into his armor; she gasps and stifles an apology, since regret is a weakness.
 
 ```
 The attack landed but did not slice, the blade sliding along a beskar neck guard to burn a dark furrow into Fett’s green armor. Jaina gasped in surprise, but managed to stifle the apology—regret is a weakness—that rose automatically to her lips.
@@ -1091,7 +1156,7 @@ The attack landed but did not slice, the blade sliding along a beskar neck guard
 — Invincible (Troy Denning, 2008), ch. 1
 ```
 
-### 104. After killing Caedus, Jaina tells her mother he became Jacen again for a second before she killed him; Leia answers that if she had hesitated, she would not have survived.
+### 109. After killing Caedus, Jaina tells her mother he became Jacen again for a second before she killed him; Leia answers that if she had hesitated, she would not have survived.
 
 ```
 “I think he became Jacen again for a second before I … before I killed him.”
@@ -1101,7 +1166,7 @@ The attack landed but did not slice, the blade sliding along a beskar neck guard
 — Invincible (Troy Denning, 2008), epilogue
 ```
 
-### 105. After the training fight in Revelation, Fett, inspecting his chest plate, says "Lesson over"; Jaina's eyes are watering but she sees a scorch mark across Fett from belly to chin.
+### 110. After the training fight in Revelation, Fett, inspecting his chest plate, says "Lesson over"; Jaina's eyes are watering but she sees a scorch mark across Fett from belly to chin.
 
 ```
 “Lesson over,” Fett said, inspecting his chest plate. Jaina’s eyes were watering, but she could see a scorch mark across Fett from belly to chin, the green paint burned away in a line that spanned the sections of armor like a careless black brushstroke exposing a streak of bare gray metal beneath. “Hurts, doesn’t it?”
@@ -1109,7 +1174,7 @@ The attack landed but did not slice, the blade sliding along a beskar neck guard
 — Revelation (Karen Traviss, 2008), ch. 7
 ```
 
-### 106. In Betrayal, Jaina leaps from her air-speeder between oncoming speeders, lands on the sidewalk, and with more speed and confidence than Kolir could manage catches the plummeting Zekk with the Force five meters up, lowers him safely and smothers the flames on his back.
+### 111. In Betrayal, Jaina leaps from her air-speeder between oncoming speeders, lands on the sidewalk, and with more speed and confidence than Kolir could manage catches the plummeting Zekk with the Force five meters up, lowers him safely and smothers the flames on his back.
 
 ```
 Jaina’s eyes cleared of the explosion afterimage in time for her to see Zekk suspended in the air not far from her—and Zekk suddenly plummeting again. She leapt free of her air-speeder, hurtling between oncoming speeders in the next lane, and landed on the sidewalk outside the residence. Drawing on the Force with more speed and confidence than Kolir could have employed, she caught Zekk five meters off the ground, lowering him quickly but safely to the walk beside her. She slapped at the flames dancing across his back, smothering them.
@@ -1117,7 +1182,7 @@ Jaina’s eyes cleared of the explosion afterimage in time for her to see Zekk s
 — Betrayal (Aaron Allston, 2006), ch. 9
 ```
 
-### 107. Fighting Luke one moment and Jaina the next, a man finds both there as "not just illusions of them, but presences real enough to bat blaster bolts back at the stormtroopers attacking them."
+### 112. Fighting Luke one moment and Jaina the next, a man finds both there as "not just illusions of them, but presences real enough to bat blaster bolts back at the stormtroopers attacking them."
 
 ```
 He left it at that—this was neither the time nor the place to explain how a Nightsister blood trail worked. The fighting around the Roche system was growing fiercer by the hour, but he could not leave—did not dare leave—until he understood what had happened to him in the Tactical Planning Forum. He had been fighting Luke one moment, Jaina the next, and then they had both been there—not just illusions of them, but presences real enough to bat blaster bolts back at the stormtroopers attacking them.
@@ -1125,7 +1190,7 @@ He left it at that—this was neither the time nor the place to explain how a Ni
 — Invincible (Troy Denning, 2008), ch. 13
 ```
 
-### 108. When a voxyn leaps through a storm of falling rock into Jaina's party, she gets a Force shield up in time to deflect a hail of toxic spit, leaps over the first lash of the tail, and ignites her violet lightsaber while Lowbacca slashes at its head.
+### 113. When a voxyn leaps through a storm of falling rock into Jaina's party, she gets a Force shield up in time to deflect a hail of toxic spit, leaps over the first lash of the tail, and ignites her violet lightsaber while Lowbacca slashes at its head.
 
 ```
 Then a shriek seemed to steal the breath from her throat, and a voxyn was there, somehow managing to writhe through the storm of falling rock and leap into the midst of Jaina’s party. She had forgotten how fast they were.
@@ -1141,7 +1206,7 @@ The voxyn didn’t stop fighting until it was literally cut to pieces, and the f
 — Destiny's Way (Walter Jon Williams, 2002), ch. 26
 ```
 
-### 109. Jaina snatches Lowbacca's lightsaber, triggers it as she rises, and slashes two clawed toes from the radank leg Tsavong Lah has implanted as an arm as he lunges again.
+### 114. Jaina snatches Lowbacca's lightsaber, triggers it as she rises, and slashes two clawed toes from the radank leg Tsavong Lah has implanted as an arm as he lunges again.
 
 ```
 Jaina snatched Lowie’s lightsaber from his belt and triggered it as she pulled herself to her feet. Tsavong Lah had cleared Jaina’s lightsaber from his weapon and lunged forward again, and his eyes widened in surprise as Jaina slashed two clawed toes from the radank leg he had implanted as an arm.
@@ -1149,7 +1214,7 @@ Jaina snatched Lowie’s lightsaber from his belt and triggered it as she pulled
 — Destiny's Way (Walter Jon Williams, 2002), ch. 26
 ```
 
-### 110. Jaina locks a woman's wrist in a couple of seconds and relieves her of a holdout blaster, explaining she knew because "she was standing like a woman who had a blaster on her."
+### 115. Jaina locks a woman's wrist in a couple of seconds and relieves her of a holdout blaster, explaining she knew because "she was standing like a woman who had a blaster on her."
 
 ```
 Jaina looked at her again, cogitated for a moment, and moved. In a couple of seconds she had the woman’s wrist locked and had relieved her of her holdout blaster.
@@ -1163,7 +1228,7 @@ Jaina looked at Dagga Marl and thought about why she’d made her decision. “B
 — Ylesia (Walter Jon Williams, 2002)
 ```
 
-### 111. Told what to do, Jaina's body is one step ahead of her mind: her hand is already rising to point at the tsik seru's wings by the time she realizes the plan, clenching into a fist as she is about to fire.
+### 116. Told what to do, Jaina's body is one step ahead of her mind: her hand is already rising to point at the tsik seru's wings by the time she realizes the plan, clenching into a fist as she is about to fire.
 
 ```
 Jag came around and set off after the flier. What his speeder lacked in full-body coverage, it certainly made up for in velocity. He caught up with the tsik seru just as it crested a sharp rise and dipped down the far side. He saw its plasma launchers flex in readiness, then suddenly explode in a ball of green flame. With a pained shriek, the living craft curved away and crashed into one of the stony “stalagmites” that littered the planet’s surface. With a loud whump, it exploded into a million red-hot fragments.
@@ -1179,7 +1244,7 @@ It hit the obstruction of her will and blew one side of the flier to smithereens
 — Force Heretic III: Reunion (Sean Williams and Shane Dix, 2003), ch. 4
 ```
 
-### 112. When a Yuuzhan Vong warrior flicks a coufee at her throat, Jaina bats the weapon aside with her free hand and releases the dark power inside her; a fork of lightning blasts a hole through his chest and hurls him onto the rubble.
+### 117. When a Yuuzhan Vong warrior flicks a coufee at her throat, Jaina bats the weapon aside with her free hand and releases the dark power inside her; a fork of lightning blasts a hole through his chest and hurls him onto the rubble.
 
 ```
 In a motion so fast Jaina barely saw it, the warrior sat up and flicked his coufee at her throat. She could have dodged or blocked with her lightsaber, but she did not. Instead, with the fierce energy crackling inside her, she used her free hand to bat the weapon aside, then raised her hand toward her attacker and released the dark power inside. A fork of lightning crackled into existence a few centimeters beyond her glove tips, then blasted a hole through the Yuuzhan Vong’s chest and hurled him onto the rubble pile smoking and motionless.
@@ -1187,7 +1252,7 @@ In a motion so fast Jaina barely saw it, the warrior sat up and flicked his couf
 — Star by Star (Troy Denning, 2001), ch. 49
 ```
 
-### 113. In the Caedus duel, Jaina is blasted by a Force blow that sends her flying and her lightsaber free of his stomach, but from the Nickel One fight she has learned to tuck her chin so her head does not snap back as she strikes the corridor wall.
+### 118. In the Caedus duel, Jaina is blasted by a Force blow that sends her flying and her lightsaber free of his stomach, but from the Nickel One fight she has learned to tuck her chin so her head does not snap back as she strikes the corridor wall.
 
 ```
 The invisible fist of a Force blast slammed Jaina in the chest and sent her flying back, her breath groaning from her lungs and her lightsaber hissing free of Caedus’s stomach. From the fight on Nickel One, she had learned the dangers of letting her head snap back on impact. She tucked her chin, then fought to hold it there as she struck the durasteel wall on the far side of the corridor.
@@ -1195,7 +1260,7 @@ The invisible fist of a Force blast slammed Jaina in the chest and sent her flyi
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 114. Jaina's blade comes around and Caedus makes no attempt to save himself, his lightsaber hanging at his side as he stares toward the ceiling; she feels the blade slice through his ribs into his chest while he screams a warning to Tenel Ka through the Force.
+### 119. Jaina's blade comes around and Caedus makes no attempt to save himself, his lightsaber hanging at his side as he stares toward the ceiling; she feels the blade slice through his ribs into his chest while he screams a warning to Tenel Ka through the Force.
 
 ```
 But Caedus seemed to know that Jaina had already killed him, and whatever he had in mind, it was not vengeance. When her blade came around, his lightsaber was still hanging at his side. He was staring up toward the ceiling, his gaze fixed somewhere far beyond the murk overhead, and the only attempt he made to save himself was to take one step back into the light spilling from the furnace.
@@ -1205,7 +1270,7 @@ It would not be enough, Jaina knew. She closed her eyes and felt the lightsaber 
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 115. In Invincible, Jaina is "too disciplined to let her shock distract her" when she sees her brother Caedus destroy a piece of beskar'gam with a tap, wondering whether he has mastered the shatterpoint.
+### 120. In Invincible, Jaina is "too disciplined to let her shock distract her" when she sees her brother Caedus destroy a piece of beskar'gam with a tap, wondering whether he has mastered the shatterpoint.
 
 ```
 Jaina was too disciplined to let her shock distract her, but she was shocked. Beskar’gam was some of the toughest armor in the galaxy, able to deflect blaster bolts and lightsaber strikes with little more than a scorch mark, and her brother had just destroyed a piece with a tap. Had he mastered the shatterpoint?
@@ -1213,7 +1278,7 @@ Jaina was too disciplined to let her shock distract her, but she was shocked. Be
 — Invincible (Troy Denning, 2008), ch. 8
 ```
 
-### 116. Locked in a corridor, Jaina grabs a man in the Force, hurls him across the corridor, slams him into the wall twice and pulls him back into the door; she then depresses the door slap-pad with the Force as the young ones plead for her to wake.
+### 121. Locked in a corridor, Jaina grabs a man in the Force, hurls him across the corridor, slams him into the wall twice and pulls him back into the door; she then depresses the door slap-pad with the Force as the young ones plead for her to wake.
 
 ```
 Jaina grabbed him in the Force, then hurled him against the far side of the corridor, slammed him into the wall twice, and pulled him back into the door. She felt him slip into unconsciousness and would have followed, save for the young ones reaching out to her, silently pleading with her to wake up. She found the door controls and used the Force to depress the slap-pad, then felt a welcome rush of air as the door whooshed open.
@@ -1221,7 +1286,7 @@ Jaina grabbed him in the Force, then hurled him against the far side of the corr
 — Inferno (Troy Denning, 2007), ch. 14
 ```
 
-### 117. In Refugee, Jaina sheds her binders, knocks a lightsaber from Harris's hands with one Force push, duck-rolls, kicks the Rodian's legs away, and deflects Harris's first two shots into the wall.
+### 122. In Refugee, Jaina sheds her binders, knocks a lightsaber from Harris's hands with one Force push, duck-rolls, kicks the Rodian's legs away, and deflects Harris's first two shots into the wall.
 
 ```
 A swift outward movement of her arms got rid of the binders, and one solid Force push knocked the lightsaber out of Harris’s hands. She duck-rolled as Salkeli brought his blaster to bear on her, his eyes widening in surprise at the abrupt turn of events. She kicked the Rodian’s legs from beneath him. Harris wasted no time getting his own blaster out, but Jaina was on her feet in time to deflect his first two shots, directing them harmlessly into the wall. Another two bolts hissed by, exploding loudly somewhere behind her. Then with three quick steps, she lunged at the Deputy Prime Minister, clubbing him with the handgrip of her lightsaber. He collapsed back against the wall, a look of startled annoyance frozen on his face as he slumped to the floor.
@@ -1229,7 +1294,7 @@ A swift outward movement of her arms got rid of the binders, and one solid Force
 — Force Heretic II: Refugee (Sean Williams and Shane Dix, 2003), ch. 4
 ```
 
-### 118. Armed only with a spoon she has sharpened into a knife, Jaina drops to a crouch, throws it down the dark corridor and guides it with the Force into the throat of the GAG officer firing at her.
+### 123. Armed only with a spoon she has sharpened into a knife, Jaina drops to a crouch, throws it down the dark corridor and guides it with the Force into the throat of the GAG officer firing at her.
 
 ```
 Jaina stepped through the door, simultaneously dropping to a crouch and hurling her knife down the corridor. A trio of bolts flashed out of the dark lounge and ricocheted off the doorjamb. She used the Force to guide her weapon toward the voice, then heard the officer scream and crash to the floor.
@@ -1241,7 +1306,7 @@ By the time she reached the lounge, Jaina was convinced the dorm had been emptie
 — Inferno (Troy Denning, 2007), ch. 14
 ```
 
-### 119. Without her lightsaber, Jaina slides down a roof firing at GAG sniper teams "trusting her aim to the Force," somersaults through blaster fire and shoots a sniper off a roof ridge, bolts passing close enough to raise heat welts on her cheeks.
+### 124. Without her lightsaber, Jaina slides down a roof firing at GAG sniper teams "trusting her aim to the Force," somersaults through blaster fire and shoots a sniper off a roof ridge, bolts passing close enough to raise heat welts on her cheeks.
 
 ```
 “It’s time we gave that braintick what he’s asking for.” Jaina sprang over the ridge of the roof and started to slide down the other side. “Cover me!”
@@ -1255,7 +1320,7 @@ Jaina really missed her lightsaber.
 — Inferno (Troy Denning, 2007), ch. 14
 ```
 
-### 120. In a speeder chase on Coruscant, Jaina leaps onto a CorSec speeder, plunges her lightsaber into it, then flattens herself and slices through the belly of a pursuer that tries to sweep her off.
+### 125. In a speeder chase on Coruscant, Jaina leaps onto a CorSec speeder, plunges her lightsaber into it, then flattens herself and slices through the belly of a pursuer that tries to sweep her off.
 
 ```
 Jaina whipped off her traveler’s robe as she leapt, leaving her dressed in a close-fitting black jumpsuit. Her lightsaber was at her belt when the robe flew away, in her hand before she cleared the lane of cross-traffic groundspeeders, and lit as she came down on the forward portion of the lead CorSec vehicle. She plunged its glowing blade into the metal surface beneath her and wrenched it around, cutting through the vehicle’s engine compartment. There was a pop, and the speeder immediately began to lose speed and altitude.
@@ -1265,7 +1330,7 @@ The next CorSec speeder in line angled upward and came on straight over Jaina’
 — Betrayal (Aaron Allston, 2006), ch. 9
 ```
 
-### 121. In the blindfold test Jaina strikes a stone and, though hit on the thigh, deflects one aimed at her head.
+### 126. In the blindfold test Jaina strikes a stone and, though hit on the thigh, deflects one aimed at her head.
 
 ```
 Jacen heard a loud crack of wood as his sister struck one of the hard balls.
@@ -1275,7 +1340,7 @@ He missed another one, and a rock hit Jaina on the thigh. He saw her blindfolded
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 122. Jaina fires the Shadow Chaser's laser cannon to seal the door between Luke and Brakiss.
+### 127. Jaina fires the Shadow Chaser's laser cannon to seal the door between Luke and Brakiss.
 
 ```
 Just then, an explosion of hot energy streaked past Luke’s head from behind and melted the door controls. With a second blast from the Shadow Chaser’s laser cannon, the controls were completely fried. The heavy metal plates slammed back into place, sealing Brakiss and Luke apart from each other.
@@ -1285,7 +1350,7 @@ Just then, an explosion of hot energy streaked past Luke’s head from behind an
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 123. Jaina targets so fast in the gunnery game that Jacen is surprised; she also hits her target.
+### 128. Jaina targets so fast in the gunnery game that Jacen is surprised; she also hits her target.
 
 ```
 “Hey, how did she target so fast?”
@@ -1295,7 +1360,7 @@ Just then, an explosion of hot energy streaked past Luke’s head from behind an
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 1
 ```
 
-### 124. Jaina drives the wavespeeder clear of the seaweed and navigates home by hand with Lowie.
+### 129. Jaina drives the wavespeeder clear of the seaweed and navigates home by hand with Lowie.
 
 ```
 As quickly as she could, Jaina pushed the wavespeeder to its highest velocity, roaring over the twisted weed. The malevolent eye-flowers stared at them. Other thrashing tentacles rose up, but the seaweed seemed unable to respond fast enough.
@@ -1305,7 +1370,7 @@ Moments later they were out into open water again. Jaina and Lowie plotted their
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 125. Jaina pilots the escape from the grotto and outruns the Bartokk assault craft.
+### 130. Jaina pilots the escape from the grotto and outruns the Bartokk assault craft.
 
 ```
 With a roar, the repulsorlift engines raised the wavespeeder up off the calm waters inside the sheltered cave. Before Tenel Ka had managed to seat herself, Jaina pulled the boat away from the dock, whipped it around, and accelerated through the cave entrance, churning the water into froth beneath them. The wavespeeder shot away from the darkened, overrun Reef Fortress.
@@ -1315,7 +1380,7 @@ With a roar, the repulsorlift engines raised the wavespeeder up off the calm wat
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 20
 ```
 
-### 126. Jaina dodges and deflects Garowyn's barrage and tells her she'll never fly the ship.
+### 131. Jaina dodges and deflects Garowyn's barrage and tells her she'll never fly the ship.
 
 ```
 The crate Jaina was crouched behind finally splintered under the attack, spilling hundreds of rattling, loose cyberfuses in every direction. Jaina scrambled to find other cover.
@@ -1325,7 +1390,7 @@ Panting, she dodged some of the thrown objects and deflected others with her ski
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 127. Jaina's Force-made 'stampede' tricks Garowyn, who falls into the depths.
+### 132. Jaina's Force-made 'stampede' tricks Garowyn, who falls into the depths.
 
 ```
 In desperation Jaina tried the only trick that sprang to mind. Letting her eyes fall half closed, Jaina sent a rippling furrow through the leaves behind Garowyn. This time the invisible plow made a loud, rustling sound, like a stampede.
@@ -1339,7 +1404,7 @@ Without another sound, the Nightsister's compact body tumbled like a shooting st
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 128. Force-heightened targeting: Jaina downs three TIE fighters from inside their formation.
+### 133. Force-heightened targeting: Jaina downs three TIE fighters from inside their formation.
 
 ```
 She let her eyes fall partially closed and concentrated, feeling the Force. Despite the sensors and systems available in the TIE fighter, nothing could match heightened Jedi perceptions for enhancing her movements. She needed to target and fire and target again with lightning speed. She would have only one chance.
@@ -1355,7 +1420,7 @@ The third TIE fighter turned toward her, and Jaina strafed across its surface, s
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
-### 129. Jaina uses the Force to anticipate incoming fire, as Luke does with a lightsaber.
+### 134. Jaina uses the Force to anticipate incoming fire, as Luke does with a lightsaber.
 
 ```
 Jaina blinked as fiery bolts from their laser cannons shot past her. She put her TIE fighter into a spin. Now using the Force to anticipate the incoming weapons fire, just as her uncle Luke had used his lightsaber to deflect blaster bolts, she spun and turned and banked, then began to fly away at her fighter's top speed.
@@ -1363,7 +1428,7 @@ Jaina blinked as fiery bolts from their laser cannons shot past her. She put her
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
-### 130. With Jedi mental speed, Jaina flips her TIE head-on and kills a pursuer with one shot.
+### 135. With Jedi mental speed, Jaina flips her TIE head-on and kills a pursuer with one shot.
 
 ```
 The three pursuers had reached point-blank firing range, and Jaina had to take one last gamble. Using the mental speed given to her by Jedi training, she spun the TIE fighter about like a rotating ball, up and over, so that an instant later she headed not away from them, but straight toward them! The distance closed in a flash. Jaina had time for only a single shot.
@@ -1375,7 +1440,7 @@ The blast from her laser cannon ripped open the bottom of one of the TIE fighter
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 131. Jedi-enhanced gunnery: Jaina's shot destroys the High Roller.
+### 136. Jedi-enhanced gunnery: Jaina's shot destroys the High Roller.
 
 ```
 When the weapons officer had been unable to score a hit on the swift High Roller from the control console, Tyko had called on Lowie and Jaina to assist him. The attacker’s ship had fired relentlessly at the bridge, darting and dodging all return fire—until Lowie and Jaina had joined the fray, with their Jedi-enhanced abilities.
@@ -1387,7 +1452,7 @@ Lowie’s battle-ready reflexes began to relax, but waves of tension still rolle
 — Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 7
 ```
 
-### 132. Jaina's laser fire drives Dengar off.
+### 137. Jaina's laser fire drives Dengar off.
 
 ```
 Before Dengar could circle around and come back again, though, the Lightning Rod shot up out of an alleyway, gaining speed as Jaina blasted volley after volley of laser fire into Dengar’s already damaged craft.
@@ -1395,7 +1460,7 @@ Before Dengar could circle around and come back again, though, the Lightning Rod
 — Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 20
 ```
 
-### 133. Jaina and Jacen are on their feet, sabers lit, before the rakhmar lands, and cut it into three even pieces.
+### 138. Jaina and Jacen are on their feet, sabers lit, before the rakhmar lands, and cut it into three even pieces.
 
 ```
 Jacen and Jaina were both on their feet, lightsabers in hand, before the furry creature touched the ground. “It’s a rakhmar,” Jacen yelled.
@@ -1407,7 +1472,7 @@ The energy blades sliced the vicious rakhmar into three even pieces that fell to
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 1
 ```
 
-### 134. Nearly blinded, arms so weary she can barely raise them, Jaina keeps sidestepping, deflecting and striking.
+### 139. Nearly blinded, arms so weary she can barely raise them, Jaina keeps sidestepping, deflecting and striking.
 
 ```
 The glaring sun and bright blaster fire had nearly blinded Jaina. She could hardly see anything other than her own lightsaber. Her arms were so weary she could barely raise them, but she sidestepped, deflected, struck. She could not allow herself to slow down. Hovrak had only two henchmen left. She and Raynar still had a chance, though it was a slim one.
@@ -1417,7 +1482,7 @@ She continued to fight, trying not to think ahead … though she did feel an une
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 21
 ```
 
-### 135. Jaina kicks Hovrak's helmet and cracks the faceplate all the way open.
+### 140. Jaina kicks Hovrak's helmet and cracks the faceplate all the way open.
 
 ```
 “Who’s playing?” Jaina said, kicking once again at Hovrak. Her foot struck his helmet, cracking the transparisteel plate all the way open.
@@ -1425,7 +1490,7 @@ She continued to fight, trying not to think ahead … though she did feel an une
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 21
 ```
 
-### 136. Jaina sprints against the clock in her head through a haze of exhaustion to reach the Rock Dragon.
+### 141. Jaina sprints against the clock in her head through a haze of exhaustion to reach the Rock Dragon.
 
 ```
 Jaina put on a burst of speed which barely kept her ahead of the clock that ticked down each second in her mind.
@@ -1435,9 +1500,23 @@ Jaina put on a burst of speed which barely kept her ahead of the clock that tick
 — The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 16
 ```
 
+### 142. Jaina plants her feet and cleaves a knaar from its shoulder to the center of its rib cage; Zekk: 'Without you, they would all have been slaughtered.'
+
+```
+Jaina planted her feet firmly on the rough ground and held her lightsaber high. The slavering knaar in front of her did not seem at all intimidated by her violet Jedi blade. The reptilian creature gave a high-pitched bellow, then reached forward with its claws, snapping with powerful jaws that looked strong enough to rip a repulsorpod from a starship engine.
+
+Jaina swung forward and down with her crackling lightsaber, cleaving the monster from its shoulder down to the center of its rib cage.
+
+The creature thrashed and fell down as smoking blood bubbled from its dying heart.
+
+Zekk turned his emerald-green gaze on her. “Without you, they would all have been slaughtered. I just wish I’d had my own lightsaber so I could have fought at your side.”
+
+— Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), sec. 51–53
+```
+
 ## Acrobatics and Agility
 
-### 137. In The Joiner King, Jaina hurls herself off a two-story building and lets the Force cushion her fall to the duracrete below, with Lowbacca following.
+### 143. In The Joiner King, Jaina hurls herself off a two-story building and lets the Force cushion her fall to the duracrete below, with Lowbacca following.
 
 ```
 Sending thanks to the others in the Force-meld, Jaina clipped her lightsaber to her belt, hurled herself off the building, and allowed the Force to cushion her fall to the duracrete below. Lowbacca followed. They trotted back to General Jamiro’s command speeder. There they found the general conferring with what appeared to be a group of civilians. Only on approaching did Jaina recognize Lilla Dade, a veteran of Page’s Commandos who had volunteered to lead a small infiltration party into Ylesia in the aftermath of the battle and set up an underground cell in the enemy capital.
@@ -1445,7 +1524,7 @@ Sending thanks to the others in the Force-meld, Jaina clipped her lightsaber to 
 — Ylesia (Walter Jon Williams, 2002)
 ```
 
-### 138. In Star by Star, Jaina snaps her lightsaber off her belt, hurls herself headlong into a pit and uses the Force to slow her descent, performing a twisting flip to land between Tahiri and Lowbacca.
+### 144. In Star by Star, Jaina snaps her lightsaber off her belt, hurls herself headlong into a pit and uses the Force to slow her descent, performing a twisting flip to land between Tahiri and Lowbacca.
 
 ```
 By now, an astonished murmur was rolling across the compound as the crowd below began to realize they were under attack. Jaina shouldered her blaster, then snapped her lightsaber off her belt and hurled herself headlong into the pit. Using the Force to slow her descent, she performed a twisting flip and landed facing into the warren, midway between Tahiri and Lowbacca. Alema was on the other side of Tahiri, her longblaster rising to her shoulder. The warrior whose life Zekk had spared was backing under the wall, using Anakin’s body to shield himself from the Twi’lek’s weapon and drawing his coufee.
@@ -1453,7 +1532,7 @@ By now, an astonished murmur was rolling across the compound as the crowd below 
 — Star by Star (Troy Denning, 2001), ch. 49
 ```
 
-### 139. Using the Force to lift her the extra five meters, Jaina somersaults off a chalk dune and lands lightly atop a cockpit roof, then ignites her lightsaber and works in the opposite direction from Anakin on the escape hatch seam.
+### 145. Using the Force to lift her the extra five meters, Jaina somersaults off a chalk dune and lands lightly atop a cockpit roof, then ignites her lightsaber and works in the opposite direction from Anakin on the escape hatch seam.
 
 ```
 Using the Force to lift her the extra five meters in height, Jaina somersaulted off the chalk dune and landed lightly atop the cockpit roof, then nearly plummeted backward when Anakin and Zekk landed beside her. Anakin thumbed his lightsaber active and plunged it into the seam of the cockpit escape hatch. Jaina ignited her own blade and began to work in the opposite direction, while Zekk dropped to his belly and dangled over the front to peer in through the viewport.
@@ -1461,7 +1540,7 @@ Using the Force to lift her the extra five meters in height, Jaina somersaulted 
 — Star by Star (Troy Denning, 2001), ch. 33
 ```
 
-### 140. In Inferno, Jaina's danger sense nettles and she springs into a high Force flip into the heart of a planetary hologram, then ignites her lightsaber and bats half a dozen stun bolts back at the men who fired them.
+### 146. In Inferno, Jaina's danger sense nettles and she springs into a high Force flip into the heart of a planetary hologram, then ignites her lightsaber and bats half a dozen stun bolts back at the men who fired them.
 
 ```
 Jaina’s spine nettled with danger sense, and she sprang into a high, arcing Force flip that carried her into the heart of the planetary hologram. Several of the flight controllers cried out in alarm and sprang to their feet, their hands rising from their laps holding blaster pistols they hadn’t had time to draw. Jaina ignited her lightsaber and batted half a dozen stun bolts back at the men who had fired them, then came down next to Orame.
@@ -1469,7 +1548,7 @@ Jaina’s spine nettled with danger sense, and she sprang into a high, arcing Fo
 — Inferno (Troy Denning, 2007), ch. 4
 ```
 
-### 141. In The Swarm War, Jaina Force-leaps into a tall mogo tree, makes herself light with the Force, and ascends into the smallest twigs for a clear view all the way to the mountains and the MetaCannon crews below.
+### 147. In The Swarm War, Jaina Force-leaps into a tall mogo tree, makes herself light with the Force, and ascends into the smallest twigs for a clear view all the way to the mountains and the MetaCannon crews below.
 
 ```
 Jaina Force-leapt into an especially tall mogo, then used the Force to make herself light and ascended high into the smallest twigs until she had clear view all the way to the mountains. Through the tangle of barren tree limbs, several MetaCannons were visible on the jungle floor, about half a kilometer ahead. Jaina retrieved her electrobinoculars and saw that the crews were busy changing the configuration of their weapons, replacing the ballistic barrels with fan-tipped beam emitters more suited to close-in fighting.
@@ -1477,7 +1556,7 @@ Jaina Force-leapt into an especially tall mogo, then used the Force to make hers
 — The Swarm War (Troy Denning, 2006), ch. 14
 ```
 
-### 142. Jaina crosses twenty meters of deck in three Force bounds and springs onto her StealthX's fuselage.
+### 148. Jaina crosses twenty meters of deck in three Force bounds and springs onto her StealthX's fuselage.
 
 ```
 Jaina snapped the lightsaber off her belt, then crossed twenty meters of tarnished deck in three quick Force bounds and sprang onto the fuselage of her StealthX. She could hardly believe what she saw. At the far end of the wing stood a spider-shaped BY2B maintenance droid, her thick cargo pedipalps clamped around the starfighter’s last laser cannon while her delicate tool arms released the mounting clips.
@@ -1485,7 +1564,7 @@ Jaina snapped the lightsaber off her belt, then crossed twenty meters of tarnish
 — Vortex (Troy Denning, 2010), ch. 1
 ```
 
-### 143. Jaina beats Lowie's two-handed sweep with a Force-boosted leap over his head.
+### 149. Jaina beats Lowie's two-handed sweep with a Force-boosted leap over his head.
 
 ```
 Lowie grasped the handle of his large lightsaber with both hands and swept sideways, attempting to catch Jaina by surprise—but she turned the tables on him. Summoning a burst of energy, she astonished the Wookiee by leaping high into the air up to the level of Lowie's head. His lightsaber swept harmlessly beneath her, and she landed lightly on the weed-covered ground behind him, laughing and panting.
@@ -1495,7 +1574,7 @@ Lowie grasped the handle of his large lightsaber with both hands and swept sidew
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 4
 ```
 
-### 144. Jaina climbs down to Chewbacca by vine.
+### 150. Jaina climbs down to Chewbacca by vine.
 
 ```
 She would have to move quickly. She felt around for a sturdy vine, yanking one after another until she found a rough strand that would hold her weight. Pressing the toes of her boots against the tree trunk, Jaina lowered herself hand over hand, maneuvering around the splintered stumps of branches broken by the Wookiee's fall. "I'm coming," she said, as much to reassure herself as to comfort Chewie.
@@ -1507,7 +1586,7 @@ By the time she located the injured Wookiee, her feet ached, her palms burned, a
 
 ## Hunting, Tracking and Stealth
 
-### 145. The New Essential Chronology: Jaina's "uncanny ability to elude and confound her enemies" leads to comparisons with the trickster goddess Yun-Harla.
+### 151. The New Essential Chronology: Jaina's "uncanny ability to elude and confound her enemies" leads to comparisons with the trickster goddess Yun-Harla.
 
 ```
 Jaina's uncanny ability to elude and confound her enemies elicited comparisons between her and Yun-Harla, the Yuuzhan Vong goddess of trickery.
@@ -1517,7 +1596,7 @@ Jaina's uncanny ability to elude and confound her enemies elicited comparisons b
 
 ## Skills, Training and Cunning
 
-### 146. Jaina orders the trebuchets to drop short into the water to fill a river channel with boulders, a ruse she judges will take longer than a week to fill but which only needs to look like it is working.
+### 152. Jaina orders the trebuchets to drop short into the water to fill a river channel with boulders, a ruse she judges will take longer than a week to fill but which only needs to look like it is working.
 
 ```
 Jaina lowered her electrobinoculars and turned to Wuluw. “Have the trebuchets start dropping short, into the water,” she ordered. “We’re going to fill that channel with boulders—and we mean that literally.”
@@ -1537,7 +1616,7 @@ Her meditations came to an abrupt end as a series of high-pitched squeals echoed
 — The Swarm War (Troy Denning, 2006), ch. 16
 ```
 
-### 147. In the Vector Prime asteroid-belt test, Jaina throttles up and speeds into the belt while most pilots enter at a virtual standstill, coming against the flow and using drives only for dodging.
+### 153. In the Vector Prime asteroid-belt test, Jaina throttles up and speeds into the belt while most pilots enter at a virtual standstill, coming against the flow and using drives only for dodging.
 
 ```
 “Jaina!” Leia’s voice came in, her mom-sense easily finding her daughter’s new channel.
@@ -1603,7 +1682,7 @@ Chewie’s howl as Jaina broke through the seemingly impenetrable barrier, again
 — Vector Prime (R. A. Salvatore, 1999), ch. 10
 ```
 
-### 148. Something clicks in Jaina's mind and she explains to the Colonel that the gravitic anomaly a dovin basal creates sucks in a proton torpedo and crushes it down, preventing or containing detonation.
+### 154. Something clicks in Jaina's mind and she explains to the Colonel that the gravitic anomaly a dovin basal creates sucks in a proton torpedo and crushes it down, preventing or containing detonation.
 
 ```
 Something clicked in the back of Jaina’s brain. She raised a hand.
@@ -1631,7 +1710,7 @@ The leader of Rogue Squadron nodded. “As a plan modification, it’s simple an
 — Dark Tide I: Onslaught (Michael A. Stackpole, 2000), ch. 27
 ```
 
-### 149. Fighting a Yuuzhan Vong living range, Jaina rolls hard to starboard, sideslips back to port, fires a burst, and jukes clear of most plasma shots while her shields absorb the rest.
+### 155. Fighting a Yuuzhan Vong living range, Jaina rolls hard to starboard, sideslips back to port, fires a burst, and jukes clear of most plasma shots while her shields absorb the rest.
 
 ```
 Jaina rolled hard to starboard, then sideslipped back to port before triggering a burst at the thing, which she arbitrarily decided to call a range—short for mountain range. A void snapped her shots up, and the range launched plasma in her direction. She juked her way clear of most shots and heard the static of her shields absorbing damage from the others. Her sensors reported other gravitic anomalies, which she assumed were dovin basals trying to take her shields down, but her compensator sphere had been expanded to fend off that sort of assault.
@@ -1647,7 +1726,7 @@ Jaina shivered. The distance made the Yuuzhan Vong column at least five kilomete
 — Dark Tide I: Onslaught (Michael A. Stackpole, 2000), ch. 28
 ```
 
-### 150. Feeling a curious peace, Jaina spirals her X-wing up a spine as golden plasma bolts flash past and a few nick her shields, then reinforces shields quickly and hits hard port rudder to reverse thrust.
+### 156. Feeling a curious peace, Jaina spirals her X-wing up a spine as golden plasma bolts flash past and a few nick her shields, then reinforces shields quickly and hits hard port rudder to reverse thrust.
 
 ```
 Jaina felt a curious peace settle over her as she brought her X-wing up and around in a spiral that rose along one of the spines. Golden plasma bolts flashed up past her. A couple nicked her shields, but she reinforced the power there very quickly. At the tip of the shaft the bolts curved in toward the gravity wells the dovin basals were creating. She shot past that area, then hit hard port rudder and reversed her ship’s thrust. The X-wing swapped itself end for end, then, when she cut her throttle to zero, the fighter hovered there in space, five hundred meters from the end of the shaft.
@@ -1655,7 +1734,7 @@ Jaina felt a curious peace settle over her as she brought her X-wing up and arou
 — Dark Tide I: Onslaught (Michael A. Stackpole, 2000), ch. 20
 ```
 
-### 151. Jaina fires splinter-shot from quad lasers at a Yuuzhan Vong fighter, sees splinters getting through a collapsing void, and immediately follows with a full quad burst on the fighter.
+### 157. Jaina fires splinter-shot from quad lasers at a Yuuzhan Vong fighter, sees splinters getting through a collapsing void, and immediately follows with a full quad burst on the fighter.
 
 ```
 Jaina dropped her aiming reticle on the closest Yuuzhan Vong fighter and hit the splinter-shot trigger. Her quadded lasers spat out hundreds of underpowered laser darts at her target. A small void absorbed some of them, but quickly collapsed, allowing other shots to pepper the fighter’s rocky exterior. The second she saw splinters getting through, she hit the main trigger, loosing a full quad burst on the fighter.
@@ -1673,7 +1752,7 @@ Jaina felt a shiver run down her spine. Were this a sim it would be obvious that
 — Dark Tide II: Ruin (Michael A. Stackpole, 2000), ch. 21
 ```
 
-### 152. Warned by Ten that two skips are on her tail, Jaina replies "tell me something I don't already know," jiggles the etheric rudder, and watches the hot gas trails whip past.
+### 158. Warned by Ten that two skips are on her tail, Jaina replies "tell me something I don't already know," jiggles the etheric rudder, and watches the hot gas trails whip past.
 
 ```
 “Eleven, you’ve got two on your tail.”
@@ -1689,7 +1768,7 @@ Interestingly, the thought did nothing to frighten her. Her only regret was that
 — Edge of Victory II: Rebirth (Greg Keyes, 2001), ch. 39
 ```
 
-### 153. Leading a squadron around the Big Eye, Jaina briefs the plan: come out behind the low frigate, no fancy stuff, blast an escape hole and head for home, with Tails flying cover.
+### 159. Leading a squadron around the Big Eye, Jaina briefs the plan: come out behind the low frigate, no fancy stuff, blast an escape hole and head for home, with Tails flying cover.
 
 ```
 The Arcona validated the coordinates, and Han initiated the hyperdrive. There was the usual inexplicable hesitation—Han had been trying for the last year to run down the cause—and his alarmed copilot looked over. Han raised a finger to signal patience, then the stars stretched into lines.
@@ -1727,7 +1806,7 @@ Before the droid could obey, Jaina said, “We’re whole and hot. Green to go, 
 — Star by Star (Troy Denning, 2001), ch. 9
 ```
 
-### 154. Jaina tugs on the cognition hood and coaxes a dovin basal to abandon shielding in favor of a slow, steady pull, putting a Hapan ship in a lock while Alema Rar leans over her shoulder.
+### 160. Jaina tugs on the cognition hood and coaxes a dovin basal to abandon shielding in favor of a slow, steady pull, putting a Hapan ship in a lock while Alema Rar leans over her shoulder.
 
 ```
 He quickly yielded the pilot’s seat. Jaina tugged on the hood and coaxed the dovin basal to abandon shielding in favor of exerting a slow, steady pull. The ship jarred and shuddered as the Hapan ship’s fire found its mark.
@@ -1739,7 +1818,7 @@ Alema Rar leaned over Jaina’s shoulder and peered at the approaching ship. “
 — Dark Journey (Elaine Cunningham, 2002), ch. 12
 ```
 
-### 155. Jaina fires a proton torpedo from the X-ceptor, bounces her ship up after launch, and watches it streak at a moving mountain shadow and explode in a silvery ball.
+### 161. Jaina fires a proton torpedo from the X-ceptor, bounces her ship up after launch, and watches it streak at a moving mountain shadow and explode in a silvery ball.
 
 ```
 Fire blossomed from the X-ceptor’s nose as a proton torpedo squirted out. Jaina bounced her ship up after the launch and gained a bit of altitude. Below her the torpedo streaked straight at the first moving mountain shadow, then it exploded into a brilliant silvery ball that lit up the night.
@@ -1749,7 +1828,7 @@ The X-wing’s canopy flash suppressor engaged immediately, cutting out most of 
 — Dark Tide I: Onslaught (Michael A. Stackpole, 2000), ch. 28
 ```
 
-### 156. In Destiny's Way, Jaina leads the only crew not engaged with the enemy and tells herself to think; submerging her awareness in the yammosk's gravity-wave signals through Trickster's dovin basals, she tries to sense the pattern behind why the jammer is not working.
+### 162. In Destiny's Way, Jaina leads the only crew not engaged with the enemy and tells herself to think; submerging her awareness in the yammosk's gravity-wave signals through Trickster's dovin basals, she tries to sense the pattern behind why the jammer is not working.
 
 ```
 Think! Jaina echoed Corran Horn’s command. She led the only crew not engaged with the enemy; she was the only person with time to think. Why was the yammosk working even though it was jammed? Why was the jammer not working while the decoy basals were functioning perfectly, even though they were both based on the same principles?
@@ -1769,7 +1848,7 @@ Her awareness slowed, tried to tune out the relentless beats of the jammer. Ther
 — Destiny's Way (Walter Jon Williams, 2002), ch. 4
 ```
 
-### 157. Choosing the hindmost of four coralskippers that had just run on Far Thunder's bridge, Jaina lifts the X-wing's nose, matches trajectories, blows the skip apart with her second shot, then stitches a second coralskipper with laser bolts.
+### 163. Choosing the hindmost of four coralskippers that had just run on Far Thunder's bridge, Jaina lifts the X-wing's nose, matches trajectories, blows the skip apart with her second shot, then stitches a second coralskipper with laser bolts.
 
 ```
 Again Jaina chose a target, the hindmost of a flight of four coralskippers that had just made a run on Far Thunder’s bridge. She lifted the X-wing’s nose, matched trajectories, and blew the skip apart with the second shot. Then she pulled the stick hard, her fire climbing to the second coralskipper, and watched flame erupt from its stony hull as her laser bolts stitched its surface.
@@ -1777,7 +1856,7 @@ Again Jaina chose a target, the hindmost of a flight of four coralskippers that 
 — Destiny's Way (Walter Jon Williams, 2002), ch. 16
 ```
 
-### 158. Jaina drops shadow bombs and uses the Force to shove them ahead while braking her own X-wing to increase separation, setting them on a slightly different angle to fool enemy dovin basals while she leads her flight with standard missiles and laserfire.
+### 164. Jaina drops shadow bombs and uses the Force to shove them ahead while braking her own X-wing to increase separation, setting them on a slightly different angle to fool enemy dovin basals while she leads her flight with standard missiles and laserfire.
 
 ```
 “Dropping shadow bombs now,” Jaina said. The missiles, packed with explosives instead of propellent, dropped from her X-wing’s racks. With the Force Jaina shoved them on ahead, braking her own X-wing slightly so as to increase their separation. She set them on a trajectory for the aftmost enemy cruiser, then concentrated on leading her flight’s run with standard missiles and laserfire, bringing them to the target at a slightly different angle so as to fool the enemy dovin basals, which might snatch her concussion missiles without noticing the less visible shadow bombs as they approached.
@@ -1791,7 +1870,7 @@ Her laserfire raked the enemy hull. Dovin basals sucked down her concussion miss
 — Destiny's Way (Walter Jon Williams, 2002), ch. 22
 ```
 
-### 159. Jaina throttles down for another run on Mon Mothma, dropping within a meter of the Star Destroyer's skin, hits her repulsors and noses up at the last instant, and washes her exhaust over a dark lump.
+### 165. Jaina throttles down for another run on Mon Mothma, dropping within a meter of the Star Destroyer's skin, hits her repulsors and noses up at the last instant, and washes her exhaust over a dark lump.
 
 ```
 Jaina throttled down and made another run on Mon Mothma, dropping to within a meter of the Star Destroyer’s skin. Suddenly she seemed to be skimming above a vast, white, slightly curving plane. An irregular dark lump appeared ahead, and she angled toward it. At the last instant she hit her repulsors and nosed up, washing her exhaust over the grutchin, which released its hold. Its charred body drifted off to join the other twenty or so she had flashed.
@@ -1805,7 +1884,7 @@ Jaina throttled down and made another run on Mon Mothma, dropping to within a me
 — The Final Prophecy (Greg Keyes, 2003), ch. 24
 ```
 
-### 160. Jaina leads her flight "through the rocks," dodging asteroids from pebbles to monsters; slingshotted skips change course to follow, and the few that do not slow down she has the satisfaction of seeing crash.
+### 166. Jaina leads her flight "through the rocks," dodging asteroids from pebbles to monsters; slingshotted skips change course to follow, and the few that do not slow down she has the satisfaction of seeing crash.
 
 ```
 “Let’s take ’em through the rocks, people.”
@@ -1817,7 +1896,7 @@ Another advantage was that X-wing shields repelled the small asteroids. Yuuzhan 
 — The Final Prophecy (Greg Keyes, 2003), ch. 24
 ```
 
-### 161. In The Unifying Force, Jaina's R2-B3 unit Cappie relays an urgent message and she warns all pilots that sensors show intensifying hyperdrive emissions in the Peace Brigade freighters.
+### 167. In The Unifying Force, Jaina's R2-B3 unit Cappie relays an urgent message and she warns all pilots that sensors show intensifying hyperdrive emissions in the Peace Brigade freighters.
 
 ```
 “Copy, Twin One,” Colonel Ijix Harona said.
@@ -1837,7 +1916,7 @@ Jaina pulled back on the yoke and sent her craft into a predatory bank that woul
 — The Unifying Force (James Luceno, 2003), ch. 8
 ```
 
-### 162. Jaina wheels away from a flurry of missiles, rolls and comes about, squaring off with the opposing flight leader as wingmates fall back; the skip opens a void directly in front of her, but she manages to turn it.
+### 168. Jaina wheels away from a flurry of missiles, rolls and comes about, squaring off with the opposing flight leader as wingmates fall back; the skip opens a void directly in front of her, but she manages to turn it.
 
 ```
 Jaina wheeled away from a flurry of missiles, rolled, and came about. She and the opposing flight leader squared off and bored in on each other, their respective wingmates falling back, too busy holding position and adapting to their leaders’ actions to do any firing. The skip opened a void directly in front of Jaina, but she managed to twist free in the nick of time. The X-wing bucked, then righted itself. Jaina thumbed the trigger of the lasers, pouring fire into the gravitic hole. The dovin basal rushed to absorb the energy, leaving the coralskipper momentarily unprotected. It was all the time Jaina needed. The X-wing’s starboard lasers hammered the skip mercilessly, splitting it down the middle. Long plumes of incandescence streamed from the rend; then the skip vanished in blinding light.
@@ -1845,7 +1924,7 @@ Jaina wheeled away from a flurry of missiles, rolled, and came about. She and th
 — The Unifying Force (James Luceno, 2003), ch. 8
 ```
 
-### 163. In a mad dance, Jaina circles the stricken Yuuzhan Vong carrier duelling coralskippers with each dive and traverse, as the battle roles reverse and starfighter squadrons become the defenders.
+### 169. In a mad dance, Jaina circles the stricken Yuuzhan Vong carrier duelling coralskippers with each dive and traverse, as the battle roles reverse and starfighter squadrons become the defenders.
 
 ```
 In a mad dance, Jaina circled the stricken Yuuzhan Vong carrier, dueling coralskippers with each dive and traverse. The battle roles had been reversed. Now starfighter squadrons were the defenders and skips the aggressors, surging forward to harry and engage at every opportunity. Harona’s Scimitar and Wes Janson’s Yellow Aces were similarly deployed around carrier one. With several of the Peace Brigade freighters incapacitated by Alliance gunships, Blackmoon and the Dozen were flying escort for the rescue transports.
@@ -1853,7 +1932,7 @@ In a mad dance, Jaina circled the stricken Yuuzhan Vong carrier, dueling coralsk
 — The Unifying Force (James Luceno, 2003), ch. 9
 ```
 
-### 164. As the snarling skips surge forward with incredible speed, Jaina orders "Close ranks and form up on me. Anyone short on firepower to the center. Stick with your wingmates until we see what these things are capable of."
+### 170. As the snarling skips surge forward with incredible speed, Jaina orders "Close ranks and form up on me. Anyone short on firepower to the center. Stick with your wingmates until we see what these things are capable of."
 
 ```
 “Close ranks and form up on me,” she said quickly. “Anyone short on firepower to the center. Stick with your wingmates until we see what these things are capable of.”
@@ -1867,7 +1946,7 @@ She tumbled away from second and third projectiles, allowing time for the shield
 — The Unifying Force (James Luceno, 2003), ch. 9
 ```
 
-### 165. Jaina pulls hard on the yoke, climbs back toward carrier one at maximum boost, orders "Twin Suns, disengage and regroup. Screen formation on my mark!" and chases the coralskippers flat out through continuous volleys.
+### 171. Jaina pulls hard on the yoke, climbs back toward carrier one at maximum boost, orders "Twin Suns, disengage and regroup. Screen formation on my mark!" and chases the coralskippers flat out through continuous volleys.
 
 ```
 Jaina pulled hard on the yoke, climbing back toward carrier one at maximum boost. “Twin Suns, disengage and regroup. Screen formation on my mark!”
@@ -1889,7 +1968,7 @@ Lowbacca growled a warning.
 — The Unifying Force (James Luceno, 2003), ch. 9
 ```
 
-### 166. When the armada funnels firestorms along the lanes, Jaina's X-wing wobbles and tumbles through a swirling corridor of flames; with shields all but incinerated she rams the control stick to free herself and rolls out of the heat with the ship nearly roasted.
+### 172. When the armada funnels firestorms along the lanes, Jaina's X-wing wobbles and tumbles through a swirling corridor of flames; with shields all but incinerated she rams the control stick to free herself and rolls out of the heat with the ship nearly roasted.
 
 ```
 Then, without warning, capital ships at the heart of the armada funneled furious firestorms along the depleted lanes. Jaina’s X-wing wobbled and tumbled through a swirling corridor of flames. With the starfighter’s shields all but incinerated, she rammed the control stick to one side to free herself, rolling out of volcanic heat with the ship nearly roasted, and Cappie’s dome a drooping hood of molten alloy. She performed a desperate pushover and scanned local space, dismayed to discover that almost all of the TIE defenders were gone—atomized by the superheated tempest.
@@ -1903,7 +1982,7 @@ Where moments earlier Jaina was facing six wounded skips, she suddenly found her
 — The Unifying Force (James Luceno, 2003), ch. 22
 ```
 
-### 167. Her deflector shields barely viable and Cappie probably beyond repair, Jaina is flung "like an insect trapped in a shaking bottle" despite her harnesses, with each plasma tongue or molten rock missile landing like a punch.
+### 173. Her deflector shields barely viable and Cappie probably beyond repair, Jaina is flung "like an insect trapped in a shaking bottle" despite her harnesses, with each plasma tongue or molten rock missile landing like a punch.
 
 ```
 The overwhelmed deflector shields of Jaina’s X-wing were barely viable, and Cappie was probably beyond repair. Each tongue of plasma or missile of molten rock landed like a punch. Despite the harnesses that fastened her to the padded seat, she was flung like an insect trapped in a shaking bottle. Singularities yawned to all sides, ready to swallow anything she launched, but that hardly mattered, since the starfighter’s fire-control computer had yet to shed enough heat to come back on-line.
@@ -1915,7 +1994,7 @@ Jaina glanced out the right side of the triangular canopy to see the mated ends 
 — The Unifying Force (James Luceno, 2003), ch. 25
 ```
 
-### 168. Jaina calls on exhausted thrusters to propel the X-wing out of its tumble, resets the inertial compensator and gets her bearings inside the coralskipper kill circle, where Chiss clawcraft and Y-wings are creating exit holes.
+### 174. Jaina calls on exhausted thrusters to propel the X-wing out of its tumble, resets the inertial compensator and gets her bearings inside the coralskipper kill circle, where Chiss clawcraft and Y-wings are creating exit holes.
 
 ```
 Jaina called on the exhausted thrusters to propel the X-wing out of its tumble and through a broad bank. At the same time, she reset the inertial compensator and got her bearings. She was still inside the kill circle of coralskippers and pickets, but Chiss clawcraft and Y-wings were hammering away at the slowly contracting perimeter, creating exit holes for the trapped starfighters. Jaina saw Jag’s clawcraft destroy three coralskippers in a blur of corkscrewing maneuvers and laser-fire.
@@ -1929,7 +2008,7 @@ Free of the enclosing tentacle at last, Jaina searched for the rest of her squad
 — The Unifying Force (James Luceno, 2003), ch. 25
 ```
 
-### 169. Jaina's plan has the damaged Trickster jump in first so the New Republic seems surprised, preventing the Yuuzhan Vong from clumping around Shimrra's command ship and letting forces reach the enemy leader.
+### 175. Jaina's plan has the damaged Trickster jump in first so the New Republic seems surprised, preventing the Yuuzhan Vong from clumping around Shimrra's command ship and letting forces reach the enemy leader.
 
 ```
 Jaina had feared that if the New Republic fleet had simply leapt into the system and attacked, the Yuuzhan Vong would have clumped up around Shimrra’s command ship, and the New Republic forces would never have been able to get to the enemy leader. But instead the damaged Trickster’s leaping first into the system made it seem as if the New Republic, not the Yuuzhan Vong, had been surprised, that they had jumped into the system in pursuit of a wounded frigate and found instead a task force.
@@ -1937,7 +2016,7 @@ Jaina had feared that if the New Republic fleet had simply leapt into the system
 — Destiny's Way (Walter Jon Williams, 2002), ch. 4
 ```
 
-### 170. In Enemy Lines I: Rebel Dream, Jaina banks her X-wing into the tightest turn she can endure; g-forces crush her into her seat but she calls on the Force to protect her and keep her centimeters from the edge of blackout.
+### 176. In Enemy Lines I: Rebel Dream, Jaina banks her X-wing into the tightest turn she can endure; g-forces crush her into her seat but she calls on the Force to protect her and keep her centimeters from the edge of blackout.
 
 ```
 Jaina Solo banked her X-wing starfighter into as tight a turn as she could endure. The g-forces of her maneuver crushed her into her seat, but she called upon the Force to protect her, to keep her centimeters away from the edge of blackout.
@@ -1945,7 +2024,7 @@ Jaina Solo banked her X-wing starfighter into as tight a turn as she could endur
 — Enemy Lines II: Rebel Stand (Aaron Allston, 2002), ch. 1
 ```
 
-### 171. Flying a Mandalorian Bes'uliik for the first time, Jaina lets familiarity take over and her "Force ability to sense position and every little nuance" of the craft does the rest; it feels like an extension of her body.
+### 177. Flying a Mandalorian Bes'uliik for the first time, Jaina lets familiarity take over and her "Force ability to sense position and every little nuance" of the craft does the rest; it feels like an extension of her body.
 
 ```
 Jaina let vague familiarity take over her hands, and her Force ability to sense position and every little nuance of the Bes’uliik’s handling did the rest. She was clear of the small flotilla before she realized it and getting a sense of how tight the turns could be. It felt wonderful. It was like any well-designed, lovingly crafted tool: it felt like an extension of her body, not a platform designed around the weapons with grudging space left for the being who had to deliver them.
@@ -1953,7 +2032,7 @@ Jaina let vague familiarity take over her hands, and her Force ability to sense 
 — Revelation (Karen Traviss, 2008), ch. 12
 ```
 
-### 172. Escorting the strike team's shuttle, Jaina drives the lone intercepting coralskipper into juking, slips its plasma, rakes it with stutter blasts and quad-links her guns when the first hit scores; Zekk: "Now that's shooting!"
+### 178. Escorting the strike team's shuttle, Jaina drives the lone intercepting coralskipper into juking, slips its plasma, rakes it with stutter blasts and quad-links her guns when the first hit scores; Zekk: "Now that's shooting!"
 
 ```
 Jaina nosed down to meet the only coralskipper in position to intercept the Jedi and soon had it juking and jinking to avoid her laserfire. The enemy pilot poured the power of his dovin basal into shielding his craft instead of maneuvering it. Not smart. Jaina dodged past the few plasma balls he lobbed in her direction and raked the skip with low-power stutter blasts. When the first hit scored, she immediately quadded her weapons and unloaded.
@@ -1963,7 +2042,7 @@ Jaina nosed down to meet the only coralskipper in position to intercept the Jedi
 — Star by Star (Troy Denning, 2001), ch. 9
 ```
 
-### 173. The d20 Core Rulebook: Jaina inherits her father's quick reflexes at the helm and her grandfather's talent.
+### 179. The d20 Core Rulebook: Jaina inherits her father's quick reflexes at the helm and her grandfather's talent.
 
 ```
 Inheriting her father's quick reflexes at the helm, and her grandfather's talent with the Force, Jaina Solo is an extraordinary pilot. Despite being only 16 years old, she has already come to the attention of the galaxy-famous Rogue Squadron, who hope to one day recruit her as an X-wing pilot.
@@ -1971,7 +2050,7 @@ Inheriting her father's quick reflexes at the helm, and her grandfather's talent
 — Star Wars Roleplaying Game Core Rulebook (Wizards of the Coast, 2000), scan p. 243 †
 ```
 
-### 174. Jaina explains why she builds machines: to find out whether she can.
+### 180. Jaina explains why she builds machines: to find out whether she can.
 
 ```
 “I’m not building this because it’s useful,” she said. “I’m doing it to see if I can. Once I know I can do it, I won’t have to waste time anymore wondering whether anything I learn here is useful or not.”
@@ -1979,7 +2058,7 @@ Inheriting her father's quick reflexes at the helm, and her grandfather's talent
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 1
 ```
 
-### 175. Although she is younger than Lowbacca, Jaina has more experience tuning speeder engines, and the two rebuild his T-23 in a few hours.
+### 181. Although she is younger than Lowbacca, Jaina has more experience tuning speeder engines, and the two rebuild his T-23 in a few hours.
 
 ```
 Realizing that even though Jaina was younger, she probably had more experience tuning speeder engines than he did, he nodded gratefully. They spent the next few hours preparing the T-23 for its first flight on Yavin 4. Jacen occupied himself by telling jokes that Lowie didn’t understand, or fetching tools for the two enthusiastic mechanics. Jaina smiled as she worked, glad of the rare chance to share what she knew about speeders and engines and T-23s.
@@ -1987,7 +2066,7 @@ Realizing that even though Jaina was younger, she probably had more experience t
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 176. Jaina inspects the crashed TIE's engines: the hoses and fuel lines are rotted, but the primary motivators seem intact.
+### 182. Jaina inspects the crashed TIE's engines: the hoses and fuel lines are rotted, but the primary motivators seem intact.
 
 ```
 Jaina tinkered with the engines, checking integrity, noting the rotted hoses and fuel lines. But overall, the primary motivators seemed intact, though she would have to run numerous diagnostics. She had plenty of spare parts in her room.
@@ -1995,7 +2074,7 @@ Jaina tinkered with the engines, checking integrity, noting the rotted hoses and
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 9
 ```
 
-### 177. Jaina lies to Qorl about how much repair work is left, and Jacen knows she is lying.
+### 183. Jaina lies to Qorl about how much repair work is left, and Jacen knows she is lying.
 
 ```
 “We can’t possibly work that fast, especially with just the two of us. This ship has been crashed for twenty years. We haven’t finished cleaning the debris from the sublight intakes. The power converters all need to be rewired.”
@@ -2005,7 +2084,7 @@ Jacen watched his sister and knew she was lying.
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 178. Jaina never repaired the TIE's weapons and rigged the readouts to look normal, so Qorl's fighter can fly but is defenseless.
+### 184. Jaina never repaired the TIE's weapons and rigged the readouts to look normal, so Qorl's fighter can fly but is defenseless.
 
 ```
 “He didn’t know I never fixed the weapons systems … but then, he never asked. I managed to jury-rig the readouts so they would look normal,” Jaina said at last. “He can fly, but his ship is defenseless.”
@@ -2013,7 +2092,7 @@ Jacen watched his sister and knew she was lying.
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 179. With Tenel Ka's nearly dead flash heater, Jaina tinkers with the circuits to pump up the power output and lights a signal fire.
+### 185. With Tenel Ka's nearly dead flash heater, Jaina tinkers with the circuits to pump up the power output and lights a signal fire.
 
 ```
 When the fingersized unit sputtered and flashed, sending out a few last sparks, she took the back panel off and used her multitool to tinker with the circuits. By pumping up the power output, she produced one last flash that set the pile of fresh branches on fire.
@@ -2021,7 +2100,7 @@ When the fingersized unit sputtered and flashed, sending out a few last sparks, 
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 22
 ```
 
-### 180. Jaina built the holographic projector in her quarters herself.
+### 186. Jaina built the holographic projector in her quarters herself.
 
 ```
 She had built the projector herself, piecing it together from her private stock of used electronic modules, components, cables, and other odds and ends that she kept neatly organized in a bank of bins and drawers that filled one wall of her quarters.
@@ -2029,7 +2108,7 @@ She had built the projector herself, piecing it together from her private stock 
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 1
 ```
 
-### 181. Jaina identifies the raiders' ship from its diagnostic profile.
+### 187. Jaina identifies the raiders' ship from its diagnostic profile.
 
 ```
 Jaina studied one of the diagnostic screens, pursing her lips. She shook her head. “Not just pirates,” she said, recognizing some of the ships by the ellipsoid shape of their main body, engine turrets swept back like jagged wings on top and bottom. “Imperial craft. The four on the outside are Skipray blastboats, each fully equipped with three ion cannons, proton torpedo launcher, concussion missiles, and two fire-linked laser cannons.”
@@ -2039,7 +2118,7 @@ Jaina studied one of the diagnostic screens, pursing her lips. She shook her hea
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 182. Jaina deduces that the raiders are boarding with cutting equipment.
+### 188. Jaina deduces that the raiders are boarding with cutting equipment.
 
 ```
 “Excuse me,” Jaina said, “but I may have figured out what that modification is. I think they plan to bore through the station walls. The jagged things we saw looked like teeth - so I’m guessing they cut through metal.”
@@ -2047,7 +2126,7 @@ Jaina studied one of the diagnostic screens, pursing her lips. She shook her hea
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 183. Jaina has the escape plan ready: Lowie is to slice the station, and she will fly a ship out.
+### 189. Jaina has the escape plan ready: Lowie is to slice the station, and she will fly a ship out.
 
 ```
 “We’ll escape and warn Uncle Luke before Brakiss makes his raid on the Jedi academy.”
@@ -2061,7 +2140,7 @@ Jaina studied one of the diagnostic screens, pursing her lips. She shook her hea
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 184. Jaina has the idea of plugging the Imperial-reprogrammed Em Teedee into the station computer, and wires him in.
+### 190. Jaina has the idea of plugging the Imperial-reprogrammed Em Teedee into the station computer, and wires him in.
 
 ```
 “He’s right,” she said. “But Em Teedee was reprogrammed by the Empire. Why not plug him into the main computer and let him get through for us?”
@@ -2071,7 +2150,7 @@ Working rapidly, with nimble fingers, Jaina pulled wires, electrical leads, and 
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 185. Jaina identifies the crashed shuttle as an Old Republic craft at least seventy years old.
+### 191. Jaina identifies the crashed shuttle as an Old Republic craft at least seventy years old.
 
 ```
 “That’s an Old Republic craft”, Jaina said. “At least seventy years old.
@@ -2081,7 +2160,7 @@ They haven’t used those in … I can’t even remember. What a find!”
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 2
 ```
 
-### 186. From Peckhum's description, Jaina diagnoses a failing central multitasking unit.
+### 192. From Peckhum's description, Jaina diagnoses a failing central multitasking unit.
 
 ```
 “Those symptoms you described sound familiar!” she said. “Could be you need a new central multitasking unit. That might fix everything all at once.”
@@ -2091,7 +2170,7 @@ They haven’t used those in … I can’t even remember. What a find!”
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 187. Jaina and Lowie take on mapping the orbital debris around Coruscant.
+### 193. Jaina and Lowie take on mapping the orbital debris around Coruscant.
 
 ```
 “Maybe I could help,” Jaina interrupted, fixing her interest on an idea that would take her mind off Zekk. “After all, Uncle Luke said we were supposed to choose a study project while we’re away from the academy. Lowie and I could map the debris for you. It sounds like fun.”
@@ -2101,7 +2180,7 @@ She stretched, trying to loosen the knotted muscles in her shoulders, then rubbe
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 12
 ```
 
-### 188. On the mirror station, Jaina diagnoses the comm fault and patches the communications back together.
+### 194. On the mirror station, Jaina diagnoses the comm fault and patches the communications back together.
 
 ```
 Jaina’s forehead furrowed with concentration. “Sounds like the power transmission is still working, but the voice synthesis encoders aren’t doing their jobs.”
@@ -2113,7 +2192,7 @@ Jaina completed the task of reconnecting the communications systems, making it p
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16, 20
 ```
 
-### 189. Jaina spots that the raiders in the Adamant footage are short-range fighters, so their base must be in the system.
+### 195. Jaina spots that the raiders in the Adamant footage are short-range fighters, so their base must be in the system.
 
 ```
 Jaina chewed on her lower lip. “Something just isn’t right.” She watched the shark-mouthed assault ship appear out of nowhere, while shots from the flanking Imperial ships took out the Adamant’s communication arrays and weapon systems. She turned her attention back to the replay—and suddenly sat up with a jolt. She had been watching Qorl’s ship—but it was the other imperial fighters that didn’t fit.
@@ -2123,7 +2202,7 @@ Jaina chewed on her lower lip. “Something just isn’t right.” She watched t
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 190. Jaina realizes Lowie's empty zone is the cloaked Shadow Academy and calls in the fleet.
+### 196. Jaina realizes Lowie's empty zone is the cloaked Shadow Academy and calls in the fleet.
 
 ```
 “Remember, the cloaking device makes the whole station invisible, like a hole in space—just like on your orbital map!”
@@ -2137,7 +2216,7 @@ Jaina smiled. “We’re going to shine a little light on the subject.”
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 191. Jaina explains why the Shadow Academy could attack with short-range fighters and slip agents into the city.
+### 197. Jaina explains why the Shadow Academy could attack with short-range fighters and slip agents into the city.
 
 ```
 “They were hiding right on our doorstep all along. That’s why they could use short-range fighters to attack the Adamant. That’s how Tamith Kai and her companions could slip down to the city and steal Zekk away!”
@@ -2145,7 +2224,7 @@ Jaina smiled. “We’re going to shine a little light on the subject.”
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 192. Jaina grows her own lightsaber crystals in a furnace, using the Force to watch the lattice and shape the facets.
+### 198. Jaina grows her own lightsaber crystals in a furnace, using the Force to watch the lattice and shape the facets.
 
 ```
 After Jaina had given each of her friends an appropriate power source to build their own lightsabers, the young Jedi Knights had split up to search for the precious crystals and other components that would make their new weapons function. Jaina, though, wanted to make the lightsaber particularly hers, a symbolic extension of her unique personality. She would make it from scratch in a way that the others would never attempt. She smiled at her own ingenuity.
@@ -2161,7 +2240,7 @@ They were a rich purplish blue, shimmering with inner energy. They had formed pe
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 2
 ```
 
-### 193. Jaina identifies the Hapan royal ambassadorial shuttle by sight.
+### 199. Jaina identifies the Hapan royal ambassadorial shuttle by sight.
 
 ```
 Jacen saw his sister shake her head in confusion. "But how can that be true?" Her question made no sense to him, and he looked at her, waiting for her to explain. "What I mean is," she went on, "why would Tenel Ka's family from Dathomir come for her in that shuttle?"
@@ -2171,7 +2250,7 @@ Jacen saw his sister shake her head in confusion. "But how can that be true?" He
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 7
 ```
 
-### 194. Jaina recognizes the Hapes Cluster from star charts.
+### 200. Jaina recognizes the Hapes Cluster from star charts.
 
 ```
 "That's odd," she said at last. "From the descriptions I've heard and the star charts I've studied, I could swear we were in the Hapes Cluster."
@@ -2179,7 +2258,7 @@ Jacen saw his sister shake her head in confusion. "But how can that be true?" He
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 11
 ```
 
-### 195. Jaina uses the Dragon's Teeth gap to throw the Bartokk assault craft.
+### 201. Jaina uses the Dragon's Teeth gap to throw the Bartokk assault craft.
 
 ```
 Jaina nodded. "I see what you mean. Lowie, I'll need your help on the controls." They slowed just enough to let the assault craft approach them as they headed toward the narrow gap between the treacherous rock spires.
@@ -2197,7 +2276,7 @@ Three assassins toppled overboard and vanished into the churning seas before the
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 20
 ```
 
-### 196. Jaina spots the Falcon's modifications.
+### 202. Jaina spots the Falcon's modifications.
 
 ```
 Before Han Solo had a chance to reply, Jaina glanced behind him. Even in the dimness she could see that some of the Millennium Falcon's plating had been replaced with dark anodized hunks of metal, new storage pods had been mounted on the bow, and a second transmitting dish was attached to the rear. Her jaw dropped. "And what did you do to the Falcon? It looks so . . . different!"
@@ -2205,7 +2284,7 @@ Before Han Solo had a chance to reply, Jaina glanced behind him. Even in the dim
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 2
 ```
 
-### 197. Jaina identifies refurbished Y-wings and explains their upgrades.
+### 203. Jaina identifies refurbished Y-wings and explains their upgrades.
 
 ```
 "That's an old Y-wing," she said, recognizing the outdated designs of the craft. The Y-wing had a triangular cockpit flanked by two long engine pods that together gave the fighter its characteristic shape like the letter for which it had been named. This starfighter had been refurbished and upgraded, and its engines were loud and powerful. The craft's afterburners kicked in behind the engine pods, and the Y-wing streaked into the skies of Kashyyyk.
@@ -2215,7 +2294,7 @@ Before Han Solo had a chance to reply, Jaina glanced behind him. Even in the dim
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 7
 ```
 
-### 198. Jaina knows the TIE's systems from rebuilding Qorl's fighter.
+### 204. Jaina knows the TIE's systems from rebuilding Qorl's fighter.
 
 ```
 Switching off her lightsaber again, Jaina opened the cockpit hatch and crawled inside. She had studied how TIE fighters worked when she and her friends had replaced the components of Qorl's crashed ship. She knew the buttons on the control panels, knew how the systems activated. Though the exiled old pilot had flown off in his ship before Jaina had had a chance to take it on a flight, she was confident she could handle the craft.
@@ -2223,7 +2302,7 @@ Switching off her lightsaber again, Jaina opened the cockpit hatch and crawled i
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
-### 199. Jaina explains the stolen-IFF trick and proposes Ackbar's emergency override.
+### 205. Jaina explains the stolen-IFF trick and proposes Ackbar's emergency override.
 
 ```
 Suddenly understanding, Jaina exclaimed, "They stole guidance and tactical computer systems during their raid on Kashyyyk! The Imperials must have installed them in their own ships just to confuse our weapons computers. We'll have to change our targeting locks, or else we won't be able to fire. The Identify Friend or Foe' fail-safe systems will prevent it."
@@ -2237,7 +2316,7 @@ Ackbar stared at her, his mouth gaping as if he needed a drink of water or a lon
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 18
 ```
 
-### 200. Jaina is a top-notch flight mechanic; Zekk: she started with nothing more than a battered hulk.
+### 206. Jaina is a top-notch flight mechanic; Zekk: she started with nothing more than a battered hulk.
 
 ```
 While both Zekk and Peckhum were competent mechanics, Jaina was absolutely in her element. She dove into the task with gleeful enthusiasm, checking the cargo ship’s hull integrity, pointing out blaster-damaged plates, running diagnostics, and issuing orders like a top-notch flight mechanic. Surprised and a bit amused, Peckhum let Jaina have free rein in directing the overall repair project of his cargo vessel. Seeing how masterful and confident she was, Zekk felt warm inside.
@@ -2247,7 +2326,7 @@ Zekk gave Jaina an uncertain smile as he offered her a hand so that she could st
 — Shards of Alderaan (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 6
 ```
 
-### 201. Jaina's repairs run on intuition and risky rewiring; she leads the work and senses the pulse through the engines.
+### 207. Jaina's repairs run on intuition and risky rewiring; she leads the work and senses the pulse through the engines.
 
 ```
 Using her multitool, Jaina stripped away the charred outer debris and looked at the mangled disarray that remained of one of their drives. The second engine had fared better: still damaged but possibly reparable, given a few spare parts, a lot of intuition, and some risky rewiring.
@@ -2261,7 +2340,7 @@ Seated in the pilot’s chair, Jaina powered up the systems with nervous fingers
 — Shards of Alderaan (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 16
 ```
 
-### 202. Jaina rebuilds the smashed transmitter from Han's modular gift.
+### 208. Jaina rebuilds the smashed transmitter from Han's modular gift.
 
 ```
 “Thanks, Lowie,” Jaina said, accepting the mangled wreckage of what had once been their transmitter dish. The Wookiee had just dismantled it from the battered roof of the Rock Dragon, then hauled it inside the cockpit where Jaina could work on it. Parts of the dish were missing entirely, pulverized in the avalanche, but more than half of the contraption had survived—in some form. Fixing it would be the difficult part.
@@ -2273,7 +2352,7 @@ Jaina bit her lower lip and looked dubiously at the mangled components. “I’m
 — Shards of Alderaan (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 18
 ```
 
-### 203. Jaina: 'I have a lot of gunnery experience … I'm a pretty good shot.'
+### 209. Jaina: 'I have a lot of gunnery experience … I'm a pretty good shot.'
 
 ```
 Jaina stepped forward boldly. “I could be some help to you here. I have a lot of gunnery experience.” She looked over at Jacen. “I’m a pretty good shot and so is ” Jacen, feeling an urgent need to follow Raynar, gave a minute shake of his head.
@@ -2281,7 +2360,7 @@ Jaina stepped forward boldly. “I could be some help to you here. I have a lot 
 — Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 5
 ```
 
-### 204. 'Trust me, I'll know it when I see it': Jaina picks the meeting site, and she is right.
+### 210. 'Trust me, I'll know it when I see it': Jaina picks the meeting site, and she is right.
 
 ```
 Jaina nodded. “Trust me, I’ll know it when I see it.”
@@ -2291,7 +2370,7 @@ As it turned out, Jaina was right. Just before dawn she saw a broad-based mesa t
 — Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 10
 ```
 
-### 205. Jaina always strains her abilities to the limit in practice, 'the best way to learn and grow in the Force'.
+### 211. Jaina always strains her abilities to the limit in practice, 'the best way to learn and grow in the Force'.
 
 ```
 Jaina’s mind was completely exhausted after hours of practice sessions with various Jedi techniques.
@@ -2301,7 +2380,7 @@ As always, she had made sure the subtle exercises strained her abilities to the 
 — Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 4
 ```
 
-### 206. Em Teedee: 'you have such an excellent ability to diagnose malfunctions on your own'.
+### 212. Em Teedee: 'you have such an excellent ability to diagnose malfunctions on your own'.
 
 ```
 “Oh, it’s quite all right, Mistress Jaina,” the little droid said. “I’m resigned to the possibility that being wired to a diagnostic panel may be my only beneficial purpose. And even that is nonessential, since you have such an excellent ability to diagnose malfunctions on your own.” He gave an electronic moan. “Why, I shouldn’t be at all surprised if one morning I reactivated from my shutdown cycle only to find myself in one of those electronics bins in your chambers, ready to be disassembled for spare parts.”
@@ -2309,7 +2388,7 @@ As always, she had made sure the subtle exercises strained her abilities to the 
 — Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 11
 ```
 
-### 207. With Em Teedee's help Jaina reprograms IG-88 and all systems still work; Raynar: 'I doubt my uncle could have programmed him any better'.
+### 213. With Em Teedee's help Jaina reprograms IG-88 and all systems still work; Raynar: 'I doubt my uncle could have programmed him any better'.
 
 ```
 Though Jaina missed Lowie’s expertise in programming, she set to work on IG-88 as soon as they had finished their meal. Annoyed over what she intended to do, but unable to argue against it, Tyko Thul left in a huff to check on more assembly lines.
@@ -2321,7 +2400,7 @@ Raynar smiled. “I doubt my uncle could have programmed him any better than you
 — Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 17
 ```
 
-### 208. Jaina throws a thermal detonator into the Diversity Alliance armory; the blast goes off 'like a planet exploding' and collapses the tunnels.
+### 214. Jaina throws a thermal detonator into the Diversity Alliance armory; the blast goes off 'like a planet exploding' and collapses the tunnels.
 
 ```
 “I’ve got a better idea,” Jaina said. She dashed into the alcove and emerged with a thermal detonator in her hand. “We don’t have much time,” she said. “But I have a feeling this is going to cause a lot of damage. Everybody split up.”
@@ -2339,7 +2418,7 @@ The low ceiling collapsed, and stunned guards tried in vain to cover their heads
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 15
 ```
 
-### 209. On the run, Jaina resets a microdetonator, sticks it to the wall, drops an armed concussion grenade, and dives around the corner before the blasts.
+### 215. On the run, Jaina resets a microdetonator, sticks it to the wall, drops an armed concussion grenade, and dives around the corner before the blasts.
 
 ```
 She had already set the detonator in her hand. Without stopping, she reset the timer with her free hand, activated the microdetonator’s magnetic backing, and smacked the explosive against one of the metal walls, where it clung. Then, pulling the concussion grenade from under her arm, she armed it and dropped it to the floor as Jacen and Tenel Ka disappeared around a corner ahead.
@@ -2349,7 +2428,7 @@ Jaina barely managed to dive to the floor around the corner before the first of 
 — The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 13
 ```
 
-### 210. Jaina's mind switches to analytic mode: 'Structural weak points there, there, and here.'
+### 216. Jaina's mind switches to analytic mode: 'Structural weak points there, there, and here.'
 
 ```
 Jaina’s mind quickly switched to analytic mode and her gaze swept the walls, ceilings, joints, and supports of the intersection.
@@ -2361,7 +2440,7 @@ Jaina’s mind quickly switched to analytic mode and her gaze swept the walls, c
 
 ## Statements from Other Characters
 
-### 211. In Tempest, Jag suggests Jaina take the vessel because "she's the better pilot anyway."
+### 217. In Tempest, Jag suggests Jaina take the vessel because "she's the better pilot anyway."
 
 ```
 “Maybe Jaina should sit on the vessel,” Jag suggested. “She’s the better pilot anyway, and you and I will be just as effective on the ground.”
@@ -2369,7 +2448,7 @@ Jaina’s mind quickly switched to analytic mode and her gaze swept the walls, c
 — Inferno (Troy Denning, 2007), ch. 4
 ```
 
-### 212. Jaina states for the record that in the last five standard years she has captured thirty-seven warlords and broken more than a hundred smuggling rings.
+### 218. Jaina states for the record that in the last five standard years she has captured thirty-seven warlords and broken more than a hundred smuggling rings.
 
 ```
 “No.” Jaina found herself squeezing the witness rail as though she meant to crimp the cold metal. “In the last five standard years, I’ve captured thirty-seven warlords and broken more than a hundred smuggling—”
@@ -2377,7 +2456,7 @@ Jaina’s mind quickly switched to analytic mode and her gaze swept the walls, c
 — The Joiner King (Troy Denning, 2005), prologue
 ```
 
-### 213. Irritated at being used as a guide in Dark Tide I, Jaina tells Leia "I'm not a diplomat. I'm a pilot and a Jedi Knight," and says her talents are being wasted.
+### 219. Irritated at being used as a guide in Dark Tide I, Jaina tells Leia "I'm not a diplomat. I'm a pilot and a Jedi Knight," and says her talents are being wasted.
 
 ```
 “No, I don’t believe you are, Chief Fey’lya.” Leia let a hint of iciness enter her voice. “I don’t believe the alien on Belkadan was influenced by the Red Knights, but it is possible that the Red Knights are part of a covert plot to disrupt the New Republic.”
@@ -2419,7 +2498,7 @@ Jaina reached out with her left hand and settled it on her mother’s shoulder. 
 — Dark Tide I: Onslaught (Michael A. Stackpole, 2000), ch. 9
 ```
 
-### 214. Jaina realizes she is in Rogue Squadron when the comm call is for her, a realization with a surreal quality because she grew up hearing its stories.
+### 220. Jaina realizes she is in Rogue Squadron when the comm call is for her, a realization with a surreal quality because she grew up hearing its stories.
 
 ```
 “Rogue Eleven, check in, please.”
@@ -2451,7 +2530,7 @@ They left the planet safely. Now we have to get them out of the system safely.
 — Dark Tide I: Onslaught (Michael A. Stackpole, 2000), ch. 20
 ```
 
-### 215. Kyp hails Jaina: "Amazing. Simply amazing. Jaina Solo, you continue to find ways to surprise me."
+### 221. Kyp hails Jaina: "Amazing. Simply amazing. Jaina Solo, you continue to find ways to surprise me."
 
 ```
 A few moments later, she answered what turned out to be Kyp’s hail.
@@ -2477,7 +2556,7 @@ A few moments later, she answered what turned out to be Kyp’s hail.
 — Edge of Victory II: Rebirth (Greg Keyes, 2001), ch. 13
 ```
 
-### 216. During Jacen's five-year journey, Jaina felt him growing steadily stronger in the Force but also more distant and isolated, like a hermit retreating to his mountaintop.
+### 222. During Jacen's five-year journey, Jaina felt him growing steadily stronger in the Force but also more distant and isolated, like a hermit retreating to his mountaintop.
 
 ```
 Jaina could not argue. During Jacen’s five-year journey, she had felt him growing steadily stronger in the Force—but also more distant and isolated, like a hermit retreating to his mountaintop. At times, he had seemed to vanish into the Force entirely, and at other times she had sworn he was floating just above her shoulder.
@@ -2485,7 +2564,7 @@ Jaina could not argue. During Jacen’s five-year journey, she had felt him grow
 — The Joiner King (Troy Denning, 2005), ch. 31
 ```
 
-### 217. Luke tells Jag that shatterpoint is a Force technique, not a physical one, and that Jaina needs to practice; Cilghal clears her to do so as long as she does not twist her body too violently.
+### 223. Luke tells Jag that shatterpoint is a Force technique, not a physical one, and that Jaina needs to practice; Cilghal clears her to do so as long as she does not twist her body too violently.
 
 ```
 “Shatterpoint is a Force technique, Jag, not a physical one,” Luke said, speaking from the edge of the courtyard. “And Jaina does need to practice. It shouldn’t aggravate her injuries.” He turned to Cilghal. “Right?”
@@ -2495,7 +2574,7 @@ Cilghal studied the bioscanner for a moment, then nodded. “As long as you don�
 — Invincible (Troy Denning, 2008), ch. 14
 ```
 
-### 218. Jaina tells an interlocutor "You can call me 'Great One.' Most people do"; the New Republic military has treated her as an emanation of the Yuuzhan Vong Trickster goddess Yun-Harla to exploit Yuuzhan Vong superstition about twins.
+### 224. Jaina tells an interlocutor "You can call me 'Great One.' Most people do"; the New Republic military has treated her as an emanation of the Yuuzhan Vong Trickster goddess Yun-Harla to exploit Yuuzhan Vong superstition about twins.
 
 ```
 “You can call me ‘Great One,’ ” Jaina said. “Most people do.”
@@ -2507,7 +2586,7 @@ Jaina couldn’t say whether this was working or not, but she had found the godd
 — Destiny's Way (Walter Jon Williams, 2002), ch. 5
 ```
 
-### 219. Boarding with Fett's Mandalorians, a commando is unnerved to see Jaina, "a small woman by any standards," deflecting blaster bolts with only a fabric flight suit for protection.
+### 225. Boarding with Fett's Mandalorians, a commando is unnerved to see Jaina, "a small woman by any standards," deflecting blaster bolts with only a fabric flight suit for protection.
 
 ```
 In the noise and chaos, with even his HUD display sometimes overwhelmed by the volume of flashing blasterfire, he was unnerved to see Jaina Solo, a small woman by any standards, deflecting bolts with a lightsaber and with nothing but a gray fabric flight suit for protection.
@@ -2515,7 +2594,7 @@ In the noise and chaos, with even his HUD display sometimes overwhelmed by the v
 — Revelation (Karen Traviss, 2008), ch. 15
 ```
 
-### 220. Raising her to Jedi Knight, Luke names Jaina the Sword of the Jedi, "like tempered steel, purposeful and razor-keen… a burning brand to your enemies, a brilliant fire to your friends"; the words pour out of him as if another voice were speaking.
+### 226. Raising her to Jedi Knight, Luke names Jaina the Sword of the Jedi, "like tempered steel, purposeful and razor-keen… a burning brand to your enemies, a brilliant fire to your friends"; the words pour out of him as if another voice were speaking.
 
 ```
 “I name you the Sword of the Jedi,” he said. “You are like tempered steel, purposeful and razor-keen. Always you shall be in the front rank, a burning brand to your enemies, a brilliant fire to your friends. Yours is a restless life, and never shall you know peace, though you shall be blessed for the peace that you bring to others. Take comfort in the fact that, though you stand tall and alone, others take shelter in the shadow that you cast.”
@@ -2527,7 +2606,7 @@ He hadn’t meant to say that. He hadn’t meant to say anything like it. Yet th
 — Destiny's Way (Walter Jon Williams, 2002), ch. 20
 ```
 
-### 221. Jacen sees that his sister has "fashioned herself into a weapon—the Sword of the Jedi—and there was room for nothing else."
+### 227. Jacen sees that his sister has "fashioned herself into a weapon—the Sword of the Jedi—and there was room for nothing else."
 
 ```
 Everything was calculation with Jaina these days. She had fashioned herself into a weapon—the Sword of the Jedi—and there was room for nothing else. If he tried to talk to her about anything but her job, anything but the daily necessities of fighting and survival, she simply would not respond. It was as if much of her personality had simply ceased to exist.
@@ -2535,7 +2614,7 @@ Everything was calculation with Jaina these days. She had fashioned herself into
 — Destiny's Way (Walter Jon Williams, 2002), ch. 22
 ```
 
-### 222. Luke calls Jaina and Lowie a skilled mechanic and an electronics specialist.
+### 228. Luke calls Jaina and Lowie a skilled mechanic and an electronics specialist.
 
 ```
 “Go right ahead if you want, but I’ve got a skilled mechanic and an electronics specialist right here on Yavin 4, ready to start on the project right away - Jaina and Lowie.”
@@ -2543,7 +2622,7 @@ Everything was calculation with Jaina these days. She had fashioned herself into
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 22
 ```
 
-### 223. Jacen says Jaina can always whip up a solution.
+### 229. Jacen says Jaina can always whip up a solution.
 
 ```
 Jacen snorted. “I can’t remember the last time Jaina wasn’t able to whip up some kind of solution. She could probably fix the whole place using nothing but her imagination.”
@@ -2551,7 +2630,7 @@ Jacen snorted. “I can’t remember the last time Jaina wasn’t able to whip u
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 15
 ```
 
-### 224. Luke tells Jaina she cannot blame herself for missing Zekk's potential.
+### 230. Luke tells Jaina she cannot blame herself for missing Zekk's potential.
 
 ```
 “It’s not so simple to tell who has Jedi potential and who doesn’t,” Luke said, sensing Jaina’s despair and self-reproach. “Especially if they don’t know it themselves. Even Darth Vader had no idea that your mother Leia had Jedi potential, though he spent quite a lot of time near her. You can’t blame yourself, Jaina.”
@@ -2559,7 +2638,7 @@ Jacen snorted. “I can’t remember the last time Jaina wasn’t able to whip u
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 22
 ```
 
-### 225. Jacen: Jaina thinks faster and takes charge in a crisis.
+### 231. Jacen: Jaina thinks faster and takes charge in a crisis.
 
 ```
 Jacen nodded. He didn’t mind his sister’s taking charge in a crisis. He knew Jaina didn’t do it to show off—she took the lead because someone had to, and it usually just worked out that way. Jaina thought faster and felt more comfortable issuing orders than he did.
@@ -2569,7 +2648,7 @@ Jacen nodded. He didn’t mind his sister’s taking charge in a crisis. He knew
 
 ## Author and Guide Statements
 
-### 226. The narrator says Jaina's Trickster guise as a manifestation of Yun-Harla gave her a clear tactical advantage at both Hapes and Borleias, while making her a top target for the enemy.
+### 232. The narrator says Jaina's Trickster guise as a manifestation of Yun-Harla gave her a clear tactical advantage at both Hapes and Borleias, while making her a top target for the enemy.
 
 ```
 Jaina named it Trickster. The name proclaimed her a manifestation of Yun-Harla, the Cloaked One, the Yuuzhan Vong Trickster goddess. As such the name was a slap in the face to Yuuzhan Vong religious orthodoxy. Though the guise had proved useful—at both Hapes and Borleias, it had given her a clear tactical advantage—it also only added to the considerable number of enemy who wanted very badly to kill her.
@@ -2577,7 +2656,7 @@ Jaina named it Trickster. The name proclaimed her a manifestation of Yun-Harla, 
 — Destiny's Way (Walter Jon Williams, 2002), ch. 4
 ```
 
-### 227. Walter Jon Williams says the Sword of the Jedi naming came to him unplanned ("I think it was the Force that spoke through me in that scene") and that "In Destiny's Way, Jaina makes her choice."
+### 233. Walter Jon Williams says the Sword of the Jedi naming came to him unplanned ("I think it was the Force that spoke through me in that scene") and that "In Destiny's Way, Jaina makes her choice."
 
 ```
 WJW: When I sat down to write that scene, I had no idea that those words were going to escape Luke’s lips. I think it was the Force that spoke through me in that scene. Who am I to contradict the Force?
@@ -2587,7 +2666,7 @@ When you get right down to it, I don’t think that the Force cares whether you�
 — Walter Jon Williams, author interview printed with Ylesia (Del Rey, 2002)
 ```
 
-### 228. The d20 Core Rulebook stats Jaina in the NJO era, at age 16, as a Jedi Guardian 6 with Battlemind and Affect Mind among her Force skills. (Summarized in our notes.)
+### 234. The d20 Core Rulebook stats Jaina in the NJO era, at age 16, as a Jedi Guardian 6 with Battlemind and Affect Mind among her Force skills. (Summarized in our notes.)
 
 ```
 Female Human Jedi Guardian 6; VP/WP 40/13; FP 4; Rep 4; Force skills Affect Mind +8, Battlemind +5, Empathy +7, Enhance Ability +5, Force Defense +3, Move Object +11, See Force +6
@@ -2595,7 +2674,7 @@ Female Human Jedi Guardian 6; VP/WP 40/13; FP 4; Rep 4; Force skills Affect Mind
 — Star Wars Roleplaying Game Core Rulebook (Wizards of the Coast, 2000), scan p. 243 †
 ```
 
-### 229. The Complete Star Wars Encyclopedia: Jaina gains the upper hand over Caedus by severing a tendon in his leg, then drives her lightsaber into his chest.
+### 235. The Complete Star Wars Encyclopedia: Jaina gains the upper hand over Caedus by severing a tendon in his leg, then drives her lightsaber into his chest.
 
 ```
 Jaina gained the upper hand when she severed the tendon in her brother's leg, and then drove her lightsaber into his chest, killing him.
@@ -2609,7 +2688,7 @@ Jaina defeated her brother, ending his attacks against the Jedi, while Luke and 
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 165 †
 ```
 
-### 230. The guides: Jaina kills Tsavong Lah in a one-on-one duel.
+### 236. The guides: Jaina kills Tsavong Lah in a one-on-one duel.
 
 ```
 Tsavong Lah himself was killed in combat by Jaina Solo, and Supreme Overlord Shimrra vowed to destroy anything that got in the way of galactic conquest.
@@ -2627,7 +2706,7 @@ Tsavong Lah survived the explosive decompression, eventually facing off against 
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 231. OUTCLASSED BY CAEDUS: Jaina admits to Mirta that Caedus is "magnitudes stronger than me in the Force," and that all she has on him is five weeks of Mandalorian commando training.
+### 237. OUTCLASSED BY CAEDUS: Jaina admits to Mirta that Caedus is "magnitudes stronger than me in the Force," and that all she has on him is five weeks of Mandalorian commando training.
 
 ```
 “That’s not really news, Mirta,” Jaina said. “Maybe not even true. He’s magnitudes stronger than me in the Force. All I’ve got on him is five weeks of Mandalorian commando training.”
@@ -2635,7 +2714,7 @@ Tsavong Lah survived the explosive decompression, eventually facing off against 
 — Invincible (Troy Denning, 2008), ch. 17
 ```
 
-### 232. KNOCKED DOWN BY A KICKBOXER: In a Hapan fight, a third powerful kick catches Jaina off balance and sends her into the rounded wall, and she rolls down and comes up on one knee, too cold and angry to feel the pain.
+### 238. KNOCKED DOWN BY A KICKBOXER: In a Hapan fight, a third powerful kick catches Jaina off balance and sends her into the rounded wall, and she rolls down and comes up on one knee, too cold and angry to feel the pain.
 
 ```
 The Hapan's third, powerful kick caught her off balance and sent her flying Jaina hit the rounded wall and rolled down. She came up on one knee, too cold and too angry to feel the pain that would certainly come later. The kickboxer advanced, sweeping one stiffened leg up high for a powerful downward chop. Instinctively, Jaina threw out one hand toward her attacker. Dark lightning flared from her fingertips. Jagged, eerily dancing tendrils caught the Hapan, lifted him and then hurled him across the tunnel. Once before, Jaina had unleashed Force lightning.
@@ -2643,7 +2722,7 @@ The Hapan's third, powerful kick caught her off balance and sent her flying Jain
 — Star Wars Gamer #8 (Wizards of the Coast) †
 ```
 
-### 233. HIT IN THE RIBS: In the Nickel One fight, a black boot heel shoots under Jaina's guard into her sore ribs; she stifles a cry and circles into the shadows, trying to adjust to the darkness.
+### 239. HIT IN THE RIBS: In the Nickel One fight, a black boot heel shoots under Jaina's guard into her sore ribs; she stifles a cry and circles into the shadows, trying to adjust to the darkness.
 
 ```
 A black boot heel came shooting under Jaina’s guard, driving hard into her sore ribs. She stifled a cry and circled into the shadows, trying to acclimate her eyes to the darkness because it was impossible to sense Caedus in the Force. He fought to keep his advantage, dancing back and forth behind his crimson blade, anticipating her every move—and making her pay for each step with a painful kick or elbow strike.
@@ -2651,7 +2730,7 @@ A black boot heel came shooting under Jaina’s guard, driving hard into her sor
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 234. SLAMMED DOWN: Slammed down, Jaina almost wishes she had been knocked unconscious: needle-thrusts of pain run down her spine and the synthmesh supporting her half-healed ribs shifts.
+### 240. SLAMMED DOWN: Slammed down, Jaina almost wishes she had been knocked unconscious: needle-thrusts of pain run down her spine and the synthmesh supporting her half-healed ribs shifts.
 
 ```
 Jaina almost wished that she had been knocked unconscious. Stinging needle-thrusts of pain zippered down her spine as her vertebrae rocked beneath the impact, and the synthmesh supporting her half-healed ribs came apart in a single agonizing pop. She dropped to the floor, fighting to keep her pain from carrying her down into numb oblivion, gazing back to where she had surprised Caedus … where Caedus still stood in the doorway, his mouth gaping in surprise, with a thumb-sized scorch hole just below his ribs. But he was still standing.
@@ -2659,7 +2738,7 @@ Jaina almost wished that she had been knocked unconscious. Stinging needle-thrus
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 235. LACKS JACEN'S TRAINING: Jaina thinks that if anyone can stop Jacen it is her, "I'm his equal, and I'm the Sword of the Jedi. But I just don't have his … training," and she has no idea what he learned from Lumiya.
+### 241. LACKS JACEN'S TRAINING: Jaina thinks that if anyone can stop Jacen it is her, "I'm his equal, and I'm the Sword of the Jedi. But I just don't have his … training," and she has no idea what he learned from Lumiya.
 
 ```
 If anyone can stop Jacen, then, it’s me. I’m his equal, and I’m the Sword of the Jedi. But I just don’t have his … training. I’ve no idea what he learned from Lumiya, let alone what he picked up on his travels during those five years. But he’ll make a mistake sooner or later. He’s way too cocky not to overestimate himself.
@@ -2667,7 +2746,7 @@ If anyone can stop Jacen, then, it’s me. I’m his equal, and I’m the Sword 
 — Revelation (Karen Traviss, 2008), prologue
 ```
 
-### 236. CLOSED OFF FROM HER MOTHER: Leia tells Jaina "I can't feel you through the Force," and Jaina answers she is shielding because of things she would not share with anyone she liked and half the people she despises.
+### 242. CLOSED OFF FROM HER MOTHER: Leia tells Jaina "I can't feel you through the Force," and Jaina answers she is shielding because of things she would not share with anyone she liked and half the people she despises.
 
 ```
 “You want blunt?” Leia demanded. “Then how about this: I can’t feel you through the Force. I can sense when you’re nearby, but not much more.”
@@ -2677,7 +2756,7 @@ Jaina blew out a sigh. “Don’t take it personally. I’m shielding. A lot of 
 — Dark Journey (Elaine Cunningham, 2002), ch. 18
 ```
 
-### 237. DARK SIDE LIGHTNING: Jaina glimpses the memory that most disturbs Zekk: a small, disheveled young woman in a tattered jumpsuit hurling lightning at a Yuuzhan Vong warrior, with a furious, vengeful, bloodstained face she recognizes as her own.
+### 243. DARK SIDE LIGHTNING: Jaina glimpses the memory that most disturbs Zekk: a small, disheveled young woman in a tattered jumpsuit hurling lightning at a Yuuzhan Vong warrior, with a furious, vengeful, bloodstained face she recognizes as her own.
 
 ```
 Then Jaina caught a glimpse of the memory that most disturbed Zekk—an image of a small, disheveled young woman in a tattered jumpsuit, hurling lightning at a Yuuzhan Vong warrior. A moment passed before Jaina recognized the furious, vengeful, bloodstained face as her own.
@@ -2685,7 +2764,7 @@ Then Jaina caught a glimpse of the memory that most disturbed Zekk—an image of
 — Dark Journey (Elaine Cunningham, 2002), ch. 2
 ```
 
-### 238. STUCK IN BLORASH JELLY: Against Tsavong Lah, Jaina draws her lightsaber but her feet are stuck to the floor by blorash jelly and she sprawls instead of spinning, luckily avoiding the warmaster's thrown baton, which impales Lowbacca through the shoulder.
+### 244. STUCK IN BLORASH JELLY: Against Tsavong Lah, Jaina draws her lightsaber but her feet are stuck to the floor by blorash jelly and she sprawls instead of spinning, luckily avoiding the warmaster's thrown baton, which impales Lowbacca through the shoulder.
 
 ```
 Jaina twisted as she drew her lightsaber, intending to spin away from any attacker, but her feet had somehow gotten stuck to the mineshaft floor, and instead of spinning she sprawled to one side—luckily, because at that moment Tsavong Lah hurled his baton of rank like a spear.
@@ -2701,7 +2780,7 @@ Jaina was frozen to the floor by blorash jelly, and Tsavong Lah was behind her. 
 — Destiny's Way (Walter Jon Williams, 2002), ch. 26
 ```
 
-### 239. ON THE DEFENSIVE AGAINST TSAVONG LAH: Tsavong Lah charges, attacking to Jaina's right to draw her lightsaber out of line, then delivers a vicious overhead cut from the left; Jaina blocks in time but the impact bends her far over and knocks the breath from her lungs.
+### 245. ON THE DEFENSIVE AGAINST TSAVONG LAH: Tsavong Lah charges, attacking to Jaina's right to draw her lightsaber out of line, then delivers a vicious overhead cut from the left; Jaina blocks in time but the impact bends her far over and knocks the breath from her lungs.
 
 ```
 Tsavong Lah charged, the amphistaff a blur. He attacked to Jaina’s right side, drawing her lightsaber out of line, then shifted to a vicious overhead cut coming in from the left. Jaina managed to block in time, but the impact bent her far over, the air going from her lungs in a whuff. Her head low, she could see the soft violet radiance of her own lightsaber lying on the floor past the warmaster’s legs.
@@ -2715,7 +2794,7 @@ The warmaster fell. Jaina didn’t spare him another glance, but turned to Tesar
 — Destiny's Way (Walter Jon Williams, 2002), ch. 26
 ```
 
-### 240. SLOW TO RESIST: Pinned, Jaina realizes only after "a moment—and the length of that moment was something she would not forgive herself" that she can resist, then summons the Force and flings her assailant across the room.
+### 246. SLOW TO RESIST: Pinned, Jaina realizes only after "a moment—and the length of that moment was something she would not forgive herself" that she can resist, then summons the Force and flings her assailant across the room.
 
 ```
 A moment later—and the length of that moment was something she would not forgive herself—it occurred to her to resist. Her arms were securely pinned, so she summoned the Force and flung her assailant across the room. There was a crash, and items tumbled off a shelf. Jaina took a step to the door and waved on the lights.
@@ -2723,7 +2802,7 @@ A moment later—and the length of that moment was something she would not forgi
 — Ylesia (Walter Jon Williams, 2002)
 ```
 
-### 241. MIND COMMAND FAILS: In Refugee, Jaina's mental command "Let her go," which would have made an ordinary person obey instantly, fails on the Prime Minister, who shakes his head, smiles, and tells her he is "New."
+### 247. MIND COMMAND FAILS: In Refugee, Jaina's mental command "Let her go," which would have made an ordinary person obey instantly, fails on the Prime Minister, who shakes his head, smiles, and tells her he is "New."
 
 ```
 Jaina lowered the lightsaber and tried another tack. “Let her go.” The mental command accompanying the words would have made an ordinary person instantly obey.
@@ -2739,7 +2818,7 @@ The Prime Minister’s smile widened, if that was possible.
 — Force Heretic II: Refugee (Sean Williams and Shane Dix, 2003), ch. 4
 ```
 
-### 242. STRUGGLES IN THE MELD: In the mind-meld with Tahiri, Jaina struggles through blackness as though swimming through mud; she has never experienced a meld like it and Tahiri's normally bright center is muffled, distant and buried.
+### 248. STRUGGLES IN THE MELD: In the mind-meld with Tahiri, Jaina struggles through blackness as though swimming through mud; she has never experienced a meld like it and Tahiri's normally bright center is muffled, distant and buried.
 
 ```
 Jaina struggled through blackness. She had never experienced a mind-meld like this before. It was as though she were trying to swim through mud. The normally bright center of Tahiri’s mind was muffled and distant, buried.
@@ -2751,7 +2830,7 @@ Vast statues loomed over them, offering razor-tipped tentacles in return for dev
 — Force Heretic III: Reunion (Sean Williams and Shane Dix, 2003), ch. 2
 ```
 
-### 243. AFRAID: In The Unifying Force, Jaina tells Jag "I'm fine. No, actually, I'm not fine. I'm scared to death," about possibilities, with no word of her parents or Jacen.
+### 249. AFRAID: In The Unifying Force, Jaina tells Jag "I'm fine. No, actually, I'm not fine. I'm scared to death," about possibilities, with no word of her parents or Jacen.
 
 ```
 She shook her head. “The signal we’ve been waiting for.”
@@ -2797,7 +2876,7 @@ Jag’s expression grew skeptical. “You could be mistaken.”
 — The Unifying Force (James Luceno, 2003), ch. 14
 ```
 
-### 244. NERVES BEFORE BATTLE: Despite fortifying exercises during the hyperspace flight, Jaina realizes before the final battle that her heart is pounding and her hands are trembling.
+### 250. NERVES BEFORE BATTLE: Despite fortifying exercises during the hyperspace flight, Jaina realizes before the final battle that her heart is pounding and her hands are trembling.
 
 ```
 Despite the fortifying exercises she had taken herself through during the hyperspace flight, Jaina realized that her heart was pounding and her hands were trembling.
@@ -2807,7 +2886,7 @@ This is actually going to happen, she told herself with a stubborn measure of di
 — The Unifying Force (James Luceno, 2003), ch. 22
 ```
 
-### 245. BURIED IN THE MELEE: Buried under half a dozen bodies when the bunker shifts, Jaina avoids amphistaff fangs, coufees and warriors' teeth and elbows in the little space she has; out of sheer desperation she tries to throw everyone off with the Force, but the crushing weight lifts only because the lair tilts again, not through the Force.
+### 251. BURIED IN THE MELEE: Buried under half a dozen bodies when the bunker shifts, Jaina avoids amphistaff fangs, coufees and warriors' teeth and elbows in the little space she has; out of sheer desperation she tries to throw everyone off with the Force, but the crushing weight lifts only because the lair tilts again, not through the Force.
 
 ```
 Buried under half a dozen blood-smeared bodies when the bunker had shifted, Jaina used what little maneuvering space she had to avoid amphistaff fangs and venom, the serrated edges of coufees, and the sharpened teeth and hardened elbows and knees of warriors. Out of sheer desperation she tried to use the Force to throw everyone off her, and was bewildered when the crushing weight of the warriors abated—or at least until she realized that the sudden turnabout had nothing to do with the Force. Shimrra’s lair had simply tilted again, and now she and the same warriors were sent flying and tumbling toward the opposite wall.
@@ -2817,7 +2896,7 @@ Hurled headfirst for the curved expanse of yorik coral, she just managed to get 
 — The Unifying Force (James Luceno, 2003), ch. 40
 ```
 
-### 246. OUTFOUGHT BY BOBA FETT: Fighting Boba Fett in Revelation, Jaina is punched in the gut so hard the wind is knocked out of her, and though her lightsaber slashes across his chest on pure instinct, she bends almost double gasping for air and can only hold the blade out to ward him off.
+### 252. OUTFOUGHT BY BOBA FETT: Fighting Boba Fett in Revelation, Jaina is punched in the gut so hard the wind is knocked out of her, and though her lightsaber slashes across his chest on pure instinct, she bends almost double gasping for air and can only hold the blade out to ward him off.
 
 ```
 The next thing she knew, the wind was knocked out of her as he landed a punch in her gut. Her lightsaber was back on and slashing up across Fett’s chest in a split second, unplanned; she snapped straight to instant raw instinct. Fett fell back a couple of steps. Jaina bent almost double, gasping for air as her solar plexus screamed in agonized protest at the punch, but she held her lightsaber out in front of her to ward him off.
@@ -2825,7 +2904,7 @@ The next thing she knew, the wind was knocked out of her as he landed a punch in
 — Revelation (Karen Traviss, 2008), ch. 7
 ```
 
-### 247. ANTICIPATED BY CAEDUS: Jaina spins past Caedus's crimson blade and swings Vatok's beskad at neck height, but he has anticipated her again and leans away to take the blow on his wounded shoulder instead of his throat.
+### 253. ANTICIPATED BY CAEDUS: Jaina spins past Caedus's crimson blade and swings Vatok's beskad at neck height, but he has anticipated her again and leans away to take the blow on his wounded shoulder instead of his throat.
 
 ```
 Jaina was already spinning past his crimson blade, pivoting on a dead stormtrooper’s chest plate as she brought Vatok’s beskad around at neck height. But Caedus had anticipated her once again, leaning away to take the blow on his wounded shoulder rather than across his throat.
@@ -2833,7 +2912,7 @@ Jaina was already spinning past his crimson blade, pivoting on a dead stormtroop
 — Invincible (Troy Denning, 2008), ch. 9
 ```
 
-### 248. HIT BY FORCE LIGHTNING: After Caedus drops his lightsaber and drives his palm into her stomach, Jaina rides a bolt of Force lightning across the chamber, muscles cramping and teeth grinding, as the beskad begins to bite.
+### 254. HIT BY FORCE LIGHTNING: After Caedus drops his lightsaber and drives his palm into her stomach, Jaina rides a bolt of Force lightning across the chamber, muscles cramping and teeth grinding, as the beskad begins to bite.
 
 ```
 Caedus deactivated his lightsaber and let it drop between them. Jaina felt the beskad begin to bite, then her brother’s palm sank deep into the pit of her stomach. In the next instant she was riding a bolt of Force lightning across the chamber, her muscles cramping, her teeth grinding, her ears roaring with the fiery sizzle of burning synapses.
@@ -2841,7 +2920,7 @@ Caedus deactivated his lightsaber and let it drop between them. Jaina felt the b
 — Invincible (Troy Denning, 2008), ch. 9
 ```
 
-### 249. IMPULSIVE AND STUBBORN: In Dark Journey, Leia says "Jaina has always been impulsive," and Han adds "Not to mention stubborn."
+### 255. IMPULSIVE AND STUBBORN: In Dark Journey, Leia says "Jaina has always been impulsive," and Han adds "Not to mention stubborn."
 
 ```
 With a sigh, Leia pushed back from the table. “I’ll talk to my daughter. Jaina has always been impulsive.”
@@ -2849,7 +2928,7 @@ With a sigh, Leia pushed back from the table. “I’ll talk to my daughter. Jai
 — Dark Journey (Elaine Cunningham, 2002), ch. 18
 ```
 
-### 250. STUBBORN: In The Joiner King, Leia describes Jaina to Juun as "more complicated than most" and "as stubborn as her father."
+### 256. STUBBORN: In The Joiner King, Leia describes Jaina to Juun as "more complicated than most" and "as stubborn as her father."
 
 ```
 “I’m afraid humans are more complicated than that,” Leia said before Han could respond. Sooner or later, even a Sullustan would recognize the sarcasm in Han’s voice, and she did not want to see Juun crushed again. It had been bad enough when they had shut off the tractor beam and let the XR808g float free. “And Jaina is more complicated than most. She’s as stubborn as her father.”
@@ -2857,7 +2936,7 @@ With a sigh, Leia pushed back from the table. “I’ll talk to my daughter. Jai
 — The Joiner King (Troy Denning, 2005), ch. 16
 ```
 
-### 251. WAR-WEARY: In Destiny's Way, Jaina wants an end to the war after the front lines have taught her doubt, terror and fear, the limits of the Force and of Force mastery, and the darkness within her that had driven her to fury.
+### 257. WAR-WEARY: In Destiny's Way, Jaina wants an end to the war after the front lines have taught her doubt, terror and fear, the limits of the Force and of Force mastery, and the darkness within her that had driven her to fury.
 
 ```
 Jaina badly wanted an end to the war. She had been on the front lines literally since the first day. Then she had been joyful, confident, certain of her abilities, of the power of the Force and the order of the universe. Since then the war had taught her much. It had taught her doubt, terror, anxiety, fear, and anger. She had learned the limits to the Force, and to Force mastery. The war had shown her the darkness that lay within her, and how easy it had been for the darkness to overcome her, to drive her to fury, vengeance, and slaughter.
@@ -2865,7 +2944,7 @@ Jaina badly wanted an end to the war. She had been on the front lines literally 
 — Destiny's Way (Walter Jon Williams, 2002), ch. 4
 ```
 
-### 252. LOSES HER WINGMATES IN AN AMBUSH: Caught in a Yuuzhan Vong ambush, Jaina flies frantic evasive action, loses track of Vale, Tesar and Twin Ten, loses everything but her own terror, and closes down her Force-sense so the other pilots' emotions will not distract her.
+### 258. LOSES HER WINGMATES IN AN AMBUSH: Caught in a Yuuzhan Vong ambush, Jaina flies frantic evasive action, loses track of Vale, Tesar and Twin Ten, loses everything but her own terror, and closes down her Force-sense so the other pilots' emotions will not distract her.
 
 ```
 Jaina’s next few moments were frantic with evasive action as she danced and weaved and fled across the face of the void. In the course of her frantic maneuvers she lost track of Vale, Tesar, and Twin Ten; she lost a sense of everything except her own terror. Through the Force she could only sense desperation and terror, and she closed down her extended Force-sense, not wanting the other pilots’ emotions to distract her. She saw an X-wing explode in a shower of orange light, and she fired at skips that crossed her path without knowing whether she hit them or not. The intership comm filled with shouts, warning, and screams of frustration, fear, and anger. Jaina was nearly blind with the sweat that poured into her eyes. Finally she’d had enough. This was a fight that it was impossible to win.
@@ -2873,7 +2952,7 @@ Jaina’s next few moments were frantic with evasive action as she danced and we
 — Destiny's Way (Walter Jon Williams, 2002), ch. 16
 ```
 
-### 253. STRAINED BY SHADOW-BOMB CONTROL: Flying with a shadow bomb armed and held in the Force beside Jag's fighter, Jaina sweats as she divides her concentration between flying and controlling the bomb, and envies Kyp's effortless control over all matters of the Force.
+### 259. STRAINED BY SHADOW-BOMB CONTROL: Flying with a shadow bomb armed and held in the Force beside Jag's fighter, Jaina sweats as she divides her concentration between flying and controlling the bomb, and envies Kyp's effortless control over all matters of the Force.
 
 ```
 And with Jag’s fighter, hovering behind it at a distance of no more than four meters, were two shadow bombs, armed, drifting along in the grip of the Force. Jaina sweated as she divided her concentration between flying this way and controlling her shadow bomb, and once again she envied Kyp’s effortless control over all matters of the Force.
@@ -2881,7 +2960,7 @@ And with Jag’s fighter, hovering behind it at a distance of no more than four 
 — Enemy Lines I: Rebel Dream (Aaron Allston, 2002), ch. 16
 ```
 
-### 254. OUTFLOWN BY JACEN: Chasing Jacen's StealthX over the Anakin Solo, Jaina's bolts keep hitting Luke instead because her brother anticipates every shot; reaching for a combat-meld she finds only Jacen, "powerful and dark and mocking," goading her.
+### 260. OUTFLOWN BY JACEN: Chasing Jacen's StealthX over the Anakin Solo, Jaina's bolts keep hitting Luke instead because her brother anticipates every shot; reaching for a combat-meld she finds only Jacen, "powerful and dark and mocking," goading her.
 
 ```
 Jaina locked her sights on Jacen and fired. He anticipated and slipped in the opposite direction, and one of her bolts lit up Luke’s rear shields.
@@ -2901,7 +2980,7 @@ Jacen’s StealthX dropped back into her sights. She felt her fingers depressing
 — Inferno (Troy Denning, 2007), ch. 17
 ```
 
-### 255. BEATEN DOWN BY BEVIIN: Sparring with sticks, Jaina pounds Beviin without making an impression; when he attacks with total focus he rains blows on her until she curls into a ball, and she only stops him by throwing him back with the Force.
+### 261. BEATEN DOWN BY BEVIIN: Sparring with sticks, Jaina pounds Beviin without making an impression; when he attacks with total focus he rains blows on her until she curls into a ball, and she only stops him by throwing him back with the Force.
 
 ```
 Jaina lunged first, smashing Beviin as hard as she could Force-unaided across shoulders, forearms, even his head when he dropped his guard. It was such a light stick. She drove him back, grunting with the sheer effort of putting all her weight into the blows and not feeling that they were making any impression. He didn’t fight back. She ground to a halt, pulse pounding.
@@ -2917,7 +2996,7 @@ When she finally uncoiled and looked up at him, he had his helmet in one hand an
 — Revelation (Karen Traviss, 2008), ch. 9
 ```
 
-### 256. DISTRACTED BY A CANNON HIT: Jaina reaches out with the Force for her shadow bomb but is distracted by a cannon hit that sends her StealthX into an uncontrolled spin.
+### 262. DISTRACTED BY A CANNON HIT: Jaina reaches out with the Force for her shadow bomb but is distracted by a cannon hit that sends her StealthX into an uncontrolled spin.
 
 ```
 Jaina felt the gentle bump of the shadow bomb being forced from the torpedo tube. She reached out for it in the Force—then grew distracted by the all-too-familiar bang-screech of a cannon hit. Alerts and alarms immediately filled her ears, and the StealthX went into an uncontrolled … twirl? It felt like she was in one of those thrill rides that spun around the central axis of the car, plastering their passengers against their seats. Jaina eased the stick in the opposite direction and slowly brought the starfighter back in line … then realized she had lost control of the shadow bomb, and her heart rose into her throat.
@@ -2925,7 +3004,7 @@ Jaina felt the gentle bump of the shadow bomb being forced from the torpedo tube
 — Vortex (Troy Denning, 2010), ch. 1
 ```
 
-### 257. THE CHISS ADAPT: The Chiss pilots learn quickly, and her target climbs out of her Force grasp into the clouds.
+### 263. THE CHISS ADAPT: The Chiss pilots learn quickly, and her target climbs out of her Force grasp into the clouds.
 
 ```
 Jaina reached out and tried her Force shove again, but the Chiss learned quickly. Her target simply peeled away from the squadron and climbed, fighting against her Force grasp until he entered the clouds and she lost sight of him. Thinking that disruption was as good as destruction, she began to Force-shove the rest of the squadron. They all vanished into the clouds—then dropped back into view a few moments later, in perfect formation and closer than before.
@@ -2933,7 +3012,7 @@ Jaina reached out and tried her Force shove again, but the Chiss learned quickly
 — The Swarm War (Troy Denning, 2006), ch. 14
 ```
 
-### 258. DARK SIDE AT MYRKR: The New Essential Chronology says that, "bathing in the violence of the dark side", Jaina burns several Yuuzhan Vong with Force lightning to recover Anakin's body.
+### 264. DARK SIDE AT MYRKR: The New Essential Chronology says that, "bathing in the violence of the dark side", Jaina burns several Yuuzhan Vong with Force lightning to recover Anakin's body.
 
 ```
 Now bathing in the violence of the dark side, she burned several Yuuzhan Vong with Force lightning to retrieve Anakin's body.
@@ -2941,7 +3020,7 @@ Now bathing in the violence of the dark side, she burned several Yuuzhan Vong wi
 — The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 216 †
 ```
 
-### 259. KNOCKED OUT BY ONIMI: The New Essential Chronology says that Onimi knocks Jaina unconscious and escapes.
+### 265. KNOCKED OUT BY ONIMI: The New Essential Chronology says that Onimi knocks Jaina unconscious and escapes.
 
 ```
 Onimi knocked Jaina unconscious and reached an escape ship. ... As a former master shaper who had grafted telepathic yammosk brain cells into his own cortex, Onimi was a literal puppet master who could force even Shimrra to do his bidding.
@@ -2949,7 +3028,7 @@ Onimi knocked Jaina unconscious and reached an escape ship. ... As a former mast
 — The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 227 †
 ```
 
-### 260. When Jacen lets go of the Force to deal with the snake, Jaina can hold Raynar up for only a second or two.
+### 266. When Jacen lets go of the Force to deal with the snake, Jaina can hold Raynar up for only a second or two.
 
 ```
 Jacen’s quick movement and release of the Force startled Jaina, and she managed to hold Raynar up for only a second or two. As Jacen worked to calm the serpent, Jaina’s grasp on the floating boy weakened and finally broke.
@@ -2957,7 +3036,7 @@ Jacen’s quick movement and release of the Force startled Jaina, and she manage
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 1
 ```
 
-### 261. Facing the Massassi tree, Jaina admits she would not get far climbing it.
+### 267. Facing the Massassi tree, Jaina admits she would not get far climbing it.
 
 ```
 “oh,” said Jaina, a crestfallen look on her face, “I wouldn’t get very far climbing that.”
@@ -2965,7 +3044,7 @@ Jacen’s quick movement and release of the Force startled Jaina, and she manage
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 8
 ```
 
-### 262. Jaina's soothing Force suggestion to Qorl hits a wall of thoughts so rigid and black-and-white that it seems like droid programming.
+### 268. Jaina's soothing Force suggestion to Qorl hits a wall of thoughts so rigid and black-and-white that it seems like droid programming.
 
 ```
 “Put down the blaster,” Jaina said quietly, soothingly, using everything she knew of Jedi persuasion techniques. “You don’t need it.”
@@ -2987,7 +3066,7 @@ Why isn’t it working? Jaina thought desperately. “Put down the blaster,” s
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11
 ```
 
-### 263. Jaina tries to touch Qorl's mind once more, but he aims his blaster at her and backs away.
+### 269. Jaina tries to touch Qorl's mind once more, but he aims his blaster at her and backs away.
 
 ```
 She reached out with her mind, trying to touch the pilot, but he aimed his blaster at her and backed away.
@@ -2995,7 +3074,7 @@ She reached out with her mind, trying to touch the pilot, but he aimed his blast
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 264. Jaina thinks she could have done more against the raiders.
+### 270. Jaina thinks she could have done more against the raiders.
 
 ```
 “D’you suppose you could invent some sort of weapon for us in the next few seconds?” Jacen said. Jaina racked her brain for inspiration, but her inventiveness failed her.
@@ -3003,7 +3082,7 @@ She reached out with her mind, trying to touch the pilot, but he aimed his blast
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 265. The raiders stun Jaina, Jacen and Lowie before they can act.
+### 271. The raiders stun Jaina, Jacen and Lowie before they can act.
 
 ```
 Before Jaina could say anything else, bright blue arcs shot toward her and the others, and they were overcome by a wave of unconsciousness.
@@ -3011,7 +3090,7 @@ Before Jaina could say anything else, bright blue arcs shot toward her and the o
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 266. Tamith Kai holds Jaina, Jacen and Lowie with a Force leash.
+### 272. Tamith Kai holds Jaina, Jacen and Lowie with a Force leash.
 
 ```
 When they made no move to comply, she pointed her polished nails at them and twitched her fingers. Suddenly, it felt as if a resilient invisible cord had wrapped around Jaina’s throat. The woman crooked her finger, yanking at Jaina as if she were a pet on a leash.
@@ -3023,7 +3102,7 @@ Jaina lurched as the invisible rope hauled her out of the cell. Lowbacca and Jac
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 267. Jaina's probe of the blond student yields only fragments.
+### 273. Jaina's probe of the blond student yields only fragments.
 
 ```
 She sent her thought probe toward the young man, but caught nothing beyond elusive snatches that blared fleetingly in her mind, like disconnected notes from an orchestra tuning its instruments.
@@ -3031,7 +3110,7 @@ She sent her thought probe toward the young man, but caught nothing beyond elusi
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 10
 ```
 
-### 268. Brakiss's voice sways Jaina until Lowie's touch breaks the spell.
+### 274. Brakiss's voice sways Jaina until Lowie's touch breaks the spell.
 
 ```
 As his voice streamed around the students, Jaina felt her mind begin to relax. This wasn’t so bad after all. All of it was true. The power in Brakiss’s voice urged action, demanded agreement. Jaina saw the heads of many of the students nodding. She nodded too. Jaina could not remember the words as Brakiss led them smoothly, logically from one concept to another All she remembered were the thoughts, the feelings, the rightness of it all.
@@ -3041,7 +3120,7 @@ Then suddenly, for some reason-perhaps it was the light touch of a furry hand on
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 10
 ```
 
-### 269. Brakiss hits Jaina with Force lightning.
+### 275. Brakiss hits Jaina with Force lightning.
 
 ```
 At last, Brakiss shook his head sadly. “I did not wish to make an example of you. But you leave me no choice. You have chosen to pit your puny light-side powers against my own. I gave you one warning. You will not receive another.”
@@ -3051,7 +3130,7 @@ With that, Brakiss lifted one hand slightly, almost as if to wave a fond farewel
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 10
 ```
 
-### 270. Dread slows Jaina as she faces the 'Vader' opponent.
+### 276. Dread slows Jaina as she faces the 'Vader' opponent.
 
 ```
 Whether it was her own fear or something deeper, Jaina sensed a great uneasiness in the training chamber, a pulsating dread that slowed her movements. Darth Vader took advantage of her shocked hesitation. He came toward her, scarlet lightsaber sizzling. His breathing echoed all around her. Vader slashed with the weapon, and Jaina countered with her own beam, producing a shower of sparks as the energy blades crossed and struck. They struck again and again. Thrusting. Parrying. Attacking. Defending.
@@ -3059,7 +3138,7 @@ Whether it was her own fear or something deeper, Jaina sensed a great uneasiness
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 271. Jaina admits she and Lowie did not get the docking-bay door open.
+### 277. Jaina admits she and Lowie did not get the docking-bay door open.
 
 ```
 Lowbacca mumbled something unintelligible, and Jaina fidgeted. “Uh, Uncle Luke,” she said, “I kind of hate to mention this, but - we didn’t get the door open.”
@@ -3067,7 +3146,7 @@ Lowbacca mumbled something unintelligible, and Jaina fidgeted. “Uh, Uncle Luke
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 272. Trapped on the walkway, Jaina can think of no way her fledgling powers could help.
+### 278. Trapped on the walkway, Jaina can think of no way her fledgling powers could help.
 
 ```
 Jaina tried to think of something she could do with what Uncle Luke had taught them at the Jedi academy. With uninterrupted concentration she could manipulate objects with the Force, but she couldn’t think of any way her fledgling powers could help them escape.
@@ -3075,7 +3154,7 @@ Jaina tried to think of something she could do with what Uncle Luke had taught t
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 273. Debris plotting wears Jaina out and she cannot face it.
+### 279. Debris plotting wears Jaina out and she cannot face it.
 
 ```
 Jaina had helped Lowie with the task, but tracking thousands of pieces of debris was just too daunting for her at the moment.
@@ -3083,7 +3162,7 @@ Jaina had helped Lowie with the task, but tracking thousands of pieces of debris
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 274. Jaina blames herself for not seeing Zekk's potential.
+### 280. Jaina blames herself for not seeing Zekk's potential.
 
 ```
 Jaina hung her head, thinking of all the time they had spent with Zekk, all the fun they had had together, without her ever having recognized his true potential.
@@ -3093,7 +3172,7 @@ Jaina spoke through gritted teeth. “It’s our fault for not showing him that 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20, 22
 ```
 
-### 275. Jaina's Jedi relaxation technique fails on the flight down.
+### 281. Jaina's Jedi relaxation technique fails on the flight down.
 
 ```
 As they reentered the atmosphere, Jaina forced her eyes shut and practiced one of Uncle Luke’s Jedi relaxation techniques. But it didn’t seem to work.
@@ -3101,7 +3180,7 @@ As they reentered the atmosphere, Jaina forced her eyes shut and practiced one o
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 276. Seeing the lightsaber colors, Jaina is flooded with memories and drops her weapon in panic.
+### 282. Seeing the lightsaber colors, Jaina is flooded with memories and drops her weapon in panic.
 
 ```
 Violet. The color of the evil Nightsister Tamith Kai's eyes.
@@ -3119,7 +3198,7 @@ With a cry, Jaina switched off her weapon and dropped it to the flagstones, back
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
-### 277. Jaina cannot be sure she or Lowie could fly the four-claw Bartokk boat.
+### 283. Jaina cannot be sure she or Lowie could fly the four-claw Bartokk boat.
 
 ```
 At the far edge of the reef, Jaina saw the sharp-edged assault boat from the Bartokk hive near the smoldering wreck of the shield-generator station. For a moment she contemplated taking that craft instead—but when she noticed the knobby, alien controls designed for simultaneous use by four claws, she couldn't be sure she or Lowie could pilot such a ship. Their best chance would be to grab one of the smaller wavespeeders.
@@ -3127,7 +3206,7 @@ At the far edge of the reef, Jaina saw the sharp-edged assault boat from the Bar
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 20
 ```
 
-### 278. Jaina doesn't test a rotten branch; Chewbacca pulls her to safety and falls.
+### 284. Jaina doesn't test a rotten branch; Chewbacca pulls her to safety and falls.
 
 ```
 In the distance Jaina heard a shout, a human voice that sounded loud and chilling, mixed with the wild noises. When she stopped to look in that direction, she saw flickers of light and heard the sizzle of blaster fire.
@@ -3141,7 +3220,7 @@ Jaina watched, her mouth open in a silent scream, as Chewbacca plummeted, crashi
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 17
 ```
 
-### 279. Jaina feels weak and lost, then steadies herself: she is training to be a Jedi Knight.
+### 285. Jaina feels weak and lost, then steadies herself: she is training to be a Jedi Knight.
 
 ```
 His words doused Jaina's sense of relief like an icy torrent of rain on a candle flame. A wave of weakness spun behind her eyes. Jaina clung to the tree, pressing her face against its rough bark.
@@ -3155,7 +3234,7 @@ The thought snapped Jaina out of her momentary weakness. She had to think; she h
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 19
 ```
 
-### 280. Jaina is not equal to carrying a wounded Wookiee up, even with the Force.
+### 286. Jaina is not equal to carrying a wounded Wookiee up, even with the Force.
 
 ```
 A quick examination of his injuries told Jaina that the news was grim. The minor scrapes, bruises, and cuts could be dealt with easily enough, but one leg was broken. Chewbacca would never be able to walk out of here.
@@ -3165,7 +3244,7 @@ Jaina knew she was not equal to the task of transporting a wounded Wookiee hundr
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 19
 ```
 
-### 281. Zekk turns Jaina's Force rustle into a small whirlwind: 'I'm not impressed with your tricks.'
+### 287. Zekk turns Jaina's Force rustle into a small whirlwind: 'I'm not impressed with your tricks.'
 
 ```
 In an effort to distract him, as she had done with Garowyn, Jaina tried her trick again. She used the Force to riffle the leaves in the branches surrounding him, as if a chill wind were blowing through the claustrophobic cage of the forest underlevels.
@@ -3175,7 +3254,7 @@ Zekk looked up, his green eyes bright even in the shadows. It took him only a mo
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 19
 ```
 
-### 282. Even Jaina's knack for repairs cannot save the shield generator.
+### 288. Even Jaina's knack for repairs cannot save the shield generator.
 
 ```
 Jaina finally made her way to the clearing where her father and Chewbacca had recently installed the new energy shield generator. With only a glance she saw that the machinery was irreparable, despite her usual knack for fixing things.
@@ -3185,7 +3264,7 @@ Normally, she could make temporary repairs to get systems up and running again, 
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
-### 283. Jaina has a bad feeling about her impulsive attack.
+### 289. Jaina has a bad feeling about her impulsive attack.
 
 ```
 Jaina ducked and dodged, no longer enjoying the thrill of flight. She had a bad feeling about her impulsive attack. She streaked over the jungle, the three TIE fighters hot on her tail.
@@ -3193,7 +3272,7 @@ Jaina ducked and dodged, no longer enjoying the thrill of flight. She had a bad 
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
-### 284. Jaina doubts she could take the last two TIE fighters: 'She was done for.'
+### 290. Jaina doubts she could take the last two TIE fighters: 'She was done for.'
 
 ```
 The atmosphere thinned to a deeper purple, and then the midnight blue of space. To her dismay, she saw that the remaining TIE fighters had closed the distance again, not as much as before, but to within visual range. Her plan wouldn't work—she could never dodge them and disappear against the silent blackness. Her stealth armor would be useless now.
@@ -3205,7 +3284,7 @@ She was done for.
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 285. Jedi relaxation techniques fail Jaina after her first battle.
+### 291. Jedi relaxation techniques fail Jaina after her first battle.
 
 ```
 As Lando brought the ship in for a landing, Jaina used Jedi techniques to relax, but it did her no good. Her muscles remained as tense as if she were still in the tiny TIE fighter flying for her life. For some reason, she just couldn't loosen up. For the first time, today, she had fought as a Jedi, with other Jedi, against the dark side.
@@ -3215,7 +3294,7 @@ It was what all her training had been about.
 — Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 21
 ```
 
-### 286. Jaina can't find the Hapan armaments, and her shots go wide twice.
+### 292. Jaina can't find the Hapan armaments, and her shots go wide twice.
 
 ```
 “Yes, but I didn’t intend to take us into battle,” Jaina replied. “I haven’t studied the weapons systems yet!”
@@ -3227,7 +3306,7 @@ Jaina fired their weapons again, and missed once more. “I should have calibrat
 — Shards of Alderaan (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 14
 ```
 
-### 287. Jaina and Raynar on Ryloth's day side: skin red and raw, hands and feet blistered.
+### 293. Jaina and Raynar on Ryloth's day side: skin red and raw, hands and feet blistered.
 
 ```
 Jaina couldn’t answer. Her skin was already red and raw, her hands and feet blistered. The temperate zone seemed impossibly far away across the broiling landscape. Jaina didn’t know how they would ever get there, or if Lowie had even made it safely to the Rock Dragon.

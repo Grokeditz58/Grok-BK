@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 290 (234 with quotations; 190 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
+- **Entries:** 298 (242 with quotations; 198 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3188,6 +3188,125 @@ What it shows (our notes): Zekk asks Luke to teach him the light side so he can 
 — Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 29.
 (Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
 Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:96`
+
+## Young Jedi Knights 12: *Return to Ord Mantell* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Testing himself against a carnivorous tentacle tree, Zekk lets the Force direct his Jedi reflexes and beats back the whipping tentacles with a staff, one-handed once the acid swells his hand: 'He could deal with the pain later'.
+> He stepped forward, faced the writhing tentacle tree, and prepared to do battle. “I will let the Force guide me,” he murmured to himself, “allow it to direct my Jedi reflexes to respond to any tricks the enemy may devise.”
+>
+> Three of the whipping vines thrashed at him, making the stick their primary target. Zekk snapped his wrist downward. A loud crack rang out as the staff beat back two of the tentacles.
+>
+> Another serpentine appendage crackled and wrapped itself around Zekk’s right wrist. Without hesitation, he tossed the staff to his left hand, swung it up, and battered the offending tentacle as he yanked his hand free.
+>
+> His skin burned and tingled as the clutching vine tore away from his wrist. He realized then that this plant-thing exuded some kind of irritating acid through its tiny spines. His hand began to swell, but Zekk turned his concentration back to the vines that still lashed at him.
+>
+> He could deal with the pain later.
+>
+> He struck left and right, knocking the thrashing vines away. His hand turned red and throbbed; he could barely bend his fingers. A forest of tentacles now whipped and clawed at him. He could have severed them all with a single sweep of a lightsaber blade, but Zekk drove them back one-handed, using only his staff.
+>
+> Shorter, spikier tentacles emerged from the hole of the tree, thrashing, grasping at him, but again Zekk drove them back with his staff. He could have pulled back at any time, but instead he pushed closer. Then, although the irritant chemical in his swollen right hand bothered him, he gripped the stick with both hands again. He would not let the pain slow him down.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 2.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:13`
+
+What it shows (our notes): Narration: Zekk trained as a bounty hunter and used his Jedi prowess to hunt down bounties no one else could capture.
+> He trained to become a bounty hunter and used his Jedi prowess to hunt down difficult bounties that no one else could capture.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 2.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:16`
+
+What it shows (our notes): Calming his mind, Zekk stands unarmed and the tentacles slide harmlessly off him 'as if his entire body were coated with some invisible super lubricant'.
+> “No!” he said through gritted teeth. He refused to win against the plant-thing in this way. Zekk threw the retrieved staff aside and stood unarmed as the stinging tentacles drew back, then poised themselves to attack with renewed force.
+>
+> But Zekk kept his mind clear, his thoughts calm. “I am not your prey,” he murmured.
+>
+> The tree had no intelligence, just a rudimentary mass of vascular plant fiber with reflexes that responded like muscles. Hungry tentacles lashed at him-only to slide harmlessly away, as if his entire body were coated with some invisible super lubricant.
+>
+> “I am not your prey,” Zekk repeated.
+>
+> The ineffective vines reached toward him, but they could not touch his skin. Sinuous appendages danced in frustration around his arms, his head, his back.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 3.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:15`
+
+What it shows (our notes): Zekk wins the Blockade Runners Derby as a last-minute entrant, overtaking every competitor with an unbeatable time; Jacen has never seen anyone fly 'with such sensitivity to the surrounding environment'. Zekk was using his Jedi skills on something he enjoyed, and losers cry foul over the Force though the Rock Dragon took no permitted modifications.
+> On the gridmap of all the racing ships, Anakin pointed to one blip that was slowly passing every competing vessel. “This one will win,” he said.
+>
+> “I can tell by the piloting, by the speed. It has already overtaken most of the others that were launched first, and this ship entered the race near the end. It won’t crash, either. I’m sure of it.”
+>
+> The mysterious ship passed two more competitors, swooped around a large comet, then zigzagged through the toughest part of the course.
+>
+> The craft moved in time with the broken icy space debris, reminding Jacen of an intricate dance. The ship and the comets seemed to be cooperating, moving as one connected system. He had never before seen anyone fly with such sensitivity to the surrounding environment and obstacles.
+>
+> The ship hurtled around the last comet and then looped back toward Ord Mantell and the finish line. The time displayed on one of the screens was better than any of the other competitors had clocked. No one would be able to beat it.
+>
+> “I’ve never seen Lowie fly that fast,” Jaina said.
+>
+> “Just following Master Skywalker’s instructions,” he said. “He told me to find something I was already good at, and try to use my Jedi skills to become even better. I’ve always enjoyed piloting, so I thought a hotshot race might just be a good test.”
+>
+> In the history of the Derby, no crew so young had ever won the challenge.
+>
+> Upon discovering that these were Jedi trainees, some of the losers cried “foul,” claiming that the use of the Force gave an unfair advantage-though the Rock Dragon had not taken advantage of the permitted mechanical modifications, as most of the other contestants had.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 24–25.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:27`
+
+What it shows (our notes): Zekk stuns a camouflaged chameleon creature by firing at a blank spot on the wall, then drops another from the ceiling.
+> Zekk reached up with his blaster, turned the setting to “stun,” and fired at the blank spot on the wall. Circular blue arcs rippled out to illuminate the lumpy form of a chameleon creature. It dropped like an insect sprayed with poison and curled up on the floor.
+>
+> Zekk fired his blaster again, and a second chameleon creature fell, this time from the ceiling, a great enough height that Jaina could hear the sharp sound of hollow bones cracking from the impact.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 27.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:35`
+
+What it shows (our notes): From the Falcon's gun well Zekk blows knaars apart at low altitude while taking care not to hit the villagers.
+> Zekk targeted and fired, blowing the reptilian creature to sizzling bits.
+>
+> He rotated in the gun well again, seeking another target. It was difficult to zero in on the dark shadowy monsters-and he didn’t dare risk hitting one of the people.
+>
+> The knaar approached, sniffing, its claws extended. Zekk targeted and fired.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 50.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:30`
+
+What it shows (our notes): Zekk and Jacen sense a hidden sonic puncher, locate it with the Force and lift it with a mind grip; when it triggers, Zekk lashes out with the Force and rips its circuits free.
+> Jacen felt his senses tingling. “Down there,” he said, pointing to the left.
+>
+> “Doesn’t matter,” Zekk said. “We sense danger down there.”
+>
+> “Our Jedi senses can do the searching for us,” Zekk said in a low voice.
+>
+> Jacen nodded. Calming himself, he reached out with his mind, and used the extra eyes and ears the Force gave him. He could tell Zekk was doing the same. They scanned into the dimness of the tunnel, locating rocks, crystalline formations, rubble piled at the bottom of the channel. His mind moved in farther. He breathed slowly, feeling his heartbeat. Blood pounded in his temples.
+>
+> There. He sensed something wrong, an object out of place… a device that didn’t belong in the rocky debris.
+>
+> “Me too,” Zekk answered.
+>
+> They used the Force, stretching out together with their minds, to move the rubble gently away from the weapon. This small device contained enough power to crack open fissures in the tunnel walls and bring the entire ceiling down.
+>
+> Working as a team, they used a silent Jedi mind grip to lift the sonic puncher, carefully raising it off the floor. Just then, a loose rock fell from a pile and clattered to the floor. The sound was like thunder, and the vibration was enough to activate the trigger.
+>
+> Zekk reacted in a different way, lashing out with the Force to rip circuits free inside the detonator, deactivating it forcibly. An instant later his face fell, as if he was ashamed of himself “You found a better way, Jacen. “ “Either one would have worked,” Jacen said. “Just let the Force guide you, and stay calm inside.”
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 74–75.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:53`
+
+### Limitations and anti-feats (Return to Ord Mantell)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — In anger Zekk yanks his staff back with the Force so hard that two vines rip from the tree and ties strands into knots, then realizes he has tapped the dark side.
+> Another whiplike vine snapped sharply and struck him in the forehead just above his eye, drawing a trickle of blood. He reeled backward, blinking his eyes against the stinging tears and red droplets.
+>
+> Suddenly, unexpectedly, two of the vines wrapped themselves around his stick, twisted hard, and yanked it from Zekk’s hand, tearing the flesh on his palms. Then, as if sensing victory, the relentless tentacles also grabbed at his arms and legs. Zekk stood trapped in a blizzard of grasping strands.
+>
+> A black static of anger overpowered his fear. Zekk used the Force to reach out and locate his stolen staff. He jerked the stick back toward him-so furiously that two vines ripped away from the central mass of the tree and began oozing clear sap.
+>
+> With the dying tentacles still dangling from his staff, Zekk swung around, using it as a flail against the others. He used the Force again to tie several of the strands into knots and laughed out loud at how easy this battle was becoming.
+>
+> Then, in a flash of comprehension, Zekk realized that he was not truly succeeding; he had unleashed his anger and tapped the dark side as a conduit to his Jedi skills.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 3.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:14`
+
 
 
 

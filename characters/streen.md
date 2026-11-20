@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 46 (42 with quotations; 3 quotations extended to the full sentence/passage from the source text on file; 4 marked as fragments; 7 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 59 old entries; old file: `characters/_bak/streen.md.bak-20261117`.
+- **Entries:** 47 (43 with quotations; 4 quotations extended to the full sentence/passage from the source text on file; 4 marked as fragments; 7 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 59 old entries; old file: `characters/_bak/streen.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -224,6 +224,19 @@ Our notes: `notes/materials/117-njo-04-heros-trial/ht-03.md:37`
 (Scaling: The article names Streen and Kirana Ti as the direct agents of the final banishment.)
 (Source: Champions of the Force [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 3; exact text match])
 Our notes: `external/mega-notes/exar-kun-legends-quotes.txt:236`
+
+## Young Jedi Knights 12: *Return to Ord Mantell* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Narration: Streen, once a Bespin cloud prospector, developed an affinity for controlling the weather and the winds; Luke says he and Kyp have been Jedi Knights for over ten years.
+> “That’s Streen,” Jaina whispered, and Jacen immediately recognized the man. Once a cloud prospector on Bespin, the old hermit had developed an affinity for controlling the weather and the winds.
+>
+> Luke said, “These two have been Jedi Knights for well over ten years now.
+>
+> They learned from their mistakes and their successes, and they’ve served the New Republic admirably.” Kyp Durron and Streen looked both powerful and exhausted, as if they had come through some terrible ordeal that had made them stronger-though neither seemed ready to tell the story.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 7.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:17`
+
 
 # Debate and forum claims (unverified)
 
