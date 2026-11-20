@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 163 (149 with quotations; 116 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 174 (160 with quotations; 127 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2050,6 +2050,109 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — On Kuar the 'harmless' ass
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.166).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:40`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): A tingle of Lowie's Jedi senses makes him turn and find Hovrak watching.
+> Feeling a tingle of his Jedi senses, Lowie turned to find Adjutant Advisor Hovrak watching them intently from one of the small bays. He stood beside Raaba’s star skimmer, the Rising Star, as if guarding it.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 3 (p.19).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:29`
+
+What it shows (our notes): Nolaa considers the Wookiee recruits valuable, 'particularly Lowbacca with his Jedi abilities'.
+> At the moment, though, Raaba’s highest priority was to ensure that Sirra and Lowie adapted well to the Diversity Alliance. The Twi’lek leader had made it clear how valuable she considered the new Wookiee recruits, particularly Lowbacca with his Jedi abilities. Raaba would not let her leader down.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 8 (p.51).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:60`
+
+What it shows (our notes): Lowie senses a great uneasiness in the Force from the computer center, and senses Raaba holding back.
+> Back in the computer center, Lowie sensed a great uneasiness in the Force. He looked up from a difficult problem at his terminal, glanced around the computer center, and then darted his gaze out through the transparisteel walls into the shadowy corridors beyond.
+>
+> Lately, it seemed even Raaba was hiding something from him. He could sense that she was holding back when she spoke to him, but she brushed aside all of his probing questions.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 8, 13 (p.55–72).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:63`
+
+What it shows (our notes): Holding his lightsaber floods Lowie with calm clarity; he needs no Alliance to fight his battles. 'He was a Jedi Knight!'
+> Snarling, he snatched the lightsaber from his belt with the vague intention of slicing away the offending insulation. The moment the hilt was in his hand, however, a calm clarity flooded his mind. A flick of his thumb ignited the molten bronze blade.
+>
+> He hefted the blade, tossed it experimentally from hand to hand. The saber hummed and sizzled as he sliced the air. Its light shone like a beacon in his mind, illuminating a truth he had known from the beginning: he did not need a Diversity Alliance to fight his battles for him or to defend his rights.
+>
+> He did not need to blame one group for all the misfortunes Wookiees had suffered through the centuries. His species was flexible, strong, capable.
+>
+> Whoosh! Humm! He did not need to find a “cause” to believe in or a direction for his life. He had all those things. He was a Jedi Knight!
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.72).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:15`
+
+What it shows (our notes): Lowie's slicing: he uncovers false file names, breaks passwords and tracks down every record, covering his tracks.
+> AS HE ANGRILY traced his way through the Diversity Alliance computers, Lowie uncovered false file names, broke passwords, and tracked down all the records he needed to see. With each discovery, he grew more and more outraged over the secrets Nolaa Tarkona had kept from him—and from many of her followers.
+>
+> Computers were Lowie’s specialty. He knew how to cover his electronic
+>
+> “tracks.” After removing every trace of his searches, Lowie switched off the terminal. He said nothing to the Sullustan computer technicians or the burnished-bronze hacker droids as he left the glassed-in room and set off down the convoluted path to the locked storeroom.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.73–75).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:19`
+
+What it shows (our notes): Lowie bluffs his way through restricted areas, knocks the guards aside, and roars at the idea that these weaklings could pose a threat to him.
+> Since he was a respected guest of Nolaa Tarkona, the guards did not challenge him. Lowie had learned long ago that the key to successful bluffing lay in looking confident that you had a right to be where you were and to do what you were doing. He made his way firmly and decisively down winding corridors, taking turbolifts to other levels and passing through restricted areas, until he finally reached the little-used storage vault.
+>
+> The guards turned at Lowie’s brash entrance, grunting guttural questions in various languages, but he bluffed his way forward, knocking them aside. In barks and growls, he demanded to see the shift boss. Finally, the pebbly-skinned Rodian appeared, huge eyes darting furtively around, his sucker-tipped hands tapping with impatience against his legs.
+>
+> The Rodian offered additional guards, but Lowie roared and bared his fangs at the mere suggestion that these weaklings could pose any threat to him.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.75–80).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:20`
+
+What it shows (our notes): Lowie's computer-triggered false gas alarm; Tenel Ka: 'Excellent strategy'.
+> “Master Lowbacca arranged for the central computer system to activate an emergency alarm that has fooled the sensors into detecting a toxic gas leak in the grottoes farthest from the small-craft landing bay.
+>
+> Tenel Ka nodded. “Excellent strategy, Lowbacca.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.81–82).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:27`
+
+What it shows (our notes): Lowie punches his fist through the side of a crate.
+> Lowie crept behind one of the supply crates and motioned for his sister to follow him. The other workers, intent on the blaring alarms, took no notice of them. Lowie punched his fist through the side of a crate, breaking a hole in its thin veneer to reveal not medicinal supplies or food, as the labels declared, but power packs for long-range, military-style blaster rifles.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.107).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:59`
+
+What it shows (our notes): Lowie takes the offensive against Corrsk; his swing shears through a metal support beam when the agile Trandoshan skips aside, and he scorches Corrsk's arm.
+> Then, holding it aloft like a powerful, glowing club, Lowie advanced toward the enormous reptile, taking the offensive against his natural enemy.
+>
+> Corrsk drew back in surprise and lifted his blaster cannon, firing a shot before he had a chance to aim. Lowie dodged out of the way as the ragged bolt of energy hammered the tunnel wall.
+>
+> Lowie charged at Corrsk with a furious roar.
+>
+> He swung his lightsaber. The Trandoshan, more agile than his size suggested, skipped to one side.
+>
+> Lowie’s sizzling bronze blade sheared through a metal support beam on the wall and gouged a smoking crater into the rock.
+>
+> Lowie slashed with his lightsaber while Corrsk’s attention was still on Em Teedee. The Trandoshan tried to dodge, but the edge of the molten blade scorched his scaled arm. Sizzling black blood congealed in the wound. Corrsk hissed with pain. He lifted his blaster cannon and launched a high-powered volley.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.109–111).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:61`
+
+What it shows (our notes): With Jedi reflexes Lowie deflects the blaster-cannon barrage into the ceiling, burying Corrsk under tons of rock, and anticipates the guards' shots.
+> Lowie reacted with Jedi reflexes, bringing up the bronze blade to meet the blaster strike. The force of the blast drove him against the wall, but the energy blade deflected the barrage back into the rock ceiling above Corrsk’s head.
+>
+> The reptilian let out a bellow as tons of rocky debris cracked and broke away from above. He threw his massive arms overhead, trying to protect himself from the falling boulders. Giant chunks of rock tumbled down in a deadly avalanche to bury him.
+>
+> Heavily armed guards, summoned by the Ugnaughts, rushed in with hand weapons. They saw Lowie and fired. He dodged across the cluttered room, ducking and weaving around engine parts and coolant drums, using his Jedi senses to anticipate their shots.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.111–112).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:63`
+
+### Limitations and anti-feats (Jedi Bounty)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Lowie's Force sensitivity is scrambled by his conflicting emotions on Ryloth.
+> Lowie paused in front of the sealed metal hatch. A part of him still found it impossible to believe that he had been so completely deceived, and this would confirm—or prove false—all of his suspicions. He flexed his fingers, sniffed the air. His Force sensitivity had been scrambled by his conflicting emotions ever since he’d arrived on Ryloth; it seemed difficult to trust his Jedi training now. But somehow he sensed that he would not be alone here for long, and wasted no time.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.75).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:21`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 342 (271 with quotations; 232 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 360 (289 with quotations; 250 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3040,6 +3040,177 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: the office tar
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.145).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:29`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka jogs the camp perimeter in the jungle without gasping or panting; exercise helps her think.
+> “The jungles are dangerous at night,” Tenel Ka replied without slowing.
+>
+> Her voice was steady and she didn’t gasp or pant as she spoke.
+>
+> Tenel Ka raised an eyebrow skeptically. “I have found that when I combine physical exercise with my other duties, I am able to think more clearly. It is also an excellent way to release tension.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.5).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:14`
+
+What it shows (our notes): Tenel Ka senses the rakhmar watching and dives and rolls clear a split second before it springs.
+> Just as his sister spoke, Jacen sensed it: something out in the jungle watching them. Tenel Ka noticed it too, for she stopped dead in her tracks.
+>
+> Em Teedee narrowly avoided colliding with her shoulder. A split second later the warrior girl dove to the ground and rolled as a snarling, fang-filled ball of fur sprang through the air where she had been standing.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.6).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:15`
+
+What it shows (our notes): Tenel Ka and Jacen cast through the Force like a net for Lowbacca; she detects a slight tingle of his presence using every sense, including the Force.
+> TENEL KA LED the way through the dim and winding tunnels, her warrior senses alert, every muscle taut and ready. She was acutely aware of the danger they faced: anyone who noticed the companions would immediately recognize them as intruders in the realm of the Diversity Alliance.
+>
+> Jacen clung close beside the warrior girl, and together they used their Jedi senses, casting out through the Force like a net for any glimmer of their friend Lowbacca.
+>
+> Finally, detecting a slight tingle of Lowie’s presence, she chose a corridor that led in that general direction. “This way.”
+>
+> Tenel Ka crept forward, using all senses: touch, sight, hearing, smell … and the Force. The air tasted of damp coolness and rock dust with a sour undertone of moss and fungus, and the faint metallic odor of minerals and old blood.
+>
+> Then Tenel Ka and Jacen cast out with their minds again. The glimmer of the Wookiee’s presence seemed brighter now.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 8 (p.50–51).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:58`
+
+What it shows (our notes): Tenel Ka feels a cold shiver of warning as the Alliance soldiers appear.
+> Raaba clenched her powerful fists and her biceps bulged against her armbands. Lowie. The young Jedi Knights were undoubtedly looking for him. Jaina led the way next, her senses tingling.
+>
+> “Lowie’s close,” she said. “He’s just up here.”
+>
+> Not wanting to be left behind, Raynar and Jacen accompanied Jaina, scurrying forward, keeping low. Tenel Ka hesitated, looking around in the dim tunnels instead of ahead. “We must be cautious.” Then she felt a cold shiver of warning up her spine.
+>
+> Jaina spun around, also sensing it, just as Em Teedee let out a thin wail. “Oh dear, they’ve found us.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 8 (p.52–53).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:61`
+
+What it shows (our notes): Backhanded by Hovrak in Nolaa's throne room, Tenel Ka reels but does not cry out.
+> Hovrak lashed out to cuff Tenel Ka, backhanding her with a hairy paw.
+>
+> She reeled at the blow, but did not cry out in pain.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.57).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:69`
+
+What it shows (our notes): Tenel Ka keeps her balance and refuses to wince as Hovrak's claws draw blood.
+> Tenel Ka’s poise was good, and she managed to keep her balance. Even so, Hovrak’s sharp claws scratched her unprotected skin. Warm blood flowed from a shallow wound on her upper arm, but she refused to give him the satisfaction of seeing her wince in pain.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.63).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:80`
+
+What it shows (our notes): Tenel Ka floors Hovrak one-handed: an open-hand blow smashes his snout, then kicks to the abdomen and knee. 'It all happened in two seconds.'
+> Tenel Ka reacted with spring-loaded reflexes, whirling about to slam the flat of her hand full force against Hovrak’s snout. The impact made a sound like ripe fruit struck with a hammer.
+>
+> Continuing her spin, Tenel Ka brought her booted foot up and kicked the wolfman unmercifully in the abdomen. Then she lashed out with her other foot to smash him sharply in the knee.
+>
+> Hovrak fell.
+>
+> It all happened in two seconds. The Adjutant Advisor yowled in unexpected pain even before the blood began to spurt from his smashed snout.
+>
+> The other Jedi Knights could not leap to her aid before Hovrak’s guards dragged Tenel Ka away from him—but she was finished.
+>
+> “Perhaps a one-armed female is not quite as helpless as a complacent wolfman,” she said coldly.
+>
+> Hovrak coughed blood and got back to his feet while the guards chuckled at her retort. They froze, looking sheepish, when Hovrak glared at them. Struggling to regain his dignity, he wiped a sleeve of his uniform across his snout. Blood smeared the meticulously clean cloth.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.63–64).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:81`
+
+What it shows (our notes): Tenel Ka's sharp eyesight shows her that the stalactites are made of the ryll fungus.
+> The ceiling itself was a festival of stalactites, with spiky banners unfurled and stabbing down toward the floor. Her sharp eyesight showed Tenel Ka that the stalactites were the same strange fungus. The white, foamy mounds seemed to grow and pulse in the bright illumination from the glowpanels.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.65).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:82`
+
+What it shows (our notes): Tenel Ka and Jacen swing like pendulums in their mine harnesses to smash a stalactite free.
+> Suspended above the grotto, dangling beside a sharp stalactite, Tenel Ka swung herself into position. She gripped the hard spongy fungus, swung herself like a pendulum, and smashed with her vibrating hammer at the end of each swing.
+>
+> They pummeled the same pinnacle of rock until the fungus-covered stalactite broke free and tumbled toward an empty crater in the floor.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.68).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:84`
+
+What it shows (our notes): Tenel Ka memorizes the tunnel layout as they run, not the least bit out of breath.
+> Lowie knew exactly where he was going. Tenel Ka studied all the passages as they went, memorizing as best she could the layout of the Twi’lek tunnel systems. Jacen, who ran next to her, was unsurprised to find the warrior girl not the least bit out of breath. Despite the grime that crusted her hair and skin from hours of labor in the mines, he still thought she looked beautiful.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.83).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:28`
+
+What it shows (our notes): Tenel Ka's hearing and eyesight are always sharper than the others'; Jacen senses the enemies an instant later.
+> Tenel Ka suddenly stood up straight. As always, her hearing and eyesight were sharper than any of the others’. She gripped her lightsaber.
+>
+> An instant later Jacen sensed the approach of numerous enemies. He drew his weapon, as did his sister. The footsteps were coming closer from a single direction, but the tunnels heading away branched out in many other directions.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.87).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:30`
+
+What it shows (our notes): Tenel Ka's instinctive sense of direction in the collapsed tunnels.
+> They ran uphill, away from the fading dust of the explosion. Neither Jaina nor Raynar had a map of the catacombs, nor did they have Tenel Ka’s instinctive sense of direction. But if they continued uphill, they decided, sooner or later they would break out to the surface.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.90).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:35`
+
+What it shows (our notes): Tenel Ka and Jacen cross Ryloth's night side for hours over icy rock in brutal cold, losing all feeling in their feet.
+> Jacen had lost all sensation in his feet by the end of the first half hour. The rocky ground was often covered with ice. They took turns in the lead, holding a lightsaber high to light the way through the darkness so that they could see the best path to walk. To keep their hands warm enough to grip their lightsabers, they shared the flash heater until its charge ran too low to be of any more use.
+>
+> At times they had to use Tenel Ka’s grappling hook and fibercord to pull themselves over particularly treacherous terrain. Both of them slipped and fell so often that they were badly cut and bruised. After the first hour, Jacen stopped feeling that, as well.
+>
+> “Yeah, we’re lucky, all right.” He hadn’t been able to tell for nearly an hour whether he still had ears or not. He supposed that it was just as well he couldn’t feel them. “Which way?” he asked.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.102–103).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:51`
+
+What it shows (our notes): Tenel Ka turns off her blade, pulls Jacen on top of her, and sleds downhill on her lizard-hide armor, outdistancing the rockslide.
+> Tenel Ka punched the power stud on her weapon, turning it off. “This way!” she shouted, sitting directly on the ice and throwing her arm around him. Pulling him on top of her, she pushed off down the slope.
+>
+> Like a living sled they slid quickly downhill on Tenel Ka’s tough lizard-hide armor, picking up speed and outdistancing the small avalanche.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.103).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:53`
+
+What it shows (our notes): Tenel Ka and Jacen race the heat storm, which can boil alive any creature in its path, to the cave.
+> Jacen’s mind began to go numb. He had entered a trancelike state and had no idea how he kept putting one foot in front of the other. He was in the lead, holding his lightsaber aloft, when Tenel Ka put her hand on his arm and pulled him to a stop.
+>
+> “Heat storm,” Tenel Ka warned. Her grip tightened on his arm. “Hot winds from the daytime side of the planet. They can travel through the temperate zone to the night side and still retain enough heat to boil alive any creature in their path. We must find shelter.”
+>
+> When he saw the broken entrance a few meters ahead of them, Jacen switched off his lightsaber and concentrated all of his efforts on speed. Not a minute too soon, he and Tenel Ka threw themselves into the narrow mouth of the cave. The furnace-hot blast roared toward them, flash-evaporating ice. Rock cracked and crumbled.
+>
+> Sinking wearily to the floor, Jacen said, “I didn’t know I had the energy left to run.” The storm grew louder, closer, as if angry that they had escaped.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.105–106).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:55`
+
+What it shows (our notes): Tenel Ka senses the exiled Kur in the cave: 'I sense you here with us'.
+> Behind him, Tenel Ka was more intent on the sound she had heard from deeper within the cave. “Who is there?” she said. “I sense you here with us.” She drew her lightsaber and switched on the humming beam as the storm continued to rage outside. Her turquoise blade cast a dim blue-green glow.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.118).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:74`
+
+What it shows (our notes): Tenel Ka and Jacen use Luke's techniques for enduring cold, her fibercord and his lightsaber footholds, and drag Kur up the slope.
+> Tenel Ka pulled in a deep breath. “Master Skywalker once described techniques a Jedi can use to endure cold or heat,” she said. “We must use these skills now.”
+>
+> Jacen nodded jerkily. “Our friend here doesn’t have those abilities, though.”
+>
+> Tenel Ka once again had to use her fibercord to help them to climb between rocky pinnacles.
+>
+> With his lightsaber, Jacen cut sturdy footholds into the caked ice inside shallow crevices.
+>
+> The two companions pushed and dragged the old Twi’lek exile, urging him to climb higher.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.125–126).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:77`
+
+What it shows (our notes): Tenel Ka and Jacen sense the Rock Dragon coming.
+> Tenel Ka straightened, suddenly alert again, and waved her lightsaber back and forth. “Do you sense it?” she asked.
+>
+> “Yes,” Jacen said. “The Rock Dragon. It’s coming!”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.127).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:78`
+
 
 
 

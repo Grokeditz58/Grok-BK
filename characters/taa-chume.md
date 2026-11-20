@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 48 (35 with quotations; 27 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 49 (36 with quotations; 28 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -451,6 +451,19 @@ What it shows (our notes): Tenel Ka: her grandmother Ta'a Chume is 'a formidable
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 22 (p.215).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:75`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Ta'a Chume's intelligence on the Diversity Alliance's ryll funding.
+> “But what you don’t know,” Ta’a Chume interrupted, “is that all of the profits from ryll spice—the most lucrative of all Ryloth’s exports—have for the past two years been siphoned off to fund the Diversity Alliance.” Jacen listened with interest. His father, Han Solo, had told him about his adventures with glitterstim spice from the planet Kessel, but Jacen knew relatively little about ryll.
+>
+> “And,” Ta’a Chume went on, “those profits have built the Diversity Alliance into a formidable power indeed. The funds have been used to purchase weapons—both legal and illegal—to hire bounty hunters to track down enemies, and to hire assassins to ensure the silence of … former friends.”
+>
+> “Apparently, this Nolaa Tarkona is rather more tolerant of her enemies than she is of friends who decide to go their own way. Leaving the Diversity Alliance is a dangerous proposition. That is what we have learned so far, but I think we’ll find there is much more.” Jacen and Tenel Ka exchanged worried glances.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.11–12).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:20`
+
 
 
 

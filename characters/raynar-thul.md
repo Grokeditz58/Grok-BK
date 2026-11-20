@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 81 (78 with quotations; 24 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 90 (87 with quotations; 33 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2105,6 +2105,91 @@ What it shows (our notes): Raynar redesigns the factory schematics with calm ass
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.206–207).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:70`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Raynar is already moving to dodge the rakhmar's claws and grabs a burning branch; Tenel Ka: 'Your instincts and reactions were commendable'.
+> “Raynar, look out!” Jaina cried, leaping after the vicious creature, but Raynar was already moving to dodge the sweeping claws. He launched himself forward, narrowly missing the campfire.
+>
+> The jungle predator spun around as Raynar snatched a burning branch from the fire, ready to defend himself. The rakhmar crouched on its back legs, muscles coiled, ready to lunge again.
+>
+> “I do not believe you will need this,” Tenel Ka said, taking the firebrand from Raynar and tossing it back into the campfire. “Your instincts and reactions were commendable.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.6–7).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:17`
+
+What it shows (our notes): Raynar feels the Force flow through him as the Bothan approaches.
+> Raynar, feeling unaccountably protective, stretched out his free hand from where he lay and rested it on Lusa’s back. Jaina must have been uncomfortable too, he realized, for out of the corner of his eye he saw her hand move to the hilt of her lightsaber. Lusa’s back muscles tensed.
+>
+> He took a deep breath and felt the Force flow through him.
+>
+> Tenel Ka was instantly on her guard. She arched an eyebrow. “Do you require assistance, sir?”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.14).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:24`
+
+What it shows (our notes): Raynar senses Lusa's presence at once, and that her anger comes from concern and fear for him.
+> Standing outside the Rock Dragon, Raynar performed the preflight checks Jaina had assigned him. When Lusa approached, he could sense the centaur girl’s presence immediately, as if there were a change in the air temperature. He tried to hurry through his tasks so he could spend a few more minutes with Lusa before they left. At the sound of a hoof impatiently stamping on the soft ground, though, he turned to her with a smile.
+>
+> Faced with her unaccustomed anger, Raynar was at a loss for words. To his surprise, he sensed that her turmoil was born of concern—and fear—for him.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.20).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:33`
+
+What it shows (our notes): Raynar throws a rock with Force-enhanced power and knocks a guard off the ledge.
+> In a single blurred movement she switched on her lightsaber and slashed.
+>
+> The Jedi blade severed the business end of the blaster, leaving only a smoldering lump.
+>
+> Then Raynar threw his rock with Force-enhanced power, hitting the guard hard in the stomach and knocking him backward toward the rocky ledge.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.129).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:83`
+
+What it shows (our notes): Raynar cracks Hovrak's faceplate with a perfectly aimed rock and dodges blaster fire, drawing agility from the Force.
+> When Jaina stepped forward to deflect the new volley of fire, Raynar popped out of his shadowy shelter. He hefted another sharp-wedged rock, then hurled it with perfect aim, so that it struck Hovrak’s faceplate and cracked the reflectorized transparisteel. Raynar ducked back into hiding as the wolfman roared, stumbled backward, and barely regained his balance on the ledge.
+>
+> Raynar threw rock after sharp rock at Hovrak and the guards. They stopped trying to melt the overhang and turned their blaster fire at him, but Raynar dodged away, drawing agility from the Force.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.130).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:85`
+
+### Limitations and anti-feats (Jedi Bounty)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: the rakhmar's rear claws gash Raynar's leg; he can't walk.
+> The rakhmar overshot its target and grazed Raynar’s leg with its razor-sharp rear claws.
+>
+> “I think I’ll be able to walk now,” Raynar said bravely, though his voice wavered. When Jacen and Jaina helped him stand, however, all color drained from his face and his knees buckled.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.7–8).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:18`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Raynar has never worked with his hands; they are soon bruised and bloody in the mines.
+> Next to Jaina, Raynar struggled against the unyielding stone. His hands quickly became bruised and bloody from clawing away the loose rock that Jaina broke free. As the son of a merchant lord, he had never worked so hard with his hands. Jaina’s hours spent tinkering with mechanical objects had given her just enough calluses to make her tough—but her hands still ached.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.68).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:83`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Raynar: 'I've never fired a blaster before'.
+> “Are we supposed to just grab some weapons and shoot?” Raynar asked.
+>
+> “I’ve never fired a blaster before.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.89).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:32`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Raynar is completely desiccated on Ryloth's day side.
+> Jaina couldn’t answer. Her skin was already red and raw, her hands and feet blistered. The temperate zone seemed impossibly far away across the broiling landscape. Jaina didn’t know how they would ever get there, or if Lowie had even made it safely to the Rock Dragon.
+>
+> With sunken cheeks, red-rimmed eyes, and dry, salt-encrusted skin, Raynar looked completely desiccated. His hair and his jumpsuit would have been drenched with sweat, had the searing heat not evaporated all perspiration the moment it appeared.
+>
+> Jaina climbed up a rockface, along a cleft in the stones that provided some shade. She slipped briefly and, reaching out to steady herself, touched an outcropping exposed to the direct sunlight.
+>
+> Jaina hissed in pain and snatched her fingers away. Red burn-welts sprouted on her skin.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.115).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:68`
+
 
 
 

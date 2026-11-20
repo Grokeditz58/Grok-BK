@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 1045 (415 with quotations; 36 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 2 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 1047 (417 with quotations; 38 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 2 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -5388,6 +5388,27 @@ What it shows (our notes): Fett: 'Most of them are fools'; 'Dengar is … not a 
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.97).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:56`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Fett: his reputation 'is deserved well enough'; Bornan Thul has proved more skillful than he anticipated.
+> Her heart leaped, but Fett’s voice did not carry a gloating or triumphant tone. “He escaped us—but not without assistance, and only temporarily.
+>
+> I am confident I will bring him to you before long.”
+>
+> “It is deserved well enough,” Fett said. His voice remained neutral, as if he was incapable of taking offense. “Thul has proved to be considerably more skillful than I had anticipated—but I enjoy the challenge.”
+>
+> “His name is Zekk,” Fett said. “The young man seemed naive. He claimed to be in training as a bounty hunter. But he turned against us and Bornan Thul slipped away.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 7 (p.47–48).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:53`
+
+What it shows (our notes): Zekk's view: 'someone sly and skillful like Boba Fett'.
+> And if he managed to get a lead on Bornan Thul, it wouldn’t be long before one of the other bounty hunters was successful as well … someone sly and skillful like Boba Fett.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.62).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:76`
+
 
 
 

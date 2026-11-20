@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 111 (62 with quotations; 7 quotations extended to the full sentence/passage from the source text on file; 45 marked as fragments; 48 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 118 old entries; old file: `characters/_bak/dengar.md.bak-20261117`. Added 2026-11-20: 7 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 114 (65 with quotations; 10 quotations extended to the full sentence/passage from the source text on file; 45 marked as fragments; 48 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 118 old entries; old file: `characters/_bak/dengar.md.bak-20261117`. Added 2026-11-20: 7 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -545,6 +545,41 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — IG-88 disarms Dengar, slag
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.199).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:65`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Dengar is cybernetically enhanced; he 'thought fast, reacted fast, and proved entirely relentless on the hunt'.
+> Previously, Zekk had led Dengar on a merry chase by sending his tracker buoy high out of the galaxy in a fast message pod. The sallow-faced, bandaged human should have gone on a long and fruitless pursuit to nowhere … but Dengar apparently hadn’t been fooled for long. The cybernetically enhanced bounty hunter thought fast, reacted fast, and proved entirely relentless on the hunt.
+>
+> Dengar, with his cadaverous face and sunken eyes, had fired upon Zekk without warning on the abandoned ice planet of Ziost. And again, he had destroyed everything in sight on Mechis III—emotionless, relentless, blasting anything in his way.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.27–28).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:38`
+
+What it shows (our notes): Dengar powers up again and fires three precisely targeted turbolaser blasts at Zekk.
+> Dengar’s voice, normally gruff and flat, was heated by the fires of outrage. The enhancements to his brain had stripped him of most emotions, but Dengar could still experience rage. “You have broken the Bounty Hunter’s Creed. You fired upon me as I pursued another target.”
+>
+> “What?” Zekk exclaimed. The blasts of his ion torpedoes should have knocked the Punishing One out of commission for hours—but Dengar must have been prepared for such contingencies.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.30–31).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:40`
+
+### Limitations and anti-feats (Jedi Bounty)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk's ambush disables both of the Punishing One's engines and its comm dish.
+> The last time he’d fought Dengar, Jaina had done the shooting while he did the flying. This time Zekk would have to do both. But he still had the advantage, given both his Jedi instincts and the element of surprise.
+>
+> In his mind he brought up an image of Dengar’s ship, a modified Corellian JumpMaster 5000, imagined its hot engines and every minuscule weak point in its U-shaped configuration.
+>
+> Even now Dengar’s sensors would be sounding an alarm at Zekk’s appearance. He had no time to hesitate. Without wasting a heartbeat, Zekk fired his ion torpedo, powered up a second, and launched it.
+>
+> Both torpedoes flew true—the first exploded beside Punishing One’s port stardrive, while his second neutralized the starboard engine.
+>
+> Dengar roared. Zekk took careful aim at the Punishing One’s communications dish and blasted it to pieces. The bounty hunter could do nothing.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.29–30).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:39`
+
 
 
 # Debate and forum claims (unverified)

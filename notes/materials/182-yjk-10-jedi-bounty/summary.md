@@ -1,0 +1,21 @@
+# Young Jedi Knights 10: Jedi Bounty: summary, plot and strongest findings
+
+- Read 2026-11-20 CST. Every line of READ l.1–1939 was read in order: front matter, ch. 1–22, and the back matter (the Emperor's Plague blurb and preview). Notes are limited to scaling-relevant material (owner's rulings, 2026-11-20). The quotes are in jb-01 and jb-02; this summary is in our own words.
+- Authors: Kevin J. Anderson & Rebecca Moesta. Tenth Young Jedi Knights book (Boulevard Books, 1997), the fourth in the Bornan Thul / Diversity Alliance arc. 22 chapters.
+
+## Plot
+- **Ch. 1–2, 4 (Yavin 4):** A rakhmar attacks the friends' jungle camp; the twins cut it apart, but Raynar is clawed. Ta'a Chume reveals that ryll money funds the Diversity Alliance, and Lusa tells how Hovrak killed and ate a defecting Talz. Lowie has not called, so the friends take the Rock Dragon to Ryloth in secret.
+- **Ch. 3, 13–14, 18 (Lowie):** Raaba and Hovrak court Lowie and Sirra. Lowie finds clarity in his lightsaber, learns his friends are slaves in the ryll mines, slices the Alliance's computers, recovers the lightsabers and Em Teedee, and bluffs the prisoners out. He proves to Sirra that the 'medical supplies' are weapons power packs, then beats Corrsk in the hangar by deflecting a cannon volley into the ceiling, and Sirra flies them out.
+- **Ch. 5, 10, 12, 16 (Zekk):** Zekk cripples Dengar's Punishing One to let Bornan Thul escape, tags Thul's ship with a tracer, and works out that Fonterrat's navicomputer holds the location of the Emperor's plague. On Yavin 4 he and Luke save Lusa from a Bothan Alliance assassin.
+- **Ch. 6–9, 11, 15 (Ryloth):** The friends sneak in on an ore hauler, find the Alliance's war arsenal, and are captured. Before Nolaa, Jacen's Force tricks nearly get them killed, and they are sent to the ryll mines, where Tenel Ka floors Hovrak in two seconds. After Lowie frees them, they bluff a patrol, Jaina blows up the armory with a thermal detonator, and the tunnels collapse, splitting the group.
+- **Ch. 17, 19–21 (the exiles):** Jacen and Tenel Ka cross the frozen night side, outrun a heat storm, and find the exiled clan leader Kur. Jaina and Raynar burn on the day side and are hunted by Hovrak's heat-suited squad. Jaina deflects bolts back at the guards and Raynar uses Force-thrown rocks, until the Lightning Rod (Zekk, Luke, Lusa) arrives. Hovrak leaps to the ramp; Jaina cracks his faceplate and Lusa kicks him into the lava. The Rock Dragon picks up Jacen, Tenel Ka and Kur.
+- **Ch. 22 and back matter:** Everyone reunites on Coruscant. The preview of YJK 11 sets up the Senate hearing and a fact-finding mission to Ryloth.
+
+## Strongest findings
+- **Tenel Ka:** floors Hovrak in two seconds one-handed (ch. 11). Her stamina, sharper senses and pain tolerance are shown repeatedly, and she sleds downhill on her armor to outrun a rockslide (ch. 17).
+- **Jacen:** strips all fourteen of Hovrak's medals and ignites three lightsabers with the Force (ch. 9); uses a mind nudge on the Gamorreans (ch. 15); keeps walking through the ice crossing in a trance; calls out to Lowie through the Force (ch. 17, 20).
+- **Jaina:** pinned down and half-blinded, she deflects volleys and kills a guard with his own bolt, keeps fighting with exhausted arms, and kicks Hovrak's faceplate open (ch. 21). The thermal-detonator armory blast is a tactics feat (ch. 15).
+- **Lowbacca:** Jedi reflexes deflect the cannon barrage and bury Corrsk; he punches through a crate; his lightsaber shears a metal beam; computer slicing (ch. 14, 18). Limitation: his Force sense is scrambled by emotion on Ryloth.
+- **Raynar:** reflex dodge against the rakhmar; a Force-thrown rock knocks a guard off a ledge; Force-aided agility against blaster fire (ch. 1, 21). Limitations: he has never fired a blaster, and his hands are soft.
+- **Luke / Zekk:** Luke's telekinesis lifts the Bothan assassin two meters into the air; he senses the twins in danger and reads minds (ch. 12, 16, 21). Zekk's Force-instinct flying against Dengar and his deduction are noted (ch. 5, 10).
+- **Opponents:** Corrsk's durability (he bursts from an avalanche and feels no pain), Hovrak's leap and scent tracking, Nolaa's astonishing speed in leaping back from the blades, and Dengar's statements and precise return fire.

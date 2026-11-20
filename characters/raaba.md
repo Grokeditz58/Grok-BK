@@ -6,16 +6,17 @@ Evidence file for Raabakyysh (Raaba), the young Wookiee friend of Lowbacca and S
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`).
+- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; nothing from the missing ending is quoted); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
-- This file has 6 entries and 6 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
+- This file has 7 entries and 7 quotes.
 
 ## Contents
 
-- [Feats and Skills](#feats-and-skills) (6)
+- [Feats and Skills](#feats-and-skills) (7)
 - [Statements and Beliefs](#statements-and-beliefs) (0)
 - [Limitations](#limitations) (0)
 
@@ -89,6 +90,14 @@ Instinct drew his muscles taut, and he dropped the datapad to the floor. Documen
 Sirra growled, also ready to fight with tooth and claw—but Raaba intervened, holding up her dark brown arms to prevent them from doing anything foolish. She cinched her red headband tighter, and her biceps bulged, holding her metal armlets in place.
 
 — Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 19
+```
+
+### 7. Raaba stands 'tall and enigmatic and powerful' in the mine gallery.
+
+```
+Raaba stood tall and enigmatic and powerful.
+
+— Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 11
 ```
 
 ## Statements and Beliefs

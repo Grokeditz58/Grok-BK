@@ -6,17 +6,18 @@ Evidence file for Sirrakuk (Sirra), Lowbacca's younger sister on Kashyyyk, **Sta
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`).
+- Sources read for this file: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 6 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 more entry from Darkest Knight (non-Force-feat addendum; Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
-- This file has 8 entries and 8 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
+- This file has 9 entries and 9 quotes.
 
 ## Contents
 
-- [Feats and Skills](#feats-and-skills) (7)
+- [Feats and Skills](#feats-and-skills) (8)
 - [Statements and Beliefs](#statements-and-beliefs) (1)
 - [Limitations](#limitations) (0)
 
@@ -88,9 +89,17 @@ Outraged and betrayed, Lowie roared defensively at seeing the Wookiees’ natura
 — Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 19
 ```
 
+### 8. Sirra bowls over two Ugnaughts with the sheer force of her charge.
+
+```
+Two Ugnaughts tried to block her way, but she bowled them over, batting one to the side with her left paw and knocking the other down with the sheer force of her charge.
+
+— Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 18
+```
+
 ## Statements and Beliefs
 
-### 8. Sirra has no Force potential, doesn't want factory work and wants excitement; she says the Jedi wouldn't last five minutes in the underlevels.
+### 9. Sirra has no Force potential, doesn't want factory work and wants excitement; she says the Jedi wouldn't last five minutes in the underlevels.
 
 ```
 Lowie cocked his head quizzically, trying to think of a response, but Sirra resumed her explanation. She said that since she didn't have Force potential as he did, their parents had always just assumed that she would work in the fabrication facility. But Sirra had ho wish to work there like everyone else did. She didn't enjoy assembling computers, and was only a mediocre programmer. She raised a fist and barked loudly—she wanted something much more exciting!

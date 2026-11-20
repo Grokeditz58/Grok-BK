@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 272 (216 with quotations; 172 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
+- **Entries:** 283 (227 with quotations; 183 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3030,6 +3030,109 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk's 'dud' grenade (ch. 
 — Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6, 21 (p.63–205).
 (Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
 Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:35`
+
+## Young Jedi Knights 10: *Jedi Bounty* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Narration: Zekk's excellent fighting skills and knowledge of the Force make him 'a formidable opponent to anyone who crossed him'.
+> Zekk had been trained by the Shadow Academy to use the dark side of the Force but had turned away from it. Deciding to start a new life, he’d chosen to become a bounty hunter. With his piercing emerald eyes, excellent fighting skills, and knowledge of the Force, Zekk would be a formidable opponent to anyone who crossed him.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.2).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:12`
+
+What it shows (our notes): Zekk was always good at finding things; he follows his instincts into empty space and turns his ship into one big listening device.
+> He had come here following his instincts, not knowing why. As a street-scamp back on Coruscant, Zekk had always been good at finding things … and he used those skills now.
+>
+> The Lightning Rod’s sensors were fully alert, tuned in such a way that his entire ship became a listening device, scanning for clues. His computer filtered out trivial hyperwave transmissions, searching for something that would require his attention among the drone of all the other subspace chatter. All directions around him were quiet and still.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.24).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:37`
+
+What it shows (our notes): Zekk ambushes Dengar with Jedi instincts and surprise: both ion torpedoes hit, disabling both engines, and he blasts the comm dish.
+> The last time he’d fought Dengar, Jaina had done the shooting while he did the flying. This time Zekk would have to do both. But he still had the advantage, given both his Jedi instincts and the element of surprise.
+>
+> In his mind he brought up an image of Dengar’s ship, a modified Corellian JumpMaster 5000, imagined its hot engines and every minuscule weak point in its U-shaped configuration.
+>
+> Even now Dengar’s sensors would be sounding an alarm at Zekk’s appearance. He had no time to hesitate. Without wasting a heartbeat, Zekk fired his ion torpedo, powered up a second, and launched it.
+>
+> Both torpedoes flew true—the first exploded beside Punishing One’s port stardrive, while his second neutralized the starboard engine.
+>
+> Dengar roared. Zekk took careful aim at the Punishing One’s communications dish and blasted it to pieces. The bounty hunter could do nothing.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.29–30).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:39`
+
+What it shows (our notes): FORCE-ASSISTED FLYING: a chill of warning down his spine, and Zekk corkscrews out of the line of Dengar's turbolaser fire.
+> In his pilot’s seat, Zekk felt a sudden chill of warning down his spine.
+>
+> In response, the other hunter fired three precisely targeted turbolaser blasts at him. Reacting immediately with his Jedi instincts, Zekk spun the Lightning Rod about in a corkscrew trajectory that took him up and away from the line of fire.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.31–32).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:41`
+
+What it shows (our notes): Zekk tags Bornan Thul's jumping ship with a tracker torpedo, a trick borrowed from Dengar.
+> Zekk toggled up a special torpedo, aimed carefully at the sluggish ship, then launched it. The torpedo sailed across space, a pinprick of fire that hit the hull of Thul’s craft an instant before the ship blurred, elongated, and then snapped away, streaking through into hyperspace.
+>
+> And all was not lost. Yes, Bornan Thul had escaped … but Zekk had borrowed a trick from Dengar.
+>
+> Just in case Thul wouldn’t listen to him—as had indeed proved to be the case—Zekk had prepared a tracking device, a torpedo carrying a transmitter that would strike and cling to the fugitive’s ship.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.32–34).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:42`
+
+What it shows (our notes): Zekk sets his tracer for delayed activation so it can't be detected, and deduces what Bornan Thul has.
+> He was satisfied for now with what he had accomplished by planting a tracer on Bornan Thul’s ship. Zekk had been careful to ensure that the remote wouldn’t put Thul at risk. He had set its automated transmitter for delayed activation, to keep other bounty hunters from picking up and identifying the signal before Thul left the area. Also, if Bornan Thul himself became suspicious of the “dud” torpedo and ran an immediate check on his own ship, he would detect nothing. It would be a full two days before the tracer beacon would activate.
+>
+> Something clicked in Zekk’s head. It was almost like one of those puzzles that Jaina’s younger brother Anakin loved to solve. Suddenly, a dozen snatches of conversation and stray bits of messages whirled together and resolved themselves into a logical pattern in his mind. Without understanding for certain how, he knew now what Bornan Thul had.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.59–60).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:74`
+
+What it shows (our notes): Zekk feels a strange twinge through the Force: a premonition.
+> But as Zekk made his final approach to the Jedi academy’s landing clearing in front of the Great Temple, now mostly restored, he felt a strange twinge through the Force. Not a tingle at the back of his neck, as he sometimes felt when danger was present. It was more like a premonition that the day would not turn out quite as Zekk hoped.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 12 (p.69).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:9`
+
+What it shows (our notes): Luke and Zekk save Lusa: the assassin's vibroblade is torn away by the Force, he dangles two meters above the water, and Zekk stun-cuffs him; Luke: the Force is still strong in Zekk.
+> Suddenly, the vibroblade flew from the guard’s hand, as if jerked by an invisible rope. Lusa twisted and rammed forward to gore his shoulder this time.
+>
+> The next moment she was raised high in the water by a firm arm beneath her forelegs. The guard dangled two meters above the water in front of her, thrashing furiously with his arms and legs and yelling something incomprehensible in a Bothan dialect.
+>
+> At the same moment, the Bothan flew backward and plopped loudly into the shallow water at the edge of the pond. There, a strange young man with long dark hair and flashing emerald eyes slapped a pair of stun-cuffs onto his wrists.
+>
+> The young man raised his eyebrows and smiled at her. “Standard bounty hunter equipment. Just a sample of the many things I’ve learned in my travels.” He pulled the bedraggled Bothan upright with a scowl, then looked back at Lusa and Master Skywalker. “This one won’t be bothering you again. But when we get back to the Jedi academy, I think the three of us ought to have a private talk—about the Diversity Alliance.”
+>
+> Luke intervened. “I think we need to establish some trust here.” He looked at Zekk.. “I first met Lusa when she and Jacen and Jaina were about five years old. The Force has always been strong in her, and she has been honest with me.”
+>
+> Luke turned to the centaur girl. “And Zekk was once a Jedi Knight. A Dark Jedi, yes—but he came back from the dark side, and the Force is still strong in him. I’ve looked into both of your minds, and I would trust either of you with my life. Or Raynar’s.” Luke again fixed Zekk with his solemn blue gaze. “Or Tenel Ka’s, or Jacen’s—or Jaina’s …”
+>
+> “You’re both strong enough in the Force that if you chose to,” Luke continued, “you could sense if the other was lying.”
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.95–96).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:41`
+
+What it shows (our notes): Zekk knows with absolute certainty it's Jaina and lets the Force tingle through him.
+> “It’s Jaina!” Zekk said with absolute certainty.
+>
+> Though normally reluctant to use his Jedi senses, Zekk let the Force tingle through him. It made him self-conscious to use the Force, here in the presence of the Jedi Master, but Zekk knew he was doing the right thing.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.133).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:88`
+
+### Limitations and anti-feats (Jedi Bounty)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk could not possibly escape the combined efforts of Dengar and Boba Fett, so he flees into hyperspace.
+> From Slave IV Boba Fett also issued a warning, ordering Zekk not to flee. Zekk knew he could not possibly escape from the combined efforts of Dengar and Boba Fett.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.34).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:43`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk avoids using the Force because it was so easy to drift to the dark side, though he can sense Lusa is an ally.
+> Zekk flinched at the reminder. He avoided using the Force, because in the past he had found it so easy to drift to the dark side. But what Master Skywalker said was true: Zekk actually could sense that Lusa was an ally, not an enemy.
+— Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.96).
+(Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
+Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:44`
+
 
 
 
