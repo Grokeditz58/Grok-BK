@@ -9,3 +9,6 @@ Status: DONE. Stamp: 2026-11-20 CST.
 - Citations: chapter only ("LO ch. N"); the e-book carries no page numbers.
 - Numbering: the highest existing folder in notes/materials was 174, so this folder is 175.
 - Not done here: character-file routing is tracked in notes/INDEX.md and characters/INDEX.md.
+
+
+- Scope trim 2026-11-20: see README (scaling-relevant passages only; line numbers kept; character files unchanged).

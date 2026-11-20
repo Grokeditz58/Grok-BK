@@ -28,3 +28,13 @@ Cross-check: the Shadow Academy printing bundles a preview of this book (notes 1
 | COVERAGE.md | Stamp, coverage, density, checks |
 
 Chapter starts (READ line): ch1 l.9; ch2 l.68; ch3 l.189; ch4 l.239; ch5 l.293; ch6 l.337; ch7 l.410; ch8 l.463; ch9 l.499; ch10 l.525; ch11 l.580; ch12 l.659; ch13 l.717; ch14 l.766; ch15 l.829; ch16 l.908; ch17 l.939; ch18 l.1008; ch19 l.1036; ch20 l.1104; ch21 l.1179; ch22 l.1234.
+
+
+## Scope trim (2026-11-20 CST)
+
+Under the owner's scope ruling of 2026-11-20, these notes were trimmed in place to scaling-relevant material only: feats of every kind (Force, lightsaber, strength, durability, speed, reflexes, agility, stamina, pain tolerance, marksmanship, hand-to-hand, tech and tactics, senses), statements about characters, narrative portrayal, and anti-feats and limitations. Plot bullets stay, so the story can still be followed.
+- Passages with nothing scaling-relevant (scenery, jokes, filler dialogue, front matter and ads) were removed. Each run of them is marked "(Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)" and then left as blank lines. That keeps every line number the same, so the `Our notes: path:line` pointers in the character files still resolve.
+- Tagged passages that were not routed to a character file keep their first quote, cut to the first two sentences. "[…]" marks a cut, and "(+N further passage(s) read, not quoted, through …)" gives the page span.
+- Passages routed to character files are kept as they were. Any context quotes in the same bullet that were not routed were dropped and marked "(+N context passage(s) read, not quoted)".
+- summary.md: the findings index now gives citations only. The quotes are in the part files.
+- Folder size: 173,933 B before, 102,183 B after. The character files were not changed.

@@ -32,67 +32,67 @@
 ## Strongest findings by character (tagged; full detail in lo-01…04)
 
 ### Zekk
-- LORE/background: "Zekk made his living by scavenging: salvaging lost equipment, removing scraps of precious metal from abandoned dwellings. He found lost treasures to sell to inventors, spare parts to repair obsolete machines, trinkets that could be turned into souvenirs. He seemed to have a real skill for finding items that other scavengers had missed over the centuries, somehow knowing where to look, sometimes in the unlikeliest of places." (LO ch. 2)
-- SKILL claim: "“I’m just good at it. Like I’m a good scavenger,” Zekk answered, sounding cocky. “I may not be in training as a Jedi Knight, but I make do with what skills I’ve got. Just streetwise, I guess. But,” he continued, “even though I have kind of an … understanding with them, I’d rather not push it. Especially not while I’m with the twin children of the Chief of State.”" (LO ch. 2)
-- Resentment: "Zekk smiled thinly. “Down here you can see how I live every day. I don’t have anyone to wash my hands for me or cook my meals, you know. And I don’t have the luxury of worrying about how to amuse myself. Every day is a searchI’m just lucky I have a special knack for finding things.”" (LO ch. 3) "“Who said I wanted that?” he responded through clenched teeth. “I don’t need charity. I’ve got my freedom here. I can do whatever I want. Besides, it’s more satisfying to live by my own wits than to be pampered and coddled all the time.”" (LO ch. 3)
-- Banquet humiliation: "Zekk was mortified, though he tried not to show it. His manners were laughable, his clothing was outdated, and he had embarrassed everyone by eating something he should have known was a decoration. He wished he had never been invited to this banquet." (LO ch. 6) "Zekk felt stung by her comment, by the fact that she had even needed to say such a thing. He didn’t belong here. That truth was etched in burning letters in his brain. He should have known better, but he had pretended that he could fit in with such high-class friends." (LO ch. 6)
-- Despair: "There was no hope, no chance for advancement. He simply wasn’t the equal of those people who could look forward to a bright future—people like Jaina and Jacen." (LO ch. 8) "Zekk was a nobody." (LO ch. 8)
-- Force potential found: "“Hmmm, surprising,” Tamith Kai said. “Look at the power he has.”" (LO ch. 8) "Brakiss grinned. “Fairly strong potential. We were surprised ourselves." (LO ch. 11)
-- FIRST FORCE FEAT: "He stared directly at the flame, then saw it out of the corner of his eye, tried to imagine moving it, nudging it with invisible fingers of thought. He didn’t know what he did or how to describe it—but the flame jumped!" (LO ch. 14) "Zekk concentrated, retracing the mental path he had taken before, and found it with less effort this time. The flame wavered, bent to one side, then jumped and stretched longer in the other direction. “I can do it!”" (LO ch. 14)
-- Choice (STATEMENT): "Zekk said, “You don’t understand, Jacen. You can’t because you’ve always had too much. You’ve never wanted for anything. These people”—he gestured toward the evil Nightsister and her companions—“they’re offering me something I never had in my old life. With them I have a chance to be someone.”" (LO ch. 17)
-- Message: "“Peckhum, my friend, here’s the central multitasking unit I promised you. You always expected only the best from me, and I always gave it. This must be hard for you, but I want you to know that no one has kidnapped me or brainwashed me.”" (LO ch. 21) "“I know this is something you wouldn’t approve of, but I’m doing it for myself. If I ever come back, I’ll be someone you can all be proud of.”" (LO ch. 21)
+- LORE/background (LO ch. 2)
+- SKILL claim (LO ch. 2)
+- Resentment (LO ch. 3; LO ch. 3)
+- Banquet humiliation (LO ch. 6; LO ch. 6)
+- Despair (LO ch. 8; LO ch. 8)
+- Force potential found (LO ch. 8; LO ch. 11)
+- FIRST FORCE FEAT (LO ch. 14; LO ch. 14)
+- Choice (STATEMENT) (LO ch. 17)
+- Message (LO ch. 21; LO ch. 21)
 
 ### Jacen Solo
-- FEAT (Force animal empathy): "The creature dove toward him like a missile, and Jacen closed his eyes to reach out with the Force. His special talent had always been with animals. He could communicate with them, sense their feelings and express his own to them. “It’s all right,” he whispered. “I’m sorry we were invading your nest. Calm. It’s all right. Peace.”" (LO ch. 2) "He knew the hawkbat was extremely skeptical, but Jacen projected images of a bright aviary, a place where the young hawkbat would be fed delicacies all its life, where it could fly freely, yet never need to fear other predators or starvation … or being shot at by gang members. Jacen snatched the last vision - blurred figures of young humans shooting as she hunted between tall buildings - from the mother’s mind. This last fear convinced the mother, and she flapped her spiked leathery wings, backing away from the nest and leaving Jacen safe" (LO ch. 2)
-- FEAT (TK): "He took the hawkbat egg he was holding and used the Force to carefully levitate it into Jaina’s hands. She cradled it, then handed it to Zekk." (LO ch. 2)
-- FEAT (calms the winged rodent): "Tenel Ka instantly held still, though he knew it must have gone against her instincts. Jacen’s thoughts reached out toward the struggling creature, sending soothing messages to it. Gradually, the winged rodent grew calmer and allowed Jacen to touch it. Careful not to make any startling movements, he gently disentangled its claws from Tenel Ka’s hair. Then, still crooning reassurances to the agitated beast, he set it behind himself in the stairwell and backed away." (LO ch. 15)
-- LIMITATION (STATEMENT): "Jacen nodded. He didn’t think his powers were strong enough to locate any person specifically—he wasn’t sure if even Uncle Luke could do that—but all he needed was a trickle of thought, an impression, a hunch. He and Tenel Ka were wandering blindly so far, anyway, and the slightest inkling would increase their odds over pure luck." (LO ch. 17)
-- ANTI-FEAT: "Jacen and Tenel Ka managed to take a few running steps before stun bolts slammed into them from behind. They plunged headfirst into helpless unconsciousness." (LO ch. 17)
+- FEAT (Force animal empathy) (LO ch. 2; LO ch. 2)
+- FEAT (TK) (LO ch. 2)
+- FEAT (calms the winged rodent) (LO ch. 15)
+- LIMITATION (STATEMENT) (LO ch. 17)
+- ANTI-FEAT (LO ch. 17)
 
 ### Jaina Solo
-- SKILL: "she said. “Dad taught me to identify every ship ever recorded … well, almost every one.” She leaned closer to the image. “Those are short-range fighters.” She jammed her finger at the image on the screen. “Short-range fighters! They had to come from somewhere nearby. Their base is close—hidden somewhere in this system!”" (LO ch. 20)
-- FEAT (Force-guided hot-wiring): "The sudden heat stung her fingertips. Scrambling, she yanked off the panel face and stared at the singed wires. She probed with the Force, following the path of the short circuit, and rapidly managed to hot-wire the damaged system well enough that she could answer her brother." (LO ch. 20)
-- LIMITATION: "Jaina tried to think of something she could do with what Uncle Luke had taught them at the Jedi academy. With uninterrupted concentration she could manipulate objects with the Force, but she couldn’t think of any way her fledgling powers could help them escape." (LO ch. 3)
-- Guilt: "Jaina spoke through gritted teeth. “It’s our fault for not showing him that he was just as important as anyone else. We didn’t even realize he had Jedi potential. It’s our fault,” she repeated." (LO ch. 22)
+- SKILL (LO ch. 20)
+- FEAT (Force-guided hot-wiring) (LO ch. 20)
+- LIMITATION (LO ch. 3)
+- Guilt (LO ch. 22)
 
 ### Tenel Ka
-- FEAT (reflexes): "Jaina gasped, but Tenel Ka reacted with dizzying speed. In the fraction of a second following Zekk’s landing, the warrior girl whipped out her fibercord rope and snapped a lasso around him, pulling the strand tight." (LO ch. 2)
-- FEAT (diplomacy): "“Yes, Ambassador,” she said. “We wished to show you honor by respecting the customs of Karnak Alpha, that a young member of the household provides for the guest’s children, before a child of the host family serves the most honored adult guest.”" (LO ch. 6)
-- FEAT (rescue): "A whizzing sounded in his ears, followed by a soft clank. He felt himself slide toward the deadly gap and he grasped the railing, but the corroded metal broke away in his hand. He yelled for help, reaching back for anything to hold on to-and felt a strong arm wrap around his waist, then found himself being swept forward. Almost before he realized what had happened, Tenel Ka had swung both of them across the chasm on her fibercord rope and deposited them onto a sturdy metal stairway on the opposite side." (LO ch. 15)
-- STATEMENT: "“It is not a question of strain.” Tenel Ka coughed, but her voice remained detached and gruff. “I could lift you easily, should the need arise.” She stepped around the rubble. “But I saw no need.”" (LO ch. 15)
+- FEAT (reflexes) (LO ch. 2)
+- FEAT (diplomacy) (LO ch. 6)
+- FEAT (rescue) (LO ch. 15)
+- STATEMENT (LO ch. 15)
 
 ### Lowbacca / Em Teedee
-- LOWBACCA FEAT: "At the same time, Lowie-focusing on the lone woman guarding the opposite end of the walkway-let out a ferocious roar and charged forward." (LO ch. 3) "Instead of revealing the uncharted hazard that had destroyed the Moon Dash, though, Lowie’s map of space wreckage showed absolutely nothing in the marked zone. In fact, it was more like a forbidden area in space, an island empty of all known debris, as if somehow it had already been swept clear. But they knew the Moon Dash had struck something large enough to destroy it…" (LO ch. 20)
-- EM TEEDEE: "“According to my dictionary programming, I should think cramped is a better word,” Em Teedee observed. “I am fluent in over six forms of communication, you know.”" (LO ch. 16)
+- LOWBACCA FEAT (LO ch. 3; LO ch. 20)
+- EM TEEDEE (LO ch. 16)
 
 ### Brakiss
-- FEAT: "He stretched the flame as if it were a rubber sheet, creating a contorted face with flashing eyes and gaping mouth. The face melted into the image of a dragon snapping its long head back and forth, then metamorphosed into a flickering portrait of Zekk himself, drawn in bluegreen fire." (LO ch. 14)
-- STATEMENT (new strategy): "“So I decided to change my plan. As I told you, the Force moves as strongly within the less-fortunate as in those who are rich and powerful. Your social status doesn’t concern me in the least, Zekk—only your talent and your willingness to develop it. Tamith Kai and I have decided to search among the lower levels of society for people whose potential is just as great as in those among the higher levels, and yet whose disappearance won’t cause such a stir. People with the incentive to work with us.’" (LO ch. 11)
-- LIMITATION (fear of his master): "Brakiss felt himself trembling all over, as he did each time he spoke to the awesome Palpatine. Exhausted, he sat down again at his desk and began to review his next set of plans, obsessively careful not to allow any mistakes." (LO ch. 18)
+- FEAT (LO ch. 14)
+- STATEMENT (new strategy) (LO ch. 11)
+- LIMITATION (fear of his master) (LO ch. 18)
 
 ### Tamith Kai / Garowyn / Vilas
-- TAMITH KAI: "“Greetings, young sir,” she said, her voice oozing persuasion. “I require a moment of your time.” When she stepped more fully into the light, Zekk noticed that the woman walked with a pronounced limp." (LO ch. 8) "“They are not lies!” Tamith Kai interrupted, her melodious voice holding the potential for deadliness. “We will keep our promises. You will all be given equal opportunities, without regard to your social status in the Rebel worlds. The Second Imperium won’t judge who you are—only what you do for us.”" (LO ch. 17)
-- ANTI-FEAT: "The tall woman’s face rolled with a thunderstorm of anger. Her wine-dark lips curled down, and she barely controlled her rage at being reminded of how Tenel Ka had humiliated her during the young Jedi Knights’ escape from the Shadow Academy . “Jedi brats,” she snarled, ‘You should learn when to leave well enough alone.”" (LO ch. 17)
-- GAROWYN: "“We can’t risk any more of your meddling,” Garowyn said. “There’s too much at stake.”" (LO ch. 17)
+- TAMITH KAI (LO ch. 8; LO ch. 17)
+- ANTI-FEAT (LO ch. 17)
+- GAROWYN (LO ch. 17)
 
 ### Qorl
-- FEAT: "The dark goggles of his TIE helmet allowed little peripheral vision, and as he passed the command station, the Rebel commanding officer—a fish-faced Calamarian—leaped up and tackled him. Qorl’s blaster pistol clattered to the floor. The officer wrestled with Qorl, fighting with flipper hands, but the TIE pilot drove his powerful droid fist into the face of the alien, knocking him out cold." (LO ch. 7)
-- Mercy: "“Then be quick about it!” Qorl snapped. Conflicting emotions warred within him. These were the enemy, and he had sworn to fight them—but the crew on this ship had battled valiantly, and he couldn’t stomach letting them die as they lay there unconscious." (LO ch. 7)
+- FEAT (LO ch. 7)
+- Mercy (LO ch. 7)
 
 ### Emperor (as he appears to Brakiss) / Shadow Academy
-- "After performing the appropriate gestures of obeisance, he looked up into the face of the Great Leader of the Second Imperium—the hooded, wrinkled form of Emperor Palpatine himself!" (LO ch. 18) "“Don’t disappoint me, Brakiss,” he said. “I should be most displeased if I was forced to blow up your Shadow Academy" (LO ch. 18)
-- LORE: "But Dark Jedi were notoriously dangerous and unstable, prone to delusions of grandeur. Realizing this risk, the Great Leader had taken precautions to protect himself from the Shadow Academy . The huge ring-shaped station was riddled with deadly explosives, detonators threaded through the life-support systems, the hull, and thousands of other places that Brakiss neither knew nor wanted to consider. The moment his Dark Jedi gave hints that they might get out of control, the Great Leader would detonate those explosives and end the experiment without remorse." (LO ch. 18)
-- FEAT (cloak overloaded): "The light should have kept flying across the solar system, but when it struck the empty coordinates, space itself seemed to shimmer like golden smoke. The high-intensity flood of sunlight continued to bombard the cloaked area, finally overwhelming the invisibility shields around the Shadow Academy" (LO ch. 20)
+- (LO ch. 18; LO ch. 18)
+- LORE (LO ch. 18)
+- FEAT (cloak overloaded) (LO ch. 20)
 
 ### Leia / Han / Anakin / Luke / Peckhum / Ackbar / Threepio / Chewbacca
-- LEIA FEAT: "From the far end of the table Princess Leia cleared her throat. “I’m glad you liked the salad, Zekk,” she said in a voice loud enough for everyone to hear, and pulled her crystal dish toward her. She selected a frilly purple-green leaf and stuffed it in her mouth, munching contentedly. Han Solo looked at his wife as if she had gone crazy, then jerked as if he had been kicked under the table. He too began to eat his bouquet. Jaina followed suit, and soon everyone at the table had devoured their “salads.”" (LO ch. 6) ANTI-FEAT: "“And those other times he wasn’t upset over an embarrassing diplomatic dinner, either. Look, he’s older than you are, and legally he can come and go as he pleases. But even if we knew for certain that he was missing—which we don’t—there’s very little we could do about it. The galaxy is a big place. Who knows where he might be?”" (LO ch. 10)
-- HAN ANTI-FEAT: "Han Solo had claimed to be an expert rider of the uncooperative tauntauns, but Jaina giggled as she watched her father experience plenty of difficulty as they raced across the snows." (LO ch. 5)
-- ANAKIN FEAT: "“I can sense that something is wrong,” Anakin interrupted. “Jacen and Tenel Ka haven’t come back.”" (LO ch. 19)
-- LUKE STATEMENT: "“It’s not so simple to tell who has Jedi potential and who doesn’t,” Luke said, sensing Jaina’s despair and self-reproach. “Especially if they don’t know it themselves. Even Darth Vader had no idea that your mother Leia had Jedi potential, though he spent quite a lot of time near her. You can’t blame yourself, Jaina.”" (LO ch. 22)
-- PECKHUM: "Old Peckhum muttered, “Kid’s never broken a promise to me yet.”" (LO ch. 21)
-- ACKBAR ANTI-FEAT: "Ackbar watched the Adamant vanish before the Coruscant ships came close enough to fire a shot. He wished he could just fall back into unconsciousness, but the splitting pain in his skull kept him wide awake." (LO ch. 7)
-- THREEPIO ANTI-FEAT: "She knew instantly that Threepio meant to offer the first meal to the ambassador—which was a terribly rude thing to do, according to Karnak custom." (LO ch. 6)
-- CHEWBACCA: "With everyone standing around, the area was far too cramped to let Chewbacca push his way in, so the older Wookiee hung back and waited. Lowie suspected his uncle was amused to watch the two young professionals working so hard. Perhaps it reminded him of the way he and Han had worked together, fixing things again and again." (LO ch. 16)
+- LEIA FEAT (LO ch. 6; LO ch. 10) ANTI-FEAT:
+- HAN ANTI-FEAT (LO ch. 5)
+- ANAKIN FEAT (LO ch. 19)
+- LUKE STATEMENT (LO ch. 22)
+- PECKHUM (LO ch. 21)
+- ACKBAR ANTI-FEAT (LO ch. 7)
+- THREEPIO ANTI-FEAT (LO ch. 6)
+- CHEWBACCA (LO ch. 16)
 
 ## Scale notes
 - Force use stays small-scale and personal. Jacen's animal empathy (calming a diving hawkbat, reading its memory of gang shooters), TK on a hawkbat egg, Jaina's Force-guided wiring repair, Jacen's and Anakin's danger sense, and Zekk's first flame manipulation.
