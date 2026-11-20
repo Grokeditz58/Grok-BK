@@ -15,7 +15,7 @@
 - QORL: "Encased in the cockpit, Oorl throttled up the power, slowly, gently, as if feeling it grow at his fingertips." (p.179); "“Propulsion systems check out,” he said." (p.179)
 - JAINA: "“If you’d just come back with us to the Jedi academy, everything would be all right-the war is over.”" / "“Surrender is betrayal!” Oorl shouted, with a surge of emotion stronger than Jacen had seen in him before." (p.180)
 - QORL lore: "He looked very old and drained." (p.181); "“You are lucky to be here, safe,” Oorl finally said." (p.181)
-- TWINS: "“It’s just a school now. It’s not a military base,” Jacen added." (p.182)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - JAINA LIMITATION (Force touch vs Qorl): "She reached out with her mind, trying to touch the pilot, but he aimed his blaster at her and backed away." (p.182)
 - QORL FEAT (piloting after 20 years): "Its twin ion engines made the characteristic moaning sound that had struck fear into the hearts of so many Rebel fighters."
 - TENEL KA (endurance, ch.19 opening on p.183): "She panted from the exertion; breath burned in her lungs, but she did not cry out." (p.183)
@@ -25,10 +25,10 @@
 - TENEL KA stamina: "breath burned in her lungs, but she did not cry out." (p.184). LORE: "She remembered hearing that such a beast had almost killed Master Skywalker many years ago." (p.185) [two-headed reptile]
 - TENEL KA uses terrain: "She pushed through a narrower space between two trees and heard a thump above her as the flying creature got stuck in the opening" (p.185)
 - TENEL KA LIMITATION + FORCE SENSE/DANGER-DODGING FEAT: "She sensed, rather than saw, the outstretched claws, and tried to turn aside, but slipped on rotting vegetation and fell hard against a fungus-covered log. She sensed a second pair of claws rip through the air where her stomach had been only moments before." (p.186) / "Why couldn’t she remember her Jedi calming techniques when she needed them? Why hadn’t she practiced harder? She closed her eyes, sensed, and rolled to one side as the flying monster drove down for another attack." (p.186) / "Sense, she told herself. Use the Force. Suddenly, she changed direction, as if by reflex. She didn’t quite know why she had, for she couldn’t see where she was going in the thick night, but she knew she was right. Over and over, she dodged grasping talons and the thrust of stinging tails, until she came to a thick stand of Massassi trees." (p.187)
-- Woolamanders distract the reptiles; Em Teedee dropped at her feet (p.187). Em Teedee: "I am fluent in six forms of communication and I am equipped with all manner of sensors: photo-optical, olfactory, directional, auditory-" (p.189) — leads her home.
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - TENEL KA wounds/endurance: "she had bound up the claw scratches on her arm and the gash on her leg. The wounds throbbed and burned, but did not slow her down. She jogged much of the way, and kept to a fast⟨-⟩paced march even when she needed to rest." (p.190)
 - TENEL KA: "Tenel Ka wanted to help rescue the twins; she couldn’t let them down again." (p.191); Em Teedee at top volume halts the Falcon (p.191); "collapsing to the floor in the crew compartment" (p.192).
-- EM TEEDEE: "“Oh, Mistress Tenel Ka, it is you!” the little droid cried. “I shall be eternally grateful to you for this rescue." (p.188); Tenel Ka: "“My night has been no more enjoyable than yours,” Tenel Ka interrupted drily." (p.188)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - EM TEEDEE FEAT (sensors/languages): "“After all, I am fluent in six forms of communication and I am equipped with all manner of sensors: photo-optical, olfactory, directional, auditory-“" (p.189)
 - TENEL KA: "Tenel Ka growled, “Because we’re lost in the jungle. This is a fact.”" (p.189)
 - TENEL KA FEAT (endurance, wounded): "Using rudimentary first-aid supplies she kept in her belt, she had bound up the claw scratches on her arm and the gash on her leg. The wounds throbbed and burned, but did not slow her down. She jogged much of the way, and kept to a fastpaced march even when she needed to rest." (p.190)
@@ -53,7 +53,7 @@
 
 ## Ch. 21 (p.201–208; READ l.1657–1730) — Falcon vs TIE; Qorl jumps to hyperspace
 - Plot: The Falcon launches as the TIE makes a weaponless attack run on the temple. Tenel Ka returns Em Teedee to Lowie. Han fires warning shots and demands surrender; Qorl: "Surrender is betrayal" Qorl climbs steeply, then dives into the treetops where his maneuverability beats the Falcon's speed; he breaks a partial tractor-beam hold; taunts Han about the twins to make him break off; climbs to space, zigzags, and at Han's target lock makes the jump to lightspeed with Jaina's hyperdrive. Han turns back for the twins.
-- Han: "That TIE fighter’s coming in, and it looks mean" (p.201); "Hope Tionne managed to get all the Jedi trainees to safety." (p.201)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Han warning shots "bracketing it, but doing no damage" (p.203); "your choices are simple: surrender, or we blow you out of the sky.”" / "“Surrender is betrayal,” the pilot said, then broke the connection." (p.203)
 - QORL PILOTING FEAT (vs Falcon): "The TIE fighter zoomed upward on an impossibly steep trajectory, climbing into the air above the dense green treetops. Then the Imperial ship wheeled about in an evasive maneuve⟨r⟩" (p.203); Han: "This old ship has taken on plenty of TIE fighters in its day. We can take on one more. Punch it, Chewie.”" (p.203–204)
 - QORL BREAKS A TRACTOR BEAM: "The TIE fighter lurched and jerked to one side as the tractor beam snagged a partial hold-but the pilot alternated bursts from his twin ion engines and tore free, spinning upward in a tight corkscrew that made Han whistle with reluctant admiration." / Han: "“This guy’s good,” he said." (p.204–205)
@@ -63,16 +63,16 @@
 - HAN ANTI-FEAT (misses repeatedly): "I can’t get a target lock,” Han said." / "Han fired repeatedly with his laser cannons-but the scarlet bolts missed." (p.207)
 - QORL ESCAPE FEAT: "But at the last possible instant, the lone TIE fighter shot forward with a blaze of astonishing speed, becoming a molten metal point of light. It dwindled in the sudden distance, screaming forward with instant lightspeed-and plunged into hyperspace with a silent bang." (p.207)
 - Han: "“It’s not my fault,” Han Solo said, gaping at the vanished target." / "A TIE fighter doesn’t have lightspeed engines! It’s a short-range ship.”" (p.207); "Jaina did what?”" (p.208)
-- HAN (worry): "At the moment he had no way of knowing whether his children were safe, or if this imperial enemy had killed them both, just as the pilot had tried to blast Lowbacca and Tenel Ka." (p.201)
-- EM TEEDEE: "“I didn’t want you to rescue me from that dreadful jungle just so we could all be blown up chasing that TIE fighter.”" (p.202)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
 - TENEL KA: "“This is yours, Lowbacca,” Tenel Ka said." "“I found it in the jungle.”" (p.202)
 - HAN observation: "“He’s coming in on an attack run,” Han said. “But he’s not firing his weapons for some reason.”" (p.202)
 - HAN warning shots: "Han fired two warning shots. Bolts of brilliant light streaked past the squarish planar wings of the Imperial craft-bracketing it, but doing no damage." (p.203)
-- HAN on Em Teedee: "“Just like having SeeThreepio with us again. I think we may have to adjust that programming.”" (p.204)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - HAN tractor-beam plan: "“Let’s try the tractor beam first. Maybe-just maybe-we can bring that ship to the ground without destroying it. That way we can get some information." (p.204)
 - QORL evasion in space: "The TIE fighter zigzagged to throw off pursuit, shifting course at random intervals and burning a great deal of energy." (p.206)
 - HAN ANTI-FEAT (gunnery): "“I can’t get a target lock,” Han said." (p.207); "“Hold still for a minute!” he shouted." (p.207)
-- HAN: "“Jaina did what?” Han said in disbelief." "“But that hyperdrive was for her to tinker with, not to install." (p.208); "“Forget the TIE fighter. Let’s go get the twins!” he said." (p.208)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 
 ## Ch. 22 (p.209–217; READ l.1731–1807) — Rescue and aftermath
 - Plot: The twins scavenge Qorl's camp, climb a Massassi tree using the Force, and make a smoke signal with Tenel Ka's flash heater (Jaina overdrives its circuits). They sense Lowie and Tenel Ka aboard the incoming Falcon; Chewie hauls them aboard. Days later, Jaina and Lowie repair the T-23; Luke returns, offers help, greets Tenel Ka like an old friend; Lowie switches off scolding Em Teedee; the twins wonder about Qorl; Luke recalls his T-16 and Beggar's Canyon, praises the students, and asks if they still want to be Jedi Knights — unanimous yes.
@@ -85,7 +85,7 @@
 - LUKE returns: "“Only this morning,” Luke Skywalker said ... “Could you use any help? I’m pretty good with these little air speeders, you know.” ... “I had a ship a little like this once … my own T-16 skyhopper when I was growing up on-”" (p.214). Lower temple door "had once stored the Rebel base’s X-wing fighters" (p.214).
 - LUKE & TENEL KA: "He strode over to Tenel Ka and spoke to her for a long while as if she were an old friend. Being with the great Jedi Master caused the young girl from Dathomir to look uncharacte⟨r⟩istically intimidated." (p.214)
 - Em Teedee scolds after being dropped; "With a grunt, Lowbacca switched off Em Teedee" (p.215).
-- Twins on Qorl: "“Do you⟨⟩ suppose ⟨Q⟩orl ever made it back home?” ... “If he does, I wonder if he’ll find what he expects when he gets there,” she answered. “He would have been better off staying with ⟨us⟩.”" (p.215–216) [OCR "U.S." = "us"]
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LUKE past: "“Back on Tatooine I used to roar through Beggar’s Canyon in my own T-16, chasing down womp rats.”" / "Luke’s lips curved in a wistful smile. “That was a whole different life from now.”" (p.216)
 - LUKE to Lowie: "I know it’s difficult to go away from home and stay in a strange place, but I see you’ve made some new friends.”" (p.216)
 - LUKE verdict on the group: "“I’m proud of you all,” Luke said. “You did a fine job under very trying circumstances, even when I wasn’t here to guide you. You have a lot of potential-but becoming a Jedi Knight takes a great deal of hard work and practice.”" (p.216) / Tenel Ka: "This is a fact" (p.217); "Are you certain you still want to become Jedi Knights?”" (p.217) — END OF NOVEL p.217.
@@ -94,10 +94,10 @@
 - JAINA FEAT (improvised tech): "When the fingersized unit sputtered and flashed, sending out a few last sparks, she took the back panel off and used her multitool to tinker with the circuits. By pumping up the power output, she produced one last flash that set the pile of fresh branches on fire." (p.210)
 - JAINA: "“Did you expect any less from a young Jedi Knight?”" (p.211)
 - CHEWBACCA strength: "Chewbacca’s hairy arm dangled down, grabbing Jacen’s hands and pulling him up into the ship as if he were a piece of lightweight luggage." (p.212)
-- HAN: "“You’re alive-you’re not huri!” he said, looking them over with anxious relief. “Sorry I’m late.”" (p.212)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - JAINA on Lowie: "“Don’t worry about these engines. I’ll have them running again in no time.”" (p.214)
-- LORE (temple hangar): "The cool underlevels had once stored the Rebel base’s X-wing fighters." (p.214)
-- EM TEEDEE: "“How would you like it if your head detached and kept falling on the ground?" (p.215)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
 - LUKE (past): "Jacen and Jaina looked at their uncle, amazed and unable to imagine the introspective Jedi Master as a hotshot daredevil pilot." (p.216)
 - LUKE: "“You’re young, and there are many things you could do with your lives,”" "Luke said. “Are you certain you still want to become Jedi Knights?”" (p.217)
-- Ending: "Lowbacca’s loud bellow was so emphatic that even with Em Teedee switched off, none of the others needed a translation." (p.217)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)

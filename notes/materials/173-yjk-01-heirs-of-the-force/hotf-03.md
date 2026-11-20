@@ -12,11 +12,11 @@
 - LOWIE escapes the syren by a hair: "The petals just grazed one foot as they closed with an ominous slurp and a backwash of wind." / "He had earned this fiber, Lowie thought, every strand of it, enough to make a special belt, which he always wore afterward." (p.134)
 - LOWIE ENDURANCE FEAT (all-night treetop trek on an injured knee to raise the alarm): "Exhaustion sank its claws into every muscle as Lowbacca made his way from one Massassi tree to the next, hour after hour, all through the night. Distance held no more meaning for him; he had to get to the Jedi academy⟨.⟩ He could hear nothing but his own ragged breathing. His injured leg wobbled unsteadily at each step." (p.135) / LIMITATION: "The night and the desperate journey had taken their toll on Lowie. The numbness imposed by his own determination had worn off, and his knee refused to hold him any longer. His gangly legs gave way, and he collapsed to the ground, moaning his message." (p.135)
 - TIONNE can't understand Wookiee without Em Teedee: "I’m sorry, Lowbacca. I can’t understand a word you’re saying.”" (p.136)
-- EM TEEDEE: "“The airborne toxins could reach potentially lethal levels”-the droid raised his volume slightly for emphasis-“even for a Wookiee.”" (p.128)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWBACCA crash-landing: "The thick, deceptively soft-looking canopy rushed up at him, and the T-23 came to a crunching halt in a blizzard of leaves and twigs." (p.129)
 - LOWBACCA FEAT (strength, tears restraints): "Finally, with a burst of determination he yanked on the straps until, loosened by" ... "the crash, they tore away. Two of the restraints came free in his hands, and he wriggled out of the remaining webbing." (p.129)
 - LOWBACCA resolve: "His first rescue attempt might have failed, but he had not failed yet. There were always options. He had to get back to the academy." (p.129)
-- LORE syren plant: "The beauty of the gigantic flower was intentionally deceptive, for any creature lured close enough to touch the sensitive inner flesh of the blossom would trigger the plant’s lethal reflexes, and the petal jaws would close over the victim and begin its digestive cycle." (p.132)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWBACCA FEAT (solo rite): "But Lowbacca had chosen to go alone, preferring to meet the challenge of the voracious syren plant using his own wits rather than borrowed muscles." (p.131); "He’d gripped the end of the long rope in his strong jaws to hold himself in place and free his hands." (p.134); "With a surge of gut-wrenching terror, Lowbacca had grabbed the tied end of rope and hauled himself upward as the syren’s jaws snapped shut. The petals just grazed one foot as they closed with an ominous slurp and a backwash of wind." (p.134)
 
 ## Ch. 13 (p.137–144; READ l.1163–1211) — Tenel Ka lost; the cave of two-headed reptiles
@@ -26,12 +26,12 @@
 - LORE Isolder: "Her father, Isolder of Hapes, had always said that the two years he spent in disguise working as a privateer had done more to prepare him for leadership than any training the royal tutors of Hapes could provide." (p.140); Teneniel Djo proud her daughter "spent months each year learning the ways of the Singing Mountain Clan and dressing as a warrior woman-a practice that Tenel Ka had enjoyed all the more because it annoyed her scheming Hapan grandmother." (p.140)
 - TENEL KA: "She had enrolled simply as Tenel Ka of Dathomir, not wanting the other trainees to treat her differently because of her royal upbringing." / "At the academy, only Master Skywalker⟨—⟩who was an old friend of her mother’s⟨⟩, and the man Teneniel Djo most admired-knew Tenel Ka’s true background. She had not even told Jacen and Jaina" (p.141)
 - TENEL KA survival skill: "Back on Dathomir she’d had plenty of practice in rugged camping and outdoor endurance." (p.139); pain: "she could bear it as well as any warrior" (p.139); friction fire: "It took an agonizingly long time for her strong arms to produce enough friction twirling one smooth stick of wood against a flat branch." (p.142)
-- CREATURES: "a shrieking reptilian form plummeted from the ceiling, its leathery wings outstretched. Twin serpentine heads snapped and a scorpion tail lashed, razor-sharp claws outstretched." / "an entire flock of the hideous creatures-each with a wingspan wider than she was tall" (p.143)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - TENEL KA injured/fights back: "Talons raked her arm ... Sharp fangs opened a gash in her bare leg, and she kicked fiercely, striking one of the creature’s two heads with her scaled boot." (p.143); "She kicked the embers of her fire at the flapping beasts as she scrambled past, hardly noticing the bits of charred wood and leaf that singed her own legs." (p.143). "The monsters followed." (p.144)
 - TENEL KA self-image: "She had always prided herself on being strong, loyal, reliable, unswayed by emotion." (p.138)
 - TENEL KA endurance: "Her every muscle ached, but for now nothing could be done about her pain; she could bear it as well as any warrior." (p.139)
 - TENEL KA lore (Dathomir/grandmother): "her mother, raised on the primitive planet of Dathomir, was proud that her only daughter spent months each year learning the ways of the Singing Mountain Clan and dressing as a warrior woman-a practice that Tenel Ka had enjoyed all the more because it annoyed her scheming Hapan grandmother." (p.140)
-- Creature: "Suddenly, a shrieking reptilian form plummeted from the ceiling, its leathery wings outstretched. Twin serpentine heads snapped and a scorpion tail lashed, razor-sharp claws outstretched." (p.143)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 
 ## Ch. 14 (p.145–156; READ l.1212–1323) — Prisoners of Qorl
 - Plot: In Qorl's shelter carved into a half-burned Massassi tree, the twins are bound with contracting nebula-orchid vines. The pilot gives his service number and remembers his name, Qorl; he tells the Battle of Yavin from the Imperial side, his crash landing, his injured arm, and twenty years of waiting as ordered. Jacen tells him the Emperor and Vader are dead and the Empire is gone; Qorl refuses to believe it and orders the twins to finish repairing his ship.
@@ -52,14 +52,14 @@
 
 ## Ch. 15 (p.157–161; READ l.1324–1359) — Em Teedee and the woolamanders
 - Plot: Em Teedee, fallen from Lowie's belt, lands on a mat of vines and shouts for help every forty-five seconds for over an hour; a pack of woolamanders finds him, tosses him around; a female tries to crack him open like fruit until his alarm sirens make her drop him; a young woolamander claims him as a toy; Em Teedee shuts down from panic and wakes in the night hugged by the sleeping youngster.
-- Em Teedee lands on vines ~"twenty meters above the ground" (p.158); shouts every forty-five seconds "for the next hour and eleven minutes" (p.158). Woolamanders: "loud and agile" ... "bright purple fur" (p.158–159). Em Teedee's "automatic alarm sirens" make a female drop him (p.160); shuts down from panic; wakes hugged as a young woolamander's toy (p.160–161).
-- EM TEEDEE: "“Master Lowbacca, come back!” he said, amplifying his voice circuits to their maximum volume levels. “Don’t leave me!  Oh, dear. I knew that was a bad idea.”" (p.157)
-- EM TEEDEE (calculation): "He decided it would be most effective to continue shouting every forty-five seconds, because he calculated that was the minimum amount of time necessary for anyone nearby to come within earshot." (p.157)
-- EM TEEDEE durability fear: "If he fell that far to the ground, he might strike one of the rough lava outcroppings and split open his outer casing. With his circuits spilled across the jungle floor, no one would ever be able to put him back together again in the proper fashion." (p.158)
-- WOOLAMANDERS: "The arboreal creatures were loud and agile, able to clamber from thin branches to thick ones and back again without losing their balance." (p.158); "Their bright purple fur bristled with suspicion and delight." (p.159)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
+
+
+
 - EM TEEDEE FEAT (sirens): "When she went to a thick branch and made ready to smash him down on it, as she would crack open a large fruit, Em Teedee set off his automatic alarm sirens, shrieking and whooping at such volume and at such a painful pitch that the female dropped him." (p.160)
 - EM TEEDEE LIMITATION: "Em Teedee, in such a panic that he could no longer stand it without overloading his circuits, shut down so he wouldn’t have to see what was about to happen to him." (p.160)
-- Ending: "contentedly hugging his new toy to his fur-covered chest." (p.161)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 
 ## Ch. 16 (p.163–169; READ l.1360–1425) — Forced repairs
 - Plot: Dawn. Qorl wakes the bound twins, gives them water, cuts the vines and marches them back to the TIE. He demands the repairs be finished today; Jaina lies about remaining work; Qorl refuses food until done. Jaina asks whether he has a family; "The Empire is my family." They seal the blaster melt spots with animated sealant; Jacen spots the crystal snake in the cargo space. Qorl threatens to shoot Jacen; Jaina declares the TIE ready.
@@ -72,7 +72,7 @@
 - JACEN senses the crystal snake in the cargo space: "He sensed something nearby and, looking down into the cargo space, saw a glimmer of movement, almost transparent" (p.168); "Something that might save us all.”" (p.169)
 - QORL threat: "If you cannot complete repairs faster, I will shoot your brother. Then you will complete the repairs by yourself.”" / "“I received my training from the Empire,” Qorl answered. “I will do what is necessary.”" (p.169). Jaina: "The TIE fighter is ready to fly again.”" (p.169)
 - QORL (care for captives): "He gave them each sips of cool water from a gourd he dipped in the stream, then used a long stone knife to saw off the vines binding their wrists." (p.163)
-- QORL orders: "“Back to the TIE fighter,” he ordered. “Work.”" (p.164)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - JAINA (deception): "“We can’t possibly work that fast, especially with just the two of us. This ship has been crashed for twenty years. We haven’t finished cleaning the debris from the sublight intakes. The power converters all need to be rewired.”" / "Jacen watched his sister and knew she was lying." (p.164)
 - JACEN reasoning (why not sabotage yet): "Yes, Jacen supposed, they could simply sabotage the ship repairs-but Qorl would realize what they’d done almost immediately, and he would get even with them. They couldn’t risk that." (p.165)
 - QORL: "“Then you will be hungry and thirsty,” Oorl said. The TIE pilot looked somewhat anxious, impatient. “You are stalling. Proceed.”" (p.166)
@@ -83,17 +83,17 @@
 ## Ch. 17 (p.171–178; READ l.1426–1483) — Lowie gets help: the comm center and the Falcon
 - Plot: Lowie, without Em Teedee, cannot make Tionne or the trainees understand; frustration makes him punch a wall and run to the old Rebel command center, where he raises the Falcon. Han and Chewie (at Lando's Corusca station) understand him and come in two hours. Han arrives with blaster drawn; Luke is still away; Tionne is to guard the academy while Han, Chewie and Lowie go after the twins.
 - TIONNE: "Now her words had a hard, crystalline edge, the forcefulness of a true Jedi Knight." (p.172)
-- Secrecy backfires: "Jaina had wanted the revamped craft to be a surprise ... But now having kept it a secret was working against them." (p.172)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWIE: "Though Lowie was still tired, the others could not catch up with him. With only the slightest limp, his long, muscular legs carried him down the winding corridors" (p.173). Old command center maintained by Luke "to keep contact with the rest of the New Republic" (p.173).
 - LOWIE computer skill: "Lowbacca worked the controls with speed and determination, tapping his clawed fingers over the appropriate buttons. He had already established an open channel to the Falcon by the time Tionne and the others caught up with him in the Communications Center." (p.174)
-- Lando's "orbiting mining facility for Corusca gems" near Yavin (p.173). Han (to Tionne via comm): "The Falcon’ll be there in about two hours" (p.175). Han: "Lando gave us some extra weapons, and all our laser cannon banks are charged." (p.176); "The Empire doesn’t particularly like the New Republic getting another batch of Jedi Knights.”" (p.176–177). Tionne: "We’ll be here to defend the academy, General Solo" (p.177). Luke still away (p.176).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWBACCA (dependence on Em Teedee): "He’d have never imagined he’d be so upset not to have the jabbering droid at his side." (p.171)
-- TIONNE description: "Her mother-of-pearl eyes were wide and her silver hair flowed about her as if it were alive." (p.172)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWBACCA LIMITATION (communication): "Lowbacca tried to think of how to explain, but his growing frustration made it more and more difficult. He had no words they could understand." (p.172)
 - LOWBACCA: "Finally, his frustration got the best of him: Lowie pounded his fists on one of the stone walls and pushed past Tionne and the other Jedi candidates into the cool shadows of the Great Temple." (p.173)
 - LOWBACCA (computers as comfort): "The station was filled with the only things in the Jedi academy that seemed familiar to him at this moment: the computers and electronic equipment." "He knew exactly how to communicate with them." (p.173–174)
 - TIONNE: "“Good idea, Lowbacca!”" (p.174); "“Something has happened here, General Solo. The twins and Tenel Ka have disappeared, and Lowbacca is trying to tell us what happened. But he can’t make us understand him. He’s lost his translator droid.”" (p.174)
 - HAN (understands Shyriiwook): "“Quiet, old buddy. I heard most of that, but a few of the details were sketchy. Something about a crashed TIE fighter and an Imperial soldier taking them hostage?”" (p.175)
-- HAN: "“Okay, sit tight. We’re on our way!” Han said. “We can undock from Lando’s station in just a few seconds." (p.175); "“Just hold on and get ready to help me fight for the kids!”" (p.175)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - TIONNE: "“A TIE fighter!  Imperials here? Quick, we must get everyone ready in case they attack.”" (p.175)
 - HAN (arrives ready): "Han Solo charged out and joined them, his blaster already drawn." (p.176); "“If there are any more Imperial TIE fighters around,” Han said, “the most important thing you can do is guard the Jedi academy, Tionne." "This would be their obvious target." (p.176)

@@ -7,33 +7,33 @@
 ## Ch. 6 (p.67–77; READ l.611–689) — Lowie's T-23 and the glint in the treetops
 - Plot: Han invites the kids to do the Falcon preflight; Jaina takes the hyperdrive, Lowie the navicomputer, Jacen the hull. Chewie shakes Em Teedee. In the cargo hold Lowie uncovers a dismantled T-23 skyhopper — Chewbacca's going-away gift. The Falcon departs; Jaina helps Lowie rebuild the T-23 in a few hours; Em Teedee embarrasses Lowie translating his reluctance to take Jaina as passenger. Lowie's solo flight to the Massassi canopy, where he spots a glint (the crashed TIE).
 - LOWIE: senses the twins' hidden tension: "He could sense an underlying tension, though: Jacen and Jaina would miss their father" (p.67). Kashyyyk lore: "On the Wookiee homeworld all cities were built high in the tops of the massive intertwining trees ... Even the most courageous of Wookiees seldom ventured to the inhospitable lower levels of the forest-much less all the way to the ground" (p.67). Massassi trees "towered ⟨up to⟩ twenty times as high as any other plant on Yavin 4, compared with the trees of Kashyyyk they were midgets." (p.68)
-- Han: "Never have the chance to do a preflight when we’re under fire" (p.68). Chewie's "emergency repair procedure number one" = shaking Em Teedee (p.69).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWIE skill: "the two places he felt most at home were in the treetops and in front of a computer." (p.70)
-- T-23 skyhopper: "an older model, a T-23 skyhopper, with controls similar to the X-wing fighter, but with trihedral wings, and a passenger seat and cramped cargo compartment at the rear of the cockpit" (p.72); Chewbacca's "going-away gift ... if he could assemble it." (p.72). Jaina (younger) "probably had more experience tuning speeder engines than he did" (p.73).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Lowie lands the T-23 on the Massassi canopy (p.75); spots "a shiny and evenly shaped object stuck partway up a tree" (p.76) — the TIE wreck.
 - LOWBACCA LIMITATION (comfort): "He was still uncomfortable with wide-open spaces so close to the ground." (p.67); "TO Lowbacca, height meant civilization, comfort, safety, home." (p.68)
-- EM TEEDEE: "“Master Lowbacca wishes to inspect your ship’s computer systems in order that he might tell it where to go.”" / Han: "“Thought you said you fixed that thing,” he said, indicating Em Teedee. “It needs an attitude adjustment.”" (p.69)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - CHEWBACCA: "he held the silvery oval with one huge hand while he shook the little droid until the circuits rattled." (p.69)
 - LOWBACCA FEAT (computer): "The navicomputer was an enjoyable challenge. Lowie ran through all the preflight requirements twice-not because he thought he might have missed something the first time, but because the two places he felt most at home were in the treetops and in front of a computer." (p.70)
 - LOWBACCA assessment of T-23: "The skyhopper was compact and well constructed. It wouldn’t take much to put all the pieces together again." (p.72)
 - JAINA/LOWIE FEAT (mechanics, rebuild in hours): "They spent the next few hours preparing the T-23 for its first flight on Yavin 4." (p.73); "When at last they finished and Lowbacca leaned into the cockpit to switch on the engine, the T-23 crackled, sputtered, and roared to life." (p.74)
-- EM TEEDEE: "“Ahem. Master Lowbacca also says that he would be honored to have you as his passenger, Mistress Jaina. However," ... "let me assure you that last statement was made with the utmost reluctance.”" (p.74)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LOWBACCA FEAT (piloting, treetop landing): "Scarcely half an hour later, far away from the Jedi academy and the Great Temple, he landed the T-23 on the sturdy treetops, settling the craft in the uppermost branches of the Massassi trees." (p.75)
-- Discovery: "He doubted it could be seen from the jungle floor, and it was unlikely that many students came out and climbed to the top of the canopy, this far away from the Great Temple." (p.76)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 
 ## Ch. 7 (p.79–87; READ l.690–760) — Luke leaves; Tionne takes over; Lowie's secret
 - Plot: At a special twilight meeting Lowie arrives late; Em Teedee nearly blurts out his 'discovery'. Luke announces he is called away on a pressing matter and leaves Tionne in charge. Tionne sings the ballad of Vodo-Siosk Baas and Exar Kun; next morning she teaches trust in the Force through practice (the swimming parable) and assigns leaf-lifting. Jaina proposes practicing in the jungle, where Lowie's find is.
 - Tenel Ka near-joke ("he was not hungry") and "the shadow of a smile" (p.80).
-- LUKE leaves: "I received news this morning of a pressing matter that calls me away.”" (p.81) TIONNE intro: "a slender woman with flowing silvery-white hair and huge opalescent eyes" (p.81).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LUKE on TIONNE (statement): "I don’t know how long I will be gone, so I’ve asked one of my former students, the Jedi Tionne” ... “to supervise your training while I’m away. Not only does Tionne know my teachings almost as well as I do, but she has a rich knowledge of Jedi lore and history. As you are about to find out, she’s well worth listening to.”" (p.82)
 - TIONNE LIMITATION (power): "He remembered hearing that she was not a particularly strong Jedi, but from the warm smile that passed between Luke and Tionne, he could tell that they understood each other well, and that Master Skywalker must have complete trust in his former student." (p.82)
-- TIONNE's instrument: "two resonating boxes, one at either end of a slender fretted neck" (p.82). Ballad: "This is the ballad of Master Vodo-Siosk Baas.”" (p.83)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LORE Vodo/Exar Kun (Tionne's ballad, narrated): "She sang of dire events that had taken place four thousand years earlier-how the strange, alien Jedi Master had been destroyed by Exar Kun, one of his own students who had turned to the dark side. Master Vodo had begged the other Jedi Masters not to do battle with Exar Kun, and had tried to reason with him alone-though his gentle hopes had ended in tragedy." (p.83) [Vodo-Siosk Baas anti-feat / Exar Kun feat]
 - TIONNE teaching (statement): "“A Jedi’s greatest power comes not from size or from physical strength,” she said. “It comes from understanding the Force-from trusting in the Force. As part of your Jedi training you will learn to build your confidence and belief through practice. Without that practice we may not succeed when it is most important." (p.85)
 - TIONNE swimming parable; "Unless we practice what we learn, and unless we are tested, we never know we can trust in the Force if the need arises. That is why this Jedi academy is also called a praxeum. It is a place where we not only learn, but we put the learning to use." (p.85–86)
 - Leaf-lifting assignment: "practice lifting only something small-no bigger than a leaf.”" (p.86); Raynar objects; Tionne: "you might lift many stones one time, or you mig⟨h⟩t ⟨l⟩i⟨ft⟩ one stone many times." (p.86) "I promise you will learn more than just how to lift a leaf.”" (p.87). Jaina: "What better place to practice lifting leaves than out in a jungle?”" (p.87)
 
-- TENEL KA (dry humor): "“Perhaps,” Tenel Ka said in a low voice, as if giving the matter serious consideration, “he was not hungry.”" (p.79)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - JAINA overconfidence / TENEL KA: "“Impossible,” Jaina replied. Though she whispered, her tone was clearly firm. “I checked all those systems myself.”" / "“Ah-hah. So because you checked them, the systems could not malfunction?”" (p.80)
 - LUKE description: "The blue eyes that looked out over the audience-kind eyes that seemed wise beyond their years-gave no hint of what the Jedi Master’s mission might be." (p.82)
 - TIONNE (singing): "Her song rang clear and true. Its pure tones carried easily to the farthest corners of the great hall and transported them all to a time they had never witnessed." (p.83); "In the silence that followed her song, a flood of insight washed through Jacen as he realized that this Jedi was worth listening to for more than just her voice." (p.83)
@@ -44,30 +44,30 @@
 ## Ch. 8 (p.89–96; READ l.761–838) — The search; the crashed TIE
 - Plot: Lowie flies Jaina, Tenel Ka and (cramped in the cargo well) Jacen to the clearing near the glinting tree. Lowie climbs alone and reports a solar panel; the others search the floor practicing leaf-lifting. Jaina takes charge; Lowie (via Em Teedee) vetoes splitting up; they compromise on line of sight. Jacen finds a furry creature nesting in fibers attached to a crash-webbing buckle. By midafternoon Lowie finds the overgrown wreck: a crashed Imperial TIE fighter.
 - Tenel Ka "taller and more solidly built than either of the twins" (p.89).
-- Massassi tree: "The trunk seemed as big around as one of the skyscrapers on city-covered Coruscant" (p.91). LOWIE climbs: "He swarmed up the trunk, swung into the lower branches, and soon disappeared from sight." (p.92)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - TK practice: "Taking turns, they practiced their leaf-lifting assignment, fluttering leaves in the shrubbery, lifting dr⟨⟩y forest debris from the damp and mossy ground." (p.92)
 - JAINA leadership: "At times like this Jaina always seemed to assume leadership, just like her mother. ... Her parents had raised all three of their children to assess a situation, weigh the alternatives, and make decisions." (p.94). Lowie: jungle floor "not a safe place to split up" (p.94). Tenel Ka catchphrase "This is a fact." (p.94)
-- Jacen finds a crash-webbing buckle in a nest (p.95). Discovery: "A crashed Imperial TIE fighter." (p.96)
-- EM TEEDEE: "“Actually, Master Lowbacca might have said something closer to, ‘Hold on, everyone. Here we go!”’" (p.90)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
 - LOWBACCA FEAT (navigation from air): "“It has several broken branches, so he was able to locate it easily from the air.”" (p.91)
 - TENEL KA: "Tenel Ka marched over to the young Wookiee, as if ready to carve a path through the jungle." (p.91)
 - JAINA LIMITATION (climbing): "“oh,” said Jaina, a crestfallen look on her face, “I wouldn’t get very far climbing that.”" (p.91)
 - TENEL KA (prepared): "Tenel Ka dug into a small supply pouch she carried with her and withdrew a pack of carbo-protein biscuits. “Here. Nourishment as we search.”" (p.93)
 - LOWBACCA caution (via Em Teedee): "“Master Lowbacca says-and I personally am inclined to agree with him-that the jungle floor is not a safe place to split up." "Even to speed up a search.”" (p.94); Tenel Ka: "“This is a fact.”" (p.94)
-- JACEN finds the buckle: "He pointed to a dull, flat loop of metal that was firmly attached to the mass of fibers." (p.95)
-- EM TEEDEE: "“That’s the third dent today. And I’ve lost count of how many scratches I’ve received while you’ve been exploring." (p.95)
-- Discovery: "a rounded, tarnished cockpit large enough only for a single pilot, one squarish black solar panel crisscrossed with support braces." / "A crashed Imperial TIE fighter." (p.96)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
+
 
 ## Ch. 9 (p.97–100; READ l.839–870) — Plan to rebuild the TIE
 - Plot: The four reason the TIE must date from the Battle of Yavin. Jaina inspects the cockpit (no bones) and engines, decides they could fix it. Jacen: "I've got a bad feeling about this." The hidden pilot emerges after they leave, muttering his litany.
-- Jaina lore: "TIE fighters were short-range ships used by the Empire. They weren’t equipped with hyperdrive" (p.97); dates it to the Battle of Yavin: "Over twenty years old" (p.97). "There were no bones." (p.98)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Jacen lore: "our dad flew cover for Uncle Luke’s X-wing fighter while he took his final run. Uncle Luke made the shot that blew up the Death Star.”" (p.98)
 - JAINA mechanic: checks the TIE's engines — "overall, the primary motivators seemed intact" (p.99).
 - Jaina: "“I think we could fix the TIE fighter.”" / Jacen: "I’ve got a bad feeling about this.”" (p.99)
 - QORL intro (unnamed until later): "A worn and tattered black glove pushed a thorny twig aside." (p.99) / "⟨“⟩Surrender is betrayal ⟨,”⟩ he muttered to himself, as he had done so many times before. It had become a litany during his years of rugged survival on the isolated jungle moon of Yavin." (p.100)
 - QORL SURVIVAL/condition: "The pilot’s protective uniform hung in rags from his gaunt frame, worn to tatters and patched with furs from an incredible number of years living alone in the jungle. His left arm, injured during the crash, was drawn up like a twisted claw against his chest." / "He had camouflaged the wrecked Imperial craft many years ago, hiding it from Rebel eyes." (p.100)
-- JAINA lore: "“Can’t be. TIE fighters were short-range ships used by the Empire." 
-- LORE (Death Star / Alderaan / Yavin): "“When the Empire built the first Death Star, it was the most powerful weapon ever made. They tested it by destroying Alderaan, our mother’s" ... "homeworld. Then they brought it here to Yavin 4, to destroy the Rebel base.”" (p.97)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
 - JACEN on Han/Luke at Yavin (LUKE FEAT, recalled): "Uncle Luke made the shot that blew up the Death Star.”" (p.98)
 - JAINA mechanics assessment: "Jaina tinkered with the engines, checking integrity, noting the rotted hoses and fuel lines. But overall, the primary motivators seemed intact, though she would have to run numerous diagnostics." (p.99)
 
@@ -75,12 +75,12 @@
 - Plot: Over several days the four secretly restore the crashed TIE as a group exercise: Jaina on mechanics, Lowie on computer systems (TIE schematics downloaded from the temple computer center), Jacen on supply runs, Tenel Ka on whatever is needed. They decide not to repair the weapons. Four-way TK lift brings the second solar panel down from the Massassi tree. Jaina installs Han's hyperdrive. Clues (Imperial insignia, no bones, a hollowed-out Massassi trunk shelter still warm) lead to the pilot, who captures them at blaster-point.
 - Group repair project "as a group exercise"; Jaina's motives: envy of Lowie's T-23 + "Its age and complexity offered a unique opportunity for learning about mechanics" (p.101). Team bond: "They learned to function as a team, to make the most of each person’s strengths and to compensate for each othe⟨r'⟩s weaknesses." (p.102)
 - Roles: Jaina mechanical, Lowbacca computer systems, Jacen supply runs in the T-23; "Tenel Ka worked with quiet competence on any task that needed doing and was especially valuable in lugging new metal plates to patch large breaches in the TIE hull." (p.102)
-- TENEL KA deadpan: "Yes, that is very funny.”" (p.103)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Lowie downloads TIE schematics from the Great Temple computer center (p.103). Jaina: "We’ve already decided we won’t be needing the weapons systems. I think the laser cannons work fine, but I don’t intend to hook them up." (p.104)
 - Tionne's assignment: "Cooperative lifting with one or more other students" (p.104).
 - GROUP TK FEAT (four-way lift of the TIE's second solar panel, decades in a Massassi tree): "With that, four minds pushed upward, nudging. In a gentle, concerted motion they lifted the panel free of the branch where it had rested for decades. The large, flat rect⟨ang⟩le wobbled in midair for a moment and ⟨⟩then began to slowly descend. Tenel Ka kept her fibercord taut, easing the Force-lightened object down." (p.105)
 - GROUP TK LIMITATION: "The process was not perfect. Mental coordination among the four friends proved difficult, and they each lost their grip more than once. But the vines and fibercord held, preventing a disaster." / "all of them were panting and perspiring from the mental ex⟨erti⟩on." (p.106); "The process was much more difficult than they had anticipated, but in the end they managed it." (p.105)
-- LORE TIEs: "Never equipped with hyperdrives because the Emperor didn’t want to sacrifice the maneuverability.”" / Jacen: "Or maybe he didn’t want any of his fighter pilots making a quick escape.”" (p.107). Jaina installs Han's hyperdrive in the TIE (p.107–109).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - JACEN senses animals: "Jacen could sense the leaf creature’s anticipation." (p.108). Finds "an Imperial insignia" (p.108) and a second crystal snake (p.109).
 - Tenel Ka: "No bones.”" (p.111) Jacen follows a trail to a hollowed Massassi trunk: "Fully a third of the Massassi tree’s trunk had been hollowed out to form a sturdy, dry cave" with "a nightmarish black helmet with triangular eyeplates and a breathing mask" — "An Imperial TIE fighter pilot’s helmet." (p.113); fire pit "still warm" (p.113). Jacen's mind-probe "sensed nothing larger than insects" (p.112).
 - QORL captures them: "a haggard, grizzled-looking man ... His left arm was bent at an awkward angle, and was wrapped in an armored gauntlet of black leather. But in his glove he held an ugly, old-model blaster." / "“Yes,” said the Imperial fighter pilot. “I am very much alive. And you are my prisoners.”" (p.114)
@@ -91,7 +91,7 @@
 - TENEL KA pain tolerance: "ignoring the scratches and stinging pain of the thorns against her bare arms and legs. The scaled armor protected her vital parts" (p.115); "She hissed with pain, but clamped her teeth together, plunging ahead." (p.116)
 - QORL fires at her: "Then an explosion of flames ripped into the underbrush just to her left. The TIE pilot was firing his blaster at her!" (p.116) TENEL KA evasion: "Tenel Ka dove to the ground, rolled sideways, then ran at full speed in a different direction." / "she fled, changing directions at random to confuse the enemy" (p.116). ANTI-FEAT/consequence: she runs blindly "deeper into the densest jungle of Yavin 4." (p.116)
 - LOWBACCA escape climb under fire: "The young Wookiee let out a bellow of surprise and anger, then instinctively surged up the ancient ⟨b⟩ole of the nearest Massassi tree, climbing higher, up, where it was safe." / "Behind him, the Imperial fighter began shooting wildly. Explosions and bright flames from burning foliage ballooned out from where the blaster bolts struck the branches under Lowie’s feet." / "With Wookiee strength, Lowbacca climbed higher and higher" (p.117); "loping with great agility" across branches (p.118).
-- Em Teedee: "That person was trying to kill us! Can you imagine that?”" (p.117–118); "Just because I have no functional arms or legs doesn’t mean I don’t want to assist YOU.”" (p.118); "He is a professional fighter⟨—⟩and he’s desperate!”" (p.119)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - QORL marksmanship/pressure: "The Imperial pilot fired his blaster, shooting twice into the thicket where Tenel Ka had vanished." (p.121); "Three high-energy bolts ricocheted from the age-stained hull of the crashed ship. Jaina froze, raising her hands in surrender." (p.121) — twins captured after Jacen trips over the toolbox (p.121).
 - QORL: "“Don’t move,” he said, “or you will die, Rebel scum.”" (p.122); description: "The Imperial’s crippled left arm was stiff like a droid’s, encased in an armored gauntlet of black leather. He had been severely hurt, but it appeared to be an old injury that had long ago healed, though improperly. The pilot was a hard-bitten old warrior." (p.122)
 - TWINS MIND TRICK ATTEMPT → ANTI-FEAT (Qorl resists): "“Put down the blaster,” Jaina said quietly, soothingly, using everything she knew of Jedi persuasion techniques. “You don’t need it.”" (p.122); "They tried to send peaceful thoughts, soothing thoughts into the TIE pilot’s mind … just as Jacen had done to calm his crystal snake. The TIE pilot shook his grizzled head and narrowed his haunted eyes. The blaster wavered just a little, dropping down only a notch." (p.122)

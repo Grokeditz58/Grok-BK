@@ -8,3 +8,6 @@ Status: DONE. Stamp: 2026-11-19 CST.
 - Verbatim check: 617 quoted strings (≥6 chars) in hotf-01…05 were machine-matched against READ.txt with 0 mismatches, and summary.md has 76 checked with 0 mismatches. That makes 605 quote segments in the part files, 556 of them ≥25 characters. Within-notes duplicates from the second pass were removed.
 - Numbering: the highest existing folder in notes/materials was 172, so this folder is 173.
 - Not done here: character-file routing is tracked in notes/INDEX.md and characters/INDEX.md.
+
+
+- Scope trim 2026-11-20: see README (scaling-relevant passages only; line numbers kept; character files unchanged).

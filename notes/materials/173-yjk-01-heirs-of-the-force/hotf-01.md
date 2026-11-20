@@ -5,7 +5,7 @@
 - Quotes are pasted from the source text. OCR damage is kept as printed, and the scan's reading is supplied in ⟨⟩. Examples: "⟨Q⟩orl" where the OCR prints "Oorl", and "thunderstor⟨m⟩". "..." marks an elision. Straight double quotes wrap each quote; the curly quotes inside belong to the book.
 
 ## Front matter (READ l.1–88; PDF p1–p11)
-- Cover (p1): "author of The Jedi Academy Trilogy". Back/price page (p2): Berkley Books $5.99 U.S. / $7.99 CAN.
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Teaser/character page (p3), verbatim:
   - "JACEN loves living things. He keeps pets ⟨. .⟩ of ⟨.⟩ all species: animals, plants, insects (some easier to care for than others ⟨.⟩ and he suspects ⟨.)⟩ he can speak to them using the Force though he doesn't quite know how." [scan text breaks off mid-sentence twice; dots are scan artifacts]
   - "JAINA takes after her father, Han. She is a mechanical whiz, always dismantling droids, machines, anything she can get her hands on. Like Han, her spirit and self-confidence sometimes get her into trouble."
@@ -14,14 +14,14 @@
   - "TENEL KA is the tough, self-sufficient daughter of Teneniel Djo, one of the witches of Dathomir. Loyal, though a little humorless, she will fight beside her friends whenever they find themselves in tough situations."
   - "This book also contains a special sneak preview of the next Star Wars: Young Jedi Knights adventure: SHADOW ACADEMY"
 - About the Authors (p4): Anderson & Moesta "are writing the YOUNG JEDI KNIGHTS saga, as well as creating the JUNIOR JEDI KNIGHTS series"; Anderson also author of the Jedi Academy trilogy, "the forthcoming novel Darksaber", and Dark Lords of the Sith (with Tom Veitch, Dark Horse); YA fantasy "Bo⟨rn⟩ of Elven Blood" with John Betancourt (Atheneum); edited anthologies incl. Tales From the Mos Eisley Cantina (Moesta has a story).
-- Title (p5): Boulevard Books, New York. Copyright page (p6): "A Berkley Jam Book / published by arrangement with Lucasfilm Ltd. PRINTING HISTORY Berkley Jam edition / June 1995"; "Copyright © 1995 by Lucasfilm Ltd."; "SHADOW ACADEMY © 1995 by Lucasfilm Ltd."; ISBN 0-425-16949-9; Berkley Publishing Group, a division of Penguin Putnam Inc. (this is a later Berkley Jam printing of the 1995 Boulevard original; print line 20→14).
-- Dedication (p7): "To our parents Andrew & Dorothy Anderson and Louis & Louise Moesta who taught us to love books"
-- Scan note (p8): "Digitized by the Internet Archive in 2017 with funding from Kahle/Austin Foundation" (archive.org isbn_9780425169490).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
+
 - Acknowledgments (p9): thanks Vonda N. McIntyre "for helping to create the kids", Dave Wolverton "for his suggestions with Tenel Ka and Dathomir", Lucy Wilson and Sue Rostoni at Lucasfilm, Ginjer Buchanan and Lou Aronica at Berkley, the STAR WARS FidoNet Echo "for helping out with the jokes", Lil Mitchell (typing) "and to Jonathan MacGregor Cowan for Qorl⟨'⟩s name."
 
 ## Ch. 1 (p.1–14; READ l.84–208) — the crystal snake
 - Plot: A month into his stay, Jacen has his menagerie set up in the Great Temple's student quarters. His crystal snake escapes; the twins (Jaina is building a device from parts scavenged from the old Rebel war room) search with the Force, find it in Raynar's room as it strikes, Jacen calms both snake and boy, and the twins jointly levitate the bitten, sleeping Raynar before Jaina loses the hold.
-- Opening (scan only; epub lacks it): "JACEN SOLO HAD stayed at Luke Skywalker⟨'⟩s Jedi academy for about a month before he managed to set up his room the way he wanted it." Student quarters in the Great Temple "were dank and dim, cold every night"; twins have "adjoining rooms" (p.1).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - SETTING: Jacen's menagerie — stintarils, mud-nest crabs, mucous salamanders, "iridescent blue piranha-beetles"; "Jacen was proud to have the only specimens in captivity in his menagerie." (p.2)
 - LUKE teaching philosophy: "To be a Jedi, Uncle Luke explained, one had to understand many pieces of the whole tapestry of the galaxy, not just a rigid pattern set by other people." (p.3)
 - JACEN FORCE (animal affinity): "He had always had a strange and deep affinity for living creatures, much as his sister had a talent for understanding machinery and gadgets. He could coax the animals with his special Force talent, getting them to come right up to him, where he could study them at his leisure." (p.3)
@@ -39,9 +39,9 @@
 
 ## Ch. 2 (p.15–28; READ l.208–305) — Tenel Ka's entrance, Luke's Brakiss lecture
 - Plot: The students gather in the grand audience chamber. Tenel Ka arrives by climbing the temple exterior and rappelling in. Luke lectures on learning by action and on failure, telling the story of Brakiss, an Imperial spy he took in as a student and tested with an illusion; Brakiss fled back to the Empire. Luke ends on choices.
-- Grand audience chamber, orange light from Yavin (p.15). Medal ceremony memory: "Dad looked like such a … such a pirate" (p.16).
-- LORE/timeline: "Now, more than twenty years later, Luke Skywalker had turned the abandoned base into a training center"; "Luke himself had begun training other Jedi back when the twins were barely two years old. Now he often left on his own missions and spent only part of his time at the academy, but it remained open under the direction of other Jedi Knights Luke had trained." (p.17)
-- LORE academy: "Some of the trainees had virtually no Force potential, content to be mere historians of Jedi lore."; Luke's philosophy "all potentia⟨l⟩ Je⟨d⟩i could learn from each other. The strong could learn from the weak, the old could learn from the young-and vice versa." (p.17). Twins sent "for part of the year"; Anakin "would be coming to join⟨⟩ them soon." (p.17)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
+
 - TENEL KA character: "Tenel Ka was a devoted Jedi who worked hard to attain her dreams. She had little interest in the bookish studies, the histories and the meditations; but she was an excellent athlete who preferred action to thinking." (p.18); "impatient, hard-d⟨riv⟩en, and practically humorless" (p.18).
 - TENEL KA FEAT (climbs the Great Temple exterior, rappels inside): "She must have climbed the temple from the back,” Jacen said." (p.19); "Tenel Ka lowered herself like a spider on a web, walking precariously down the long smooth surface of the inner wall." (p.19)
 - TENEL KA philosophy/limitation: "She could have used her Jedi powers to speed the descent, but Tenel Ka relied on her body whenever possible and used the Force only as a last resort. She thought it showed weakness to depend too heavily on her special powers." (p.19)
@@ -84,31 +84,31 @@
 - Plot: Jaina spends half the night tidying her room before Han's arrival; she uses TK to settle a mass of cables; braids her hair secretly. Jacen's TIE-fighter joke. The Falcon lands in the academy clearing; Han hugs the twins; Chewie tosses Jaina into the air. Han is in the area to help Lando set up Corusca gem mining in Yavin's atmosphere, and brings Chewie's nephew Lowbacca as a new Jedi candidate. Gifts: holo letters from Leia and Anakin, stump-lizard fronds for Jacen, an old hyperdrive unit for Jaina.
 - JAINA TK (tidying with the Force): "“THERE,” SAID JAINA, mentally relaxing her hold on a large mass of tangled wires and cables. It came to rest in a more or less contained jumble atop one of the newly tidied stacks of electronic components in her room." (p.39)
 - Jacen joke: TIE fighters scream "Because they miss their mothership!" (p.42); Jaina knows TIE "twin ion engines set up a shock front from the exhaust" (p.42).
-- Han's "working uniform" (p.43); Han: "Except for your mother, I’d say this is the finest welcoming committee I’ve ever had.”" (p.43)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Chewbacca greets Jaina by throwing her "high into the air" (p.44). Han/Chewie came to help Lando open "Corusca gem mining deep in the atmosphere of the gas giant" (p.45).
-- LOWBACCA intro: "a smaller Wookiee, who was still taller than Jacen or Jaina. The younger Wookiee had thick swirls of ginger-colored fur, with a remarkable swirling black streak as wide as Jaina’s hand that ran from just above his left eye up over his head and down to the middle of his back. He wore only a belt woven of some glossy fiber" (p.46); "thin and lanky, even for a Wookiee" (p.46).
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Han's gifts: holo letters from Leia and Anakin; flowers for Jacen's stump lizard; to Jaina "A hyperdrive unit!" — "I got it off an old Imperial Delta-class shuttle they were dismantling on Coruscant.”" (p.48). Jaina helped Han keep the Falcon's subsystems "in peak condition" (p.48).
 - JAINA character: "Jaina would never have gone to this much trouble for an ambassador or some silly dignitary-but her father was worth the effort." (p.40)
-- JACEN joke: "“Hey, Jaina-you know why TIE fighters scream in space?”" / Jaina: "Sure, their twin ion engines set up a shock front from the exhaust" (p.41–42)
-- HAN description: "He wore soft black trousers and boots that fitted him snugly, an open-necked white shirt, and a dark vest-a comfortable, serviceable set of clothes that he sometimes jokingly referred to as his" "working uniform." (p.43)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
 - HAN statement: "“Jacen, you’ve grown again-bet you even caught up with your sister. And Jaina,” he said with a wicked grin, “if I didn’t think you’d throw a hydrospanner at me for saying so, I’d tell you that you’re even prettier than you were a month ago.”" (p.44)
 - CHEWBACCA strength (casual): "Huge heavily furred arms reached out to grab Jaina and threw her high into the air." (p.44)
-- LANDO lore: "Jaina had always had a great fondness for Lando, her father’s dark and dashing friend, but she also knew him well enough to realize that her adopted “uncle” Lando was always involved in some crackpot moneymaking scheme or another." (p.45); Han: 
-- LOWBACCA intro: "The younger Wookiee had thick swirls of ginger-colored fur, with a remarkable swirling black streak as wide as Jaina’s hand that ran from just above his left eye up over his head and down to the middle of his back." (p.46); "He was thin and lanky, even for a Wookiee, with gangly fur-covered arms and legs." (p.46)
-- HAN: "When Luke found out we had to come here anyway, he asked us to stop by Chewie’s homeworld of Kashyyyk and pick up a new Jedi candidate. He’s going to be your fellow student." (p.46)
-- ANAKIN mention: "There’s another one from your little brother Anakin." "He can’t wait to come here himself." (p.47)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
+
+
+
 - JAINA mechanic background: "Jaina remembered fondly the times she had helped her father tinker with the Falcon’s subsystems to keep it running in peak condition-or as close as they could get." (p.48)
 
 ## Ch. 5 (p.49–66; READ l.482–611) — Lowie, Em Teedee, the Raynar quarrel, Tionne's assignment
 - Plot: Han and Chewie tour the temple with Lowie; Lowie, more interested in electronics, is fitted with Em Teedee, a miniaturized translator droid. At the evening meal Tenel Ka offers Lowie formal friendship; Em Teedee embellishes translations. Raynar steals a jug by TK, a quarrel escalates into a hall-wide food fight (Jacen stops a snake mid-strike with the Force), and Luke freezes the entire hall with the Force and makes them clean up.
-- Han: "By now, you probably know your way around better than Chewie or I do.”" (p.49). Jacen: "Jaina and I came to the Jedi academy for the first time when we were only two years old.”" (p.50)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - LORE Great Temple layout: top = observation deck + "only one enormous room the grand audience chamber-that can hold thousands of people" (p.51); level below = living quarters for trainees, staff "and Master Skywalker himself"; ground level = Communications Center, main computers, common rooms, "the Strategy Center-the chamber that had been known as the War Room"; "Underground, and completely invisible from where they stood, was a gigantic hangar bay that stored shuttles, speeders, fighters, and other aircraft." (p.52); Massassi ruins incl. "the Palace of the Woolamander across the river" (p.52); power station of plate-shaped wheels (p.52).
 - LOWBACCA: "He was far more interested in the electronics than in the wild jungle creatures." (p.53); Han: "The thing he really gets excited about is computers.”" (p.54); "Lowie has studied our language and understands us as well as Chewie does." (p.54)
 - EM TEEDEE: "a shiny metallic device ... slightly longer than Lowie’s hand and about four fingers thick" (p.54); “Greetings. I am a Miniaturized Translator Droid-Em Teedee-specializing in human⟨-⟩Wookiee relations. I am fluent in over six forms of communication. My primary programmed function is to translate Wookiee speech into other humanoid languages.” (p.55); Han: "A little too much like Threepio, for my money." (p.55)
-- LOWIE age: "Lowie was nineteen, barely an adolescent by Wookie⟨e⟩ standards." (p.57)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - Mess hall: plant students photosynthesize on temple steps (p.56); reptilian Cha'a eat hatchlings (p.60).
 - TENEL KA formal greeting: "Lowbacca of Kashyyyk, I greet you" (p.57); friendship pact: "Jacen and Jaina are already my friends. I offer you friendship, Lowbacca of Kashyyyk.”" (p.60); "I choose to honor him by using his complete name.”" (p.60)
-- Em Teedee embellishes translations ("May no sun rise upon a day ...") until Lowie growls: "What Master Lowbacca actually said was, ‘I am pleased to meet you.”’ (p.58–59)
+- (Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)
 - RAYNAR TK (jug): "Raynar used his own Jedi powers to snatch the jug from their table and carry it through the air back toward himself." (p.61). ANTI-FEAT RAYNAR: "Raynar saw it and shrieked, losing his Force concentration. The jug wobbled, then fell, spilling deep red juice all over his bright robes." (p.62)
 - Food fight: Tenel Ka "not understanding the problem but always ready to defend her friends, jumped into the fray" (p.62); "More food flew through the air, levitated by Jedi powers, and tossed from one table to another." (p.63). Em Teedee: "Comestibles are obscuring my optical sensors." (p.64)
 - JACEN Force-touch on snake mid-strike: "But Jacen held out his other hand, pointing with his finger and the Force, touching the snake’s tiny brain. “Hey! Don’t you dare.” he said aloud. Then, as the crystal snake hesitated, Jacen grabbed it around the neck and lifted it into the air." (p.64)

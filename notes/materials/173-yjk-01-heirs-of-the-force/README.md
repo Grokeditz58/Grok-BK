@@ -34,3 +34,13 @@ Characters (quick reference):
 - **Qorl**: Death Star TIE pilot stranded for 20+ years. Resists mind trick, TK disarm and tractor beam; outflies the Falcon near the treetops; jumps to hyperspace.
 - **Tionne**: "not a particularly strong Jedi", a loremaster and singer (ballad of Vodo-Siosk Baas and Exar Kun).
 - **Han Solo, Chewbacca, Raynar, Peckhum, Brakiss** (recounted), **Lando and Lobot** (preview), and the **dark woman** of the preview (Tamith Kai, unnamed here).
+
+
+## Scope trim (2026-11-20 CST)
+
+Under the owner's scope ruling of 2026-11-20, these notes were trimmed in place to scaling-relevant material only: feats of every kind (Force, lightsaber, strength, durability, speed, reflexes, agility, stamina, pain tolerance, marksmanship, hand-to-hand, tech and tactics, senses), statements about characters, narrative portrayal, and anti-feats and limitations. Plot bullets stay, so the story can still be followed.
+- Passages with nothing scaling-relevant (scenery, jokes, filler dialogue, front matter and ads) were removed. Each run of them is marked "(Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)" and then left as blank lines. That keeps every line number the same, so the `Our notes: path:line` pointers in the character files still resolve.
+- Tagged passages that were not routed to a character file keep their first quote, cut to the first two sentences. "[…]" marks a cut, and "(+N further passage(s) read, not quoted, through …)" gives the page span.
+- Passages routed to character files are kept as they were. Any context quotes in the same bullet that were not routed were dropped and marked "(+N context passage(s) read, not quoted)".
+- summary.md: the findings index now gives citations only. The quotes are in the part files.
+- Folder size: 132,807 B before, 106,858 B after. The character files were not changed.
