@@ -3832,6 +3832,27 @@ What it shows (our notes): Anakin is good at puzzles and sees the temple's patte
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:63`
 
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Anakin, 'the master puzzle-solver of the galaxy', works out how to expose Black Sun's sleeper agents: beam Czethros's coded message to one planet at a time on his frequency; Jaina: 'one brother who was a genius'.
+> Anakin’s ice-blue eyes were rolled to one side in that odd expression he wore when solving a puzzle. Around them, the buzz of conversation in the eating hall rose and fell in random patterns.
+>
+> “Okay, I think I’ve got it,” Anakin said. “Nothing simpler.”
+>
+> “All right, what does the master puzzle-solver of the galaxy think the solution is?”
+>
+> Pick a planet and alert the people there that something important is about to happen and to watch for it.”
+>
+> “Then we send a message via direct beam only to that planet,” Anakin said. “Use the message Czethros programmed, and sent it on the frequency he was planning to use.” He shrugged. “Then sit back and wait to see what happens.”
+>
+> “Just might work,” Han said. “We can fight the little takeovers one at a time, instead of all at once. Black Sun doesn’t stand a chance that way.”
+>
+> “I knew I had one brother who was a genius,” Jaina said with a teasing look at Jacen.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 21, p.184–186.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:86`
+
+
 
 
 # Debate and forum claims (unverified)

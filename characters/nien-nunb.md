@@ -4,7 +4,7 @@
 - **Era:** GCW–NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 42 (15 with quotations; 0 quotations extended to the full sentence/passage from the source text on file; 6 marked as fragments; 6 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 44 old entries; old file: `characters/_bak/nien-nunb.md.bak-20261117`.
+- **Entries:** 45 (18 with quotations; 3 quotations extended to the full sentence/passage from the source text on file; 6 marked as fragments; 6 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 44 old entries; old file: `characters/_bak/nien-nunb.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -297,6 +297,33 @@ Our notes: `notes/materials/052-making-of-rotj/rotj-03.md:12`
 Note text that was attached to the quote line: *(Kazanjian)*
 Note (our notes, around the quote): The "$3 million": finance executives had lost it speculating on the pound before production, then added it to Jedi's cost. "That’s when George blew up. The next thing we knew, they’d lost their jobs." (Kazanjian) (p. 337). In Kenya, Nien Nunb's lines turned out to be real Kikuyu: "‘What are you doing over there? All of you, please come here.’" with 1,300 people in Nairobi "rolling in the aisles" (p. 337). There were print thefts, including one at gunpoint, and VHS bootlegs at $150–200 by early May (p. 337).
 Our notes: `notes/materials/052-making-of-rotj/rotj-03.md:95`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Nien Nunb, Lando's copilot at the second Death Star, instinctively dives into a protected cranny as the sabotaged carbonite pipe bursts.
+> In his younger years, Nien Nunb had led a life of adventure, tagging along with Lando on smuggling runs, breaking through Imperial blockades and delivering much-needed supplies to restricted planets. In the Millennium Falcon, borrowed from Han Solo, Nien Nunb had served as copilot when Lando made his desperate run to destroy the second Death Star. Nervous by nature, Nien Nunb had been certain they would die in the attempt… but somehow the Falcon had survived, and Lando had gone on to become a hero of the New Republic.
+>
+> Nien Nunb gave a loud squawk of alarm. He heard a faint creaking groan, saw that one of the coolant pipes close to him was bulging, buckling with the strain. He cried out and instinctively dove headfirst into a protected cranny between two huge pieces of equipment.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 4, p.26–30.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:30`
+
+What it shows (our notes): Nien Nunb, with Lowie's help, locks Czethros out of Kessel's systems block by block.
+> With a blur of furry fingers, he punched in commands. Lowie assisted, growling and offering suggestions. Rapidly, block by block, the Sullustan Chief Administrator denied access to Czethros and his takeover crew.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.148.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:52`
+
+What it shows (our notes): Nien Nunb lures Kymn's search team into an ambush by his freed workers, then seals them in the deep tunnels.
+> Workers brought up their weapons and made ready for a fight as the Chief Administrator scuttled out the door of the control center and down the dark and winding corridors. Nien Nunb felt anger blazing inside him-a new sensation for the timid Sullustan. He vowed to show that blond-haired captain just how a hero really handled himself.
+>
+> When Nien Nunb rounded the last corner before the control chamber, though, he ducked to one side and pressed himself against the cool rock wall near the door. His loyal fellow prisoners surged out, weapons ready.
+>
+> Nien Nunb’s thickly folded lips curved in a smile. Through Em Teedee’s translation, he explained that such deep sections of mines could be sealed off at the senior administrator’s discretion. Kymn and his guards would remain trapped behind heavy plasteel barricades, where they could cause no trouble. The legitimate security forces on Kessel would eventually get back to them, once they finished mopping up all the other problems here in the spice mines.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.150–152.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:53`
+
 
 # Debate and forum claims (unverified)
 

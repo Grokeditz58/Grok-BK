@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 300 (244 with quotations; 200 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
+- **Entries:** 307 (251 with quotations; 207 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3324,6 +3324,69 @@ What it shows (our notes): When the turncoat guards open fire, Zekk moves fast e
 — Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.147–148.
 (Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
 Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:47`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Zekk builds his first personal lightsaber, triple-checking each connection (at the Shadow Academy he fought with an issued weapon); the blade 'felt right in his hand'.
+> He had moved to this study room from his own quarters so he could be alone, so he could think. Zekk needed to focus on the important task at hand. Building a personal lightsaber was an assignment reserved for trained and trusted Jedi Knights-and he intended to do his best work.
+>
+> The Shadow Academy had manufactured cheap and identical lightsobers by the dozen, presenting them to their evil-trained students during practice sessions and before the attack on the New Republic. Zekk had had a lightsaber given to him-but he hadn’t ever built his own.
+>
+> Zekk had never felt such an attachment to any weapon before. At the Shadow Academy, the lightsaber with which he had dueled and led the attack on Yavin 4 was simply a tool, interchangeable with anyone else’s.
+>
+> Zekk fitted the last components together, then took the lightsaber apart again, triple-checking the connections and alignments before he snapped the casing closed for the last time. He held the new weapon in his hand, squeezed the polished grip, examined the power studs, flicked the hilt from side to side to test its weight and balance. Somehow he was reluctant to switch on the lightsaber, afraid that he might have done something wrong.
+>
+> He pressed the power stud-and the lightsaber flared to life at the first touch. The throbbing blade glowed a pure yellow-orange, like a captured flame enclosed in a long, thin tube. With the greatest care, he moved his weapon, and the ionization thrum made a musical sound in the air. The lightsaber felt right in his hand-not a seductive power that he might be tempted to misuse, but a precise and well-controlled weapon that fit him perfectly. A Jedi weapon… for a Jedi Knight.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 2, p.10–12.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:18`
+
+What it shows (our notes): Zekk: friends' trust 'gave me the strength to leave the dark side for good'; 'I was addicted to using the dark side of the Force... the dark side didn't want to let me go.'
+> “Thanks for trusting me,” Zekk said in a low voice as they all emerged into the sunlight in front of the Jedi academy. “That trust was what gave me the strength to leave the dark side for good.”
+>
+> Anja felt too weak to reply, but Zekk seemed to see the answer in her eyes. “I went through something similar. Well, not with drugs. I was addicted to using the dark side of the Force. I knew it was wrong, but I told myself I had good reasons for what I was doing. Anyway, when I wanted to stop, the dark side didn’t want to let me go. I almost didn’t make it.” He glanced up briefly at Jacen and Tenel Ka. “If it hadn’t been for my friends, I don’t think I would have.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 3, 16, p.19–140.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:24`
+
+What it shows (our notes): Jacen senses that Zekk 'used the Force unconsciously to help him maneuver, judge distances, and react to small emergencies' while piloting.
+> With Zekk as pilot, Jacen as copilot, and Tenel Ka as navigator, the trio set off for Mon Calamari in the Rock Dragon. Jacen was interested to see that Zekk looked much more relaxed when he was piloting a starship. He could sense that his dark-haired friend used the Force unconsciously to help him maneuver, judge distances, and react to small emergencies.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 8, p.63.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:55`
+
+What it shows (our notes): Zekk senses the creature's next pass: 'Next time it'll want a meal.'
+> “That wasn’t even an attack yet,” Zekk said. “The thing was just checking us out.” He rubbed the back of his neck, as if he tingled, and looked back at Jacen. “Next time it’ll want a meal.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 12, p.108.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:13`
+
+What it shows (our notes): With Cilghal's hand on his arm, Zekk feels strength flow into his mind and, guided by the Force, loops the sub around an obstacle 'more because of the Force than from any spectacular piloting skill'.
+> Cilghal placed a flippered hand on Zekk’s arm. He felt strength flow into his mind. Guided by the Force, Zekk twisted the rudder from left to right, and the sub looped around an obstacle, more because of the Force than from any spectacular piloting skill.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 14, p.120.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:25`
+
+What it shows (our notes): Zekk repairs the minisub's battered engines from inside the cramped cabin with a too-small hydrospanner and his sore fingers.
+> He had to use a too-small hydrospanner, one of the few tools available in the meager emergency repair kit. He could see how the gears had ground together, how the electrical connections had been broken and the precise flow conduits knocked out of alignment during the tentacled sea creature’s attack. He nudged and tweaked and banged with the hydrospanner, straightening out what he could.
+>
+> Zekk reattached the connections to the small engines as best he could, using his sore fingers when the tool itself wouldn’t work. “Try it now, Cilghal,” he called over his shoulder. Then he backed out of the access compartment, his clothes and hands and face grimed with engine lubricants and dust.
+>
+> The Calamarian ambassador worked at the controls. With a thrumming, puttering growl, the minisub’s engines fired up. Propellers turned, then ground to a halt against the solid ice that pressed in around them.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.156–157.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:57`
+
+What it shows (our notes): Zekk's new lightsaber, built with extraordinary care and approved by Master Skywalker, works underwater; he widens Cilghal's channel through the ice; Anja: 'Zekk's lightsaber was real... The Force guided him.'
+> Zekk thought of the extraordinary care with which he had built his new lightsaber. Master Skywalker himself had approved. He took a deep breath, nodding confidently. “Then my weapon won’t fail.”
+>
+> Zekk swam directly behind her, widening the channel with his energy blade.
+>
+> However, Zekk’s lightsaber was real. He had earned his, and he knew how to use it. The Force guided him. Anja’s didn’t belong to her, no matter what she had paid for it. It was a Jedi weapon, and she was not-nor would she ever be-a Jedi. Perhaps the lightsaber was itself a symbol of her addiction-her willingness to rely on something that was not a part of her.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.158–161.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:59`
+
 
 
 

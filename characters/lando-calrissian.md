@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 464 (257 with quotations; 36 quotations extended to the full sentence/passage from the source text on file; 88 marked as fragments; 145 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 517 old entries; old file: `characters/_bak/lando-calrissian.md.bak-20261117`. Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
+- **Entries:** 465 (258 with quotations; 37 quotations extended to the full sentence/passage from the source text on file; 88 marked as fragments; 145 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 517 old entries; old file: `characters/_bak/lando-calrissian.md.bak-20261117`. Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3932,6 +3932,15 @@ What it shows (our notes): Lando turns the amusement park against the turncoat g
 — Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19, p.162–165.
 (Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
 Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:60`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lando thanks the young Jedi: businesses across the galaxy are intact 'because of what you did'.
+> “I’d like to thank you all personally for what you did to stop Czethros. Cloud City is perfectly normal again.” He gave a slight bow, swirling his colorful cape. “Just like me, there are a lot of lucky business owners in the galaxy whose companies are intact because of what you did. They just don’t know it. But I do, so I wanted to thank you.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 22, p.194.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:94`
+
 
 
 

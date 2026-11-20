@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 386 (315 with quotations; 276 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
+- **Entries:** 395 (324 with quotations; 285 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3442,6 +3442,89 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka believed she woul
 — Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.133.
 (Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
 Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:35`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka deduces from Anja's joke that she is heading for Kessel.
+> Tenel Ka’s cool gray eyes narrowed suddenly, as if something important had just occurred to her. “Jacen, my friend, what joke did Anja attempt to make yesterday when you sensed she was going through withdrawal?”
+>
+> He shrugged. “I can’t remember her exact words. Something about Kessel, but I don’t see what that has to do-oh! ” Jaina said, “Under stress, it’s not unusual for people to joke about what’s really on their minds.”
+>
+> A slow grin spread across Zekk’s face. He pointed toward the starmap still covering half the screen. “And Kessel just happens to be right in the middle of that sector.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 3, p.23–24.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:26`
+
+What it shows (our notes): Tenel Ka has 'an intricate understanding of deceptions, plots, and conspiracies' and knows just what to say to break Lilmit.
+> “You do understand, do you not, that we were sent to assist Anja Gallandro with the spice?” Tenel Ka said, leaning close to Lilmit, a meaningful look in her cool gray eyes.
+>
+> Lilmit’s eyes went wide as comprehension dawned. Jacen was pretty sure Lilmit didn’t know they’d been sent by Master Skywalker, and therefore he had no idea what sense Lilmit might have made out of Tenel Ka’s cryptic comment, but he was aware that the warrior girl had an intricate understanding of deceptions, plots, and conspiracies.
+>
+> Somehow, Jacen thought in admiration, she had known just what to say.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 7, p.59.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:49`
+
+What it shows (our notes): Ignoring the plank and Jacen's hand, Tenel Ka jumps aboard the rocking waveskimmer in a single bound.
+> But with a mischievous glint in her eye, Tenel Ka ignored his hand, ignored the plank and the railing. In a single bound, she jumped aboard.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 8, p.66.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:57`
+
+What it shows (our notes): Clad only in her lizard-hide armor, Tenel Ka seems unaffected by the polar cold.
+> Zekk shivered, even wrapped in his warm cloak. “Why would anyone want to come up here? It’s too cold to relax.”
+>
+> Tenel Ka, clad only in her lizard-hide armor, seemed unaffected by the drop in temperature or the brisk salty spray that feathered up from the racing waveskimmer.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 10, p.78.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:68`
+
+What it shows (our notes): When the creature grabs the sub, 'Tenel Ka was the only one who managed to keep her place.'
+> Inside, Jacen was tossed into Anja. Her breathing rasped in his ears.
+>
+> Tenel Ka was the only one who managed to keep her place. Zekk was thrown halfway from the pilot’s seat to slam against the sub wall.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 14, p.120.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:24`
+
+What it shows (our notes): Tenel Ka suggests the towing beam, and they drag an iceberg behind the sub as a wall.
+> “There is the towing beam.” Tenel Ka pointed out a small tractorbeam that could fasten onto an underwater object and drag it to the surface.
+>
+> “Not that-we can grab a big chunk of ice and pull it behind us.
+>
+> Block the way,” Zekk said, seeing Tenel Ka’s idea.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 14, p.121.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:26`
+
+What it shows (our notes): Tenel Ka's fingers ease Anja's pain as she checks her vitals: 'You will not die, Anja Gallandro.'
+> Tenel Ka’s serious face suddenly appeared beside Jacen’s. The warrior girl stretched out her single hand and made a brief, thorough check of Anja’s pulse, skin temperature, pupil dilation, and muscular tremors.
+>
+> At each place the warrior girl’s fingers touched, the pain eased-just for a moment-before she moved on.
+>
+> “You will not die, Anja Gallandro,” she said. “We will not allow it.”
+>
+> Anja shivered. Her teeth rattled together. Tenel Ka reached out and pushed a few sweaty strands of hair out of Anja’s eyes. Cool, tingling relief followed her friend’s touch.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.140.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:41`
+
+What it shows (our notes): Tenel Ka: 'We are trapped... but it is only ice... I count five lightsabers among us'; she built her new saber with extra precautions after the old one cost her her arm.
+> Her face grim, Tenel Ka stood. “We are trapped… but it is only ice.”
+>
+> She looked around at the four other passengers crowded into the small sub. “I count five lightsabers among us. Certainly that should suffice to cut us free. ” She raised her eyebrows. “If we are,willing to go outside.”
+>
+> Tenel Ka frowned down at her lightsaber, made from a carved rancor’s tooth, and flashed a glance over at Jacen. Zekk knew she must be recalling the day her own defective lightsaber had failed, resulting in the loss of her arm. But she had built a new weapon, taking extra precautions.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.157–158.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:58`
+
+What it shows (our notes): One-armed underwater, Tenel Ka slashes off a slab of ice to free a fin of the sub.
+> With her one arm-the other sleeve snubbed tightly and knotted so it would be waterproof-Tenel Ka wielded her turquoise blade. She slashed, severing a slab of ice. Steam and bubbles erupted as the chunk slowly drifted away, freeing one of the fins of the minisub.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.159.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:60`
+
 
 
 

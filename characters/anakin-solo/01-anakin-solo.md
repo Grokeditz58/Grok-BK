@@ -8,7 +8,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 654 (552 with quotations; 91 quotations extended to the full sentence/passage from the source text on file; 148 marked as fragments; 411 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 762 old entries; old file: `characters/_bak/anakin-solo.md.bak-20261117`. Added 2026-11-20: 6 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
+- **Entries:** 655 (553 with quotations; 92 quotations extended to the full sentence/passage from the source text on file; 148 marked as fragments; 411 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 762 old entries; old file: `characters/_bak/anakin-solo.md.bak-20261117`. Added 2026-11-20: 6 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)

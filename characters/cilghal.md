@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 219 (148 with quotations; 57 quotations extended to the full sentence/passage from the source text on file; 68 marked as fragments; 95 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 237 old entries; old file: `characters/_bak/cilghal.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
+- **Entries:** 226 (155 with quotations; 64 quotations extended to the full sentence/passage from the source text on file; 68 marked as fragments; 95 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 237 old entries; old file: `characters/_bak/cilghal.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1217,6 +1217,77 @@ What it shows (our notes): Luke and Cilghal stand with crossed lightsabers, inte
 — Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 21.
 (Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
 Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:45`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Jacen: Cilghal is 'A Jedi healer and an Ambassador... so quiet and gentle, you'd never know she has all that power'; she introduces herself as a Jedi Knight.
+> “Yeah. A Jedi healer and an Ambassador. The only one that I’ve heard of, so far,” Jacen said. “But Cilghal is so quiet and gentle, you’d never know she has all that power.”
+>
+> “I am Cilghal,” she said, nodding patiently and rolling her round brown eyes. “I am a Jedi Knight, and the ambassador for this planet.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 8, 10, p.64–85.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:56`
+
+What it shows (our notes): Cilghal's melodious, persuasive voice sways the Yarin harbormaster to the rhythm of her words; he lends her his private minisub.
+> Zekk admired the older Jedi’s melodious voice as she spoke soothingly, persuasively to the Yarin. “I’m sure you can understand how important this could be for the public image of Crystal Reef: Jedi extolling the virtues and beauties of our resorts, the gratitude of the Royal House of Hapes… perhaps even a visit from Han Solo and Chief of State Leia Organa Solo herself.”
+>
+> As if blown by a light breeze, the Yarin began to sway back and forth to the singsong rhythm of Cilghal’s words.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 12, p.100.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:9`
+
+What it shows (our notes): Cilghal pierces an armored andris container with the minisub's claw and smashes two together.
+> “I believe I can be of assistance there,” Cilghal said. She set to work at the controls of the two grappling arms attached to the minisub, maneuvering until one of the sealed containers was in her grasp. Then she squeezed with the claw mechanism until one of the claws pierced the armor and the buoyant container began to fill with water.
+>
+> “In that case, perhaps this will work,” Cilghal said, reaching out with the other claw-arm to grasp a second heavy cargo container. She swung them both outward and then back together again to smash them into each other. The already-punctured storage bin burst at the impact and a flood of tiny sealed ampoules cascaded from the container. Some of the vials shattered; others just drifted free and then slowly began to sink into the frigid depths of the ocean.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 12, p.104.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:9`
+
+What it shows (our notes): Cilghal senses danger before the sea monster appears: 'Something is not right.'
+> To Jacen’s surprise, the Jedi ambassador stopped and blinked her huge fishy eyes. “Something is not right.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 12, p.105.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:11`
+
+What it shows (our notes): Cilghal holds herself erect when the creature grabs the sub; she places a hand on Zekk's arm so that 'He felt strength flow into his mind. Guided by the Force', he loops around an obstacle.
+> Cilghal gripped the controls and held herself erect.
+>
+> Cilghal placed a flippered hand on Zekk’s arm. He felt strength flow into his mind. Guided by the Force, Zekk twisted the rudder from left to right, and the sub looped around an obstacle, more because of the Force than from any spectacular piloting skill.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 14, p.120.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:24`
+
+What it shows (our notes): Cilghal heals Anja: 'I am a Jedi healer... I can draw the toxins from your blood', but only the poisons of the body; one hand on her forehead, one on her stomach; afterward 'Not cured, my child. Cleansed.'
+> “I am not simply an ambassador,” Cilghal answered, “I am a Jedi healer.
+>
+> If you will let me, I can draw the toxins from your blood.”
+>
+> Cilghal shook her fishy head. “I can take away only the poisons of the body. The poisons in her mind she must learn to remove for herself.
+>
+> Then she placed one flippered hand on her forehead, one on her stomach.
+>
+> After the longest and most excruciating half hour of her entire life, Anja slipped into blissful unconsciousness.
+>
+> Cilghal turned to fix her with a fishy stare. “Not cured, my child.
+>
+> Cleansed. The toxins are gone, but your body is still capable of experiencing the craving for spice.”
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.141–143.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:43`
+
+What it shows (our notes): Cilghal's lightsaber works underwater; better adapted to the arctic sea, she hacks ahead and clears a channel through the ice.
+> Cilghal nodded, her round Calamarian eyes swiveling as she held up her own lightsaber. The hilt was lumpy, but with a smooth, pearly finish.
+>
+> “It will, if you constructed it properly.”
+>
+> Cilghal, better adapted for underwater work even in the arctic seas, swam ahead, using her throbbing lightsaber to hack her way forward.
+>
+> Cilghal cleared a narrow channel, then moved along the fresh passageway, rolling with her lightsaber.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.158–160.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:62`
+
 
 
 

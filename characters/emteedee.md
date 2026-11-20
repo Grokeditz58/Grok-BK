@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 30 (29 with quotations; 29 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
+- **Entries:** 32 (31 with quotations; 31 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -257,6 +257,27 @@ What it shows (our notes): Plugged in to help Lowie, Em Teedee detects 'skillful
 — Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.138.
 (Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
 Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:38`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Em Teedee downloaded Kessel's mine maps in advance and overcomes the security routines to tap the station cameras.
+> “Oh, yes. Quite certain,” Em Teedee replied, swiveling on his microrepulsorjets to look back at Lowie. “You see, I took the liberty of downloading not only the diagrams of the docking facilities on Kessel, but also a topographical map of all the major mining areas, along with a listing of landmarks and technical stations, before we left Master Nien Nunb’s office. “ :‘You what?” Jaina said. Lowie gave a surprised woof ‘Oh, but I assure you I had his complete authorization to-“ “We believe you, Em Teedee,” Jaina said, laughing out loud with relief.
+>
+> Lowie popped open Em Teedee’s casing, pulled out a few leads, and connected them to the terminal’s input port. Em Teedee proceeded to “Hmmm” and “Aha” for a few minutes, then said, “Oh, yes! Most gratifying.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.92–94.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:79`
+
+What it shows (our notes): Em Teedee skims across Kessel's surface 'like a glinting silver bullet' carrying explosives, plants them at the transmitter's central control point and escapes before it erupts.
+> “Very well, I shall do my best.” The little droid hovered off the ground and then, with a burst of his microrepulsorjets, skimmed across the powdery surface of Kessel like a glinting silver bullet. Keeping low, he wove around rocks, over fissures, across the broken and rugged terrain.
+>
+> After he landed in the center, Em Teedee gently touched the explosive canisters to the central control point, jerked upward against the quick-release knots to detach the short cables, then rose into the air.
+>
+> When the translating droid was only a hundred meters away from them, the transmitter erupted in a blossom of orange fire. Shrapnel blew sky-high-some of it perhaps even into orbit, because of Kessel’s low gravity.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 15, p.132–133.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:34`
+
 
 
 

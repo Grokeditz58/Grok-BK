@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 198 (184 with quotations; 151 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
+- **Entries:** 203 (189 with quotations; 156 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2376,6 +2376,59 @@ What it shows (our notes): With no weapon and his cloud car failing, Lowie roars
 — Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.160.
 (Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
 Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:55`
+
+## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowie's thick fur protects him from Kessel's cold and he sees better in the darkness.
+> Lowie’s thick ginger fur provided ample protection against the cold, but Jaina’s comfortable brown flightsuit warmed her only a little.
+>
+> Lowie was also better equipped to see in the darkness, but since no light whatsoever was allowed to filter down into the tunnels, it was difficult for either of them to discern what lay ahead.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.91.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:76`
+
+What it shows (our notes): Lowie and Em Teedee crack Kessel's security routines and feed the camera images to the terminal; with janitorial access they sabotage Czethros's headquarters.
+> Lowie popped open Em Teedee’s casing, pulled out a few leads, and connected them to the terminal’s input port. Em Teedee proceeded to “Hmmm” and “Aha” for a few minutes, then said, “Oh, yes! Most gratifying.
+>
+> Jaina’s eyebrows raised, and she looked at her friend. Her imagination sparked with quite a few interesting ideas. “I think we can work with that. Don’t you?”
+>
+> In the tiny image onscreen, fire-retardant systems sprang to life all around Czethros, spewing protective foam from hidden valves in the walls and ceilings. The bubbly mixture squirted across his visor and into his moss-green hair.
+>
+> By the time Kymn and two of Czethros’s mercenaries entered the maintenance turbolift, Em Teedee was ready again. The turbolift moved just a few meters before Em Teedee froze it in place with an urgent clean-and-refurbish authorization code. Despite the gravity of their situation, tears of mirth trickled from the corners of Jaina’s eyes.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.94–97.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-01.md:79`
+
+What it shows (our notes): Lowie uses his programming expertise to crack the codes on the sealed control rooms; with numb fingers he ties the charges onto Em Teedee with a quick-release knot.
+> Each of the control rooms in the spice mine catacombs was sealed with a heavy door, code-locked and computer-controlled. Lowie used his programming expertise, with an occasional assist from the little droid, to crack the codes and force their way into one of the equipment lockers.
+>
+> His fingers already numb with cold, Lowie bent down to manipulate the tiny cords. Using a special quick-release knot, he attached the two canisters of explosives below the hovering droid’s casing. With her hands, Jaina showed Em Teedee the distance he needed to keep between his casing and the rough surface of the planetoid.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 15, p.126–131.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:32`
+
+What it shows (our notes): Lowie and Jaina put the guard in a Force trance and plant the scorpion-rat illusion; Lowie shoves him into the stun-field, then switches the field off.
+> Quietly she whispered her plan to Lowie, and the two companions concentrated, reaching out with their minds through the Force and probing until they touched the glimmering consciousness of the guard.
+>
+> They sent messages of relaxation to place him into a suggestible state of calm, partially hypnotized, partially asleep.
+>
+> When they stepped out into the open hall, he spotted them and reacted, nearly making them lose control of his mind. Jaina strode forward quickly. “I wouldn’t move, sir-especially not if I had a Kessel scorpion-rat on my shoulder… one that’s prepared to sting.”
+>
+> Lowie grasped the guard by both shoulders and pushed him into the pulsing stun-field that held the prisoners hostage. The guard raised his hands as crackling sparks flew all around, then slumped backward onto the floor, unconscious.
+>
+> Within moments Lowie and Em Teedee had succeeded in switching off the stun-field.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.146–147.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:51`
+
+What it shows (our notes): Lowie and Jaina duck the incoming bolt, dive out and roll as they hit the floor.
+> As soon as the doors whisked open again, a blaster bolt streaked into the turbolift. Jaina and Lowie ducked. A guard cried out as a scorching bolt singed the shoulder of his uniform.
+>
+> Jaina and Lowie dove out and rolled as they hit the floor. Keeping low, they crept around the equipment in the assembly line.
+— Source: Young Jedi Knights 14: Crisis at Crystal Reef (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19, p.170.
+(Full sentence/passage taken from the source text on file: `YJK14 Crisis at Crystal Reef library epub (pages approximate, matched to the paperback scan)`; misreadings corrected.)
+Our notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/cr-02.md:70`
+
 
 
 
