@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 298 (242 with quotations; 198 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
+- **Entries:** 300 (244 with quotations; 200 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3306,6 +3306,25 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — In anger Zekk yanks his st
 — Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 3.
 (Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
 Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:14`
+
+## Young Jedi Knights 13: *Trouble on Cloud City* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Zekk parries Anja's wild, furious attacks easily and points out the opening her reckless move left.
+> "No. That move was unnecessarily risky," Zekk said in a stern voice that Jacen had rarely heard him use before. "Not only did Jacen almost lose a chunk of his arm, but if he had been trying to hurt you, you left him the perfect opening to sweep back with his lightsaber like this"—he demonstrated with a stun stick he was holding—"slice through your ribs, and cut you into two neat pieces."
+>
+> "How's the training going?" Luke Skywalker asked, his eyes on Anja and Zekk as they began to spar again. Anja's acid-yellow blade swept out in a wild and furious attack, but Zekk parried her blows easily.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 1, p.5–7.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:14`
+
+What it shows (our notes): When the turncoat guards open fire, Zekk moves fast enough on his own, dropping and rolling under a low girder; earlier he leaps to intercept the fleeing Ugnaught.
+> Zekk leapt to intercept the small creature, but the Ugnaught shrieked in terror, split to one side, and dove headfirst down an open air-ventilation duct. He disappeared with a thud of tumbling limbs.
+>
+> "Look out!" Jaina tackled Lando to the ground, while Zekk moved fast enough of his own accord, dropping and rolling under a low girder. Anja staggered back and fumbled for her lightsaber. Deadly blaster bolts ricocheted and spanged from girders, sending out sparks with every impact.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.147–148.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:47`
+
 
 
 

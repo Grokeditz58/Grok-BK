@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 190 (176 with quotations; 143 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
+- **Entries:** 198 (184 with quotations; 151 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2306,6 +2306,77 @@ What it shows (our notes): Lowie rips a trap's hologram controls off a stout tre
 — Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 75.
 (Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
 Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:54`
+
+## Young Jedi Knights 13: *Trouble on Cloud City* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowie senses immediately that something is wrong on Cloud City; his sensitive Wookiee ears pick up the officials' hushed words.
+> At first Lowie thought it might be a small committee to welcome home the former Baron-Administrator of Cloud City—but he could sense immediately that something was wrong.
+>
+> His sensitive Wookiee ears picked up the words, and he froze as one of the female officials spoke in a low firm voice.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 3, p.24.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:28`
+
+What it shows (our notes): Lowie tracks the Ugnaught by the Force and by scent through Port Town's warrens.
+> As if to prove her point, Lowie suddenly woofed and pointed to a side corridor about ten meters away.
+>
+> Lowie sniffed, using his Wookiee nose to follow the scent.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 10, 11, p.86–90.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:74`
+
+What it shows (our notes): Using his powerful Wookiee muscles, Lowie hauls himself hand over hand across a dangling chain and swings it back for the others; later he grabs Tenel Ka and Jacen and hauls them after him.
+> Beside Jacen, Lowbacca reached out to grab a horizontal dangling chain overhead. Using his powerful Wookiee muscles, he hauled himself across it hand over hand until he reached a lower platform on a solid catwalk, then swung a chain back down to his friends so that Tenel Ka and Jacen could each swing over to him. Em Teedee flew across by himself.
+>
+> Lowie grabbed Tenel Ka and Jacen, hauling them after him as he charged back through the door, sprinted toward another access shaft, and jumped down to a final level.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.94–97.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:81`
+
+What it shows (our notes): Falling out of the chute, Lowie catches a transmission antenna one-handed and 'With lightning reflexes' snatches Tenel Ka.
+> He reached out with his long Wookiee arms and managed to grab on to a dangling transmission antenna. With a sudden severe jerk, he hung still, holding on with his powerful grip, his legs dangling over the sea of infinite clouds.
+>
+> He roared and extended his other arm as Tenel Ka dropped beside him. With lightning reflexes he snatched at her. Just in time the warrior girl reacted, flailed backward with her single arm—and grasped his powerful furred grip like a Karduran acrobat.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.99.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:85`
+
+What it shows (our notes): Lowie digs his claws into Tenel Ka's slipping arm, then pulls himself up one-armed and curls upward with her 'as if sitting up and lifting weights simultaneously'; his hand shoots out to catch the dropped grappling cord and he makes the throw while holding her.
+> Tenel Ka's sweaty hand slipped in Lowie's grasp. With a harsh bark of warning, Lowbacca extended his razor-sharp Wookiee claws and dug them deep into her arm. He would not let her fall.
+>
+> The Wookiee, who still had one arm wrapped around the sturdy antenna that protruded from the bottom of the city's structure, pulled himself upward with that arm until he was able to wrap his strong legs around a crossbar. With both hands freed, he pulled her up by one arm and grasped her around the waist with the other. Then, shaking from the strain, he curled upward toward the antenna, as if sitting up and lifting weights simultaneously, until Tenel Ka could grasp the center bar of the antenna herself.
+>
+> Lowbacca's hand shot out and snatched the cord before the hook could fall. Tenel Ka saw this as if from a great distance. The Wookiee then secured one arm around her waist and the antenna while he used his other hand to draw in the grappling hook, swing, and make the throw. The hook caught and held firm.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 13, p.110–112.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:16`
+
+What it shows (our notes): Lowie slices Cloud City's records with all his concentration, gets past skillful erasures by checking other holocams, and finds Czethros.
+> Next, Lowie looked through docking records, credit receipts, list of purchases made and transmissions sent. It was a monumental task and required all of the Wookiee's concentration as well as the full access given to him by Lando's high-level security codes.
+>
+> Lowie's golden eyes narrowed in suspicion as he stared at the images that flickered by from docking bay holocams. He plugged Em Teedee in to help him monitor the data. Some of the video snapshots stuttered and wavered. Em Teedee suddenly blurted in a shrill voice, "Oh dear, these images have been tampered with! I'm detecting skillful erasures and fine video cuts. Most sophisticated."
+>
+> Lando watched as Lowie worked furiously, his long fingers tapping the controls. He growled something, and Em Teedee said, "Master Lowbacca is attempting to move beyond the obvious. If someone has assisted in covering up the arrival of Czethros, they most likely have sanitized recordings from the docking bay... but they may have overlooked other holocams...."
+>
+> Images flowed by in a rapid blur. Jaina peered over Lowie's shoulder. Everyone intently studied the screen. Finally, Lowie growled in triumph.
+>
+> An external holocam from one of the Port Town gambling casinos had managed to catch the image of a tall man with moss-green hair and a narrow silver laser visor; the man emerged from a docking port and ducked into the shadows between buildings, trying to lose himself in the crowd.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.138–139.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:38`
+
+What it shows (our notes): Lowie sweeps Jacen into a cloud car with one arm and sends Tenel Ka after him.
+> Thinking quickly, Lowbacca swept out with one ginger-furred arm and knocked Jacen into the nearest cloud car. He roared and pointed for Tenel Ka to leap into the scarlet vessel beside Jacen, while the Wookiee scrambled into the blue cloud car.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.152.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:49`
+
+What it shows (our notes): With no weapon and his cloud car failing, Lowie roars at the assassins 'loudly enough that even his uncle Chewbacca would have been proud'.
+> With his cloud car failing and unable to outrun them, with no other weapon, Lowie let loose a huge Wookiee roar at them. He flashed his fangs and snarled loudly enough that even his uncle Chewbacca would have been proud.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, p.160.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:55`
+
 
 
 

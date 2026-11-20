@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 372 (301 with quotations; 262 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read).
+- **Entries:** 386 (315 with quotations; 276 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3328,6 +3328,121 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — A chameleon creature drops
 — Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 27.
 (Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
 Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:34`
+
+## Young Jedi Knights 13: *Trouble on Cloud City* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka performs the most rigorous calisthenic routine she has ever devised, scales the outside of the Massassi pyramid single-armed, then runs ten kilometers; she could outdistance Jaina at any time.
+> Today, the warrior girl had risen at first light from an unsatisfactory sleep and performed the most rigorous calisthenic routine she had ever devised for herself. She had hoped to purge any lingering resentment from her mind... but it hadn't worked.
+>
+> After that, she had scaled the outside of the huge Massassi pyramid, single-armed, wearing her briefest lizard-hide and using only her grappling hook and fibercord to assist her. This exertion had proved stimulating enough—and distracting enough—that she decided to go for a ten-kilometer run as well.
+>
+> Jaina, having just finished a long Jedi meditation, had trotted up to join her. Although Jaina was fresh, she was not as strong a runner as Tenel Ka, and the warrior girl enjoyed the feeling that she could outdistance her friend at any time—although she chose not to.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 2, p.9–10.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:21`
+
+What it shows (our notes): Tenel Ka leaps into a battle stance and yanks out her lightsaber when holo-monsters spring at the group.
+> Zekk yelled. Lowie snarled. Tenel Ka leapt into a battle stance, yanking the rancor-tooth lightsaber loose from her belt.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 4, p.28.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:33`
+
+What it shows (our notes): Tenel Ka reaches out with her Jedi senses in the Climateria swamp and senses tension in the stagehand.
+> As they entered the swamps, Tenel Ka reached out with her Jedi senses to detect anything amiss. A tide of sounds and smells and tastes washed over them. The odors of mildew, algae, and decaying plant matter assailed her nostrils, yet she did not find them offensive. The air was warm and humid, though not uncomfortable. Chirrups, gurgles, croaks, buzzes, twitters, and growls chorused from every tree and muddy pool around them.
+>
+> Tenel Ka sensed tension in the wispy-bearded boy.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 7, p.51.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:51`
+
+What it shows (our notes): After the chase through Port Town Tenel Ka is 'barely even breathing hard'; she lights her blade and deflects a bolt that leaves a smoking hole centimeters from the shooter's head.
+> "Perhaps today it is." Tenel Ka, barely even breathing hard, stopped next to him.
+>
+> Tenel Ka drew her lightsaber and switched it on. The turquoise blade hummed and flickered in the shadowy room. "Still quiet," she said. "But we are now close to other people."
+>
+> Tenel Ka deflected one of the blaster bolts with her blade. The shot left a smoking hole in the metal wall mere centimeters to avoid the head of the man who had fired it. More blaster fire erupted, ricocheting off walls and blasting equipment into ruined shreds.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.95–97.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:82`
+
+What it shows (our notes): Falling from the chute, Tenel Ka grasps Lowie's grip 'like a Karduran acrobat' and swings her body to reach Jacen with her legs.
+> He roared and extended his other arm as Tenel Ka dropped beside him. With lightning reflexes he snatched at her. Just in time the warrior girl reacted, flailed backward with her single arm—and grasped his powerful furred grip like a Karduran acrobat.
+>
+> Lowie hung in the notch of the antenna with one arm and grasped the dangling Tenel Ka with the other. He roared, but he had no free arm. Tenel Ka had only one hand, and that was grasped tightly in Lowbacca's. Thinking fast, she swung her body, arched her back, and reached out with her legs.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.99.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:85`
+
+What it shows (our notes): Tenel Ka: at Jacen's side she has fought 'Dark Jedi, vicious beasts, bounty hunters, assassins, and misguided patriots'.
+> At his side she had fought Dark Jedi, vicious beasts, bounty hunters, assassins, and misguided patriots. But never, even in her wildest nightmares, had she imagined that he could be taken from her like this—lost in an instant to gravity and some nebulous foe against whom she'd never even had the opportunity to fight.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 13, p.108.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:15`
+
+What it shows (our notes): Hanging from Lowie's claws, Tenel Ka feels his resolve flow into her through the Force and uses the Force to steady herself, then hooks a leg over the crossbar and helps him up.
+> Blood trickled from the deep wounds where Lowie's talons dug fiercely into her skin. Through the Force she felt his resolve flow into her, like the warm blood that poured down her arm. The wind made her red-gold braids whip wildly around her and caught at the droplets of blood, spattering them across her face.
+>
+> Tenel Ka gritted her teeth. She would not fall, and she would not allow Jacen's murderers to go free. Her eyes still locked with Lowbacca's, she used the Force to steady herself. "I'm ready."
+>
+> When he withdrew his claws from her arm the gush of blood made the antenna slippery and harder to hold on to, though Tenel Ka hardly noticed. She quickly hooked a leg over the crossbar and helped Lowbacca pull himself upright. For several long moments they clung to the antenna, shuddering from their efforts.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 13, p.110–111.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:16`
+
+What it shows (our notes): Tenel Ka bounds toward Jacen 'moving even faster than the Wookiee's long legs could carry him'.
+> "Jacen Solo!" Tenel Ka cried. "Jacen, my friend!" She bounded toward him, moving even faster than the Wookiee's long legs could carry him. When Tenel Ka fairly tackled Jacen, throwing her arm around him in a joyous embrace, he was nearly as astonished as the warrior girl.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.135.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:36`
+
+What it shows (our notes): Tenel Ka, 'her reflexes coiled like an overwound spring', whirls on the hit men at the cloud-car bay.
+> Tenel Ka, her reflexes coiled like an overwound spring, suddenly whirled about. In the only entrance to the cloud-car bay were the hairy-faced bounty hunter and the slime-dripping alien from the first attempt on their lives.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17, p.151.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:49`
+
+What it shows (our notes): Tenel Ka: 'I prefer a direct fight... These men are cowards'; kneeling on the seat of the speeding cloud car, balanced on her muscular legs, she deflects the pursuers' fire.
+> Tenel Ka sat beside him, grim-faced. She fingered the rancor-tooth lightsaber at her waist. "I prefer a direct fight," she said. "These men are cowards."
+>
+> "Excellent idea, Jacen, my friend." She drew her lightsaber, switched on its pulsating turquoise blade, then turned to kneel on the seat, precariously balanced on her muscular legs. Tenel Ka slashed from side to side with her blade as the pursuers continued to fire. She leaned far out to deflect the attack, and Jacen worried that the one-armed warrior girl might lose her balance and tumble into the clouds, as he had done.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19, p.166–167.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:62`
+
+What it shows (our notes): Tenel Ka slashes open a diving velker, whose volatile gases spark in her blade, and rips open a second; the velkers draw back, intimidated.
+> Tenel Ka unbuckled her seat restraint and whipped out her lightsaber again.
+>
+> Tenel Ka reached up with her lightsaber, using the blazing tip of her turquoise blade to slash the side of i one velker that dove toward their cloud car. Its skin ripped open and volatile gases spilled out, sparking and flashing in the flame of the lightsaber. Unable to keep flying, the velker spun out of control; the other creatures fell upon it.
+>
+> Tenel Ka parried again, ripping open the mouth-filled belly of a second attacking creature. For an instant the velkers drew back, intimidated.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19, p.170–171.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:64`
+
+### Limitations and anti-feats (Trouble on Cloud City)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's arm begins to shake after climbing ladders one-handed.
+> "We are close to the bottom of Cloud City," Tenel Ka said after climbing down three more ladders. Jacen could see her arm beginning to shake from the effort. "Perhaps there is an express lift tube that would return us to the upper levels."
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 11, p.96.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:82`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Light-headed from blood loss, Tenel Ka drops the grappling hook, then blacks out.
+> Tenel Ka felt a strange light-headed sensation as she attempted to swing the grappling hook for her throw. Her fingers were bloody and the hook slipped from her grasp as she made the toss.
+>
+> A curtain of soft darkness descended upon her mind and she remembered nothing more.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 13, p.112.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:17`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka believed she would sense harm to Jacen, but did not feel through the Force whether he had died; she thought she heard his voice while delirious.
+> Another more subtle failure haunted her as well. Tenel Ka had always believed that the connection between her and Jacen was so close, so strong, that she would be able to sense if any harm came to him. She should have felt it through the Force the instant
+>
+> 133 he died—but she hadn't. Instead, her emotions had betrayed her, taunted her with the hope that Jacen had survived somehow. She even imagined she'd heard his voice calling out to her in her mind. But she had been delirious at the time, in shock from loss of blood. The Cloud City medics had been able to heal the wounds on her arm, but not the ones in her soul. Fleeting thoughts tormented her even now, daring her to believe that Jacen was still alive.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16, p.133.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:35`
+
 
 
 

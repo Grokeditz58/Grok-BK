@@ -4,7 +4,7 @@
 - **Era:** Galactic Civil War
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 6 (2 with quotations; 0 quotations extended to the full sentence/passage from the source text on file; 7 marked as fragments). Rebuilt 2026-11-17 from 6 old entries; old file: `characters/_bak/figrin-dan.md.bak-20261117`.
+- **Entries:** 8 (4 with quotations; 2 quotations extended to the full sentence/passage from the source text on file; 7 marked as fragments). Rebuilt 2026-11-17 from 6 old entries; old file: `characters/_bak/figrin-dan.md.bak-20261117`. Added 2026-11-20: 2 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -59,6 +59,23 @@ Our notes: `notes/materials/047-visual-dictionaries/vd46-ep4-6.md:47`
 — Source: Star Wars: The Visual Dictionary (DK, 1998; Episodes IV–VI): hand-read notes; p58-59 The Cantina Crowd: Mos Eisley Cantina.
 Note (our notes, around the quote): p58-59 The Cantina Crowd: Mos Eisley Cantina "the haunt of the weirdest clientele in town"; "as long as foolish outsiders don't step in and get their heads blown off, everyone can have their own version of a good time"; bartender threatens to poison drinks; droid detector. Hrchek Kal Fas (Saurin droid trader), Duros, Devaronian "under the assumed name of Labria, on the run from a wicked past and one of the galaxy's highest bounties for his deadly crimes"; Muftak (Talz pickpocket). DATA FILE: Garindan (insect-eating informant with an Imperial comlink) spotted Luke and Ben; "Bodies or severed limbs from altercations in the cantina never seem to be there when the authorities show up". Figrin D'an and the Modal Nodes (Bith; Clak'dor VII; Figrin an expert gambler; asked to play at Jabba's palace); Tech Mor, Tedn D'hai, Nalan Cheel, Doikk Na'ts; kloo horn, fanfar, ommni box, bandfill, fizz.
 Our notes: `notes/materials/047-visual-dictionaries/vd46-ep4-6.md:55`
+
+## Young Jedi Knights 13: *Trouble on Cloud City* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Figrin's fingers 'had the dexterity to play just about any musical instrument in the universe'.
+> He raised a nimble hand whose fingers had the dexterity to play just about any musical instrument in the universe.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 9, p.74.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:65`
+
+What it shows (our notes): Figrin on Black Sun's lieutenants and bullies: 'Those bullies could stick your head in a carbon-freezing tube, or drop you out an exhaust shaft.'
+> "It's all about Black Sun," Figrin said. "They've gone underground for many years, but they've got a cover story now. Black Sun lieutenants act respectable, but when nobody's looking, they set up their old criminal connections, just like Prince Xizor used to do, and Durga the Hutt, and all the other deposed kingpins. Black Sun has its clutches on weapons runners, illegal spice trade, and now the gambling and entertainment industries." Figrin swiped a hand across his high, smooth cranium, knocking away tiny droplets of sweat that had collected there. "That's why they were trying to get their toehold on Cloud City—especially your new establishment, Lando. Black Sun wanted a cut of SkyCenter Galleria. ... In fact, they wanted to run the place. In absentia, of course."
+>
+> "Cojahn did his best, man, but Black Sun infiltrators popped up everywhere. You never knew who they were, or when they might come after you in a dark corridor down in Port Town. Got so you had to have a Wing Guard escort to take you to the gambling tables and back again. Those bullies could stick your head in a carbon-freezing tube, or drop you out an exhaust shaft. They meant business."
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 12, p.102–104.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:9`
+
 
 # Debate and forum claims (unverified)
 

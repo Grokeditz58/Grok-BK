@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 461 (254 with quotations; 33 quotations extended to the full sentence/passage from the source text on file; 88 marked as fragments; 145 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 517 old entries; old file: `characters/_bak/lando-calrissian.md.bak-20261117`. Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 464 (257 with quotations; 36 quotations extended to the full sentence/passage from the source text on file; 88 marked as fragments; 145 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 517 old entries; old file: `characters/_bak/lando-calrissian.md.bak-20261117`. Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 13: Trouble on Cloud City (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3904,6 +3904,35 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lando reproaches himself f
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.48).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:117`
+
+## Young Jedi Knights 13: *Trouble on Cloud City* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lando speaks Ugnaught: 'I wouldn't have been much good as a Baron-Administrator if I couldn't speak Ugnaught.'
+> "Not necessary, Em Teedee," he said. "I spent plenty of years on Cloud City. I wouldn't have been much good as a Baron-Administrator if I couldn't speak Ugnaught, now would I?''
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 4, p.27.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:32`
+
+What it shows (our notes): Tenel Ka: Lando is 'intelligent and quick-witted, a loyal friend and a shrewd businessman', who keeps his eyes open for clues while touring.
+> But as the former smuggler led them on a tour of yet another portion of his enormous, not-quite-finished amusement complex, it became increasingly clear that the man was intelligent and quick-witted, a loyal friend and a shrewd businessman.
+>
+> Even as Lando explained each new attraction to the interested young Jedi Knights, she could tell he kept his eyes open for any clues to what really lay behind Cojahn's death. He had asked them to use the Force to sense any hidden dangers at the construction site: workers with malicious thoughts, sabotaged assemblies, or substandard materials.
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 7, p.49.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-01.md:49`
+
+What it shows (our notes): Lando turns the amusement park against the turncoat guards: the holo-monster corridor, the vortex shaft, and his security overrides trap five guards in the chute.
+> Lando smiled. "I know this place. I know what it can do, and everything that's already functional." Jaina remembered from their initial tour what lay ahead, and she instantly understood what Lando intended.
+>
+> The pursuing guards screamed, firing their blasters at the illusionary threats. With nervous chuckles at the success of their plan, the companions dove farther along, trying to escape.
+>
+> They all leapt to their feet, their knees trembling. The three younger companions stood guard for Lando as he worked the control panel. "Safety systems," he said, wiping sweat from his forehead. "You've got to have security overrides. And I've got the codes." He pressed buttons and flicked switches to deactivate the access to the vortex chute. A restrictive force-field clamped down on the top and bottom of the chute.
+>
+> Alarm lights winked on and Lando laughed up at the shadowy silhouettes of the guards as they swirled around inside the shaft. "The repulsors in there will keep that group going up and down, up and down. They won't be able to get out until I use my private password to release them."
+— Source: Young Jedi Knights 13: Trouble on Cloud City (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19, p.162–165.
+(Full sentence/passage taken from the source text on file: `YJK13 Trouble on Cloud City library archive.org epub (printed-page anchors)`; misreadings corrected.)
+Our notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/tc-02.md:60`
+
 
 
 # CANON (Disney canon — kept separate)
